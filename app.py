@@ -99,6 +99,45 @@ def health():
     return "OK", 200
 
 
+EXPLAIN_PROMPT = """你是西班牙文老師。使用者會給你一個西班牙文單字,請針對它輸出「純文字」的完整拆解(不要 markdown 星號),內容:
+
+如果是動詞:
+單字(動詞) — 中文意思
+現在式六人稱變位:
+　yo ...
+　tú ...
+　él/ella ...
+　nosotros ...
+　vosotros ...
+　ellos/ellas ...
+例句:一句 A1~A2 西語 + 中文
+
+如果是名詞:
+單字(名詞・陰性/陽性) — 中文意思
+　單數:el/la ...
+　複數:los/las ...
+例句:一句 A1~A2 西語 + 中文
+
+如果是其他詞性:給意思、用法、一個例句即可。
+簡潔,直接輸出,不要開場白。"""
+
+
+@app.route("/explain", methods=["GET"])
+def explain():
+    word = (request.args.get("word") or "").strip()
+    if not word:
+        resp = app.make_response(json.dumps({"error": "no word"}, ensure_ascii=False))
+    else:
+        try:
+            text = call_claude(word, system=EXPLAIN_PROMPT, max_tokens=800)
+        except Exception as e:
+            text = f"(載入失敗:{e})"
+        resp = app.make_response(json.dumps({"word": word, "detail": text}, ensure_ascii=False))
+    resp.headers["Content-Type"] = "application/json; charset=utf-8"
+    resp.headers["Access-Control-Allow-Origin"] = "*"  # 允許 GitHub Pages 網頁呼叫
+    return resp
+
+
 @app.route("/callback", methods=["POST"])
 def callback():
     signature = request.headers.get("X-Line-Signature", "")
