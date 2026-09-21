@@ -1,1 +1,26 @@
+name: Daily Spanish Vocab
 
+on:
+  schedule:
+    # UTC 09:30 = 台灣時間 17:30
+    - cron: "30 9 * * *"
+  workflow_dispatch:   # 允許手動點按觸發,方便測試
+
+jobs:
+  push-vocab:
+    runs-on: ubuntu-latest
+    steps:
+      - uses: actions/checkout@v4
+
+      - uses: actions/setup-python@v5
+        with:
+          python-version: "3.11"
+
+      - name: Install deps
+        run: pip install requests
+
+      - name: Run daily vocab push
+        env:
+          LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
+          ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+        run: python daily_vocab.py
