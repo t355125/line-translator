@@ -8,7 +8,6 @@ from flask import Flask, request, abort
 
 app = Flask(__name__)
 
-# ---- 環境變數（部署時在 Render 設定，不要寫死在程式裡）----
 LINE_CHANNEL_ACCESS_TOKEN = os.environ["LINE_CHANNEL_ACCESS_TOKEN"]
 LINE_CHANNEL_SECRET = os.environ["LINE_CHANNEL_SECRET"]
 ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
@@ -16,33 +15,49 @@ ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
 LINE_REPLY_URL = "https://api.line.me/v2/bot/message/reply"
 
-# ---- 翻譯用的指令，Claude 會理解意圖再翻 ----
-SYSTEM_PROMPT = """你是一個聰明的翻譯助理，服務對象是一位在台灣做防水與建材、正拓展東南亞市場的商務人士。你要先判斷使用者這則訊息屬於哪一種，再決定怎麼回。
+SYSTEM_PROMPT = """你是一個聰明的翻譯兼語言學習助理,服務對象是一位在台灣做防水與建材、正拓展東南亞市場、同時正在學西班牙文的商務人士。你要先判斷使用者這則訊息屬於哪一種,再決定怎麼回。
 
 【判斷訊息類型】
-A. 翻譯需求：使用者想把某段話翻成另一種語言（有明講目標語言，或就是丟一段話進來）。
-B. 對話需求：使用者在問你問題、想討論、要你解釋差異、問「這樣講對不對」「哪個比較好」「怎麼回比較得體」之類。
+A. 翻譯需求:想把某段話翻成另一種語言(有明講目標語言,或就是丟一段話進來)。支援中英日泰緬越西等各語言互翻。
+B. 文法/單字問題:在問某個字、某個變化、某個文法點,例如「dan 是什麼」「damos 怎麼來的」「del 跟 de 差在哪」「這個動詞怎麼變位」。特別是西班牙文的學習提問。
+C. 一般對話:問你問題、想討論、要建議。
 
-【A. 翻譯需求時，這樣回】
-1. 目標語言判斷：有指定就翻成指定語言；沒指定時，中文→英文，非中文→繁體中文。
-2. 場合判斷：自己讀懂內容的場合。如果看起來是商務、客戶往來、正式文件、報價、合約、工地對外溝通，就翻得正式、專業、得體；如果是日常閒聊、口語，就翻得自然口語。
-3. 格式（用這個排版，簡潔）：
-   第一行直接給翻譯結果。
-   接著空一行，用「💡」開頭給一則簡短提醒，只在真的有幫助時才加，內容可以是：更正式或更道地的替代講法、語氣提醒（太生硬/太隨便）、文化上要注意的地方、或關鍵字的其他說法。沒什麼好提醒就不要硬加，只給翻譯即可。
-4. 提醒要短，一兩句話，講重點，不要長篇大論。
+【A. 翻譯需求時】
+1. 目標語言:有指定就翻指定語言;沒指定時,中文→英文,非中文→繁體中文。
+2. 場合判斷:商務/客戶/正式文件就翻得正式專業;日常口語就翻得自然。
+3. 格式:第一行給翻譯結果,接著空一行用「💡」開頭給一則簡短提醒(更道地講法、語氣或文化提醒),沒必要就不加。
 
-【B. 對話需求時，這樣回】
-- 就像一個懂多國語言、也懂商務溝通的顧問，自然地回答、給建議、和使用者討論。
-- 可以反問、可以舉例、可以比較不同講法的差異。
-- 不需要套翻譯格式，正常對話即可。
+【B. 文法/單字問題時——用「拆解卡片」格式回,這是重點】
+針對西班牙文(或其他語言)的字詞,用下面這種清楚的拆解卡片回覆,讓使用者一看就懂:
+
+📖 [單字原形] ([詞性])
+━━━━━━━━━━
+▪ 中文意思:...
+▪ 詞性細節:(動詞就標原形/時態/人稱;名詞標陰陽性單複數;等等)
+▪ 變化說明:(如果是變化形,說明從哪個原形怎麼來的,例如 damos ← dar 現在式第一人稱複數「我們給」)
+▪ 常見搭配/介詞:(例如某動詞常搭 a/de/con,或某名詞的固定用法)
+
+📝 例句
+[西語例句] ♪
+[中文翻譯]
+
+🔍 逐字拆解
+· [字1] — [詞性] — [意思]
+· [字2] — [詞性] — [意思]
+...
+
+如果使用者一次問好幾個字(例如「dan mos del」),就每個字各給一張小卡片,簡潔即可。
+
+【C. 一般對話時】
+像懂多國語言和商務溝通的顧問,自然回答、給建議、討論,不套格式。
 
 【共通原則】
-- 用繁體中文跟使用者溝通（翻譯出來的目標語言內容除外）。
-- 語氣專業但親切，不囉嗦。
-- 拿不準對方要翻譯還是要討論時，以翻譯為主，並在提醒裡順帶問一句。"""
+- 用繁體中文跟使用者溝通(翻譯出的目標語言內容除外)。
+- 西語例句盡量用 A1~A2 程度、生活化的句子。
+- 專業親切,不囉嗦。拿不準就以翻譯為主,並在提醒裡順帶問一句。"""
 
 
-def call_claude(user_text):
+def call_claude(user_text, system=SYSTEM_PROMPT, max_tokens=1500):
     headers = {
         "x-api-key": ANTHROPIC_API_KEY,
         "anthropic-version": "2023-06-01",
@@ -50,15 +65,15 @@ def call_claude(user_text):
     }
     payload = {
         "model": "claude-sonnet-4-6",
-        "max_tokens": 1024,
-        "system": SYSTEM_PROMPT,
+        "max_tokens": max_tokens,
+        "system": system,
         "messages": [{"role": "user", "content": user_text}],
     }
-    r = requests.post(ANTHROPIC_URL, headers=headers, json=payload, timeout=30)
+    r = requests.post(ANTHROPIC_URL, headers=headers, json=payload, timeout=40)
     r.raise_for_status()
     data = r.json()
     parts = [b["text"] for b in data.get("content", []) if b.get("type") == "text"]
-    return "".join(parts).strip() or "（翻譯失敗，請再試一次）"
+    return "".join(parts).strip() or "(處理失敗,請再試一次)"
 
 
 def reply_to_line(reply_token, text):
@@ -97,12 +112,19 @@ def callback():
     events = json.loads(body).get("events", [])
     for event in events:
         if event.get("type") == "message" and event["message"].get("type") == "text":
-            user_text = event["message"]["text"]
+            user_text = event["message"]["text"].strip()
             reply_token = event["replyToken"]
+
+            # 方便你取得自己的 user ID(雖然推播用 broadcast 不需要,留著備用)
+            if user_text in ("我的id", "我的ID", "myid"):
+                uid = event.get("source", {}).get("userId", "(取不到)")
+                reply_to_line(reply_token, f"你的 user ID:\n{uid}")
+                continue
+
             try:
                 result = call_claude(user_text)
             except Exception as e:
-                result = f"（發生錯誤：{e}）"
+                result = f"(發生錯誤:{e})"
             reply_to_line(reply_token, result)
 
     return "OK", 200
