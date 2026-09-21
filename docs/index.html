@@ -1,1 +1,114 @@
+<!DOCTYPE html>
+<html lang="zh-Hant">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover">
+<title>我的西語單字庫</title>
+<style>
+  :root{
+    --bg:#faf8f4; --card:#ffffff; --ink:#2c2c2c; --sub:#8a8478;
+    --line:#e8e2d6; --accent:#c0623f; --accent-soft:#f3e6df;
+    box-sizing:border-box;
+    padding-top:env(safe-area-inset-top,0px);
+    padding-bottom:env(safe-area-inset-bottom,0px);
+  }
+  @media (prefers-color-scheme: dark){
+    :root:not([data-theme="light"]){
+      --bg:#1e1c19; --card:#2a2723; --ink:#ece7de; --sub:#9a9384;
+      --line:#3a352e; --accent:#e08a63; --accent-soft:#3a2a22;
+    }
+  }
+  *{box-sizing:inherit}
+  body{margin:0;background:var(--bg);color:var(--ink);
+    font-family:-apple-system,"PingFang TC","Noto Sans TC",sans-serif;
+    line-height:1.6;}
+  header{padding:24px 18px 12px;position:sticky;top:env(safe-area-inset-top,0);
+    background:var(--bg);border-bottom:1px solid var(--line);z-index:5;}
+  h1{margin:0;font-size:22px;letter-spacing:.5px;}
+  .meta{color:var(--sub);font-size:13px;margin-top:4px;}
+  .search{width:100%;margin-top:12px;padding:10px 14px;font-size:15px;
+    border:1px solid var(--line);border-radius:12px;background:var(--card);
+    color:var(--ink);outline:none;}
+  .wrap{max-width:680px;margin:0 auto;padding:12px 14px 60px;}
+  .item{background:var(--card);border:1px solid var(--line);border-radius:14px;
+    padding:14px 16px;margin-bottom:10px;cursor:pointer;transition:.15s;}
+  .item:hover{border-color:var(--accent);}
+  .row{display:flex;justify-content:space-between;align-items:baseline;gap:10px;}
+  .word{font-size:18px;font-weight:600;}
+  .pos{font-size:12px;color:#fff;background:var(--accent);
+    padding:2px 8px;border-radius:8px;white-space:nowrap;}
+  .meaning{color:var(--sub);font-size:15px;margin-top:2px;}
+  .date{color:var(--sub);font-size:11px;}
+  .detail{margin-top:12px;padding-top:12px;border-top:1px dashed var(--line);
+    white-space:pre-wrap;font-size:14px;display:none;}
+  .detail.show{display:block;}
+  .loading{color:var(--accent);font-size:14px;}
+  .empty{text-align:center;color:var(--sub);padding:40px 0;}
+</style>
+</head>
+<body>
+<header>
+  <div class="wrap" style="padding-bottom:0">
+    <h1>📚 我的西語單字庫</h1>
+    <div class="meta" id="count">載入中…</div>
+    <input class="search" id="search" placeholder="🔍 搜尋單字或意思…">
+  </div>
+</header>
+<div class="wrap" id="list"></div>
 
+<script>
+  // ⚠️ 把這裡換成你的 Render 網址(結尾不要加斜線)
+  const API_BASE = "https://line-translator-biar.onrender.com";
+
+  const listEl = document.getElementById("list");
+  const countEl = document.getElementById("count");
+  const searchEl = document.getElementById("search");
+  let vocab = [];
+
+  fetch("vocab.json?t=" + Date.now())
+    .then(r => r.json())
+    .then(data => {
+      vocab = Array.isArray(data) ? data.slice().reverse() : []; // 新的在前
+      countEl.textContent = "共 " + vocab.length + " 個單字";
+      render(vocab);
+    })
+    .catch(() => { countEl.textContent = "單字庫還是空的,推播後就會出現"; });
+
+  function render(items){
+    listEl.innerHTML = "";
+    if(!items.length){ listEl.innerHTML = '<div class="empty">沒有符合的單字</div>'; return; }
+    items.forEach(v => {
+      const el = document.createElement("div");
+      el.className = "item";
+      el.innerHTML =
+        '<div class="row"><span class="word">'+v.word+'</span>'+
+        '<span class="pos">'+(v.pos||"")+'</span></div>'+
+        '<div class="meaning">'+(v.meaning||"")+'</div>'+
+        '<div class="date">'+(v.date||"")+'</div>'+
+        '<div class="detail"></div>';
+      const detail = el.querySelector(".detail");
+      el.addEventListener("click", () => toggle(el, detail, v.word));
+      listEl.appendChild(el);
+    });
+  }
+
+  function toggle(el, detail, word){
+    if(detail.classList.contains("show")){ detail.classList.remove("show"); return; }
+    detail.classList.add("show");
+    if(detail.dataset.loaded){ return; }
+    detail.innerHTML = '<span class="loading">載入完整拆解中…(第一次較慢)</span>';
+    fetch(API_BASE + "/explain?word=" + encodeURIComponent(word))
+      .then(r => r.json())
+      .then(d => { detail.textContent = d.detail || "(無資料)"; detail.dataset.loaded="1"; })
+      .catch(() => { detail.innerHTML = '<span class="loading">載入失敗,請稍後再點</span>'; });
+  }
+
+  searchEl.addEventListener("input", e => {
+    const q = e.target.value.trim().toLowerCase();
+    render(vocab.filter(v =>
+      (v.word||"").toLowerCase().includes(q) ||
+      (v.meaning||"").toLowerCase().includes(q)));
+  });
+</script>
+</body>
+</html>
