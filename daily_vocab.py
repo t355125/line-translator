@@ -17,7 +17,9 @@ STATE_FILE = "last_batches.json"    # 記住早上/下午最近一批,供複習�
 
 NEW_VOCAB_PROMPT = """請幫一位正在學西班牙文的台灣人,出 10 個西班牙文單字(A1~A2 程度)。
 
-重要:回傳「純 JSON」,不要任何開場白、不要 markdown 反引號。格式如下:
+重要:回傳「純 JSON」,不要任何開場白、不要 markdown 反引號。
+另外:西班牙文的重音字母(á é í ó ú)、ñ、¿ ¡ 一定要完整正確寫出,絕不可省略或用普通字母代替(要寫 está、español、año,不是 esta、espanol、ano)。
+格式如下:
 {
   "cards": [
     {
