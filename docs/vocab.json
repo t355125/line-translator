@@ -1,0 +1,22 @@
+[
+  {"word": "hablar", "pos": "動詞", "meaning": "說話、講", "date": "2026-09-21"},
+  {"word": "comer", "pos": "動詞", "meaning": "吃", "date": "2026-09-21"},
+  {"word": "beber", "pos": "動詞", "meaning": "喝", "date": "2026-09-21"},
+  {"word": "vivir", "pos": "動詞", "meaning": "住、生活", "date": "2026-09-21"},
+  {"word": "trabajar", "pos": "動詞", "meaning": "工作", "date": "2026-09-21"},
+  {"word": "estudiar", "pos": "動詞", "meaning": "學習、讀書", "date": "2026-09-21"},
+  {"word": "comprar", "pos": "動詞", "meaning": "買", "date": "2026-09-21"},
+  {"word": "caminar", "pos": "動詞", "meaning": "走路、散步", "date": "2026-09-21"},
+  {"word": "la casa", "pos": "名詞・陰性", "meaning": "家、房子", "date": "2026-09-21"},
+  {"word": "el trabajo", "pos": "名詞・陽性", "meaning": "工作", "date": "2026-09-21"},
+  {"word": "el mercado", "pos": "名詞・陽性", "meaning": "市場", "date": "2026-09-22"},
+  {"word": "la comida", "pos": "名詞・陰性", "meaning": "食物、餐點", "date": "2026-09-22"},
+  {"word": "el agua", "pos": "名詞・陰性", "meaning": "水", "date": "2026-09-22"},
+  {"word": "la familia", "pos": "名詞・陰性", "meaning": "家庭、家人", "date": "2026-09-22"},
+  {"word": "el amigo", "pos": "名詞・陽性", "meaning": "朋友（男）", "date": "2026-09-22"},
+  {"word": "necesitar", "pos": "動詞", "meaning": "需要", "date": "2026-09-22"},
+  {"word": "querer", "pos": "動詞", "meaning": "想要、愛", "date": "2026-09-22"},
+  {"word": "poder", "pos": "動詞", "meaning": "能夠、可以", "date": "2026-09-22"},
+  {"word": "tener", "pos": "動詞", "meaning": "擁有、有", "date": "2026-09-22"},
+  {"word": "ir", "pos": "動詞", "meaning": "去", "date": "2026-09-22"}
+]
