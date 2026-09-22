@@ -874,7 +874,7 @@
         </div>
       </div>
 
-      <div class="chat-key" id="chatKey">
+      <div class="chat-key" id="chatKey" style="display:none;">
         <div class="ck-warn">這個功能需要 Anthropic API 金鑰才能用。</div>
         <input type="password" id="hKey" placeholder="貼上金鑰 sk-ant-..." />
         <input type="text" id="hModel" placeholder="模型名稱" />
@@ -5960,17 +5960,20 @@ const WEEK_LINKS = {
 (function(){
   const root = document.getElementById("p-home");
   if(!root) return;
+  // ⚠️ 換成你的 Render 網址(結尾不要加斜線)
+  const ASK_API = "https://line-translator-biar.onrender.com";
   const KEYK = "es3m-apikey", MODK = "es3m-model", VERK = "es3m-verified";
-  const kEl = document.getElementById("hKey"), mEl = document.getElementById("hModel");
-  const keyBox = document.getElementById("chatKey");
+  // 金鑰欄位已停用(改走後端),用安全的假物件避免其他程式引用報錯
+  const _noop = {value:"", style:{}, addEventListener:function(){}, classList:{add:function(){},remove:function(){},toggle:function(){}}};
+  const kEl = document.getElementById("hKey") || _noop;
+  const mEl = document.getElementById("hModel") || _noop;
+  const keyBox = document.getElementById("chatKey") || _noop;
   const log = document.getElementById("chatLog");
   const inp = document.getElementById("chatIn");
   const scen = document.getElementById("chatScen");
 
-  try{
-    kEl.value = localStorage.getItem(KEYK) || "";
-    mEl.value = localStorage.getItem(MODK) || "claude-sonnet-5";
-  }catch(e){ mEl.value = "claude-sonnet-5"; }
+  // 隱藏整個金鑰設定區(不再需要使用者填金鑰)
+  if(keyBox && keyBox.style) keyBox.style.display = "none";
 
   /* --- 進度摘要與快速入口 --- */
   (function(){
@@ -5995,51 +5998,11 @@ const WEEK_LINKS = {
       b.addEventListener("click", () => goTab(b.dataset.go)));
   })();
 
-  /* --- 金鑰驗證 --- */
-  function hasKey(){ return !!kEl.value.trim(); }
-  function refreshKeyBox(){
-    let v = "";
-    try{ v = localStorage.getItem(VERK) || ""; }catch(e){}
-    const sig = kEl.value.trim().slice(-8) + "|" + (mEl.value.trim() || "claude-sonnet-5");
-    keyBox.style.display = (hasKey() && v === sig) ? "none" : "";
-  }
-  document.getElementById("hVerify").addEventListener("click", async () => {
-    const key = kEl.value.trim(), model = mEl.value.trim() || "claude-sonnet-5";
-    const msg = document.getElementById("hVerMsg");
-    if(!key){ msg.className = "tver-msg err"; msg.textContent = "還沒填金鑰。"; return; }
-    if(!/^sk-ant-/.test(key)){ msg.className = "tver-msg err"; msg.textContent = "格式不對，金鑰應以 sk-ant- 開頭。"; return; }
-    msg.className = "tver-msg"; msg.textContent = "驗證中…";
-    try{
-      const r = await fetch("https://api.anthropic.com/v1/messages", {
-        method:"POST",
-        headers:{"Content-Type":"application/json","x-api-key":key,
-                 "anthropic-version":"2023-06-01","anthropic-dangerous-direct-browser-access":"true"},
-        body:JSON.stringify({model:model, max_tokens:8, messages:[{role:"user",content:"hola"}]})
-      });
-      if(r.ok){
-        try{
-          localStorage.setItem(KEYK, key); localStorage.setItem(MODK, model);
-          localStorage.setItem(VERK, key.slice(-8) + "|" + model);
-        }catch(e){}
-        msg.className = "tver-msg ok"; msg.textContent = "✓ 可以開始了";
-        setTimeout(refreshKeyBox, 600);
-      } else {
-        const t = await r.text();
-        msg.className = "tver-msg err";
-        msg.textContent = r.status === 401 ? "金鑰無效。"
-          : r.status === 404 ? ("找不到模型「" + model + "」。")
-          : /credit|balance/i.test(t) ? "帳戶額度不足。"
-          : ("HTTP " + r.status + "　" + t.slice(0,160));
-      }
-    }catch(e){
-      msg.className = "tver-msg err";
-      msg.textContent = "連不上 Anthropic（" + String(e.message||e) + "）";
-    }
-  });
-  [kEl,mEl].forEach(el => el.addEventListener("input", () => {
-    try{ localStorage.removeItem(VERK); }catch(e){}
-    keyBox.style.display = "";
-  }));
+  /* --- 金鑰驗證已停用(改走後端 Render) --- */
+  function hasKey(){ return true; }
+  function refreshKeyBox(){ if(keyBox && keyBox.style) keyBox.style.display = "none"; }
+  const _hv = document.getElementById("hVerify");
+  if(_hv) _hv.style.display = "none";
   refreshKeyBox();
 
   /* --- 模式與情境 --- */
@@ -6148,29 +6111,23 @@ const WEEK_LINKS = {
 
   async function send(userText, isOpening){
     if(busy) return;
-    const key = kEl.value.trim(), model = mEl.value.trim() || "claude-sonnet-5";
-    if(!key){ keyBox.style.display = ""; addSys("需要先設定 API 金鑰。"); return; }
     busy = true;
     document.getElementById("chatGo").disabled = true;
     const wait = addMsg("bot", '<span class="typing">…</span>');
     try{
       const msgs = history.concat([{role:"user", content:userText}]);
-      const r = await fetch("https://api.anthropic.com/v1/messages", {
+      const r = await fetch(ASK_API + "/ask", {
         method:"POST",
-        headers:{"Content-Type":"application/json","x-api-key":key,
-                 "anthropic-version":"2023-06-01","anthropic-dangerous-direct-browser-access":"true"},
-        body:JSON.stringify({model:model, max_tokens:1000, system:sysPrompt(), messages:msgs})
+        headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({system:sysPrompt(), messages:msgs})
       });
       if(!r.ok){
-        const t = await r.text();
         wait.className = "msg err";
-        wait.textContent = r.status === 401 ? "金鑰無效。" :
-          r.status === 429 ? "請求太頻繁，稍等一下再試。" :
-          /credit|balance/i.test(t) ? "帳戶額度不足。" : ("出錯了：HTTP " + r.status);
+        wait.textContent = "出錯了：HTTP " + r.status + "（伺服器喚醒中可能較慢，稍等再試）";
         busy = false; document.getElementById("chatGo").disabled = false; return;
       }
       const data = await r.json();
-      const txt = (data.content||[]).filter(x => x.type === "text").map(x => x.text).join("\n");
+      const txt = data.reply || "(沒有回覆)";
       wait.className = "msg bot";
       wait.innerHTML = renderReply(txt);
       wait.querySelectorAll("[data-say]").forEach(el =>
