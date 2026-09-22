@@ -951,18 +951,36 @@
     <div id="vocabBody"></div>
   </section>
 
-  <!-- 我的單字庫（每日推播累積） -->
+  <!-- 我的單字庫（主題字彙全集，標記每日推播已收錄者） -->
   <section class="panel" id="p-mybank">
     <div class="intro">
-      這裡是<strong>每天 LINE 推播累積</strong>的單字,自動同步。
-      點任一個字,會即時載入<strong>完整拆解</strong>(動詞六人稱變位＋發音＋例句)。
-      <span class="warn">第一次點某個字約需 30~50 秒(伺服器喚醒),之後很快。</span>
+      這裡是<strong>完整主題字彙</strong>。<span style="color:var(--warm);font-weight:600;">底部有色條</span>的字,
+      表示<strong>每日 LINE 推播已經收進單字庫</strong>了。點任一個字可即時載入完整拆解。
+      <span class="warn">第一次點某字約需 30~50 秒(伺服器喚醒),之後很快。</span>
     </div>
     <div class="search-box" style="border:1px solid var(--line);border-radius:var(--r);background:var(--card);margin-bottom:14px;">
-      <input type="text" id="bankSearch" placeholder="搜尋我的單字庫:輸入西班牙文或中文" />
+      <input type="text" id="bankSearch" placeholder="搜尋:輸入西班牙文或中文" />
       <div class="search-count" id="bankCount">載入中…</div>
     </div>
     <div id="bankBody"></div>
+  </section>
+
+  <!-- 問答紀錄 -->
+  <section class="panel" id="p-qa">
+    <div class="intro">
+      這裡是你在<strong>LINE 和網站</strong>問過的問答紀錄(只存你自己的)。
+      點右邊「☆」可<strong>收藏重點</strong>,用上方按鈕切換「全部 / 只看收藏」。
+      <span class="warn">紀錄同步約有幾秒延遲,重新整理即可看到最新。</span>
+    </div>
+    <div style="display:flex;gap:8px;margin-bottom:12px;">
+      <button class="lvf on" id="qaAll" style="border:1px solid var(--line);border-radius:8px;padding:5px 12px;background:var(--card);cursor:pointer;">全部</button>
+      <button class="lvf" id="qaFav" style="border:1px solid var(--line);border-radius:8px;padding:5px 12px;background:var(--card);cursor:pointer;">★ 只看收藏</button>
+      <span id="qaCount" style="align-self:center;color:var(--ink-faint);font-size:12.5px;">載入中…</span>
+    </div>
+    <div class="search-box" style="border:1px solid var(--line);border-radius:var(--r);background:var(--card);margin-bottom:14px;">
+      <input type="text" id="qaSearch" placeholder="搜尋問答內容" />
+    </div>
+    <div id="qaBody"></div>
   </section>
 
   <!-- 童謠 -->
@@ -2049,21 +2067,21 @@ const VERB_ENDINGS = [
 
 const TENSES = [
   { t:"現在式 Presente", n:"當下的事實、習慣。也能表達最近的未來。",
-    en:"I eat / I am eating", es:"Como" },
+    en:"I eat / I am eating", zh:"我吃／我在吃", es:"Como" },
   { t:"現在進行式 Estar + gerundio", n:"強調此刻正在進行。西語用得比英文少。",
-    en:"I am eating (right now)", es:"Estoy comiendo" },
+    en:"I am eating (right now)", zh:"我正在吃（此刻）", es:"Estoy comiendo" },
   { t:"簡單過去 Pretérito", n:"已完成、有明確結束點的單次事件。",
-    en:"I ate", es:"Comí" },
+    en:"I ate", zh:"我吃了（剛才／那時）", es:"Comí" },
   { t:"未完成過去 Imperfecto", n:"過去的習慣、持續狀態、背景。英文要靠 used to / was V-ing 表達。",
-    en:"I used to eat / I was eating", es:"Comía" },
+    en:"I used to eat / I was eating", zh:"我以前都吃／那時正在吃", es:"Comía" },
   { t:"現在完成 Perfecto", n:"到現在為止已經完成的經驗或動作。",
-    en:"I have eaten", es:"He comido" },
+    en:"I have eaten", zh:"我已經吃過了", es:"He comido" },
   { t:"未來式 Futuro", n:"將來會發生的事。口語常被 ir a + 原形取代。",
-    en:"I will eat", es:"Comeré" },
+    en:"I will eat", zh:"我將會吃", es:"Comeré" },
   { t:"條件式 Condicional", n:"假設、禮貌請求。",
-    en:"I would eat", es:"Comería" },
+    en:"I would eat", zh:"我會吃（假設／委婉）", es:"Comería" },
   { t:"虛擬式 Subjuntivo", n:"願望、懷疑、情緒下的子句。英文幾乎沒有對應。",
-    en:"(that) I eat — 英文動詞不變", es:"…que coma" }
+    en:"(that) I eat — 英文動詞不變", zh:"（希望）我吃", es:"…que coma" }
 ];
 
 const PRONOUNS = ["yo 我","tú 你","él/ella 他/她","nosotros 我們","vosotros 你們","ellos 他們"];
@@ -5370,7 +5388,7 @@ const TABS = [
   ["p-home","首頁"],
   ["p-session","30分鐘"],
   ["p-plan","12週地圖"], ["p-sound","發音"], ["p-cog","字根捷徑"],
-  ["p-vocab","主題字彙"], ["p-mybank","我的單字庫"], ["p-gram","文法"], ["p-verb","動詞"], ["p-phrase","實用句型"], ["p-song","童謠"]
+  ["p-vocab","主題字彙"], ["p-mybank","我的單字庫"], ["p-qa","問答紀錄"], ["p-gram","文法"], ["p-verb","動詞"], ["p-phrase","實用句型"], ["p-song","童謠"]
 ];
 const tabsEl = document.getElementById("tabs");
 const TAB_BTN = {};
@@ -5991,7 +6009,7 @@ const WEEK_LINKS = {
       lvBadge("A2") + " <b>" + LVC.a2[0] + "</b> / " + LVC.a2[1] +
       (st.done ? "　·　完成 <b>" + st.done + "</b> 次練習　·　連續 <b>" + (st.streak||0) + "</b> 天" : "");
     const L = [["p-session","開始 30 分鐘練習"],["p-plan","看 12 週計畫"],
-               ["p-vocab","背單字"],["p-verb","練動詞"],["p-phrase","實用句型"]];
+               ["p-mybank","單字庫"],["p-verb","練動詞"],["p-phrase","實用句型"]];
     document.getElementById("homeLinks").innerHTML =
       L.map(([id,t]) => '<button class="hl" data-go="' + id + '">' + esc(t) + '</button>').join("");
     document.querySelectorAll("[data-go]").forEach(b =>
@@ -7103,8 +7121,9 @@ function refreshProgress(){
     d.className = "tcard";
     d.innerHTML = '<div class="tcard-title">' + esc(t.t) + lvBadge(t.lv) + '</div>' +
       '<div class="tcard-note">' + esc(t.n) + '</div>' +
-      '<div class="cmp"><span class="tag en">EN</span><span>' + esc(t.en) + '</span>' +
-      '<span class="tag es">ES</span><span style="color:var(--accent-deep);font-weight:600;">' + esc(t.es) + '</span></div>';
+      '<div class="cmp"><span class="tag" style="background:var(--warm);color:#fff;">中</span><span style="color:var(--ink);font-weight:600;">' + esc(t.zh||"") + '</span></div>' +
+      '<div class="cmp"><span class="tag es">ES</span><span style="color:var(--accent-deep);font-weight:600;">' + esc(t.es) + '</span>' +
+      '<span class="tag en">EN</span><span style="color:var(--ink-faint);">' + esc(t.en) + '</span></div>';
     ctnb.appendChild(d);
   });
   root.appendChild(ctn);
@@ -7224,22 +7243,22 @@ function refreshProgress(){
   const inp = document.getElementById("tInput");
   if(!inp) return;
   const out = document.getElementById("tResult");
+  // ⚠️ 換成你的 Render 網址(結尾不要加斜線)
+  const TRANS_API = "https://line-translator-biar.onrender.com";
   const KEYK = "es3m-apikey", MODK = "es3m-model";
-  const keyEl = document.getElementById("tKey"), modEl = document.getElementById("tModel");
-  try{
-    keyEl.value = localStorage.getItem(KEYK) || "";
-    modEl.value = localStorage.getItem(MODK) || "claude-sonnet-5";
-  }catch(e){ modEl.value = "claude-sonnet-5"; }
-  keyEl.addEventListener("change", () => { try{ localStorage.setItem(KEYK, keyEl.value.trim()); }catch(e){} });
-  modEl.addEventListener("change", () => { try{ localStorage.setItem(MODK, modEl.value.trim()); }catch(e){} });
-  document.getElementById("tApiToggle").addEventListener("click", () => {
-    document.getElementById("tApiBody").classList.toggle("open");
-  });
+  const _noop2 = {value:"", style:{}, addEventListener:function(){}, classList:{add:function(){},remove:function(){},toggle:function(){}}, textContent:"", innerHTML:"", disabled:false};
+  const keyEl = document.getElementById("tKey") || _noop2;
+  const modEl = document.getElementById("tModel") || _noop2;
+  // 隱藏金鑰設定區(改走後端)
+  const _tApiWrap = document.getElementById("tApiBody");
+  const _tApiTog = document.getElementById("tApiToggle");
+  if(_tApiWrap && _tApiWrap.style) _tApiWrap.style.display = "none";
+  if(_tApiTog && _tApiTog.style) _tApiTog.style.display = "none";
 
   /* ---------- 金鑰驗證 ---------- */
   const VERK = "es3m-verified";
-  const verBtn = document.getElementById("tVerify");
-  const verMsg = document.getElementById("tVerMsg");
+  const verBtn = document.getElementById("tVerify") || _noop2;
+  const verMsg = document.getElementById("tVerMsg") || _noop2;
   const sig = () => (keyEl.value.trim().slice(-8) + "|" + (modEl.value.trim() || "claude-sonnet-5"));
 
   function setVerified(ok, msg, cls){
@@ -7291,34 +7310,7 @@ function refreshProgress(){
     return "HTTP " + status + "　" + esc(m || body.slice(0,160));
   }
 
-  verBtn.addEventListener("click", async () => {
-    const key = keyEl.value.trim();
-    const model = modEl.value.trim() || "claude-sonnet-5";
-    if(!key){ setVerified(false, "還沒填金鑰。"); return; }
-    if(!/^sk-ant-/.test(key)){
-      setVerified(false, "格式看起來不對：Anthropic 的金鑰應該以 <code>sk-ant-</code> 開頭。"); return;
-    }
-    verBtn.disabled = true; verBtn.textContent = "驗證中…";
-    verMsg.className = "tver-msg"; verMsg.innerHTML = "正在連線…";
-    try{
-      const r = await fetch("https://api.anthropic.com/v1/messages", {
-        method:"POST",
-        headers:{"Content-Type":"application/json","x-api-key":key,
-                 "anthropic-version":"2023-06-01","anthropic-dangerous-direct-browser-access":"true"},
-        body:JSON.stringify({model:model, max_tokens:8, messages:[{role:"user", content:"hola"}]})
-      });
-      if(r.ok){
-        try{ localStorage.setItem(KEYK, key); localStorage.setItem(MODK, model); }catch(e){}
-        setVerified(true);
-        return;
-      }
-      const body = await r.text();
-      setVerified(false, explain(r.status, body));
-    }catch(e){
-      setVerified(false, "連不上 Anthropic。可能是網路不通，或瀏覽器／擴充功能擋掉了這個跨網域請求。" +
-        "<span class=\"tn\">（" + esc(String(e.message || e)) + "）</span>");
-    }
-  });
+  // 金鑰驗證已停用(改走後端 Render),此監聽器移除
   refreshVerifyUI();
 
   /* ---------- 建立本地語料索引 ---------- */
@@ -7399,8 +7391,6 @@ function refreshProgress(){
 
   /* ---------- AI 翻譯 ---------- */
   async function aiTranslate(q){
-    const key = keyEl.value.trim(), model = (modEl.value.trim() || "claude-sonnet-5");
-    if(!key) return {err:"nokey"};
     const prompt =
       "你是西班牙文老師，學生是台灣人、英文不錯、西語初學。把下面的中文翻成西班牙文。\n" +
       "要給兩個版本：\n" +
@@ -7414,18 +7404,16 @@ function refreshProgress(){
       "文法角色請用繁體中文，格式像：動詞 hablar 現在式・第1人稱 ／ 定冠詞・陰性 ／ 介系詞 ／ 受詞代名詞。\n" +
       "中文：" + q;
     try{
-      const r = await fetch("https://api.anthropic.com/v1/messages", {
+      const r = await fetch(TRANS_API + "/ask", {
         method:"POST",
-        headers:{"Content-Type":"application/json","x-api-key":key,
-                 "anthropic-version":"2023-06-01","anthropic-dangerous-direct-browser-access":"true"},
-        body:JSON.stringify({model:model, max_tokens:1000, messages:[{role:"user", content:prompt}]})
+        headers:{"Content-Type":"application/json"},
+        body:JSON.stringify({system:"你只輸出 JSON，不要任何多餘文字。", messages:[{role:"user", content:prompt}]})
       });
       if(!r.ok){
-        const t = await r.text();
-        return {err:"http", msg:"HTTP " + r.status + "　" + t.slice(0,300)};
+        return {err:"http", msg:"HTTP " + r.status + "（伺服器喚醒中可能較慢，稍等再試）"};
       }
       const data = await r.json();
-      const txt = (data.content||[]).filter(x => x.type==="text").map(x => x.text).join("\n");
+      const txt = data.reply || "";
       const clean = txt.replace(/```json|```/g,"").trim();
       let j;
       try{ j = JSON.parse(clean); }
@@ -7473,15 +7461,9 @@ function refreshProgress(){
     out.innerHTML = html;
     bind();
 
-    // 沒有完全命中 → 試 AI
+    // 沒有完全命中 → 試 AI(改走後端,不需金鑰)
     if(!exact && !exactWord){
-      const hasKey = !!keyEl.value.trim();
-      if(!hasKey){
-        out.insertAdjacentHTML("afterbegin",
-          '<div class="tnote">字庫沒有完全相符的說法。要翻譯任意句子，請展開上方「AI 翻譯設定」填入 API 金鑰並按驗證。</div>');
-        return;
-      }
-      out.insertAdjacentHTML("afterbegin", '<div class="tnote" id="tLoad">AI 翻譯中…</div>');
+      out.insertAdjacentHTML("afterbegin", '<div class="tnote" id="tLoad">AI 翻譯中…（首次伺服器喚醒約需 30~50 秒）</div>');
       const r = await aiTranslate(q);
       const load = document.getElementById("tLoad");
       if(r.err){
@@ -7636,7 +7618,7 @@ function refreshProgress(){
   });
 })();
 
-/* ===== 我的單字庫(讀 vocab.json + 點字問 AI) ===== */
+/* ===== 我的單字庫(主題字彙全集 + 標記每日推播已收錄) ===== */
 (function(){
   // ⚠️ 換成你的 Render 網址(結尾不要加斜線)
   const API_BASE = "https://line-translator-biar.onrender.com";
@@ -7644,38 +7626,60 @@ function refreshProgress(){
   const bodyEl = document.getElementById("bankBody");
   const countEl = document.getElementById("bankCount");
   const searchEl = document.getElementById("bankSearch");
-  let bank = [];
+  if(!bodyEl) return;
 
   function esc(s){ return (s||"").replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m])); }
+  // 正規化:去掉冠詞、轉小寫,方便比對(vocab.json 的 word 可能有 el/la)
+  function norm(w){ return (w||"").toLowerCase().replace(/^(el|la|los|las)\s+/,"").trim(); }
+
+  // 攤平所有主題字彙成一個清單
+  let allWords = [];
+  if(typeof THEMES !== "undefined"){
+    THEMES.forEach(th => {
+      (th.words||[]).forEach(w => {
+        allWords.push({ word:w[0], gender:w[1], meaning:w[2], theme:th.name });
+      });
+    });
+  }
+
+  let collected = new Set();  // 每日推播已收錄的字(正規化後)
 
   fetch("vocab.json?t=" + Date.now())
     .then(r => r.json())
     .then(data => {
-      bank = Array.isArray(data) ? data.slice().reverse() : [];
-      countEl.textContent = "共 " + bank.length + " 個單字";
-      renderBank(bank);
+      (Array.isArray(data)?data:[]).forEach(v => collected.add(norm(v.word)));
+      countEl.textContent = "共 " + allWords.length + " 字　·　已推播收錄 " + collected.size + " 字";
+      renderBank(allWords);
     })
-    .catch(() => { countEl.textContent = "單字庫還是空的,推播後就會出現"; });
+    .catch(() => {
+      countEl.textContent = "共 " + allWords.length + " 字";
+      renderBank(allWords);
+    });
 
   function renderBank(items){
     bodyEl.innerHTML = "";
     if(!items.length){ bodyEl.innerHTML = '<div class="intro">沒有符合的單字</div>'; return; }
+    const frag = document.createDocumentFragment();
     items.forEach(v => {
+      const isColl = collected.has(norm(v.word));
       const el = document.createElement("div");
       el.className = "card";
-      el.style.cssText = "padding:13px 15px;margin-bottom:9px;cursor:pointer;";
+      el.style.cssText = "padding:12px 15px 0;margin-bottom:9px;cursor:pointer;overflow:hidden;";
+      const genderColor = v.gender === "f" ? "#B5657F" : (v.gender === "m" ? "var(--accent)" : "var(--ink-faint)");
       el.innerHTML =
         '<div style="display:flex;justify-content:space-between;align-items:baseline;gap:10px;">' +
           '<span style="font-size:17px;font-weight:600;color:var(--ink);">' + esc(v.word) + '</span>' +
-          '<span style="font-size:11.5px;color:#fff;background:var(--accent);padding:2px 8px;border-radius:8px;white-space:nowrap;">' + esc(v.pos||"") + '</span>' +
+          '<span style="font-size:11px;color:var(--ink-faint);white-space:nowrap;">' + esc(v.theme||"") + '</span>' +
         '</div>' +
         '<div style="color:var(--ink-soft);font-size:14px;margin-top:3px;">' + esc(v.meaning||"") + '</div>' +
-        '<div style="color:var(--ink-faint);font-size:11px;margin-top:2px;">' + esc(v.date||"") + '</div>' +
-        '<div class="bank-detail" style="display:none;margin-top:11px;padding-top:11px;border-top:1px dashed var(--line);white-space:pre-wrap;font-size:13.5px;line-height:1.7;color:var(--ink);"></div>';
+        '<div class="bank-detail" style="display:none;margin-top:11px;padding-top:11px;border-top:1px dashed var(--line);white-space:pre-wrap;font-size:13.5px;line-height:1.7;color:var(--ink);"></div>' +
+        '<div style="height:4px;margin:11px -15px 0;background:' + (isColl ? 'var(--warm)' : 'transparent') + ';"></div>' +
+        (isColl ? '<div style="font-size:10.5px;color:var(--warm);padding:3px 0 6px;">✓ 每日推播已收錄</div>' : '<div style="height:8px;"></div>');
       const detail = el.querySelector(".bank-detail");
       el.addEventListener("click", () => toggleBank(detail, v.word));
-      bodyEl.appendChild(el);
+      frag.appendChild(el);
     });
+    bodyEl.appendChild(frag);
   }
 
   function toggleBank(detail, word){
@@ -7691,10 +7695,68 @@ function refreshProgress(){
 
   searchEl.addEventListener("input", e => {
     const q = e.target.value.trim().toLowerCase();
-    renderBank(bank.filter(v =>
+    renderBank(allWords.filter(v =>
       (v.word||"").toLowerCase().includes(q) ||
       (v.meaning||"").toLowerCase().includes(q)));
   });
+})();
+
+/* ===== 問答紀錄(讀 /qa,可收藏,收藏存本機) ===== */
+(function(){
+  const QA_API = "https://line-translator-biar.onrender.com";
+  const bodyEl = document.getElementById("qaBody");
+  const countEl = document.getElementById("qaCount");
+  const searchEl = document.getElementById("qaSearch");
+  const btnAll = document.getElementById("qaAll");
+  const btnFav = document.getElementById("qaFav");
+  if(!bodyEl) return;
+
+  function esc(s){ return (s||"").replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m])); }
+  let qaList = [], showFav = false, favSet = new Set();
+
+  try{ favSet = new Set(JSON.parse(localStorage.getItem("es3m-qa-fav")||"[]")); }catch(e){}
+  function saveFav(){ try{ localStorage.setItem("es3m-qa-fav", JSON.stringify([...favSet])); }catch(e){} }
+
+  fetch(QA_API + "/qa?t=" + Date.now())
+    .then(r => r.json())
+    .then(data => { qaList = Array.isArray(data) ? data : []; render(); })
+    .catch(() => { countEl.textContent = "載入失敗,稍後再試(伺服器喚醒中)"; });
+
+  function render(){
+    const q = (searchEl.value||"").trim().toLowerCase();
+    let items = qaList;
+    if(showFav) items = items.filter(x => favSet.has(x.id));
+    if(q) items = items.filter(x => (x.q||"").toLowerCase().includes(q) || (x.a||"").toLowerCase().includes(q));
+    countEl.textContent = "共 " + items.length + " 則" + (showFav ? "(收藏)" : "");
+    bodyEl.innerHTML = "";
+    if(!items.length){ bodyEl.innerHTML = '<div class="intro">沒有紀錄</div>'; return; }
+    const frag = document.createDocumentFragment();
+    items.forEach(x => {
+      const fav = favSet.has(x.id);
+      const el = document.createElement("div");
+      el.className = "card";
+      el.style.cssText = "padding:13px 15px;margin-bottom:10px;";
+      el.innerHTML =
+        '<div style="display:flex;justify-content:space-between;gap:10px;align-items:flex-start;">' +
+          '<div style="font-size:11px;color:var(--ink-faint);">' +
+            '<span style="background:var(--accent);color:#fff;padding:1px 7px;border-radius:6px;margin-right:6px;">' + esc(x.source||"") + '</span>' +
+            esc(x.time||"") + '</div>' +
+          '<span class="qa-star" style="cursor:pointer;font-size:19px;line-height:1;color:' + (fav ? "var(--warm)" : "var(--line)") + ';">' + (fav ? "★" : "☆") + '</span>' +
+        '</div>' +
+        '<div style="font-weight:600;color:var(--ink);margin-top:8px;">Q：' + esc(x.q||"") + '</div>' +
+        '<div style="color:var(--ink-soft);margin-top:6px;white-space:pre-wrap;font-size:14px;line-height:1.7;">' + esc(x.a||"") + '</div>';
+      el.querySelector(".qa-star").addEventListener("click", () => {
+        if(favSet.has(x.id)) favSet.delete(x.id); else favSet.add(x.id);
+        saveFav(); render();
+      });
+      frag.appendChild(el);
+    });
+    bodyEl.appendChild(frag);
+  }
+
+  btnAll.addEventListener("click", () => { showFav=false; btnAll.classList.add("on"); btnFav.classList.remove("on"); render(); });
+  btnFav.addEventListener("click", () => { showFav=true; btnFav.classList.add("on"); btnAll.classList.remove("on"); render(); });
+  searchEl.addEventListener("input", render);
 })();
 </script>
 </body>
