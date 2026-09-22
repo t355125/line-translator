@@ -74,7 +74,24 @@ def call_claude(user_text, system=SYSTEM_PROMPT, max_tokens=1500):
     return "".join(parts).strip() or "(處理失敗,請再試一次)"
 
 
-def reply_to_line(reply_token, text):
+def call_claude_chat(messages, system, max_tokens=1000):
+    """支援多輪對話:messages 是 [{role, content}, ...]"""
+    headers = {
+        "x-api-key": ANTHROPIC_API_KEY,
+        "anthropic-version": "2023-06-01",
+        "content-type": "application/json",
+    }
+    payload = {
+        "model": "claude-sonnet-4-6",
+        "max_tokens": max_tokens,
+        "system": system,
+        "messages": messages,
+    }
+    r = requests.post(ANTHROPIC_URL, headers=headers, json=payload, timeout=40)
+    r.raise_for_status()
+    data = r.json()
+    parts = [b["text"] for b in data.get("content", []) if b.get("type") == "text"]
+    return "".join(parts).strip() or "(處理失敗,請再試一次)"
     headers = {
         "Authorization": f"Bearer {LINE_CHANNEL_ACCESS_TOKEN}",
         "Content-Type": "application/json",
@@ -142,6 +159,35 @@ def explain():
         resp = app.make_response(json.dumps({"word": word, "detail": text}, ensure_ascii=False))
     resp.headers["Content-Type"] = "application/json; charset=utf-8"
     resp.headers["Access-Control-Allow-Origin"] = "*"  # 允許 GitHub Pages 網頁呼叫
+    return resp
+
+
+@app.route("/ask", methods=["POST", "OPTIONS"])
+def ask():
+    # 瀏覽器跨網域預檢請求
+    if request.method == "OPTIONS":
+        resp = app.make_response("")
+        resp.headers["Access-Control-Allow-Origin"] = "*"
+        resp.headers["Access-Control-Allow-Methods"] = "POST, OPTIONS"
+        resp.headers["Access-Control-Allow-Headers"] = "Content-Type"
+        return resp
+
+    try:
+        data = request.get_json(force=True) or {}
+        messages = data.get("messages", [])
+        system = data.get("system", "你是西班牙文老師,用繁體中文回答。")
+        if not isinstance(messages, list) or not messages:
+            raise ValueError("no messages")
+        # 安全上限:最多保留最近 20 則、system 長度設限
+        messages = messages[-20:]
+        system = str(system)[:4000]
+        text = call_claude_chat(messages, system=system, max_tokens=1000)
+    except Exception as e:
+        text = f"(伺服器錯誤:{e})"
+
+    resp = app.make_response(json.dumps({"reply": text}, ensure_ascii=False))
+    resp.headers["Content-Type"] = "application/json; charset=utf-8"
+    resp.headers["Access-Control-Allow-Origin"] = "*"
     return resp
 
 
