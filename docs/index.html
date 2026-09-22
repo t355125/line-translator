@@ -958,6 +958,10 @@
       表示<strong>每日 LINE 推播已經收進單字庫</strong>了。點任一個字可即時載入完整拆解。
       <span class="warn">第一次點某字約需 30~50 秒(伺服器喚醒),之後很快。</span>
     </div>
+    <div style="display:flex;gap:8px;margin-bottom:12px;">
+      <button class="lvf on" id="bankAll" style="border:1px solid var(--line);border-radius:8px;padding:5px 12px;background:var(--card);cursor:pointer;">全部</button>
+      <button class="lvf" id="bankColl" style="border:1px solid var(--line);border-radius:8px;padding:5px 12px;background:var(--card);cursor:pointer;">★ 只看已收錄</button>
+    </div>
     <div class="search-box" style="border:1px solid var(--line);border-radius:var(--r);background:var(--card);margin-bottom:14px;">
       <input type="text" id="bankSearch" placeholder="搜尋:輸入西班牙文或中文" />
       <div class="search-count" id="bankCount">載入中…</div>
@@ -7693,11 +7697,26 @@ function refreshProgress(){
       .catch(() => { detail.innerHTML = '<span style="color:var(--warm);">載入失敗,請稍後再點</span>'; });
   }
 
-  searchEl.addEventListener("input", e => {
-    const q = e.target.value.trim().toLowerCase();
-    renderBank(allWords.filter(v =>
+  let showCollOnly = false;
+  function applyFilter(){
+    const q = (searchEl.value||"").trim().toLowerCase();
+    let items = allWords;
+    if(showCollOnly) items = items.filter(v => collected.has(norm(v.word)));
+    if(q) items = items.filter(v =>
       (v.word||"").toLowerCase().includes(q) ||
-      (v.meaning||"").toLowerCase().includes(q)));
+      (v.meaning||"").toLowerCase().includes(q));
+    renderBank(items);
+  }
+
+  searchEl.addEventListener("input", applyFilter);
+
+  const bAll = document.getElementById("bankAll");
+  const bColl = document.getElementById("bankColl");
+  if(bAll) bAll.addEventListener("click", () => {
+    showCollOnly = false; bAll.classList.add("on"); if(bColl) bColl.classList.remove("on"); applyFilter();
+  });
+  if(bColl) bColl.addEventListener("click", () => {
+    showCollOnly = true; bColl.classList.add("on"); if(bAll) bAll.classList.remove("on"); applyFilter();
   });
 })();
 
