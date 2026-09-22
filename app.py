@@ -313,6 +313,11 @@ def callback():
                 )
                 continue
 
+            # 喚醒鍵:打 hola 只回確認,不問 AI、不存紀錄
+            if user_text.lower() in ("hola", "喚醒", "醒醒"):
+                reply_to_line(reply_token, "✅ 我醒著囉!可以開始了。")
+                continue
+
             try:
                 result = call_claude(user_text)
             except Exception as e:
