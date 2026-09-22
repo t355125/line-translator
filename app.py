@@ -15,6 +15,57 @@ ANTHROPIC_API_KEY = os.environ["ANTHROPIC_API_KEY"]
 ANTHROPIC_URL = "https://api.anthropic.com/v1/messages"
 LINE_REPLY_URL = "https://api.line.me/v2/bot/message/reply"
 
+# ===== 問答紀錄設定 =====
+MY_USER_ID = "U8730208994c8ae0d56900870d60d3280"  # 只存這個人問的
+GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")   # 在 Render 環境變數設定
+GITHUB_REPO = os.environ.get("GITHUB_REPO", "t355125/line-translator")
+QA_PATH = "docs/qa_log.json"
+
+
+def save_qa(question, answer, source):
+    """把一則問答 append 進 GitHub 的 docs/qa_log.json。失敗不影響主流程。"""
+    if not GITHUB_TOKEN:
+        return
+    import datetime
+    api = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{QA_PATH}"
+    headers = {
+        "Authorization": f"Bearer {GITHUB_TOKEN}",
+        "Accept": "application/vnd.github+json",
+    }
+    try:
+        # 讀現有內容
+        r = requests.get(api, headers=headers, timeout=15)
+        if r.status_code == 200:
+            info = r.json()
+            sha = info["sha"]
+            current = json.loads(base64.b64decode(info["content"]).decode("utf-8"))
+            if not isinstance(current, list):
+                current = []
+        elif r.status_code == 404:
+            sha = None
+            current = []
+        else:
+            return
+        # 新增一筆(最新在前),上限保留 500 筆
+        tw = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
+        current.insert(0, {
+            "id": tw.strftime("%Y%m%d%H%M%S") + str(len(current)),
+            "q": question[:2000],
+            "a": answer[:5000],
+            "source": source,
+            "time": tw.strftime("%Y-%m-%d %H:%M"),
+        })
+        current = current[:500]
+        new_content = base64.b64encode(
+            json.dumps(current, ensure_ascii=False, indent=1).encode("utf-8")
+        ).decode("utf-8")
+        payload = {"message": "add qa log", "content": new_content}
+        if sha:
+            payload["sha"] = sha
+        requests.put(api, headers=headers, json=payload, timeout=15)
+    except Exception:
+        pass  # 存紀錄失敗不影響回覆
+
 SYSTEM_PROMPT = """你是一個聰明的翻譯兼語言學習助理,服務對象是一位在台灣做防水與建材、正拓展東南亞市場、同時正在學西班牙文的商務人士。你要先判斷使用者這則訊息屬於哪一種,再決定怎麼回。
 
 【重要:輸出格式限制】
@@ -194,12 +245,43 @@ def ask():
         messages = messages[-20:]
         system = str(system)[:4000]
         text = call_claude_chat(messages, system=system, max_tokens=1000)
+        # 存網站問答紀錄
+        try:
+            last_q = ""
+            for m in reversed(messages):
+                if m.get("role") == "user":
+                    last_q = str(m.get("content", ""))
+                    break
+            if last_q:
+                save_qa(last_q, text, "網站")
+        except Exception:
+            pass
     except Exception as e:
         text = f"(伺服器錯誤:{e})"
 
     resp = app.make_response(json.dumps({"reply": text}, ensure_ascii=False))
     resp.headers["Content-Type"] = "application/json; charset=utf-8"
     resp.headers["Access-Control-Allow-Origin"] = "*"
+    return resp
+
+
+@app.route("/qa", methods=["GET"])
+def qa():
+    """讓網站讀取問答紀錄"""
+    hdr = {"Content-Type": "application/json; charset=utf-8", "Access-Control-Allow-Origin": "*"}
+    content = "[]"
+    if GITHUB_TOKEN:
+        api = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{QA_PATH}"
+        headers = {"Authorization": f"Bearer {GITHUB_TOKEN}", "Accept": "application/vnd.github+json"}
+        try:
+            r = requests.get(api, headers=headers, timeout=15)
+            if r.status_code == 200:
+                content = base64.b64decode(r.json()["content"]).decode("utf-8")
+        except Exception:
+            pass
+    resp = app.make_response(content)
+    for k, v in hdr.items():
+        resp.headers[k] = v
     return resp
 
 
@@ -216,11 +298,11 @@ def callback():
         if event.get("type") == "message" and event["message"].get("type") == "text":
             user_text = event["message"]["text"].strip()
             reply_token = event["replyToken"]
+            user_id = event.get("source", {}).get("userId", "")
 
             # 方便你取得自己的 user ID(雖然推播用 broadcast 不需要,留著備用)
             if user_text in ("我的id", "我的ID", "myid"):
-                uid = event.get("source", {}).get("userId", "(取不到)")
-                reply_to_line(reply_token, f"你的 user ID:\n{uid}")
+                reply_to_line(reply_token, f"你的 user ID:\n{user_id or '(取不到)'}")
                 continue
 
             try:
@@ -228,6 +310,9 @@ def callback():
             except Exception as e:
                 result = f"(發生錯誤:{e})"
             reply_to_line(reply_token, result)
+            # 只存你本人問的問答紀錄
+            if user_id == MY_USER_ID:
+                save_qa(user_text, result, "LINE")
 
     return "OK", 200
 
