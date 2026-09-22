@@ -305,6 +305,14 @@ def callback():
                 reply_to_line(reply_token, f"你的 user ID:\n{user_id or '(取不到)'}")
                 continue
 
+            # 快捷:打 esp 回網站連結
+            if user_text.lower() in ("esp", "網站", "單字庫", "西語"):
+                reply_to_line(
+                    reply_token,
+                    "📖 你的西語學習網站:\nhttps://t355125.github.io/line-translator/",
+                )
+                continue
+
             try:
                 result = call_claude(user_text)
             except Exception as e:
