@@ -7731,10 +7731,12 @@ function refreshProgress(){
   if(!bodyEl) return;
 
   function esc(s){ return (s||"").replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m])); }
-  let qaList = [], showFav = false, favSet = new Set();
+  let qaList = [], showFav = false, favSet = new Set(), hiddenSet = new Set();
 
   try{ favSet = new Set(JSON.parse(localStorage.getItem("es3m-qa-fav")||"[]")); }catch(e){}
+  try{ hiddenSet = new Set(JSON.parse(localStorage.getItem("es3m-qa-hidden")||"[]")); }catch(e){}
   function saveFav(){ try{ localStorage.setItem("es3m-qa-fav", JSON.stringify([...favSet])); }catch(e){} }
+  function saveHidden(){ try{ localStorage.setItem("es3m-qa-hidden", JSON.stringify([...hiddenSet])); }catch(e){} }
 
   fetch(QA_API + "/qa?t=" + Date.now())
     .then(r => r.json())
@@ -7743,7 +7745,7 @@ function refreshProgress(){
 
   function render(){
     const q = (searchEl.value||"").trim().toLowerCase();
-    let items = qaList;
+    let items = qaList.filter(x => !hiddenSet.has(x.id));  // 過濾已刪除(隱藏)
     if(showFav) items = items.filter(x => favSet.has(x.id));
     if(q) items = items.filter(x => (x.q||"").toLowerCase().includes(q) || (x.a||"").toLowerCase().includes(q));
     countEl.textContent = "共 " + items.length + " 則" + (showFav ? "(收藏)" : "");
@@ -7760,13 +7762,21 @@ function refreshProgress(){
           '<div style="font-size:11px;color:var(--ink-faint);">' +
             '<span style="background:var(--accent);color:#fff;padding:1px 7px;border-radius:6px;margin-right:6px;">' + esc(x.source||"") + '</span>' +
             esc(x.time||"") + '</div>' +
-          '<span class="qa-star" style="cursor:pointer;font-size:19px;line-height:1;color:' + (fav ? "var(--warm)" : "var(--line)") + ';">' + (fav ? "★" : "☆") + '</span>' +
+          '<div style="display:flex;gap:12px;align-items:center;">' +
+            '<span class="qa-star" style="cursor:pointer;font-size:19px;line-height:1;color:' + (fav ? "var(--warm)" : "var(--line)") + ';">' + (fav ? "★" : "☆") + '</span>' +
+            '<span class="qa-del" title="刪除這則" style="cursor:pointer;font-size:16px;line-height:1;color:var(--ink-faint);">🗑</span>' +
+          '</div>' +
         '</div>' +
         '<div style="font-weight:600;color:var(--ink);margin-top:8px;">Q：' + esc(x.q||"") + '</div>' +
         '<div style="color:var(--ink-soft);margin-top:6px;white-space:pre-wrap;font-size:14px;line-height:1.7;">' + esc(x.a||"") + '</div>';
       el.querySelector(".qa-star").addEventListener("click", () => {
         if(favSet.has(x.id)) favSet.delete(x.id); else favSet.add(x.id);
         saveFav(); render();
+      });
+      el.querySelector(".qa-del").addEventListener("click", () => {
+        if(confirm("確定刪除這則紀錄？(只從你這台裝置移除)")){
+          hiddenSet.add(x.id); saveHidden(); render();
+        }
       });
       frag.appendChild(el);
     });
