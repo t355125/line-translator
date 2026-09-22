@@ -103,6 +103,18 @@ def call_claude_chat(messages, system, max_tokens=1000):
     requests.post(LINE_REPLY_URL, headers=headers, json=payload, timeout=15)
 
 
+def reply_to_line(reply_token, text):
+    headers = {
+        "Authorization": f"Bearer {LINE_CHANNEL_ACCESS_TOKEN}",
+        "Content-Type": "application/json",
+    }
+    payload = {
+        "replyToken": reply_token,
+        "messages": [{"type": "text", "text": text[:4900]}],
+    }
+    requests.post(LINE_REPLY_URL, headers=headers, json=payload, timeout=15)
+
+
 def verify_signature(body_bytes, signature):
     mac = hmac.new(
         LINE_CHANNEL_SECRET.encode("utf-8"), body_bytes, hashlib.sha256
