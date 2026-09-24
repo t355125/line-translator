@@ -1,0 +1,88 @@
+{
+  "morning": {
+    "date": "2026-09-24",
+    "cards": [
+      {
+        "word": "levantarse",
+        "pos": "動詞（反身）",
+        "meaning": "起床",
+        "detail": "變化：me levanto（我）/ te levantas（你）/ se levanta（他／她）",
+        "example_es": "Me levanto a las siete de la mañana.",
+        "example_zh": "我早上七點起床。"
+      },
+      {
+        "word": "ciudad",
+        "pos": "名詞",
+        "meaning": "城市",
+        "detail": "陰性 la ciudad / las ciudades",
+        "example_es": "Vivo en una ciudad grande.",
+        "example_zh": "我住在一個大城市。"
+      },
+      {
+        "word": "comprar",
+        "pos": "動詞",
+        "meaning": "買、購買",
+        "detail": "變化：compro（我）/ compras（你）/ compra（他／她）",
+        "example_es": "Voy a comprar frutas en el mercado.",
+        "example_zh": "我要去市場買水果。"
+      },
+      {
+        "word": "escuela",
+        "pos": "名詞",
+        "meaning": "學校",
+        "detail": "陰性 la escuela / las escuelas",
+        "example_es": "Los niños van a la escuela cada día.",
+        "example_zh": "孩子們每天去學校。"
+      },
+      {
+        "word": "beber",
+        "pos": "動詞",
+        "meaning": "喝",
+        "detail": "變化：bebo（我）/ bebes（你）/ bebe（他／她）",
+        "example_es": "Bebo agua cuando tengo sed.",
+        "example_zh": "我口渴的時候喝水。"
+      },
+      {
+        "word": "tiempo",
+        "pos": "名詞",
+        "meaning": "時間；天氣",
+        "detail": "陽性 el tiempo / los tiempos",
+        "example_es": "¿Qué tiempo hace hoy?",
+        "example_zh": "今天天氣怎麼樣？"
+      },
+      {
+        "word": "hablar",
+        "pos": "動詞",
+        "meaning": "說話、說（語言）",
+        "detail": "變化：hablo（我）/ hablas（你）/ habla（他／她）",
+        "example_es": "Hablo un poco de español.",
+        "example_zh": "我會說一點西班牙文。"
+      },
+      {
+        "word": "tienda",
+        "pos": "名詞",
+        "meaning": "商店",
+        "detail": "陰性 la tienda / las tiendas",
+        "example_es": "La tienda está cerca de mi casa.",
+        "example_zh": "那家商店在我家附近。"
+      },
+      {
+        "word": "dormir",
+        "pos": "動詞",
+        "meaning": "睡覺",
+        "detail": "變化：duermo（我）/ duermes（你）/ duerme（他／她）",
+        "example_es": "Necesito dormir ocho horas cada noche.",
+        "example_zh": "我每晚需要睡八個小時。"
+      },
+      {
+        "word": "año",
+        "pos": "名詞",
+        "meaning": "年、歲",
+        "detail": "陽性 el año / los años",
+        "example_es": "Tengo veinte años y estudio español.",
+        "example_zh": "我二十歲，正在學西班牙文。"
+      }
+    ]
+  },
+  "evening": null
+}
