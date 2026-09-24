@@ -88,12 +88,12 @@
     "date": "2026-09-24",
     "cards": [
       {
-        "word": "despertarse",
+        "word": "levantarse",
         "pos": "動詞（反身）",
-        "meaning": "醒來、起床",
-        "detail": "變化：me despierto（我）/ te despiertas（你）/ se despierta（他／她）",
-        "example_es": "Me despierto a las siete de la mañana.",
-        "example_zh": "我早上七點醒來。"
+        "meaning": "起床、站起來",
+        "detail": "變化：me levanto（我）/ te levantas（你）/ se levanta（他／她）",
+        "example_es": "Me levanto a las siete de la mañana.",
+        "example_zh": "我早上七點起床。"
       },
       {
         "word": "mercado",
@@ -104,68 +104,68 @@
         "example_zh": "我去市場買水果。"
       },
       {
-        "word": "sed",
-        "pos": "名詞",
-        "meaning": "口渴",
-        "detail": "陰性 la sed（通常無複數用法）",
-        "example_es": "Tengo mucha sed. ¿Dónde está el agua?",
-        "example_zh": "我很渴。水在哪裡？"
-      },
-      {
-        "word": "caminar",
+        "word": "beber",
         "pos": "動詞",
-        "meaning": "走路、步行",
-        "detail": "變化：camino（我）/ caminas（你）/ camina（他／她）",
-        "example_es": "Camino al trabajo todos los días.",
-        "example_zh": "我每天走路去上班。"
-      },
-      {
-        "word": "ropa",
-        "pos": "名詞",
-        "meaning": "衣服（總稱）",
-        "detail": "陰性 la ropa（通常用單數表示總稱）",
-        "example_es": "Necesito comprar ropa nueva para el invierno.",
-        "example_zh": "我需要買新的冬天衣服。"
-      },
-      {
-        "word": "llamarse",
-        "pos": "動詞（反身）",
-        "meaning": "叫做、名叫",
-        "detail": "變化：me llamo（我）/ te llamas（你）/ se llama（他／她）",
-        "example_es": "Me llamo Ana. ¿Cómo te llamas tú?",
-        "example_zh": "我叫安娜。你叫什麼名字？"
-      },
-      {
-        "word": "autobús",
-        "pos": "名詞",
-        "meaning": "公車、巴士",
-        "detail": "陽性 el autobús / los autobuses",
-        "example_es": "Tomo el autobús para ir al centro.",
-        "example_zh": "我搭公車去市中心。"
-      },
-      {
-        "word": "cocinar",
-        "pos": "動詞",
-        "meaning": "煮飯、烹飪",
-        "detail": "變化：cocino（我）/ cocinas（你）/ cocina（他／她）",
-        "example_es": "Mi madre cocina muy bien. ¡Qué rico!",
-        "example_zh": "我媽媽做菜做得非常好。好好吃！"
+        "meaning": "喝",
+        "detail": "變化：bebo（我）/ bebes（你）/ bebe（他／她）",
+        "example_es": "Bebo agua todos los días.",
+        "example_zh": "我每天喝水。"
       },
       {
         "word": "ventana",
         "pos": "名詞",
         "meaning": "窗戶",
         "detail": "陰性 la ventana / las ventanas",
-        "example_es": "Por favor, abre la ventana. Hace calor aquí.",
-        "example_zh": "請把窗戶打開，這裡很熱。"
+        "example_es": "Abro la ventana porque hace calor.",
+        "example_zh": "因為很熱，我打開窗戶。"
       },
       {
-        "word": "hablar",
+        "word": "caminar",
         "pos": "動詞",
-        "meaning": "說話、講（語言）",
-        "detail": "變化：hablo（我）/ hablas（你）/ habla（他／她）",
-        "example_es": "Hablo un poco de español. Estoy aprendiendo.",
-        "example_zh": "我會說一點西班牙文，我正在學習。"
+        "meaning": "走路、散步",
+        "detail": "變化：camino（我）/ caminas（你）/ camina（他／她）",
+        "example_es": "Camino al parque con mi perro.",
+        "example_zh": "我和我的狗走路去公園。"
+      },
+      {
+        "word": "año",
+        "pos": "名詞",
+        "meaning": "年、歲",
+        "detail": "陽性 el año / los años",
+        "example_es": "Tengo veinte años.",
+        "example_zh": "我二十歲。"
+      },
+      {
+        "word": "cocinar",
+        "pos": "動詞",
+        "meaning": "做飯、烹飪",
+        "detail": "變化：cocino（我）/ cocinas（你）/ cocina（他／她）",
+        "example_es": "Mi mamá cocina arroz con pollo.",
+        "example_zh": "我媽媽做雞肉飯。"
+      },
+      {
+        "word": "ciudad",
+        "pos": "名詞",
+        "meaning": "城市",
+        "detail": "陰性 la ciudad / las ciudades",
+        "example_es": "Vivo en una ciudad muy grande.",
+        "example_zh": "我住在一個很大的城市。"
+      },
+      {
+        "word": "estudiar",
+        "pos": "動詞",
+        "meaning": "學習、唸書",
+        "detail": "變化：estudio（我）/ estudias（你）/ estudia（他／她）",
+        "example_es": "Estudio español por las noches.",
+        "example_zh": "我晚上學西班牙文。"
+      },
+      {
+        "word": "tienda",
+        "pos": "名詞",
+        "meaning": "商店",
+        "detail": "陰性 la tienda / las tiendas",
+        "example_es": "Hay una tienda cerca de mi casa.",
+        "example_zh": "我家附近有一間商店。"
       }
     ]
   }
