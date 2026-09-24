@@ -2,9 +2,18 @@ name: Daily Spanish Vocab
 
 on:
   schedule:
-    # UTC 09:30 = 台灣時間 17:30
-    - cron: "30 9 * * *"
-  workflow_dispatch:   # 允許手動點按觸發,方便測試
+    - cron: "48 23 * * *"   # UTC 23:48 = 台灣 07:48 早上
+    - cron: "18 9 * * *"    # UTC 09:18 = 台灣 17:18 下午
+  workflow_dispatch:
+    inputs:
+      slot:
+        description: "手動測試要跑哪個時段"
+        type: choice
+        options: [morning, evening]
+        default: morning
+
+permissions:
+  contents: write   # 允許 commit 單字庫回 repo
 
 jobs:
   push-vocab:
@@ -19,8 +28,28 @@ jobs:
       - name: Install deps
         run: pip install requests
 
-      - name: Run daily vocab push
+      - name: Decide slot
+        id: slot
+        run: |
+          if [ "${{ github.event_name }}" = "workflow_dispatch" ]; then
+            echo "value=${{ github.event.inputs.slot }}" >> $GITHUB_OUTPUT
+          elif [ "${{ github.event.schedule }}" = "48 23 * * *" ]; then
+            echo "value=morning" >> $GITHUB_OUTPUT
+          else
+            echo "value=evening" >> $GITHUB_OUTPUT
+          fi
+
+      - name: Run vocab push
         env:
           LINE_CHANNEL_ACCESS_TOKEN: ${{ secrets.LINE_CHANNEL_ACCESS_TOKEN }}
           ANTHROPIC_API_KEY: ${{ secrets.ANTHROPIC_API_KEY }}
+          SLOT: ${{ steps.slot.outputs.value }}
         run: python daily_vocab.py
+
+      - name: Commit updated library
+        run: |
+          git config user.name "github-actions"
+          git config user.email "actions@github.com"
+          git add vocab_library.json last_batches.json docs/vocab.json 2>/dev/null || true
+          git commit -m "Update vocab library [skip ci]" || echo "no change"
+          git push || echo "push skipped"
