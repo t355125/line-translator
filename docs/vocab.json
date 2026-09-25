@@ -118,5 +118,29 @@
     "pos": "動詞",
     "meaning": "學習、唸書",
     "date": "2026-09-24"
+  },
+  {
+    "word": "supermercado",
+    "pos": "名詞",
+    "meaning": "超級市場",
+    "date": "2026-09-25"
+  },
+  {
+    "word": "hambre",
+    "pos": "名詞",
+    "meaning": "飢餓、肚子餓",
+    "date": "2026-09-25"
+  },
+  {
+    "word": "escribir",
+    "pos": "動詞",
+    "meaning": "寫、書寫",
+    "date": "2026-09-25"
+  },
+  {
+    "word": "estar",
+    "pos": "動詞",
+    "meaning": "在（某地）；處於（某狀態）",
+    "date": "2026-09-25"
   }
 ]
