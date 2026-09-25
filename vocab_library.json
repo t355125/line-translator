@@ -142,5 +142,35 @@
     "pos": "動詞",
     "meaning": "在（某地）；處於（某狀態）",
     "date": "2026-09-25"
+  },
+  {
+    "word": "llevar",
+    "pos": "動詞",
+    "meaning": "攜帶、帶走",
+    "date": "2026-09-25"
+  },
+  {
+    "word": "habitación",
+    "pos": "名詞",
+    "meaning": "房間",
+    "date": "2026-09-25"
+  },
+  {
+    "word": "necesitar",
+    "pos": "動詞",
+    "meaning": "需要",
+    "date": "2026-09-25"
+  },
+  {
+    "word": "vecino",
+    "pos": "名詞",
+    "meaning": "鄰居",
+    "date": "2026-09-25"
+  },
+  {
+    "word": "salir",
+    "pos": "動詞",
+    "meaning": "出去、離開",
+    "date": "2026-09-25"
   }
 ]

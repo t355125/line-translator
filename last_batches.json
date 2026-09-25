@@ -85,15 +85,15 @@
     ]
   },
   "evening": {
-    "date": "2026-09-24",
+    "date": "2026-09-25",
     "cards": [
       {
-        "word": "levantarse",
+        "word": "despertarse",
         "pos": "動詞（反身）",
-        "meaning": "起床、站起來",
-        "detail": "變化：me levanto（我）/ te levantas（你）/ se levanta（他／她）",
-        "example_es": "Me levanto a las siete de la mañana.",
-        "example_zh": "我早上七點起床。"
+        "meaning": "醒來、睡醒",
+        "detail": "變化：me despierto（我）/ te despiertas（你）/ se despierta（他／她）",
+        "example_es": "Me despierto a las siete de la mañana.",
+        "example_zh": "我早上七點醒來。"
       },
       {
         "word": "mercado",
@@ -104,12 +104,28 @@
         "example_zh": "我去市場買水果。"
       },
       {
+        "word": "llevar",
+        "pos": "動詞",
+        "meaning": "攜帶、帶走",
+        "detail": "變化：llevo（我）/ llevas（你）/ lleva（他／她）",
+        "example_es": "Llevo mi mochila a la escuela.",
+        "example_zh": "我帶著我的背包去學校。"
+      },
+      {
+        "word": "habitación",
+        "pos": "名詞",
+        "meaning": "房間",
+        "detail": "陰性 la habitación / las habitaciones",
+        "example_es": "Mi habitación es pequeña pero cómoda.",
+        "example_zh": "我的房間小但舒適。"
+      },
+      {
         "word": "beber",
         "pos": "動詞",
         "meaning": "喝",
         "detail": "變化：bebo（我）/ bebes（你）/ bebe（他／她）",
-        "example_es": "Bebo agua todos los días.",
-        "example_zh": "我每天喝水。"
+        "example_es": "Bebo agua después de hacer ejercicio.",
+        "example_zh": "我運動後喝水。"
       },
       {
         "word": "ventana",
@@ -120,52 +136,36 @@
         "example_zh": "因為很熱，我打開窗戶。"
       },
       {
-        "word": "caminar",
+        "word": "necesitar",
         "pos": "動詞",
-        "meaning": "走路、散步",
-        "detail": "變化：camino（我）/ caminas（你）/ camina（他／她）",
-        "example_es": "Camino al parque con mi perro.",
-        "example_zh": "我和我的狗走路去公園。"
+        "meaning": "需要",
+        "detail": "變化：necesito（我）/ necesitas（你）/ necesita（他／她）",
+        "example_es": "Necesito comprar un billete de autobús.",
+        "example_zh": "我需要買一張公車票。"
+      },
+      {
+        "word": "vecino",
+        "pos": "名詞",
+        "meaning": "鄰居",
+        "detail": "陽性 el vecino / los vecinos；陰性 la vecina / las vecinas",
+        "example_es": "Mi vecino es muy simpático.",
+        "example_zh": "我的鄰居非常友善。"
+      },
+      {
+        "word": "salir",
+        "pos": "動詞",
+        "meaning": "出去、離開",
+        "detail": "變化：salgo（我）/ sales（你）/ sale（他／她）",
+        "example_es": "Salgo de casa a las ocho.",
+        "example_zh": "我八點出門。"
       },
       {
         "word": "año",
         "pos": "名詞",
         "meaning": "年、歲",
         "detail": "陽性 el año / los años",
-        "example_es": "Tengo veinte años.",
-        "example_zh": "我二十歲。"
-      },
-      {
-        "word": "cocinar",
-        "pos": "動詞",
-        "meaning": "做飯、烹飪",
-        "detail": "變化：cocino（我）/ cocinas（你）/ cocina（他／她）",
-        "example_es": "Mi mamá cocina arroz con pollo.",
-        "example_zh": "我媽媽做雞肉飯。"
-      },
-      {
-        "word": "ciudad",
-        "pos": "名詞",
-        "meaning": "城市",
-        "detail": "陰性 la ciudad / las ciudades",
-        "example_es": "Vivo en una ciudad muy grande.",
-        "example_zh": "我住在一個很大的城市。"
-      },
-      {
-        "word": "estudiar",
-        "pos": "動詞",
-        "meaning": "學習、唸書",
-        "detail": "變化：estudio（我）/ estudias（你）/ estudia（他／她）",
-        "example_es": "Estudio español por las noches.",
-        "example_zh": "我晚上學西班牙文。"
-      },
-      {
-        "word": "tienda",
-        "pos": "名詞",
-        "meaning": "商店",
-        "detail": "陰性 la tienda / las tiendas",
-        "example_es": "Hay una tienda cerca de mi casa.",
-        "example_zh": "我家附近有一間商店。"
+        "example_es": "Tengo veinte años y estudio español.",
+        "example_zh": "我二十歲，正在學西班牙文。"
       }
     ]
   }
