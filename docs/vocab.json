@@ -172,5 +172,23 @@
     "pos": "動詞",
     "meaning": "出去、離開",
     "date": "2026-09-25"
+  },
+  {
+    "word": "dirección",
+    "pos": "名詞",
+    "meaning": "地址、方向",
+    "date": "2026-09-26"
+  },
+  {
+    "word": "encontrar",
+    "pos": "動詞",
+    "meaning": "找到、遇見",
+    "date": "2026-09-26"
+  },
+  {
+    "word": "esperar",
+    "pos": "動詞",
+    "meaning": "等待；希望",
+    "date": "2026-09-26"
   }
 ]
