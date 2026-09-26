@@ -85,15 +85,15 @@
     ]
   },
   "evening": {
-    "date": "2026-09-25",
+    "date": "2026-09-26",
     "cards": [
       {
         "word": "despertarse",
         "pos": "動詞（反身）",
-        "meaning": "醒來、睡醒",
+        "meaning": "起床、醒來",
         "detail": "變化：me despierto（我）/ te despiertas（你）/ se despierta（他／她）",
         "example_es": "Me despierto a las siete de la mañana.",
-        "example_zh": "我早上七點醒來。"
+        "example_zh": "我早上七點起床。"
       },
       {
         "word": "mercado",
@@ -104,28 +104,20 @@
         "example_zh": "我去市場買水果。"
       },
       {
-        "word": "llevar",
-        "pos": "動詞",
-        "meaning": "攜帶、帶走",
-        "detail": "變化：llevo（我）/ llevas（你）/ lleva（他／她）",
-        "example_es": "Llevo mi mochila a la escuela.",
-        "example_zh": "我帶著我的背包去學校。"
-      },
-      {
-        "word": "habitación",
+        "word": "sed",
         "pos": "名詞",
-        "meaning": "房間",
-        "detail": "陰性 la habitación / las habitaciones",
-        "example_es": "Mi habitación es pequeña pero cómoda.",
-        "example_zh": "我的房間小但舒適。"
+        "meaning": "口渴",
+        "detail": "陰性 la sed（通常單數使用，搭配 tener sed 表示口渴）",
+        "example_es": "Tengo mucha sed. ¿Hay agua?",
+        "example_zh": "我很口渴，有水嗎？"
       },
       {
-        "word": "beber",
+        "word": "caminar",
         "pos": "動詞",
-        "meaning": "喝",
-        "detail": "變化：bebo（我）/ bebes（你）/ bebe（他／她）",
-        "example_es": "Bebo agua después de hacer ejercicio.",
-        "example_zh": "我運動後喝水。"
+        "meaning": "走路、步行",
+        "detail": "變化：camino（我）/ caminas（你）/ camina（他／她）",
+        "example_es": "Camino al trabajo todos los días.",
+        "example_zh": "我每天走路去上班。"
       },
       {
         "word": "ventana",
@@ -133,39 +125,47 @@
         "meaning": "窗戶",
         "detail": "陰性 la ventana / las ventanas",
         "example_es": "Abro la ventana porque hace calor.",
-        "example_zh": "因為很熱，我打開窗戶。"
+        "example_zh": "我打開窗戶，因為天氣很熱。"
       },
       {
-        "word": "necesitar",
-        "pos": "動詞",
-        "meaning": "需要",
-        "detail": "變化：necesito（我）/ necesitas（你）/ necesita（他／她）",
-        "example_es": "Necesito comprar un billete de autobús.",
-        "example_zh": "我需要買一張公車票。"
-      },
-      {
-        "word": "vecino",
-        "pos": "名詞",
-        "meaning": "鄰居",
-        "detail": "陽性 el vecino / los vecinos；陰性 la vecina / las vecinas",
-        "example_es": "Mi vecino es muy simpático.",
-        "example_zh": "我的鄰居非常友善。"
-      },
-      {
-        "word": "salir",
-        "pos": "動詞",
-        "meaning": "出去、離開",
-        "detail": "變化：salgo（我）/ sales（你）/ sale（他／她）",
-        "example_es": "Salgo de casa a las ocho.",
-        "example_zh": "我八點出門。"
+        "word": "llover",
+        "pos": "動詞（無人稱）",
+        "meaning": "下雨",
+        "detail": "現在式：llueve（只用第三人稱單數）",
+        "example_es": "Hoy llueve mucho. No salgo.",
+        "example_zh": "今天雨很大，我不出門。"
       },
       {
         "word": "año",
         "pos": "名詞",
         "meaning": "年、歲",
         "detail": "陽性 el año / los años",
-        "example_es": "Tengo veinte años y estudio español.",
-        "example_zh": "我二十歲，正在學西班牙文。"
+        "example_es": "Tengo veinte años. ¿Y tú?",
+        "example_zh": "我二十歲，你呢？"
+      },
+      {
+        "word": "cocinar",
+        "pos": "動詞",
+        "meaning": "煮飯、烹飪",
+        "detail": "變化：cocino（我）/ cocinas（你）/ cocina（他／她）",
+        "example_es": "Mi madre cocina muy bien.",
+        "example_zh": "我媽媽煮得非常好。"
+      },
+      {
+        "word": "autobús",
+        "pos": "名詞",
+        "meaning": "公車",
+        "detail": "陽性 el autobús / los autobuses",
+        "example_es": "Tomo el autobús para ir a la escuela.",
+        "example_zh": "我搭公車去學校。"
+      },
+      {
+        "word": "estar",
+        "pos": "動詞",
+        "meaning": "（暫時）在、處於某狀態",
+        "detail": "變化：estoy（我）/ estás（你）/ está（他／她）/ estamos（我們）",
+        "example_es": "¿Dónde estás ahora? Estoy en casa.",
+        "example_zh": "你現在在哪裡？我在家。"
       }
     ]
   }
