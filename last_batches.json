@@ -1,12 +1,12 @@
 {
   "morning": {
-    "date": "2026-09-26",
+    "date": "2026-09-27",
     "cards": [
       {
         "word": "despertarse",
-        "pos": "動詞（反身）",
+        "pos": "動詞(反身)",
         "meaning": "醒來、起床",
-        "detail": "變化：me despierto（我）/ te despiertas（你）/ se despierta（他／她）",
+        "detail": "變化：me despierto(我)/ te despiertas(你)/ se despierta(他她)",
         "example_es": "Me despierto a las siete de la mañana.",
         "example_zh": "我早上七點醒來。"
       },
@@ -15,72 +15,72 @@
         "pos": "名詞",
         "meaning": "市場",
         "detail": "陽性 el mercado / los mercados",
-        "example_es": "Voy al mercado para comprar frutas.",
+        "example_es": "Voy al mercado a comprar frutas.",
         "example_zh": "我去市場買水果。"
       },
       {
         "word": "hambre",
         "pos": "名詞",
         "meaning": "飢餓、肚子餓",
-        "detail": "陰性 el hambre（注意：雖是陰性，單數用 el）/ 複數少用",
-        "example_es": "Tengo mucha hambre. ¿Comemos ya?",
-        "example_zh": "我很餓，我們可以吃了嗎？"
+        "detail": "陰性 el hambre（例外：雖為陰性，單數前用 el）",
+        "example_es": "Tengo mucha hambre ahora.",
+        "example_zh": "我現在非常餓。"
       },
       {
-        "word": "caminar",
+        "word": "hablar",
         "pos": "動詞",
-        "meaning": "步行、走路",
-        "detail": "變化：camino（我）/ caminas（你）/ caminamos（我們）",
-        "example_es": "Caminamos juntos al parque cada tarde.",
-        "example_zh": "我們每天下午一起走到公園。"
+        "meaning": "說話、講(語言)",
+        "detail": "變化：hablo(我)/ hablas(你)/ habla(他她)/ hablamos(我們)",
+        "example_es": "Ella habla español muy bien.",
+        "example_zh": "她西班牙文說得很好。"
       },
       {
-        "word": "ventana",
+        "word": "tienda",
         "pos": "名詞",
-        "meaning": "窗戶",
-        "detail": "陰性 la ventana / las ventanas",
-        "example_es": "Abro la ventana porque hace calor.",
-        "example_zh": "我打開窗戶，因為天氣很熱。"
+        "meaning": "商店",
+        "detail": "陰性 la tienda / las tiendas",
+        "example_es": "La tienda está cerca de mi casa.",
+        "example_zh": "那家商店在我家附近。"
+      },
+      {
+        "word": "vivir",
+        "pos": "動詞",
+        "meaning": "居住、生活",
+        "detail": "變化：vivo(我)/ vives(你)/ vive(他她)/ vivimos(我們)",
+        "example_es": "Vivo en Taipei con mi familia.",
+        "example_zh": "我和家人住在台北。"
+      },
+      {
+        "word": "año",
+        "pos": "名詞",
+        "meaning": "年、歲",
+        "detail": "陽性 el año / los años",
+        "example_es": "Tengo veinte años y estudio español.",
+        "example_zh": "我二十歲，正在學西班牙文。"
       },
       {
         "word": "necesitar",
         "pos": "動詞",
         "meaning": "需要",
-        "detail": "變化：necesito（我）/ necesitas（你）/ necesita（他／她）",
-        "example_es": "Necesito un paraguas porque va a llover.",
-        "example_zh": "我需要一把傘，因為快要下雨了。"
+        "detail": "變化：necesito(我)/ necesitas(你)/ necesita(他她)/ necesitamos(我們)",
+        "example_es": "Necesito un vaso de agua, por favor.",
+        "example_zh": "請給我一杯水。"
       },
       {
-        "word": "dirección",
+        "word": "autobús",
         "pos": "名詞",
-        "meaning": "地址、方向",
-        "detail": "陰性 la dirección / las direcciones",
-        "example_es": "¿Me puedes dar la dirección de tu casa?",
-        "example_zh": "你可以給我你家的地址嗎？"
+        "meaning": "公車、巴士",
+        "detail": "陽性 el autobús / los autobuses",
+        "example_es": "Tomo el autobús para ir al trabajo.",
+        "example_zh": "我搭公車去上班。"
       },
       {
-        "word": "encontrar",
+        "word": "escribir",
         "pos": "動詞",
-        "meaning": "找到、遇見",
-        "detail": "變化：encuentro（我）/ encuentras（你）/ encuentra（他／她）",
-        "example_es": "No encuentro mis llaves. ¿Las ves?",
-        "example_zh": "我找不到我的鑰匙，你看到了嗎？"
-      },
-      {
-        "word": "ropa",
-        "pos": "名詞",
-        "meaning": "衣服（總稱）",
-        "detail": "陰性 la ropa（通常單數使用，複數 las ropas 少見）",
-        "example_es": "Voy a lavar la ropa esta tarde.",
-        "example_zh": "我今天下午要洗衣服。"
-      },
-      {
-        "word": "esperar",
-        "pos": "動詞",
-        "meaning": "等待；希望",
-        "detail": "變化：espero（我）/ esperas（你）/ esperamos（我們）",
-        "example_es": "Espero el autobús en la parada.",
-        "example_zh": "我在公車站等公車。"
+        "meaning": "寫、書寫",
+        "detail": "變化：escribo(我)/ escribes(你)/ escribe(他她)/ escribimos(我們)",
+        "example_es": "Escribo un mensaje a mi amigo cada día.",
+        "example_zh": "我每天傳訊息給我朋友。"
       }
     ]
   },
