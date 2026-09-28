@@ -1,14 +1,14 @@
 {
   "morning": {
-    "date": "2026-09-27",
+    "date": "2026-09-28",
     "cards": [
       {
-        "word": "despertarse",
-        "pos": "動詞(反身)",
-        "meaning": "醒來、起床",
-        "detail": "變化：me despierto(我)/ te despiertas(你)/ se despierta(他她)",
-        "example_es": "Me despierto a las siete de la mañana.",
-        "example_zh": "我早上七點醒來。"
+        "word": "levantarse",
+        "pos": "動詞（反身）",
+        "meaning": "起床、站起來",
+        "detail": "變化：me levanto（我）/ te levantas（你）/ se levanta（他／她）",
+        "example_es": "Me levanto a las siete de la mañana.",
+        "example_zh": "我早上七點起床。"
       },
       {
         "word": "mercado",
@@ -19,20 +19,44 @@
         "example_zh": "我去市場買水果。"
       },
       {
-        "word": "hambre",
+        "word": "beber",
+        "pos": "動詞",
+        "meaning": "喝",
+        "detail": "變化：bebo（我）/ bebes（你）/ bebe（他／她）",
+        "example_es": "Bebo agua cuando tengo sed.",
+        "example_zh": "我渴的時候喝水。"
+      },
+      {
+        "word": "ciudad",
         "pos": "名詞",
-        "meaning": "飢餓、肚子餓",
-        "detail": "陰性 el hambre（例外：雖為陰性，單數前用 el）",
-        "example_es": "Tengo mucha hambre ahora.",
-        "example_zh": "我現在非常餓。"
+        "meaning": "城市",
+        "detail": "陰性 la ciudad / las ciudades",
+        "example_es": "Vivo en una ciudad muy grande.",
+        "example_zh": "我住在一個很大的城市。"
       },
       {
         "word": "hablar",
         "pos": "動詞",
-        "meaning": "說話、講(語言)",
-        "detail": "變化：hablo(我)/ hablas(你)/ habla(他她)/ hablamos(我們)",
+        "meaning": "說話、講（語言）",
+        "detail": "變化：hablo（我）/ hablas（你）/ habla（他／她）",
         "example_es": "Ella habla español muy bien.",
         "example_zh": "她西班牙文說得很好。"
+      },
+      {
+        "word": "año",
+        "pos": "名詞",
+        "meaning": "年、歲",
+        "detail": "陽性 el año / los años",
+        "example_es": "Tengo veinte años.",
+        "example_zh": "我二十歲。"
+      },
+      {
+        "word": "caminar",
+        "pos": "動詞",
+        "meaning": "走路、步行",
+        "detail": "變化：camino（我）/ caminas（你）/ camina（他／她）",
+        "example_es": "Camino al trabajo todos los días.",
+        "example_zh": "我每天走路去上班。"
       },
       {
         "word": "tienda",
@@ -43,44 +67,20 @@
         "example_zh": "那家商店在我家附近。"
       },
       {
-        "word": "vivir",
-        "pos": "動詞",
-        "meaning": "居住、生活",
-        "detail": "變化：vivo(我)/ vives(你)/ vive(他她)/ vivimos(我們)",
-        "example_es": "Vivo en Taipei con mi familia.",
-        "example_zh": "我和家人住在台北。"
-      },
-      {
-        "word": "año",
-        "pos": "名詞",
-        "meaning": "年、歲",
-        "detail": "陽性 el año / los años",
-        "example_es": "Tengo veinte años y estudio español.",
-        "example_zh": "我二十歲，正在學西班牙文。"
-      },
-      {
         "word": "necesitar",
         "pos": "動詞",
         "meaning": "需要",
-        "detail": "變化：necesito(我)/ necesitas(你)/ necesita(他她)/ necesitamos(我們)",
-        "example_es": "Necesito un vaso de agua, por favor.",
-        "example_zh": "請給我一杯水。"
+        "detail": "變化：necesito（我）/ necesitas（你）/ necesita（他／她）",
+        "example_es": "Necesito un paraguas porque llueve.",
+        "example_zh": "因為在下雨，我需要一把傘。"
       },
       {
-        "word": "autobús",
+        "word": "familia",
         "pos": "名詞",
-        "meaning": "公車、巴士",
-        "detail": "陽性 el autobús / los autobuses",
-        "example_es": "Tomo el autobús para ir al trabajo.",
-        "example_zh": "我搭公車去上班。"
-      },
-      {
-        "word": "escribir",
-        "pos": "動詞",
-        "meaning": "寫、書寫",
-        "detail": "變化：escribo(我)/ escribes(你)/ escribe(他她)/ escribimos(我們)",
-        "example_es": "Escribo un mensaje a mi amigo cada día.",
-        "example_zh": "我每天傳訊息給我朋友。"
+        "meaning": "家人、家庭",
+        "detail": "陰性 la familia / las familias",
+        "example_es": "Mi familia cena junta los domingos.",
+        "example_zh": "我的家人每個星期天一起吃晚餐。"
       }
     ]
   },
