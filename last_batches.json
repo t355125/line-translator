@@ -85,15 +85,15 @@
     ]
   },
   "evening": {
-    "date": "2026-09-27",
+    "date": "2026-09-29",
     "cards": [
       {
         "word": "despertarse",
         "pos": "動詞（反身）",
-        "meaning": "起床；醒來",
+        "meaning": "醒來、起床",
         "detail": "變化：me despierto（我）/ te despiertas（你）/ se despierta（他／她）",
         "example_es": "Me despierto a las siete de la mañana.",
-        "example_zh": "我早上七點起床。"
+        "example_zh": "我早上七點醒來。"
       },
       {
         "word": "mercado",
@@ -104,68 +104,68 @@
         "example_zh": "我去市場買水果。"
       },
       {
-        "word": "lluvia",
+        "word": "estudiar",
+        "pos": "動詞",
+        "meaning": "學習、讀書",
+        "detail": "變化：estudio（我）/ estudias（你）/ estudia（他／她）",
+        "example_es": "Estudio español todos los días.",
+        "example_zh": "我每天學西班牙文。"
+      },
+      {
+        "word": "ventana",
         "pos": "名詞",
-        "meaning": "雨；下雨",
-        "detail": "陰性 la lluvia / las lluvias",
-        "example_es": "Hoy hay mucha lluvia en la ciudad.",
-        "example_zh": "今天城市裡雨很多。"
+        "meaning": "窗戶",
+        "detail": "陰性 la ventana / las ventanas",
+        "example_es": "Abro la ventana porque hace calor.",
+        "example_zh": "因為很熱，我打開窗戶。"
+      },
+      {
+        "word": "llover",
+        "pos": "動詞（天氣用）",
+        "meaning": "下雨",
+        "detail": "變化：llueve（現在式，只用第三人稱單數）",
+        "example_es": "Hoy llueve mucho en la ciudad.",
+        "example_zh": "今天城市裡雨下很大。"
+      },
+      {
+        "word": "autobús",
+        "pos": "名詞",
+        "meaning": "公車、巴士",
+        "detail": "陽性 el autobús / los autobuses",
+        "example_es": "Tomo el autobús para ir al trabajo.",
+        "example_zh": "我搭公車去上班。"
       },
       {
         "word": "cocinar",
         "pos": "動詞",
-        "meaning": "煮飯；烹飪",
+        "meaning": "烹飪、做菜",
         "detail": "變化：cocino（我）/ cocinas（你）/ cocina（他／她）",
-        "example_es": "Mi mamá cocina arroz todos los días.",
-        "example_zh": "我媽媽每天煮飯。"
+        "example_es": "Mi mamá cocina arroz con pollo los domingos.",
+        "example_zh": "我媽媽每個星期天做雞肉飯。"
       },
       {
-        "word": "vecino",
+        "word": "año",
         "pos": "名詞",
-        "meaning": "鄰居",
-        "detail": "陽性 el vecino / los vecinos；陰性 la vecina / las vecinas",
-        "example_es": "Mi vecino es muy simpático.",
-        "example_zh": "我的鄰居非常友善。"
+        "meaning": "年、歲",
+        "detail": "陽性 el año / los años",
+        "example_es": "Tengo veinticinco años.",
+        "example_zh": "我二十五歲。"
       },
       {
-        "word": "buscar",
+        "word": "encontrar",
         "pos": "動詞",
-        "meaning": "尋找；搜尋",
-        "detail": "變化：busco（我）/ buscas（你）/ busca（他／她）",
-        "example_es": "Busco mis llaves por toda la casa.",
-        "example_zh": "我在整個家裡找我的鑰匙。"
+        "meaning": "找到、遇見",
+        "detail": "變化：encuentro（我）/ encuentras（你）/ encuentra（他／她）",
+        "example_es": "No encuentro mis llaves. ¿Las ves tú?",
+        "example_zh": "我找不到我的鑰匙，你有看到嗎？"
       },
       {
-        "word": "ropa",
+        "word": "farmacia",
         "pos": "名詞",
-        "meaning": "衣服（總稱）",
-        "detail": "陰性 la ropa（通常不可數，複數 las ropas 較少用）",
-        "example_es": "Necesito comprar ropa nueva para el invierno.",
-        "example_zh": "我需要買新衣服過冬。"
-      },
-      {
-        "word": "olvidar",
-        "pos": "動詞",
-        "meaning": "忘記",
-        "detail": "變化：olvido（我）/ olvidas（你）/ olvida（他／她）",
-        "example_es": "Siempre olvido llevar el paraguas cuando llueve.",
-        "example_zh": "下雨時我總是忘記帶雨傘。"
-      },
-      {
-        "word": "estación",
-        "pos": "名詞",
-        "meaning": "季節；車站",
-        "detail": "陰性 la estación / las estaciones",
-        "example_es": "Mi estación favorita es el otoño.",
-        "example_zh": "我最喜歡的季節是秋天。"
-      },
-      {
-        "word": "caminar",
-        "pos": "動詞",
-        "meaning": "走路；步行",
-        "detail": "變化：camino（我）/ caminas（你）/ camina（他／她）",
-        "example_es": "Camino al trabajo porque vivo cerca.",
-        "example_zh": "我走路去上班，因為我住得很近。"
+        "meaning": "藥局",
+        "detail": "陰性 la farmacia / las farmacias",
+        "example_es": "Necesito ir a la farmacia a comprar medicina.",
+        "example_zh": "我需要去藥局買藥。"
       }
     ]
   }
