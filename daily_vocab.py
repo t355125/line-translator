@@ -150,7 +150,38 @@ def main():
     state = load_json(STATE_FILE, {"morning": None, "evening": None})
     library = load_json(VOCAB_FILE, [])
 
-    new_cards = call_claude_json(NEW_VOCAB_PROMPT)["cards"]
+    # 把已經出過的字告訴 AI,叫它避開,避免重複
+    used_words = [item.get("word", "") for item in library if item.get("word")]
+    avoid_text = ""
+    if used_words:
+        # 只取最近 200 個,避免 prompt 太長
+        recent = used_words[-200:]
+        avoid_text = (
+            "\n\n【非常重要:以下這些字已經出過了,絕對不要再出,請出完全不同的新字】\n"
+            + "、".join(recent)
+        )
+
+    new_cards = call_claude_json(NEW_VOCAB_PROMPT + avoid_text)["cards"]
+
+    # 保險:過濾掉萬一還是重複的字(比對已出過的,只留新的)
+    used_set = set(w.lower() for w in used_words)
+    new_cards = [c for c in new_cards if c.get("word", "").lower() not in used_set]
+
+    # 如果過濾後不足 10 個,再要一批補齊(最多補一次)
+    if len(new_cards) < 10:
+        try:
+            more = call_claude_json(NEW_VOCAB_PROMPT + avoid_text)["cards"]
+            have = set(c.get("word", "").lower() for c in new_cards)
+            for c in more:
+                w = c.get("word", "").lower()
+                if w and w not in used_set and w not in have:
+                    new_cards.append(c)
+                    have.add(w)
+                if len(new_cards) >= 10:
+                    break
+        except Exception:
+            pass
+    new_cards = new_cards[:10]
 
     if SLOT == "morning":
         review_batch = state.get("evening")
