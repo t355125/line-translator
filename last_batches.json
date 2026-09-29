@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-09-28",
+    "date": "2026-09-29",
     "cards": [
       {
-        "word": "levantarse",
-        "pos": "動詞（反身）",
-        "meaning": "起床、站起來",
-        "detail": "變化：me levanto（我）/ te levantas（你）/ se levanta（他／她）",
-        "example_es": "Me levanto a las siete de la mañana.",
-        "example_zh": "我早上七點起床。"
-      },
-      {
-        "word": "mercado",
-        "pos": "名詞",
-        "meaning": "市場",
-        "detail": "陽性 el mercado / los mercados",
-        "example_es": "Voy al mercado a comprar frutas.",
-        "example_zh": "我去市場買水果。"
-      },
-      {
-        "word": "beber",
+        "word": "desayunar",
         "pos": "動詞",
-        "meaning": "喝",
-        "detail": "變化：bebo（我）/ bebes（你）/ bebe（他／她）",
-        "example_es": "Bebo agua cuando tengo sed.",
-        "example_zh": "我渴的時候喝水。"
+        "meaning": "吃早餐",
+        "detail": "變化：desayuno（我）/ desayunas（你）/ desayuna（他／她）",
+        "example_es": "Cada mañana desayuno pan con leche.",
+        "example_zh": "每天早上我吃麵包配牛奶當早餐。"
       },
       {
-        "word": "ciudad",
+        "word": "amigo",
         "pos": "名詞",
-        "meaning": "城市",
-        "detail": "陰性 la ciudad / las ciudades",
-        "example_es": "Vivo en una ciudad muy grande.",
-        "example_zh": "我住在一個很大的城市。"
+        "meaning": "朋友（男）",
+        "detail": "陽性 el amigo / los amigos；女性朋友為 la amiga / las amigas",
+        "example_es": "Mi amigo se llama Carlos.",
+        "example_zh": "我的朋友叫卡洛斯。"
       },
       {
-        "word": "hablar",
+        "word": "comer",
         "pos": "動詞",
-        "meaning": "說話、講（語言）",
-        "detail": "變化：hablo（我）/ hablas（你）/ habla（他／她）",
-        "example_es": "Ella habla español muy bien.",
-        "example_zh": "她西班牙文說得很好。"
+        "meaning": "吃（正餐）",
+        "detail": "變化：como（我）/ comes（你）/ come（他／她）",
+        "example_es": "Como arroz con pollo todos los días.",
+        "example_zh": "我每天吃雞肉飯。"
       },
       {
-        "word": "año",
+        "word": "mesa",
         "pos": "名詞",
-        "meaning": "年、歲",
-        "detail": "陽性 el año / los años",
-        "example_es": "Tengo veinte años.",
-        "example_zh": "我二十歲。"
+        "meaning": "桌子",
+        "detail": "陰性 la mesa / las mesas",
+        "example_es": "El libro está encima de la mesa.",
+        "example_zh": "書在桌子上面。"
       },
       {
-        "word": "caminar",
+        "word": "trabajar",
         "pos": "動詞",
-        "meaning": "走路、步行",
-        "detail": "變化：camino（我）/ caminas（你）/ camina（他／她）",
-        "example_es": "Camino al trabajo todos los días.",
-        "example_zh": "我每天走路去上班。"
+        "meaning": "工作",
+        "detail": "變化：trabajo（我）/ trabajas（你）/ trabaja（他／她）",
+        "example_es": "Trabajo en una oficina de lunes a viernes.",
+        "example_zh": "我週一到週五在辦公室工作。"
       },
       {
-        "word": "tienda",
+        "word": "perro",
         "pos": "名詞",
-        "meaning": "商店",
-        "detail": "陰性 la tienda / las tiendas",
-        "example_es": "La tienda está cerca de mi casa.",
-        "example_zh": "那家商店在我家附近。"
+        "meaning": "狗",
+        "detail": "陽性 el perro / los perros；母狗為 la perra / las perras",
+        "example_es": "Tengo un perro pequeño y muy simpático.",
+        "example_zh": "我有一隻小型又很可愛的狗。"
       },
       {
-        "word": "necesitar",
+        "word": "abrir",
         "pos": "動詞",
-        "meaning": "需要",
-        "detail": "變化：necesito（我）/ necesitas（你）/ necesita（他／她）",
-        "example_es": "Necesito un paraguas porque llueve.",
-        "example_zh": "因為在下雨，我需要一把傘。"
+        "meaning": "打開",
+        "detail": "變化：abro（我）/ abres（你）/ abre（他／她）",
+        "example_es": "¿Puedes abrir la puerta, por favor?",
+        "example_zh": "你可以把門打開嗎？"
       },
       {
-        "word": "familia",
+        "word": "silla",
         "pos": "名詞",
-        "meaning": "家人、家庭",
-        "detail": "陰性 la familia / las familias",
-        "example_es": "Mi familia cena junta los domingos.",
-        "example_zh": "我的家人每個星期天一起吃晚餐。"
+        "meaning": "椅子",
+        "detail": "陰性 la silla / las sillas",
+        "example_es": "Me siento en la silla para descansar.",
+        "example_zh": "我坐在椅子上休息。"
+      },
+      {
+        "word": "querer",
+        "pos": "動詞",
+        "meaning": "想要；愛",
+        "detail": "變化：quiero（我）/ quieres（你）/ quiere（他／她）【不規則動詞，字根 e → ie】",
+        "example_es": "Quiero un café con leche, por favor.",
+        "example_zh": "我想要一杯拿鐵咖啡，謝謝。"
+      },
+      {
+        "word": "café",
+        "pos": "名詞",
+        "meaning": "咖啡；咖啡廳",
+        "detail": "陽性 el café / los cafés",
+        "example_es": "Todas las mañanas tomo un café antes de trabajar.",
+        "example_zh": "每天早上我在上班前喝一杯咖啡。"
       }
     ]
   },

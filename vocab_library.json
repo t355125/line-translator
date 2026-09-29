@@ -238,5 +238,65 @@
     "pos": "名詞",
     "meaning": "藥局",
     "date": "2026-09-29"
+  },
+  {
+    "word": "desayunar",
+    "pos": "動詞",
+    "meaning": "吃早餐",
+    "date": "2026-09-29"
+  },
+  {
+    "word": "amigo",
+    "pos": "名詞",
+    "meaning": "朋友（男）",
+    "date": "2026-09-29"
+  },
+  {
+    "word": "comer",
+    "pos": "動詞",
+    "meaning": "吃（正餐）",
+    "date": "2026-09-29"
+  },
+  {
+    "word": "mesa",
+    "pos": "名詞",
+    "meaning": "桌子",
+    "date": "2026-09-29"
+  },
+  {
+    "word": "trabajar",
+    "pos": "動詞",
+    "meaning": "工作",
+    "date": "2026-09-29"
+  },
+  {
+    "word": "perro",
+    "pos": "名詞",
+    "meaning": "狗",
+    "date": "2026-09-29"
+  },
+  {
+    "word": "abrir",
+    "pos": "動詞",
+    "meaning": "打開",
+    "date": "2026-09-29"
+  },
+  {
+    "word": "silla",
+    "pos": "名詞",
+    "meaning": "椅子",
+    "date": "2026-09-29"
+  },
+  {
+    "word": "querer",
+    "pos": "動詞",
+    "meaning": "想要；愛",
+    "date": "2026-09-29"
+  },
+  {
+    "word": "café",
+    "pos": "名詞",
+    "meaning": "咖啡；咖啡廳",
+    "date": "2026-09-29"
   }
 ]
