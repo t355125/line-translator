@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "cards": [
       {
-        "word": "desayunar",
-        "pos": "動詞",
-        "meaning": "吃早餐",
-        "detail": "變化：desayuno（我）/ desayunas（你）/ desayuna（他／她）",
-        "example_es": "Cada mañana desayuno pan con leche.",
-        "example_zh": "每天早上我吃麵包配牛奶當早餐。"
-      },
-      {
-        "word": "amigo",
+        "word": "camisa",
         "pos": "名詞",
-        "meaning": "朋友（男）",
-        "detail": "陽性 el amigo / los amigos；女性朋友為 la amiga / las amigas",
-        "example_es": "Mi amigo se llama Carlos.",
-        "example_zh": "我的朋友叫卡洛斯。"
+        "meaning": "襯衫",
+        "detail": "陰性 la camisa / las camisas",
+        "example_es": "Mi camisa es azul.",
+        "example_zh": "我的襯衫是藍色的。"
       },
       {
-        "word": "comer",
-        "pos": "動詞",
-        "meaning": "吃（正餐）",
-        "detail": "變化：como（我）/ comes（你）/ come（他／她）",
-        "example_es": "Como arroz con pollo todos los días.",
-        "example_zh": "我每天吃雞肉飯。"
-      },
-      {
-        "word": "mesa",
+        "word": "agua",
         "pos": "名詞",
-        "meaning": "桌子",
-        "detail": "陰性 la mesa / las mesas",
-        "example_es": "El libro está encima de la mesa.",
-        "example_zh": "書在桌子上面。"
+        "meaning": "水",
+        "detail": "陰性（單數前用 el）el agua / las aguas",
+        "example_es": "Quiero un vaso de agua, por favor.",
+        "example_zh": "請給我一杯水。"
       },
       {
-        "word": "trabajar",
-        "pos": "動詞",
-        "meaning": "工作",
-        "detail": "變化：trabajo（我）/ trabajas（你）/ trabaja（他／她）",
-        "example_es": "Trabajo en una oficina de lunes a viernes.",
-        "example_zh": "我週一到週五在辦公室工作。"
-      },
-      {
-        "word": "perro",
+        "word": "niño",
         "pos": "名詞",
-        "meaning": "狗",
-        "detail": "陽性 el perro / los perros；母狗為 la perra / las perras",
-        "example_es": "Tengo un perro pequeño y muy simpático.",
-        "example_zh": "我有一隻小型又很可愛的狗。"
+        "meaning": "小男孩；小孩",
+        "detail": "陽性 el niño / los niños；陰性 la niña / las niñas",
+        "example_es": "El niño juega en el parque.",
+        "example_zh": "那個小男孩在公園裡玩。"
       },
       {
-        "word": "abrir",
+        "word": "pagar",
         "pos": "動詞",
-        "meaning": "打開",
-        "detail": "變化：abro（我）/ abres（你）/ abre（他／她）",
-        "example_es": "¿Puedes abrir la puerta, por favor?",
-        "example_zh": "你可以把門打開嗎？"
+        "meaning": "付錢；付款",
+        "detail": "變化：pago（我）/ pagas（你）/ paga（他／她）",
+        "example_es": "¿Puedo pagar con tarjeta?",
+        "example_zh": "我可以刷卡付款嗎？"
       },
       {
-        "word": "silla",
+        "word": "calle",
         "pos": "名詞",
-        "meaning": "椅子",
-        "detail": "陰性 la silla / las sillas",
-        "example_es": "Me siento en la silla para descansar.",
-        "example_zh": "我坐在椅子上休息。"
+        "meaning": "街道；路",
+        "detail": "陰性 la calle / las calles",
+        "example_es": "El banco está en esta calle.",
+        "example_zh": "銀行就在這條街上。"
       },
       {
-        "word": "querer",
+        "word": "preferir",
         "pos": "動詞",
-        "meaning": "想要；愛",
-        "detail": "變化：quiero（我）/ quieres（你）/ quiere（他／她）【不規則動詞，字根 e → ie】",
-        "example_es": "Quiero un café con leche, por favor.",
-        "example_zh": "我想要一杯拿鐵咖啡，謝謝。"
+        "meaning": "偏好；更喜歡",
+        "detail": "變化：prefiero（我）/ prefieres（你）/ prefiere（他／她）",
+        "example_es": "Prefiero el té al café.",
+        "example_zh": "我比較喜歡茶勝過咖啡。"
       },
       {
-        "word": "café",
+        "word": "médico",
         "pos": "名詞",
-        "meaning": "咖啡；咖啡廳",
-        "detail": "陽性 el café / los cafés",
-        "example_es": "Todas las mañanas tomo un café antes de trabajar.",
-        "example_zh": "每天早上我在上班前喝一杯咖啡。"
+        "meaning": "醫生",
+        "detail": "陽性 el médico / los médicos；陰性 la médica / las médicas",
+        "example_es": "Voy al médico mañana.",
+        "example_zh": "我明天要去看醫生。"
+      },
+      {
+        "word": "llegar",
+        "pos": "動詞",
+        "meaning": "到達；抵達",
+        "detail": "變化：llego（我）/ llegas（你）/ llega（他／她）",
+        "example_es": "El tren llega a las ocho.",
+        "example_zh": "火車八點到達。"
+      },
+      {
+        "word": "hospital",
+        "pos": "名詞",
+        "meaning": "醫院",
+        "detail": "陽性 el hospital / los hospitales",
+        "example_es": "El hospital está cerca de mi casa.",
+        "example_zh": "醫院在我家附近。"
+      },
+      {
+        "word": "ducharse",
+        "pos": "動詞",
+        "meaning": "淋浴、洗澡",
+        "detail": "變化：me ducho（我）/ te duchas（你）/ se ducha（他／她）",
+        "example_es": "Me ducho por la mañana todos los días.",
+        "example_zh": "我每天早上淋浴。"
       }
     ]
   },
