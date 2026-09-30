@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-09-29",
+    "date": "2026-09-30",
     "cards": [
       {
-        "word": "bañarse",
+        "word": "empezar",
         "pos": "動詞",
-        "meaning": "洗澡",
-        "detail": "變化：me baño(我)/ te bañas(你)/ se baña(他／她)",
-        "example_es": "Me baño todos los días por la mañana.",
-        "example_zh": "我每天早上洗澡。"
+        "meaning": "開始",
+        "detail": "變化：empiezo（我）/ empiezas（你）/ empieza（他/她）",
+        "example_es": "Empiezo a trabajar a las ocho.",
+        "example_zh": "我八點開始工作。"
       },
       {
-        "word": "zapato",
+        "word": "pan",
         "pos": "名詞",
-        "meaning": "鞋子",
-        "detail": "陽性 el zapato / los zapatos",
-        "example_es": "Mis zapatos son negros y nuevos.",
-        "example_zh": "我的鞋子是黑色的，是新的。"
+        "meaning": "麵包",
+        "detail": "陽性 el pan / los panes",
+        "example_es": "Como pan con mantequilla por la mañana.",
+        "example_zh": "我早上吃奶油麵包。"
       },
       {
-        "word": "leer",
+        "word": "tarde",
+        "pos": "名詞",
+        "meaning": "下午；傍晚",
+        "detail": "陰性 la tarde / las tardes",
+        "example_es": "Por la tarde voy al parque.",
+        "example_zh": "我下午去公園。"
+      },
+      {
+        "word": "conocer",
         "pos": "動詞",
-        "meaning": "閱讀",
-        "detail": "變化：leo(我)/ lees(你)/ lee(他／她)",
-        "example_es": "Leo un libro antes de dormir.",
-        "example_zh": "我睡前讀一本書。"
+        "meaning": "認識；了解",
+        "detail": "變化：conozco（我）/ conoces（你）/ conoce（他/她）",
+        "example_es": "Conozco a una chica muy simpática.",
+        "example_zh": "我認識一個很友善的女生。"
       },
       {
-        "word": "puerta",
+        "word": "leche",
         "pos": "名詞",
-        "meaning": "門",
-        "detail": "陰性 la puerta / las puertas",
-        "example_es": "Por favor, cierra la puerta.",
-        "example_zh": "請把門關上。"
+        "meaning": "牛奶",
+        "detail": "陰性 la leche / las leches",
+        "example_es": "Bebo un vaso de leche cada mañana.",
+        "example_zh": "我每天早上喝一杯牛奶。"
       },
       {
-        "word": "tener",
+        "word": "volver",
         "pos": "動詞",
-        "meaning": "有、擁有",
-        "detail": "變化：tengo(我)/ tienes(你)/ tiene(他／她)",
-        "example_es": "Tengo dos gatos en casa.",
-        "example_zh": "我家裡有兩隻貓。"
+        "meaning": "回來；返回",
+        "detail": "變化：vuelvo（我）/ vuelves（你）/ vuelve（他/她）",
+        "example_es": "Vuelvo a casa a las seis de la tarde.",
+        "example_zh": "我下午六點回家。"
       },
       {
-        "word": "flor",
+        "word": "número",
         "pos": "名詞",
-        "meaning": "花",
-        "detail": "陰性 la flor / las flores",
-        "example_es": "Ella compra flores bonitas en el mercado.",
-        "example_zh": "她在市場買了漂亮的花。"
+        "meaning": "號碼；數字",
+        "detail": "陽性 el número / los números",
+        "example_es": "¿Cuál es tu número de teléfono?",
+        "example_zh": "你的電話號碼是幾號？"
       },
       {
-        "word": "correr",
+        "word": "descansar",
         "pos": "動詞",
-        "meaning": "跑步",
-        "detail": "變化：corro(我)/ corres(你)/ corre(他／她)",
-        "example_es": "Corro en el parque cada mañana.",
-        "example_zh": "我每天早上在公園跑步。"
+        "meaning": "休息",
+        "detail": "變化：descanso（我）/ descansas（你）/ descansa（他/她）",
+        "example_es": "Descanso un poco después de comer.",
+        "example_zh": "我吃飯後休息一下。"
       },
       {
-        "word": "precio",
+        "word": "fruta",
         "pos": "名詞",
-        "meaning": "價格",
-        "detail": "陽性 el precio / los precios",
-        "example_es": "¿Cuál es el precio de esta camisa?",
-        "example_zh": "這件襯衫的價格是多少？"
+        "meaning": "水果",
+        "detail": "陰性 la fruta / las frutas",
+        "example_es": "Me gusta comer fruta fresca.",
+        "example_zh": "我喜歡吃新鮮水果。"
       },
       {
-        "word": "poder",
-        "pos": "動詞",
-        "meaning": "能夠、可以",
-        "detail": "變化：puedo(我)/ puedes(你)/ puede(他／她)",
-        "example_es": "¿Puedes ayudarme, por favor?",
-        "example_zh": "你可以幫我嗎？"
-      },
-      {
-        "word": "libro",
+        "word": "casa",
         "pos": "名詞",
-        "meaning": "書",
-        "detail": "陽性 el libro / los libros",
-        "example_es": "Este libro es muy interesante.",
-        "example_zh": "這本書非常有趣。"
+        "meaning": "房子、家",
+        "detail": "陰性 la casa / las casas",
+        "example_es": "Mi casa es pequeña pero bonita.",
+        "example_zh": "我的家很小但很漂亮。"
       }
     ]
   }

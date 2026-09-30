@@ -418,5 +418,65 @@
     "pos": "動詞",
     "meaning": "淋浴、洗澡",
     "date": "2026-09-30"
+  },
+  {
+    "word": "empezar",
+    "pos": "動詞",
+    "meaning": "開始",
+    "date": "2026-09-30"
+  },
+  {
+    "word": "pan",
+    "pos": "名詞",
+    "meaning": "麵包",
+    "date": "2026-09-30"
+  },
+  {
+    "word": "tarde",
+    "pos": "名詞",
+    "meaning": "下午；傍晚",
+    "date": "2026-09-30"
+  },
+  {
+    "word": "conocer",
+    "pos": "動詞",
+    "meaning": "認識；了解",
+    "date": "2026-09-30"
+  },
+  {
+    "word": "leche",
+    "pos": "名詞",
+    "meaning": "牛奶",
+    "date": "2026-09-30"
+  },
+  {
+    "word": "volver",
+    "pos": "動詞",
+    "meaning": "回來；返回",
+    "date": "2026-09-30"
+  },
+  {
+    "word": "número",
+    "pos": "名詞",
+    "meaning": "號碼；數字",
+    "date": "2026-09-30"
+  },
+  {
+    "word": "descansar",
+    "pos": "動詞",
+    "meaning": "休息",
+    "date": "2026-09-30"
+  },
+  {
+    "word": "fruta",
+    "pos": "名詞",
+    "meaning": "水果",
+    "date": "2026-09-30"
+  },
+  {
+    "word": "casa",
+    "pos": "名詞",
+    "meaning": "房子、家",
+    "date": "2026-09-30"
   }
 ]
