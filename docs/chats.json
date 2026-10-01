@@ -1,5 +1,21 @@
 [
  {
+  "id": "c1790852580251",
+  "title": "Tiburon 是什麼",
+  "mode": "ask",
+  "messages": [
+   {
+    "role": "user",
+    "content": "Tiburon 是什麼"
+   },
+   {
+    "role": "assistant",
+    "content": "Tiburón 是鯊魚的意思。\n\n注意這個字有重音符號，正確拼法是 tiburón。\n\n例句：\nEl tiburón es muy grande.（那隻鯊魚很大。）\nVi un tiburón en el mar.（我在海裡看到一隻鯊魚。）"
+   }
+  ],
+  "time": "2026-10-01 19:03"
+ },
+ {
   "id": "c1790843670990",
   "title": "情境對話",
   "mode": "talk",
