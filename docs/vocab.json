@@ -478,5 +478,65 @@
     "pos": "名詞",
     "meaning": "房子、家",
     "date": "2026-09-30"
+  },
+  {
+    "word": "jardín",
+    "pos": "名詞",
+    "meaning": "花園",
+    "date": "2026-10-01"
+  },
+  {
+    "word": "pedir",
+    "pos": "動詞",
+    "meaning": "點餐、要求",
+    "date": "2026-10-01"
+  },
+  {
+    "word": "jugar",
+    "pos": "動詞",
+    "meaning": "玩、打（球）",
+    "date": "2026-10-01"
+  },
+  {
+    "word": "playa",
+    "pos": "名詞",
+    "meaning": "海灘",
+    "date": "2026-10-01"
+  },
+  {
+    "word": "escuchar",
+    "pos": "動詞",
+    "meaning": "聆聽",
+    "date": "2026-10-01"
+  },
+  {
+    "word": "desayuno",
+    "pos": "名詞",
+    "meaning": "早餐",
+    "date": "2026-10-01"
+  },
+  {
+    "word": "espejo",
+    "pos": "名詞",
+    "meaning": "鏡子",
+    "date": "2026-10-01"
+  },
+  {
+    "word": "aprender",
+    "pos": "動詞",
+    "meaning": "學習",
+    "date": "2026-10-01"
+  },
+  {
+    "word": "cansado",
+    "pos": "形容詞",
+    "meaning": "疲倦的",
+    "date": "2026-10-01"
+  },
+  {
+    "word": "almorzar",
+    "pos": "動詞",
+    "meaning": "吃午餐",
+    "date": "2026-10-01"
   }
 ]

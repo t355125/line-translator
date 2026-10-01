@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-09-30",
+    "date": "2026-10-01",
     "cards": [
       {
-        "word": "camisa",
+        "word": "jardín",
         "pos": "名詞",
-        "meaning": "襯衫",
-        "detail": "陰性 la camisa / las camisas",
-        "example_es": "Mi camisa es azul.",
-        "example_zh": "我的襯衫是藍色的。"
+        "meaning": "花園",
+        "detail": "陽性 el jardín / los jardines",
+        "example_es": "El jardín de mi casa es muy bonito.",
+        "example_zh": "我家的花園很漂亮。"
       },
       {
-        "word": "agua",
-        "pos": "名詞",
-        "meaning": "水",
-        "detail": "陰性（單數前用 el）el agua / las aguas",
-        "example_es": "Quiero un vaso de agua, por favor.",
-        "example_zh": "請給我一杯水。"
-      },
-      {
-        "word": "niño",
-        "pos": "名詞",
-        "meaning": "小男孩；小孩",
-        "detail": "陽性 el niño / los niños；陰性 la niña / las niñas",
-        "example_es": "El niño juega en el parque.",
-        "example_zh": "那個小男孩在公園裡玩。"
-      },
-      {
-        "word": "pagar",
+        "word": "pedir",
         "pos": "動詞",
-        "meaning": "付錢；付款",
-        "detail": "變化：pago（我）/ pagas（你）/ paga（他／她）",
-        "example_es": "¿Puedo pagar con tarjeta?",
-        "example_zh": "我可以刷卡付款嗎？"
+        "meaning": "點餐、要求",
+        "detail": "變化：pido（我）/ pides（你）/ pide（他／她）",
+        "example_es": "Pido una pizza en el restaurante.",
+        "example_zh": "我在餐廳點了一份披薩。"
       },
       {
-        "word": "calle",
-        "pos": "名詞",
-        "meaning": "街道；路",
-        "detail": "陰性 la calle / las calles",
-        "example_es": "El banco está en esta calle.",
-        "example_zh": "銀行就在這條街上。"
-      },
-      {
-        "word": "preferir",
+        "word": "jugar",
         "pos": "動詞",
-        "meaning": "偏好；更喜歡",
-        "detail": "變化：prefiero（我）/ prefieres（你）/ prefiere（他／她）",
-        "example_es": "Prefiero el té al café.",
-        "example_zh": "我比較喜歡茶勝過咖啡。"
+        "meaning": "玩、打（球）",
+        "detail": "變化：juego（我）/ juegas（你）/ juega（他／她）",
+        "example_es": "Los niños juegan en el parque.",
+        "example_zh": "孩子們在公園裡玩。"
       },
       {
-        "word": "médico",
+        "word": "playa",
         "pos": "名詞",
-        "meaning": "醫生",
-        "detail": "陽性 el médico / los médicos；陰性 la médica / las médicas",
-        "example_es": "Voy al médico mañana.",
-        "example_zh": "我明天要去看醫生。"
+        "meaning": "海灘",
+        "detail": "陰性 la playa / las playas",
+        "example_es": "En verano voy a la playa con mi familia.",
+        "example_zh": "夏天我和家人去海灘。"
       },
       {
-        "word": "llegar",
+        "word": "escuchar",
         "pos": "動詞",
-        "meaning": "到達；抵達",
-        "detail": "變化：llego（我）/ llegas（你）/ llega（他／她）",
-        "example_es": "El tren llega a las ocho.",
-        "example_zh": "火車八點到達。"
+        "meaning": "聆聽",
+        "detail": "變化：escucho（我）/ escuchas（你）/ escucha（他／她）",
+        "example_es": "Escucho música cuando cocino.",
+        "example_zh": "我做飯時聽音樂。"
       },
       {
-        "word": "hospital",
+        "word": "desayuno",
         "pos": "名詞",
-        "meaning": "醫院",
-        "detail": "陽性 el hospital / los hospitales",
-        "example_es": "El hospital está cerca de mi casa.",
-        "example_zh": "醫院在我家附近。"
+        "meaning": "早餐",
+        "detail": "陽性 el desayuno / los desayunos",
+        "example_es": "El desayuno es muy importante para mí.",
+        "example_zh": "早餐對我來說非常重要。"
       },
       {
-        "word": "ducharse",
+        "word": "espejo",
+        "pos": "名詞",
+        "meaning": "鏡子",
+        "detail": "陽性 el espejo / los espejos",
+        "example_es": "Me miro en el espejo antes de salir.",
+        "example_zh": "出門前我照鏡子。"
+      },
+      {
+        "word": "aprender",
         "pos": "動詞",
-        "meaning": "淋浴、洗澡",
-        "detail": "變化：me ducho（我）/ te duchas（你）/ se ducha（他／她）",
-        "example_es": "Me ducho por la mañana todos los días.",
-        "example_zh": "我每天早上淋浴。"
+        "meaning": "學習",
+        "detail": "變化：aprendo（我）/ aprendes（你）/ aprende（他／她）",
+        "example_es": "Aprendo español todos los días.",
+        "example_zh": "我每天學西班牙文。"
+      },
+      {
+        "word": "cansado",
+        "pos": "形容詞",
+        "meaning": "疲倦的",
+        "detail": "陽性單數 cansado／陰性單數 cansada／陽性複數 cansados／陰性複數 cansadas",
+        "example_es": "Estoy muy cansado después del trabajo.",
+        "example_zh": "工作之後我很疲倦。"
+      },
+      {
+        "word": "almorzar",
+        "pos": "動詞",
+        "meaning": "吃午餐",
+        "detail": "變化：almuerzo（我）／almuerzas（你）／almuerza（他／她）",
+        "example_es": "Almuerzo arroz con pollo todos los días.",
+        "example_zh": "我每天吃雞肉飯當午餐。"
       }
     ]
   },
