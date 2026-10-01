@@ -6178,7 +6178,10 @@ const WEEK_LINKS = {
     send(t);
   });
   inp.addEventListener("keydown", e => {
-    if(e.key === "Enter" && (e.metaKey || e.ctrlKey)) document.getElementById("chatGo").click();
+    if(e.key === "Enter" && !e.shiftKey && !e.isComposing){
+      e.preventDefault();
+      document.getElementById("chatGo").click();
+    }
   });
   document.getElementById("chatClr").addEventListener("click", () => {
     history = []; log.innerHTML = "";
