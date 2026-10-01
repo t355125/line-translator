@@ -1,5 +1,12 @@
 [
  {
+  "id": "2026100115513655",
+  "q": "（請用西班牙文開始這個情境的對話）",
+  "a": "Buenas tardes. Bienvenido al restaurante.（午安，歡迎光臨。）\n\n¿Cuántas personas son?（請問幾位？）",
+  "source": "網站",
+  "time": "2026-10-01 15:51"
+ },
+ {
   "id": "2026100115495054",
   "q": "si",
   "a": "Bien. ¿Qué quiere usted comer?（好的。您想吃什麼？）",
