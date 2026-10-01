@@ -1,5 +1,12 @@
 [
  {
+  "id": "2026100114383839",
+  "q": "Me llamo Tony.",
+  "a": "¡Hola, Tony! Mucho gusto. （你好，Tony！很高興認識你。）\n\n¿De dónde eres tú? （你是哪裡人？）",
+  "source": "網站",
+  "time": "2026-10-01 14:38"
+ },
+ {
   "id": "2026100114364738",
   "q": "（請用西班牙文開始這個情境的對話）",
   "a": "¡Hola! Yo me llamo Carlos. （你好！我叫卡洛斯。）\n口語：¡Hola! Me llamo Carlos. （省略主詞 yo，口語中很常見）\n\n¿Cómo te llamas tú? （你叫什麼名字？）",
