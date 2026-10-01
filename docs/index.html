@@ -2,6 +2,9 @@
 <html lang="zh-Hant">
 <head>
 <meta charset="UTF-8" />
+<meta http-equiv="Cache-Control" content="no-cache, no-store, must-revalidate" />
+<meta http-equiv="Pragma" content="no-cache" />
+<meta http-equiv="Expires" content="0" />
 <meta name="viewport" content="width=device-width, initial-scale=1, viewport-fit=cover" />
 <meta name="apple-mobile-web-app-capable" content="yes" />
 <meta name="mobile-web-app-capable" content="yes" />
@@ -831,7 +834,13 @@
       <div class="home-links" id="homeLinks"></div>
     </div>
 
-    <p class="section-label">問 Claude —— 任何西班牙文問題</p>
+    <p class="section-label" style="display:flex;align-items:center;justify-content:space-between;">
+      <span>問 Claude —— 任何西班牙文問題</span>
+      <button id="chatHistBtn" title="對話紀錄" style="border:1px solid var(--line);background:var(--card);border-radius:8px;padding:4px 10px;cursor:pointer;font-size:14px;color:var(--ink);">🕐 紀錄</button>
+    </p>
+    <div id="chatHistPanel" style="display:none;border:1px solid var(--line);border-radius:12px;background:var(--card);padding:10px;margin-bottom:12px;max-height:320px;overflow-y:auto;">
+      <div id="chatHistList" style="font-size:14px;">載入中…</div>
+    </div>
     <div class="chat-box">
       <div class="chat-modes">
         <button class="cm-btn on" data-mode="ask">
@@ -6055,6 +6064,21 @@ const WEEK_LINKS = {
 
   /* --- 對話 --- */
   let history = [], busy = false;
+  const CHAT_API = "https://line-translator-biar.onrender.com";
+  let chatId = "c" + Date.now();  // 這段對話的 id,清空時換新
+
+  function autoSaveChat(){
+    if(!history.length) return;
+    // 標題:取第一則使用者訊息
+    let title = "";
+    for(const m of history){ if(m.role === "user"){ title = m.content; break; } }
+    title = (title || "對話").replace(/（請用西班牙文開始這個情境的對話）/, "情境對話").slice(0, 40);
+    fetch(CHAT_API + "/chat_save", {
+      method: "POST", headers: {"Content-Type":"application/json"},
+      body: JSON.stringify({ id: chatId, title: title, mode: mode, messages: history })
+    }).catch(()=>{});
+  }
+
   function addSys(t){
     const d = document.createElement("div");
     d.className = "msg sys"; d.textContent = t; log.appendChild(d);
@@ -6157,6 +6181,7 @@ const WEEK_LINKS = {
       history = msgs.concat([{role:"assistant", content:txt}]);
       if(history.length > 20) history = history.slice(-20);
       log.scrollTop = log.scrollHeight;
+      autoSaveChat();
     }catch(e){
       wait.className = "msg err";
       wait.textContent = "連線失敗：" + String(e.message||e);
@@ -6185,8 +6210,77 @@ const WEEK_LINKS = {
   });
   document.getElementById("chatClr").addEventListener("click", () => {
     history = []; log.innerHTML = "";
+    chatId = "c" + Date.now();  // 開新的一段
     if(mode === "talk") startTalk(); else setMode("ask");
   });
+
+  /* --- 對話紀錄面板 --- */
+  const histBtn = document.getElementById("chatHistBtn");
+  const histPanel = document.getElementById("chatHistPanel");
+  const histList = document.getElementById("chatHistList");
+
+  function escH(s){ return (s||"").replace(/[&<>"]/g, m => ({'&':'&amp;','<':'&lt;','>':'&gt;','"':'&quot;'}[m])); }
+
+  histBtn.addEventListener("click", () => {
+    if(histPanel.style.display === "none"){
+      histPanel.style.display = "block";
+      loadChatHist();
+    } else {
+      histPanel.style.display = "none";
+    }
+  });
+
+  function loadChatHist(){
+    histList.innerHTML = "載入中…（首次伺服器喚醒約需 30~50 秒）";
+    fetch(CHAT_API + "/chats?t=" + Date.now())
+      .then(r => r.json())
+      .then(list => {
+        if(!Array.isArray(list) || !list.length){ histList.innerHTML = "還沒有對話紀錄"; return; }
+        histList.innerHTML = "";
+        list.forEach(c => {
+          const row = document.createElement("div");
+          row.style.cssText = "display:flex;justify-content:space-between;align-items:center;gap:8px;padding:8px 6px;border-bottom:1px solid var(--line);";
+          row.innerHTML =
+            '<div style="flex:1;min-width:0;cursor:pointer;" class="ch-open">' +
+              '<div style="font-weight:600;color:var(--ink);white-space:nowrap;overflow:hidden;text-overflow:ellipsis;">' + escH(c.title) + '</div>' +
+              '<div style="font-size:11px;color:var(--ink-faint);">' + escH(c.mode==="talk"?"對話練習":"問問題") + ' · ' + escH(c.time||"") + '</div>' +
+            '</div>' +
+            '<span class="ch-del" title="刪除" style="cursor:pointer;color:var(--ink-faint);font-size:15px;">🗑</span>';
+          row.querySelector(".ch-open").addEventListener("click", () => resumeChat(c));
+          row.querySelector(".ch-del").addEventListener("click", () => {
+            if(confirm("刪除這段對話紀錄？")){
+              fetch(CHAT_API + "/chat_delete", {
+                method:"POST", headers:{"Content-Type":"application/json"},
+                body: JSON.stringify({id: c.id})
+              }).then(()=>loadChatHist()).catch(()=>{});
+            }
+          });
+          histList.appendChild(row);
+        });
+      })
+      .catch(() => { histList.innerHTML = "載入失敗，稍後再試"; });
+  }
+
+  function resumeChat(c){
+    // 把這段對話接回聊天視窗,繼續聊
+    chatId = c.id;
+    history = Array.isArray(c.messages) ? c.messages.slice() : [];
+    log.innerHTML = "";
+    history.forEach(m => {
+      if(m.role === "user") addMsg("me", esc(m.content));
+      else if(m.role === "assistant"){
+        const d = document.createElement("div");
+        d.className = "msg bot";
+        d.innerHTML = renderReply(m.content);
+        d.querySelectorAll("[data-say]").forEach(el =>
+          el.addEventListener("click", e => { e.stopPropagation(); speak(el.dataset.say, el); }));
+        log.appendChild(d);
+      }
+    });
+    histPanel.style.display = "none";
+    log.scrollTop = log.scrollHeight;
+    addSys("已載入這段對話，可以繼續聊。");
+  }
 
   setMode("ask");
 })();
