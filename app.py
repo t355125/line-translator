@@ -20,6 +20,40 @@ MY_USER_ID = "U8730208994c8ae0d56900870d60d3280"  # 只存這個人問的
 GITHUB_TOKEN = os.environ.get("GITHUB_TOKEN", "")   # 在 Render 環境變數設定
 GITHUB_REPO = os.environ.get("GITHUB_REPO", "t355125/line-translator")
 QA_PATH = "docs/qa_log.json"
+CHATS_PATH = "docs/chats.json"
+
+
+def _gh_read(path):
+    """讀 GitHub 上的 JSON 檔,回傳 (資料, sha)。失敗回 ([], None)。"""
+    if not GITHUB_TOKEN:
+        return [], None
+    api = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
+    headers = {"Authorization": f"Bearer {GITHUB_TOKEN}", "Accept": "application/vnd.github+json"}
+    try:
+        r = requests.get(api, headers=headers, timeout=15)
+        if r.status_code == 200:
+            info = r.json()
+            data = json.loads(base64.b64decode(info["content"]).decode("utf-8"))
+            return (data if isinstance(data, list) else []), info["sha"]
+        return [], None
+    except Exception:
+        return [], None
+
+
+def _gh_write(path, data, sha, msg="update"):
+    if not GITHUB_TOKEN:
+        return False
+    api = f"https://api.github.com/repos/{GITHUB_REPO}/contents/{path}"
+    headers = {"Authorization": f"Bearer {GITHUB_TOKEN}", "Accept": "application/vnd.github+json"}
+    try:
+        content = base64.b64encode(json.dumps(data, ensure_ascii=False, indent=1).encode("utf-8")).decode("utf-8")
+        payload = {"message": msg, "content": content}
+        if sha:
+            payload["sha"] = sha
+        r = requests.put(api, headers=headers, json=payload, timeout=15)
+        return r.status_code in (200, 201)
+    except Exception:
+        return False
 
 
 def save_qa(question, answer, source):
@@ -289,6 +323,82 @@ def qa():
     resp = app.make_response(content)
     for k, v in hdr.items():
         resp.headers[k] = v
+    return resp
+
+
+@app.route("/chat_save", methods=["POST", "OPTIONS"])
+def chat_save():
+    """儲存/更新一段對話。前端傳 {id, title, messages}。"""
+    if request.method == "OPTIONS":
+        resp = app.make_response("")
+        resp.headers["Access-Control-Allow-Origin"] = "*"
+        resp.headers["Access-Control-Allow-Methods"] = "POST, OPTIONS"
+        resp.headers["Access-Control-Allow-Headers"] = "Content-Type"
+        return resp
+
+    result = {"ok": False}
+    try:
+        data = request.get_json(force=True) or {}
+        cid = str(data.get("id", "")).strip()
+        title = str(data.get("title", ""))[:100]
+        messages = data.get("messages", [])
+        mode = str(data.get("mode", ""))[:20]
+        if cid and isinstance(messages, list):
+            chats, sha = _gh_read(CHATS_PATH)
+            # 找到同 id 就更新,否則新增(最新在前)
+            chats = [c for c in chats if c.get("id") != cid]
+            import datetime
+            tw = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
+            chats.insert(0, {
+                "id": cid, "title": title or "(未命名對話)",
+                "mode": mode, "messages": messages[-40:],
+                "time": tw.strftime("%Y-%m-%d %H:%M"),
+            })
+            chats = chats[:100]  # 最多留 100 段
+            if _gh_write(CHATS_PATH, chats, sha, "update chats"):
+                result = {"ok": True}
+    except Exception as e:
+        result = {"ok": False, "error": str(e)}
+
+    resp = app.make_response(json.dumps(result, ensure_ascii=False))
+    resp.headers["Content-Type"] = "application/json; charset=utf-8"
+    resp.headers["Access-Control-Allow-Origin"] = "*"
+    return resp
+
+
+@app.route("/chats", methods=["GET"])
+def chats():
+    """讀取所有對話紀錄"""
+    data, _ = _gh_read(CHATS_PATH)
+    resp = app.make_response(json.dumps(data, ensure_ascii=False))
+    resp.headers["Content-Type"] = "application/json; charset=utf-8"
+    resp.headers["Access-Control-Allow-Origin"] = "*"
+    return resp
+
+
+@app.route("/chat_delete", methods=["POST", "OPTIONS"])
+def chat_delete():
+    """刪除一段對話。前端傳 {id}。"""
+    if request.method == "OPTIONS":
+        resp = app.make_response("")
+        resp.headers["Access-Control-Allow-Origin"] = "*"
+        resp.headers["Access-Control-Allow-Methods"] = "POST, OPTIONS"
+        resp.headers["Access-Control-Allow-Headers"] = "Content-Type"
+        return resp
+    result = {"ok": False}
+    try:
+        data = request.get_json(force=True) or {}
+        cid = str(data.get("id", "")).strip()
+        if cid:
+            chats, sha = _gh_read(CHATS_PATH)
+            new_chats = [c for c in chats if c.get("id") != cid]
+            if _gh_write(CHATS_PATH, new_chats, sha, "delete chat"):
+                result = {"ok": True}
+    except Exception as e:
+        result = {"ok": False, "error": str(e)}
+    resp = app.make_response(json.dumps(result, ensure_ascii=False))
+    resp.headers["Content-Type"] = "application/json; charset=utf-8"
+    resp.headers["Access-Control-Allow-Origin"] = "*"
     return resp
 
 
