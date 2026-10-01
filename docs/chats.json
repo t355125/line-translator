@@ -1,0 +1,18 @@
+[
+ {
+  "id": "c1790843670990",
+  "title": "情境對話",
+  "mode": "talk",
+  "messages": [
+   {
+    "role": "user",
+    "content": "（請用西班牙文開始這個情境的對話）"
+   },
+   {
+    "role": "assistant",
+    "content": "¡Hola! Yo me llamo Carlos. （你好！我叫卡洛斯。）\n口語：¡Hola! Me llamo Carlos. （省略主詞 yo，日常說話很少說）\n\n¿Cómo te llamas tú? （你叫什麼名字？）"
+   }
+  ],
+  "time": "2026-10-01 16:34"
+ }
+]
