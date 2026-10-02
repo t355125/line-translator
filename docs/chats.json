@@ -1,5 +1,21 @@
 [
  {
+  "id": "c1790942241836",
+  "title": "Despacito 這是什麼意思",
+  "mode": "ask",
+  "messages": [
+   {
+    "role": "user",
+    "content": "Despacito 這是什麼意思"
+   },
+   {
+    "role": "assistant",
+    "content": "Despacito 是副詞 despacio（慢慢地、緩慢地）的縮小詞形式，加了 -ito 這個後綴。\n\n西班牙文很常用 -ito / -ita 來表示「小一點」或「輕柔一點」的語氣，所以 despacito 可以理解成「慢慢地、輕輕地、再柔和一點」，比 despacio 語氣更溫柔、更撒嬌。\n\n例句：\n\nHabla despacio, por favor.（請說慢一點。）\n口語：Habla despacito.（說慢慢的嘛。）"
+   }
+  ],
+  "time": "2026-10-02 20:02"
+ },
+ {
   "id": "c1790852580251",
   "title": "Tiburon 是什麼",
   "mode": "ask",
