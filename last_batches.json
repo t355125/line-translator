@@ -88,84 +88,84 @@
     "date": "2026-10-02",
     "cards": [
       {
-        "word": "cenar",
+        "word": "mañana",
+        "pos": "名詞／副詞",
+        "meaning": "早晨；明天",
+        "detail": "陰性 la mañana / las mañanas（名詞時）；作副詞時表「明天」",
+        "example_es": "Cada mañana tomo un vaso de leche.",
+        "example_zh": "每天早上我喝一杯牛奶。"
+      },
+      {
+        "word": "verdura",
+        "pos": "名詞",
+        "meaning": "蔬菜",
+        "detail": "陰性 la verdura / las verduras",
+        "example_es": "Me gustan mucho las verduras frescas.",
+        "example_zh": "我非常喜歡新鮮蔬菜。"
+      },
+      {
+        "word": "bolso",
+        "pos": "名詞",
+        "meaning": "手提包",
+        "detail": "陽性 el bolso / los bolsos",
+        "example_es": "Mi madre tiene un bolso rojo.",
+        "example_zh": "我媽媽有一個紅色手提包。"
+      },
+      {
+        "word": "preguntar",
         "pos": "動詞",
-        "meaning": "吃晚餐",
-        "detail": "變化：ceno（我）/ cenas（你）/ cena（他／她）",
-        "example_es": "Ceno con mi familia a las ocho.",
-        "example_zh": "我八點和家人一起吃晚餐。"
+        "meaning": "問、詢問",
+        "detail": "變化：pregunto（我）/ preguntas（你）/ pregunta（他／她）/ preguntamos（我們）",
+        "example_es": "¿Puedo preguntarte algo?",
+        "example_zh": "我可以問你一件事嗎？"
       },
       {
-        "word": "bicicleta",
+        "word": "cartero",
         "pos": "名詞",
-        "meaning": "腳踏車",
-        "detail": "陰性 la bicicleta / las bicicletas",
-        "example_es": "Voy al parque en bicicleta.",
-        "example_zh": "我騎腳踏車去公園。"
+        "meaning": "郵差",
+        "detail": "陽性 el cartero / los carteros；陰性 la cartera / las carteras",
+        "example_es": "El cartero trae una carta hoy.",
+        "example_zh": "郵差今天送來一封信。"
       },
       {
-        "word": "banco",
-        "pos": "名詞",
-        "meaning": "銀行",
-        "detail": "陽性 el banco / los bancos",
-        "example_es": "El banco está cerca de mi casa.",
-        "example_zh": "銀行在我家附近。"
-      },
-      {
-        "word": "paraguas",
-        "pos": "名詞",
-        "meaning": "雨傘",
-        "detail": "陽性 el paraguas / los paraguas（單複數同形）",
-        "example_es": "Necesito mi paraguas porque llueve.",
-        "example_zh": "因為下雨，我需要我的雨傘。"
-      },
-      {
-        "word": "subir",
+        "word": "sonreír",
         "pos": "動詞",
-        "meaning": "上去；搭乘（交通工具）",
-        "detail": "變化：subo（我）/ subes（你）/ sube（他／她）",
-        "example_es": "Subo al tren en la estación central.",
-        "example_zh": "我在中央車站搭上火車。"
+        "meaning": "微笑",
+        "detail": "變化：sonrío（我）/ sonríes（你）/ sonríe（他／她）/ sonreímos（我們）",
+        "example_es": "Ella siempre sonríe cuando me ve.",
+        "example_zh": "她看到我的時候總是微笑。"
       },
       {
-        "word": "despertar",
+        "word": "periódico",
+        "pos": "名詞",
+        "meaning": "報紙",
+        "detail": "陽性 el periódico / los periódicos",
+        "example_es": "Mi abuelo lee el periódico cada mañana.",
+        "example_zh": "我爺爺每天早上看報紙。"
+      },
+      {
+        "word": "ayudar",
         "pos": "動詞",
-        "meaning": "叫醒（他人）",
-        "detail": "變化：despierto（我）/ despiertas（你）/ despierta（他／她）",
-        "example_es": "Mi mamá me despierta a las siete.",
-        "example_zh": "我媽媽七點叫醒我。"
+        "meaning": "幫助",
+        "detail": "變化：ayudo（我）/ ayudas（你）/ ayuda（他／她）/ ayudamos（我們）",
+        "example_es": "¿Me puedes ayudar con la tarea?",
+        "example_zh": "你可以幫我做作業嗎？"
       },
       {
-        "word": "llave",
-        "pos": "名詞",
-        "meaning": "鑰匙",
-        "detail": "陰性 la llave / las llaves",
-        "example_es": "No encuentro mi llave. ¿Dónde está?",
-        "example_zh": "我找不到我的鑰匙。它在哪裡？"
-      },
-      {
-        "word": "noche",
-        "pos": "名詞",
-        "meaning": "夜晚、夜裡",
-        "detail": "陰性 la noche / las noches",
-        "example_es": "Por la noche me gusta ver la televisión.",
-        "example_zh": "我晚上喜歡看電視。"
-      },
-      {
-        "word": "ir",
+        "word": "habitar",
         "pos": "動詞",
-        "meaning": "去",
-        "detail": "變化：voy（我）/ vas（你）/ va（他／她）",
-        "example_es": "Mañana voy al supermercado.",
-        "example_zh": "明天我要去超市。"
+        "meaning": "居住、棲息",
+        "detail": "變化：habito（我）/ habitas（你）/ habita（他／她）",
+        "example_es": "Habito en un apartamento pequeño.",
+        "example_zh": "我住在一間小公寓裡。"
       },
       {
-        "word": "sombrero",
+        "word": "zapatos",
         "pos": "名詞",
-        "meaning": "帽子",
-        "detail": "陽性 el sombrero / los sombreros",
-        "example_es": "Lleva un sombrero rojo en la playa.",
-        "example_zh": "他在海灘戴著一頂紅色帽子。"
+        "meaning": "鞋子（複數）",
+        "detail": "陽性 el zapato / los zapatos",
+        "example_es": "Mis zapatos son de color negro.",
+        "example_zh": "我的鞋子是黑色的。"
       }
     ]
   }
