@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-09-30",
+    "date": "2026-10-02",
     "cards": [
       {
-        "word": "empezar",
+        "word": "cenar",
         "pos": "動詞",
-        "meaning": "開始",
-        "detail": "變化：empiezo（我）/ empiezas（你）/ empieza（他/她）",
-        "example_es": "Empiezo a trabajar a las ocho.",
-        "example_zh": "我八點開始工作。"
+        "meaning": "吃晚餐",
+        "detail": "變化：ceno（我）/ cenas（你）/ cena（他／她）",
+        "example_es": "Ceno con mi familia a las ocho.",
+        "example_zh": "我八點和家人一起吃晚餐。"
       },
       {
-        "word": "pan",
+        "word": "bicicleta",
         "pos": "名詞",
-        "meaning": "麵包",
-        "detail": "陽性 el pan / los panes",
-        "example_es": "Como pan con mantequilla por la mañana.",
-        "example_zh": "我早上吃奶油麵包。"
+        "meaning": "腳踏車",
+        "detail": "陰性 la bicicleta / las bicicletas",
+        "example_es": "Voy al parque en bicicleta.",
+        "example_zh": "我騎腳踏車去公園。"
       },
       {
-        "word": "tarde",
+        "word": "banco",
         "pos": "名詞",
-        "meaning": "下午；傍晚",
-        "detail": "陰性 la tarde / las tardes",
-        "example_es": "Por la tarde voy al parque.",
-        "example_zh": "我下午去公園。"
+        "meaning": "銀行",
+        "detail": "陽性 el banco / los bancos",
+        "example_es": "El banco está cerca de mi casa.",
+        "example_zh": "銀行在我家附近。"
       },
       {
-        "word": "conocer",
+        "word": "paraguas",
+        "pos": "名詞",
+        "meaning": "雨傘",
+        "detail": "陽性 el paraguas / los paraguas（單複數同形）",
+        "example_es": "Necesito mi paraguas porque llueve.",
+        "example_zh": "因為下雨，我需要我的雨傘。"
+      },
+      {
+        "word": "subir",
         "pos": "動詞",
-        "meaning": "認識；了解",
-        "detail": "變化：conozco（我）/ conoces（你）/ conoce（他/她）",
-        "example_es": "Conozco a una chica muy simpática.",
-        "example_zh": "我認識一個很友善的女生。"
+        "meaning": "上去；搭乘（交通工具）",
+        "detail": "變化：subo（我）/ subes（你）/ sube（他／她）",
+        "example_es": "Subo al tren en la estación central.",
+        "example_zh": "我在中央車站搭上火車。"
       },
       {
-        "word": "leche",
-        "pos": "名詞",
-        "meaning": "牛奶",
-        "detail": "陰性 la leche / las leches",
-        "example_es": "Bebo un vaso de leche cada mañana.",
-        "example_zh": "我每天早上喝一杯牛奶。"
-      },
-      {
-        "word": "volver",
+        "word": "despertar",
         "pos": "動詞",
-        "meaning": "回來；返回",
-        "detail": "變化：vuelvo（我）/ vuelves（你）/ vuelve（他/她）",
-        "example_es": "Vuelvo a casa a las seis de la tarde.",
-        "example_zh": "我下午六點回家。"
+        "meaning": "叫醒（他人）",
+        "detail": "變化：despierto（我）/ despiertas（你）/ despierta（他／她）",
+        "example_es": "Mi mamá me despierta a las siete.",
+        "example_zh": "我媽媽七點叫醒我。"
       },
       {
-        "word": "número",
+        "word": "llave",
         "pos": "名詞",
-        "meaning": "號碼；數字",
-        "detail": "陽性 el número / los números",
-        "example_es": "¿Cuál es tu número de teléfono?",
-        "example_zh": "你的電話號碼是幾號？"
+        "meaning": "鑰匙",
+        "detail": "陰性 la llave / las llaves",
+        "example_es": "No encuentro mi llave. ¿Dónde está?",
+        "example_zh": "我找不到我的鑰匙。它在哪裡？"
       },
       {
-        "word": "descansar",
+        "word": "noche",
+        "pos": "名詞",
+        "meaning": "夜晚、夜裡",
+        "detail": "陰性 la noche / las noches",
+        "example_es": "Por la noche me gusta ver la televisión.",
+        "example_zh": "我晚上喜歡看電視。"
+      },
+      {
+        "word": "ir",
         "pos": "動詞",
-        "meaning": "休息",
-        "detail": "變化：descanso（我）/ descansas（你）/ descansa（他/她）",
-        "example_es": "Descanso un poco después de comer.",
-        "example_zh": "我吃飯後休息一下。"
+        "meaning": "去",
+        "detail": "變化：voy（我）/ vas（你）/ va（他／她）",
+        "example_es": "Mañana voy al supermercado.",
+        "example_zh": "明天我要去超市。"
       },
       {
-        "word": "fruta",
+        "word": "sombrero",
         "pos": "名詞",
-        "meaning": "水果",
-        "detail": "陰性 la fruta / las frutas",
-        "example_es": "Me gusta comer fruta fresca.",
-        "example_zh": "我喜歡吃新鮮水果。"
-      },
-      {
-        "word": "casa",
-        "pos": "名詞",
-        "meaning": "房子、家",
-        "detail": "陰性 la casa / las casas",
-        "example_es": "Mi casa es pequeña pero bonita.",
-        "example_zh": "我的家很小但很漂亮。"
+        "meaning": "帽子",
+        "detail": "陽性 el sombrero / los sombreros",
+        "example_es": "Lleva un sombrero rojo en la playa.",
+        "example_zh": "他在海灘戴著一頂紅色帽子。"
       }
     ]
   }

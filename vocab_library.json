@@ -538,5 +538,65 @@
     "pos": "動詞",
     "meaning": "吃午餐",
     "date": "2026-10-01"
+  },
+  {
+    "word": "cenar",
+    "pos": "動詞",
+    "meaning": "吃晚餐",
+    "date": "2026-10-02"
+  },
+  {
+    "word": "bicicleta",
+    "pos": "名詞",
+    "meaning": "腳踏車",
+    "date": "2026-10-02"
+  },
+  {
+    "word": "banco",
+    "pos": "名詞",
+    "meaning": "銀行",
+    "date": "2026-10-02"
+  },
+  {
+    "word": "paraguas",
+    "pos": "名詞",
+    "meaning": "雨傘",
+    "date": "2026-10-02"
+  },
+  {
+    "word": "subir",
+    "pos": "動詞",
+    "meaning": "上去；搭乘（交通工具）",
+    "date": "2026-10-02"
+  },
+  {
+    "word": "despertar",
+    "pos": "動詞",
+    "meaning": "叫醒（他人）",
+    "date": "2026-10-02"
+  },
+  {
+    "word": "llave",
+    "pos": "名詞",
+    "meaning": "鑰匙",
+    "date": "2026-10-02"
+  },
+  {
+    "word": "noche",
+    "pos": "名詞",
+    "meaning": "夜晚、夜裡",
+    "date": "2026-10-02"
+  },
+  {
+    "word": "ir",
+    "pos": "動詞",
+    "meaning": "去",
+    "date": "2026-10-02"
+  },
+  {
+    "word": "sombrero",
+    "pos": "名詞",
+    "meaning": "帽子",
+    "date": "2026-10-02"
   }
 ]
