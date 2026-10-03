@@ -718,5 +718,53 @@
     "pos": "名詞",
     "meaning": "貓",
     "date": "2026-10-03"
+  },
+  {
+    "word": "usar",
+    "pos": "動詞",
+    "meaning": "使用",
+    "date": "2026-10-03"
+  },
+  {
+    "word": "teléfono",
+    "pos": "名詞",
+    "meaning": "電話、手機",
+    "date": "2026-10-03"
+  },
+  {
+    "word": "cocina",
+    "pos": "名詞",
+    "meaning": "廚房",
+    "date": "2026-10-03"
+  },
+  {
+    "word": "plaza",
+    "pos": "名詞",
+    "meaning": "廣場",
+    "date": "2026-10-03"
+  },
+  {
+    "word": "viajar",
+    "pos": "動詞",
+    "meaning": "旅行",
+    "date": "2026-10-03"
+  },
+  {
+    "word": "dinero",
+    "pos": "名詞",
+    "meaning": "錢、金錢",
+    "date": "2026-10-03"
+  },
+  {
+    "word": "fácil",
+    "pos": "形容詞",
+    "meaning": "容易的、簡單的",
+    "date": "2026-10-03"
+  },
+  {
+    "word": "regalo",
+    "pos": "名詞",
+    "meaning": "禮物",
+    "date": "2026-10-03"
   }
 ]

@@ -85,87 +85,71 @@
     ]
   },
   "evening": {
-    "date": "2026-10-02",
+    "date": "2026-10-03",
     "cards": [
       {
-        "word": "mañana",
-        "pos": "名詞／副詞",
-        "meaning": "早晨；明天",
-        "detail": "陰性 la mañana / las mañanas（名詞時）；作副詞時表「明天」",
-        "example_es": "Cada mañana tomo un vaso de leche.",
-        "example_zh": "每天早上我喝一杯牛奶。"
-      },
-      {
-        "word": "verdura",
-        "pos": "名詞",
-        "meaning": "蔬菜",
-        "detail": "陰性 la verdura / las verduras",
-        "example_es": "Me gustan mucho las verduras frescas.",
-        "example_zh": "我非常喜歡新鮮蔬菜。"
-      },
-      {
-        "word": "bolso",
-        "pos": "名詞",
-        "meaning": "手提包",
-        "detail": "陽性 el bolso / los bolsos",
-        "example_es": "Mi madre tiene un bolso rojo.",
-        "example_zh": "我媽媽有一個紅色手提包。"
-      },
-      {
-        "word": "preguntar",
+        "word": "usar",
         "pos": "動詞",
-        "meaning": "問、詢問",
-        "detail": "變化：pregunto（我）/ preguntas（你）/ pregunta（他／她）/ preguntamos（我們）",
-        "example_es": "¿Puedo preguntarte algo?",
-        "example_zh": "我可以問你一件事嗎？"
+        "meaning": "使用",
+        "detail": "變化：uso(我)/ usas(你)/ usa(他/她)",
+        "example_es": "Uso el teléfono para escuchar música.",
+        "example_zh": "我用手機聽音樂。"
       },
       {
-        "word": "cartero",
+        "word": "teléfono",
         "pos": "名詞",
-        "meaning": "郵差",
-        "detail": "陽性 el cartero / los carteros；陰性 la cartera / las carteras",
-        "example_es": "El cartero trae una carta hoy.",
-        "example_zh": "郵差今天送來一封信。"
+        "meaning": "電話、手機",
+        "detail": "陽性 el teléfono / los teléfonos",
+        "example_es": "Mi teléfono es nuevo.",
+        "example_zh": "我的手機是新的。"
       },
       {
-        "word": "sonreír",
-        "pos": "動詞",
-        "meaning": "微笑",
-        "detail": "變化：sonrío（我）/ sonríes（你）/ sonríe（他／她）/ sonreímos（我們）",
-        "example_es": "Ella siempre sonríe cuando me ve.",
-        "example_zh": "她看到我的時候總是微笑。"
-      },
-      {
-        "word": "periódico",
+        "word": "cocina",
         "pos": "名詞",
-        "meaning": "報紙",
-        "detail": "陽性 el periódico / los periódicos",
-        "example_es": "Mi abuelo lee el periódico cada mañana.",
-        "example_zh": "我爺爺每天早上看報紙。"
+        "meaning": "廚房",
+        "detail": "陰性 la cocina / las cocinas",
+        "example_es": "Ella está en la cocina ahora.",
+        "example_zh": "她現在在廚房裡。"
       },
       {
-        "word": "ayudar",
-        "pos": "動詞",
-        "meaning": "幫助",
-        "detail": "變化：ayudo（我）/ ayudas（你）/ ayuda（他／她）/ ayudamos（我們）",
-        "example_es": "¿Me puedes ayudar con la tarea?",
-        "example_zh": "你可以幫我做作業嗎？"
-      },
-      {
-        "word": "habitar",
-        "pos": "動詞",
-        "meaning": "居住、棲息",
-        "detail": "變化：habito（我）/ habitas（你）/ habita（他／她）",
-        "example_es": "Habito en un apartamento pequeño.",
-        "example_zh": "我住在一間小公寓裡。"
-      },
-      {
-        "word": "zapatos",
+        "word": "plaza",
         "pos": "名詞",
-        "meaning": "鞋子（複數）",
-        "detail": "陽性 el zapato / los zapatos",
-        "example_es": "Mis zapatos son de color negro.",
-        "example_zh": "我的鞋子是黑色的。"
+        "meaning": "廣場",
+        "detail": "陰性 la plaza / las plazas",
+        "example_es": "Hay muchas personas en la plaza.",
+        "example_zh": "廣場上有很多人。"
+      },
+      {
+        "word": "viajar",
+        "pos": "動詞",
+        "meaning": "旅行",
+        "detail": "變化：viajo（我）/ viajas（你）/ viaja（他／她）",
+        "example_es": "Quiero viajar a España el próximo año.",
+        "example_zh": "我想明年去西班牙旅行。"
+      },
+      {
+        "word": "dinero",
+        "pos": "名詞",
+        "meaning": "錢、金錢",
+        "detail": "陽性 el dinero（通常不用複數）",
+        "example_es": "No tengo mucho dinero hoy.",
+        "example_zh": "我今天沒有很多錢。"
+      },
+      {
+        "word": "fácil",
+        "pos": "形容詞",
+        "meaning": "容易的、簡單的",
+        "detail": "陰陽同形；複數加 -es：fáciles",
+        "example_es": "Esta pregunta es muy fácil.",
+        "example_zh": "這道題非常簡單。"
+      },
+      {
+        "word": "regalo",
+        "pos": "名詞",
+        "meaning": "禮物",
+        "detail": "陽性 el regalo / los regalos",
+        "example_es": "Voy a comprar un regalo para mi amigo.",
+        "example_zh": "我要去買一份禮物給我的朋友。"
       }
     ]
   }
