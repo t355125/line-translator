@@ -85,71 +85,71 @@
     ]
   },
   "evening": {
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "cards": [
       {
-        "word": "usar",
-        "pos": "動詞",
-        "meaning": "使用",
-        "detail": "變化：uso(我)/ usas(你)/ usa(他/她)",
-        "example_es": "Uso el teléfono para escuchar música.",
-        "example_zh": "我用手機聽音樂。"
-      },
-      {
-        "word": "teléfono",
-        "pos": "名詞",
-        "meaning": "電話、手機",
-        "detail": "陽性 el teléfono / los teléfonos",
-        "example_es": "Mi teléfono es nuevo.",
-        "example_zh": "我的手機是新的。"
-      },
-      {
-        "word": "cocina",
-        "pos": "名詞",
-        "meaning": "廚房",
-        "detail": "陰性 la cocina / las cocinas",
-        "example_es": "Ella está en la cocina ahora.",
-        "example_zh": "她現在在廚房裡。"
-      },
-      {
-        "word": "plaza",
-        "pos": "名詞",
-        "meaning": "廣場",
-        "detail": "陰性 la plaza / las plazas",
-        "example_es": "Hay muchas personas en la plaza.",
-        "example_zh": "廣場上有很多人。"
-      },
-      {
-        "word": "viajar",
-        "pos": "動詞",
-        "meaning": "旅行",
-        "detail": "變化：viajo（我）/ viajas（你）/ viaja（他／她）",
-        "example_es": "Quiero viajar a España el próximo año.",
-        "example_zh": "我想明年去西班牙旅行。"
-      },
-      {
-        "word": "dinero",
-        "pos": "名詞",
-        "meaning": "錢、金錢",
-        "detail": "陽性 el dinero（通常不用複數）",
-        "example_es": "No tengo mucho dinero hoy.",
-        "example_zh": "我今天沒有很多錢。"
-      },
-      {
-        "word": "fácil",
+        "word": "nublado",
         "pos": "形容詞",
-        "meaning": "容易的、簡單的",
-        "detail": "陰陽同形；複數加 -es：fáciles",
-        "example_es": "Esta pregunta es muy fácil.",
-        "example_zh": "這道題非常簡單。"
+        "meaning": "多雲的、陰天的",
+        "detail": "男性 nublado / 女性 nublada；常與 estar 搭配使用",
+        "example_es": "Hoy está muy nublado.",
+        "example_zh": "今天天氣很陰。"
       },
       {
-        "word": "regalo",
+        "word": "taza",
         "pos": "名詞",
-        "meaning": "禮物",
-        "detail": "陽性 el regalo / los regalos",
-        "example_es": "Voy a comprar un regalo para mi amigo.",
-        "example_zh": "我要去買一份禮物給我的朋友。"
+        "meaning": "杯子（馬克杯、茶杯）",
+        "detail": "陰性 la taza / las tazas",
+        "example_es": "Quiero una taza de té, por favor.",
+        "example_zh": "請給我一杯茶。"
+      },
+      {
+        "word": "pelo",
+        "pos": "名詞",
+        "meaning": "頭髮",
+        "detail": "陽性 el pelo / los pelos",
+        "example_es": "Ella tiene el pelo largo.",
+        "example_zh": "她有一頭長髮。"
+      },
+      {
+        "word": "color",
+        "pos": "名詞",
+        "meaning": "顏色",
+        "detail": "陽性 el color / los colores",
+        "example_es": "¿Cuál es tu color favorito?",
+        "example_zh": "你最喜歡的顏色是什麼？"
+      },
+      {
+        "word": "carta",
+        "pos": "名詞",
+        "meaning": "信件；菜單",
+        "detail": "陰性 la carta / las cartas",
+        "example_es": "El camarero me trae la carta del restaurante.",
+        "example_zh": "服務生把餐廳的菜單拿給我。"
+      },
+      {
+        "word": "abrigo",
+        "pos": "名詞",
+        "meaning": "大衣、外套",
+        "detail": "陽性 el abrigo / los abrigos",
+        "example_es": "Hoy hace frío, necesito mi abrigo.",
+        "example_zh": "今天很冷，我需要穿大衣。"
+      },
+      {
+        "word": "entrar",
+        "pos": "動詞",
+        "meaning": "進入、進去",
+        "detail": "變化：entro（我）/ entras（你）/ entra（他／她）",
+        "example_es": "Entro a la clase a las nueve.",
+        "example_zh": "我九點進教室。"
+      },
+      {
+        "word": "mes",
+        "pos": "名詞",
+        "meaning": "月份、月",
+        "detail": "陽性 el mes / los meses",
+        "example_es": "Voy a España el mes próximo.",
+        "example_zh": "我下個月要去西班牙。"
       }
     ]
   }
