@@ -766,5 +766,65 @@
     "pos": "名詞",
     "meaning": "禮物",
     "date": "2026-10-03"
+  },
+  {
+    "word": "pasear",
+    "pos": "動詞",
+    "meaning": "散步、遛達",
+    "date": "2026-10-04"
+  },
+  {
+    "word": "parque",
+    "pos": "名詞",
+    "meaning": "公園",
+    "date": "2026-10-04"
+  },
+  {
+    "word": "descanso",
+    "pos": "名詞",
+    "meaning": "休息、休息時間",
+    "date": "2026-10-04"
+  },
+  {
+    "word": "preparar",
+    "pos": "動詞",
+    "meaning": "準備",
+    "date": "2026-10-04"
+  },
+  {
+    "word": "oficina",
+    "pos": "名詞",
+    "meaning": "辦公室",
+    "date": "2026-10-04"
+  },
+  {
+    "word": "lleno",
+    "pos": "形容詞",
+    "meaning": "滿的、充滿的",
+    "date": "2026-10-04"
+  },
+  {
+    "word": "cerrar",
+    "pos": "動詞",
+    "meaning": "關閉、關上",
+    "date": "2026-10-04"
+  },
+  {
+    "word": "semana",
+    "pos": "名詞",
+    "meaning": "星期、一週",
+    "date": "2026-10-04"
+  },
+  {
+    "word": "temprano",
+    "pos": "副詞",
+    "meaning": "早、提早",
+    "date": "2026-10-04"
+  },
+  {
+    "word": "soñar",
+    "pos": "動詞",
+    "meaning": "做夢；夢想",
+    "date": "2026-10-04"
   }
 ]

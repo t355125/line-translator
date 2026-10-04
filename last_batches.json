@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-03",
+    "date": "2026-10-04",
     "cards": [
       {
-        "word": "pensar",
+        "word": "pasear",
         "pos": "動詞",
-        "meaning": "思考、認為",
-        "detail": "變化：pienso（我）/ piensas（你）/ piensa（他／她）",
-        "example_es": "Pienso que el español es interesante.",
-        "example_zh": "我認為西班牙文很有趣。"
+        "meaning": "散步、遛達",
+        "detail": "變化：paseo（我）/ paseas（你）/ pasea（他／她）",
+        "example_es": "Paseo con mi perro por el parque.",
+        "example_zh": "我帶我的狗在公園散步。"
       },
       {
-        "word": "hotel",
+        "word": "parque",
         "pos": "名詞",
-        "meaning": "飯店",
-        "detail": "陽性 el hotel / los hoteles",
-        "example_es": "El hotel está cerca de la playa.",
-        "example_zh": "這間飯店在海邊附近。"
+        "meaning": "公園",
+        "detail": "陽性 el parque / los parques",
+        "example_es": "Hay muchos árboles en el parque.",
+        "example_zh": "公園裡有很多樹。"
       },
       {
-        "word": "cuchara",
+        "word": "descanso",
         "pos": "名詞",
-        "meaning": "湯匙",
-        "detail": "陰性 la cuchara / las cucharas",
-        "example_es": "Necesito una cuchara para la sopa.",
-        "example_zh": "我需要一支湯匙來喝湯。"
+        "meaning": "休息、休息時間",
+        "detail": "陽性 el descanso / los descansos",
+        "example_es": "Necesito un descanso después del trabajo.",
+        "example_zh": "我工作後需要休息一下。"
       },
       {
-        "word": "vestirse",
+        "word": "preparar",
         "pos": "動詞",
-        "meaning": "穿衣服（自身）",
-        "detail": "變化：me visto（我）/ te vistes（你）/ se viste（他／她）",
-        "example_es": "Me visto rápido por la mañana.",
-        "example_zh": "我早上很快地穿好衣服。"
+        "meaning": "準備",
+        "detail": "變化：preparo（我）/ preparas（你）/ prepara（他／她）",
+        "example_es": "Preparo la cena a las siete.",
+        "example_zh": "我七點準備晚餐。"
       },
       {
-        "word": "té",
+        "word": "oficina",
         "pos": "名詞",
-        "meaning": "茶",
-        "detail": "陽性 el té / los tés",
-        "example_es": "Tomo un té caliente cada mañana.",
-        "example_zh": "我每天早上喝一杯熱茶。"
+        "meaning": "辦公室",
+        "detail": "陰性 la oficina / las oficinas",
+        "example_es": "Mi oficina está cerca de la estación.",
+        "example_zh": "我的辦公室在車站附近。"
       },
       {
-        "word": "sentarse",
+        "word": "lleno",
+        "pos": "形容詞",
+        "meaning": "滿的、充滿的",
+        "detail": "陽性 lleno / 陰性 llena；複數 llenos / llenas",
+        "example_es": "El autobús está lleno hoy.",
+        "example_zh": "今天公車很滿。"
+      },
+      {
+        "word": "cerrar",
         "pos": "動詞",
-        "meaning": "坐下（自身）",
-        "detail": "變化：me siento（我）/ te sientas（你）/ se sienta（他／她）",
-        "example_es": "Me siento en el sofá después del trabajo.",
-        "example_zh": "我下班後坐在沙發上。"
+        "meaning": "關閉、關上",
+        "detail": "變化：cierro（我）/ cierras（你）/ cierra（他／她）",
+        "example_es": "¿Puedes cerrar la puerta, por favor?",
+        "example_zh": "你能幫忙把門關上嗎？"
       },
       {
-        "word": "ventilador",
+        "word": "semana",
         "pos": "名詞",
-        "meaning": "電風扇",
-        "detail": "陽性 el ventilador / los ventiladores",
-        "example_es": "Enciendo el ventilador porque hace calor.",
-        "example_zh": "因為很熱，我開了電風扇。"
+        "meaning": "星期、一週",
+        "detail": "陰性 la semana / las semanas",
+        "example_es": "Esta semana tengo mucho trabajo.",
+        "example_zh": "這週我有很多工作。"
       },
       {
-        "word": "recibir",
+        "word": "temprano",
+        "pos": "副詞",
+        "meaning": "早、提早",
+        "detail": "無性數變化，直接修飾動詞",
+        "example_es": "Mañana me levanto muy temprano.",
+        "example_zh": "明天我很早起床。"
+      },
+      {
+        "word": "soñar",
         "pos": "動詞",
-        "meaning": "收到、接收",
-        "detail": "變化：recibo（我）/ recibes（你）/ recibe（他／她）",
-        "example_es": "Recibo un mensaje de mi amigo.",
-        "example_zh": "我收到朋友傳來的訊息。"
-      },
-      {
-        "word": "nadar",
-        "pos": "動詞",
-        "meaning": "游泳",
-        "detail": "變化：nado（我）/ nadas（你）/ nada（他/她）",
-        "example_es": "Nado en la piscina los domingos.",
-        "example_zh": "我每個星期天在游泳池游泳。"
-      },
-      {
-        "word": "gato",
-        "pos": "名詞",
-        "meaning": "貓",
-        "detail": "陽性 el gato / los gatos；陰性 la gata / las gatas",
-        "example_es": "Mi gato duerme mucho.",
-        "example_zh": "我的貓很愛睡覺。"
+        "meaning": "做夢；夢想",
+        "detail": "變化：sueño（我）/ sueñas（你）/ sueña（他／她）",
+        "example_es": "Sueño con ir a España.",
+        "example_zh": "我夢想去西班牙。"
       }
     ]
   },
