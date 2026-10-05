@@ -874,5 +874,65 @@
     "pos": "名詞",
     "meaning": "月份、月",
     "date": "2026-10-04"
+  },
+  {
+    "word": "hora",
+    "pos": "名詞",
+    "meaning": "小時；時刻",
+    "date": "2026-10-05"
+  },
+  {
+    "word": "saber",
+    "pos": "動詞",
+    "meaning": "知道；會（技能）",
+    "date": "2026-10-05"
+  },
+  {
+    "word": "frío",
+    "pos": "形容詞／名詞",
+    "meaning": "冷的；寒冷",
+    "date": "2026-10-05"
+  },
+  {
+    "word": "trabajo",
+    "pos": "名詞",
+    "meaning": "工作；職業",
+    "date": "2026-10-05"
+  },
+  {
+    "word": "nuevo",
+    "pos": "形容詞",
+    "meaning": "新的",
+    "date": "2026-10-05"
+  },
+  {
+    "word": "cepillarse",
+    "pos": "動詞",
+    "meaning": "刷（牙）、梳（髮）",
+    "date": "2026-10-05"
+  },
+  {
+    "word": "mojado",
+    "pos": "形容詞",
+    "meaning": "濕的",
+    "date": "2026-10-05"
+  },
+  {
+    "word": "vecindad",
+    "pos": "名詞",
+    "meaning": "鄰里、街坊",
+    "date": "2026-10-05"
+  },
+  {
+    "word": "ponerse",
+    "pos": "動詞",
+    "meaning": "穿上（衣物）、戴上",
+    "date": "2026-10-05"
+  },
+  {
+    "word": "botella",
+    "pos": "名詞",
+    "meaning": "瓶子",
+    "date": "2026-10-05"
   }
 ]

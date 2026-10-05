@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-04",
+    "date": "2026-10-05",
     "cards": [
       {
-        "word": "pasear",
+        "word": "hora",
+        "pos": "名詞",
+        "meaning": "小時；時刻",
+        "detail": "陰性 la hora / las horas",
+        "example_es": "¿Qué hora es? Son las tres.",
+        "example_zh": "現在幾點？三點了。"
+      },
+      {
+        "word": "saber",
         "pos": "動詞",
-        "meaning": "散步、遛達",
-        "detail": "變化：paseo（我）/ paseas（你）/ pasea（他／她）",
-        "example_es": "Paseo con mi perro por el parque.",
-        "example_zh": "我帶我的狗在公園散步。"
+        "meaning": "知道；會（技能）",
+        "detail": "變化：sé（我）/ sabes（你）/ sabe（他／她）",
+        "example_es": "¿Sabes dónde está el baño?",
+        "example_zh": "你知道廁所在哪裡嗎？"
       },
       {
-        "word": "parque",
+        "word": "frío",
+        "pos": "形容詞／名詞",
+        "meaning": "冷的；寒冷",
+        "detail": "陽性 el frío；形容詞變化：frío / fría / fríos / frías",
+        "example_es": "Hoy hace mucho frío.",
+        "example_zh": "今天非常冷。"
+      },
+      {
+        "word": "trabajo",
         "pos": "名詞",
-        "meaning": "公園",
-        "detail": "陽性 el parque / los parques",
-        "example_es": "Hay muchos árboles en el parque.",
-        "example_zh": "公園裡有很多樹。"
+        "meaning": "工作；職業",
+        "detail": "陽性 el trabajo / los trabajos",
+        "example_es": "Mi trabajo empieza a las nueve.",
+        "example_zh": "我的工作九點開始。"
       },
       {
-        "word": "descanso",
-        "pos": "名詞",
-        "meaning": "休息、休息時間",
-        "detail": "陽性 el descanso / los descansos",
-        "example_es": "Necesito un descanso después del trabajo.",
-        "example_zh": "我工作後需要休息一下。"
-      },
-      {
-        "word": "preparar",
-        "pos": "動詞",
-        "meaning": "準備",
-        "detail": "變化：preparo（我）/ preparas（你）/ prepara（他／她）",
-        "example_es": "Preparo la cena a las siete.",
-        "example_zh": "我七點準備晚餐。"
-      },
-      {
-        "word": "oficina",
-        "pos": "名詞",
-        "meaning": "辦公室",
-        "detail": "陰性 la oficina / las oficinas",
-        "example_es": "Mi oficina está cerca de la estación.",
-        "example_zh": "我的辦公室在車站附近。"
-      },
-      {
-        "word": "lleno",
+        "word": "nuevo",
         "pos": "形容詞",
-        "meaning": "滿的、充滿的",
-        "detail": "陽性 lleno / 陰性 llena；複數 llenos / llenas",
-        "example_es": "El autobús está lleno hoy.",
-        "example_zh": "今天公車很滿。"
+        "meaning": "新的",
+        "detail": "變化：nuevo / nueva / nuevos / nuevas",
+        "example_es": "Tengo un teléfono nuevo.",
+        "example_zh": "我有一支新手機。"
       },
       {
-        "word": "cerrar",
+        "word": "cepillarse",
         "pos": "動詞",
-        "meaning": "關閉、關上",
-        "detail": "變化：cierro（我）/ cierras（你）/ cierra（他／她）",
-        "example_es": "¿Puedes cerrar la puerta, por favor?",
-        "example_zh": "你能幫忙把門關上嗎？"
+        "meaning": "刷（牙）、梳（髮）",
+        "detail": "變化：me cepillo（我）/ te cepillas（你）/ se cepilla（他/她）",
+        "example_es": "Me cepillo los dientes cada mañana.",
+        "example_zh": "我每天早上刷牙。"
       },
       {
-        "word": "semana",
+        "word": "mojado",
+        "pos": "形容詞",
+        "meaning": "濕的",
+        "detail": "陽性 mojado / 陰性 mojada；複數 mojados / mojadas",
+        "example_es": "Mi ropa está mojada por la lluvia.",
+        "example_zh": "我的衣服被雨淋濕了。"
+      },
+      {
+        "word": "vecindad",
         "pos": "名詞",
-        "meaning": "星期、一週",
-        "detail": "陰性 la semana / las semanas",
-        "example_es": "Esta semana tengo mucho trabajo.",
-        "example_zh": "這週我有很多工作。"
+        "meaning": "鄰里、街坊",
+        "detail": "陰性 la vecindad / las vecindades",
+        "example_es": "Hay un parque en mi vecindad.",
+        "example_zh": "我的街坊裡有一個公園。"
       },
       {
-        "word": "temprano",
-        "pos": "副詞",
-        "meaning": "早、提早",
-        "detail": "無性數變化，直接修飾動詞",
-        "example_es": "Mañana me levanto muy temprano.",
-        "example_zh": "明天我很早起床。"
-      },
-      {
-        "word": "soñar",
+        "word": "ponerse",
         "pos": "動詞",
-        "meaning": "做夢；夢想",
-        "detail": "變化：sueño（我）/ sueñas（你）/ sueña（他／她）",
-        "example_es": "Sueño con ir a España.",
-        "example_zh": "我夢想去西班牙。"
+        "meaning": "穿上（衣物）、戴上",
+        "detail": "變化：me pongo（我）/ te pones（你）/ se pone（他/她）",
+        "example_es": "Me pongo el abrigo porque hace frío.",
+        "example_zh": "因為天冷，我穿上外套。"
+      },
+      {
+        "word": "botella",
+        "pos": "名詞",
+        "meaning": "瓶子",
+        "detail": "陰性 la botella / las botellas",
+        "example_es": "Bebo agua de una botella.",
+        "example_zh": "我從瓶子裡喝水。"
       }
     ]
   },
