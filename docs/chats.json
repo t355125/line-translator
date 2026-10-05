@@ -1,5 +1,21 @@
 [
  {
+  "id": "c1791181398282",
+  "title": "情境對話",
+  "mode": "ask",
+  "messages": [
+   {
+    "role": "user",
+    "content": "（請用西班牙文開始這個情境的對話）"
+   },
+   {
+    "role": "assistant",
+    "content": "¡Hola! Yo me llamo Carlos. (你好！我叫卡洛斯。)\n口語：¡Hola! Me llamo Carlos. (省略主詞 yo，西語很常這樣說)\n\n¿Cómo te llamas tú? (你叫什麼名字？)"
+   }
+  ],
+  "time": "2026-10-05 14:23"
+ },
+ {
   "id": "c1790942241836",
   "title": "Despacito 這是什麼意思",
   "mode": "ask",
