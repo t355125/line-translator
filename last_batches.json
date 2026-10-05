@@ -85,71 +85,47 @@
     ]
   },
   "evening": {
-    "date": "2026-10-04",
+    "date": "2026-10-06",
     "cards": [
       {
-        "word": "nublado",
+        "word": "cálido",
         "pos": "形容詞",
-        "meaning": "多雲的、陰天的",
-        "detail": "男性 nublado / 女性 nublada；常與 estar 搭配使用",
-        "example_es": "Hoy está muy nublado.",
-        "example_zh": "今天天氣很陰。"
+        "meaning": "溫暖的",
+        "detail": "陽性 cálido / 陰性 cálida；複數 cálidos / cálidas",
+        "example_es": "Hoy el día está cálido y bonito.",
+        "example_zh": "今天天氣溫暖又美好。"
       },
       {
-        "word": "taza",
+        "word": "piscina",
         "pos": "名詞",
-        "meaning": "杯子（馬克杯、茶杯）",
-        "detail": "陰性 la taza / las tazas",
-        "example_es": "Quiero una taza de té, por favor.",
-        "example_zh": "請給我一杯茶。"
+        "meaning": "游泳池",
+        "detail": "陰性 la piscina / las piscinas",
+        "example_es": "Los niños nadan en la piscina.",
+        "example_zh": "孩子們在游泳池裡游泳。"
       },
       {
-        "word": "pelo",
+        "word": "rápido",
+        "pos": "形容詞",
+        "meaning": "快的、迅速的",
+        "detail": "陽性 rápido / 陰性 rápida；複數 rápidos / rápidas",
+        "example_es": "El tren es muy rápido.",
+        "example_zh": "這列火車非常快。"
+      },
+      {
+        "word": "reloj",
         "pos": "名詞",
-        "meaning": "頭髮",
-        "detail": "陽性 el pelo / los pelos",
-        "example_es": "Ella tiene el pelo largo.",
-        "example_zh": "她有一頭長髮。"
+        "meaning": "時鐘、手錶",
+        "detail": "陽性 el reloj / los relojes",
+        "example_es": "Mi reloj marca las ocho.",
+        "example_zh": "我的錶顯示八點。"
       },
       {
-        "word": "color",
+        "word": "árbol",
         "pos": "名詞",
-        "meaning": "顏色",
-        "detail": "陽性 el color / los colores",
-        "example_es": "¿Cuál es tu color favorito?",
-        "example_zh": "你最喜歡的顏色是什麼？"
-      },
-      {
-        "word": "carta",
-        "pos": "名詞",
-        "meaning": "信件；菜單",
-        "detail": "陰性 la carta / las cartas",
-        "example_es": "El camarero me trae la carta del restaurante.",
-        "example_zh": "服務生把餐廳的菜單拿給我。"
-      },
-      {
-        "word": "abrigo",
-        "pos": "名詞",
-        "meaning": "大衣、外套",
-        "detail": "陽性 el abrigo / los abrigos",
-        "example_es": "Hoy hace frío, necesito mi abrigo.",
-        "example_zh": "今天很冷，我需要穿大衣。"
-      },
-      {
-        "word": "entrar",
-        "pos": "動詞",
-        "meaning": "進入、進去",
-        "detail": "變化：entro（我）/ entras（你）/ entra（他／她）",
-        "example_es": "Entro a la clase a las nueve.",
-        "example_zh": "我九點進教室。"
-      },
-      {
-        "word": "mes",
-        "pos": "名詞",
-        "meaning": "月份、月",
-        "detail": "陽性 el mes / los meses",
-        "example_es": "Voy a España el mes próximo.",
-        "example_zh": "我下個月要去西班牙。"
+        "meaning": "樹",
+        "detail": "陽性 el árbol / los árboles",
+        "example_es": "Hay un árbol grande en mi jardín.",
+        "example_zh": "我的花園裡有一棵大樹。"
       }
     ]
   }
