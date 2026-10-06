@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-05",
+    "date": "2026-10-06",
     "cards": [
       {
-        "word": "hora",
+        "word": "camino",
         "pos": "名詞",
-        "meaning": "小時；時刻",
-        "detail": "陰性 la hora / las horas",
-        "example_es": "¿Qué hora es? Son las tres.",
-        "example_zh": "現在幾點？三點了。"
+        "meaning": "路；道路",
+        "detail": "陽性 el camino / los caminos",
+        "example_es": "El camino al parque es largo.",
+        "example_zh": "去公園的路很長。"
       },
       {
-        "word": "saber",
-        "pos": "動詞",
-        "meaning": "知道；會（技能）",
-        "detail": "變化：sé（我）/ sabes（你）/ sabe（他／她）",
-        "example_es": "¿Sabes dónde está el baño?",
-        "example_zh": "你知道廁所在哪裡嗎？"
-      },
-      {
-        "word": "frío",
-        "pos": "形容詞／名詞",
-        "meaning": "冷的；寒冷",
-        "detail": "陽性 el frío；形容詞變化：frío / fría / fríos / frías",
-        "example_es": "Hoy hace mucho frío.",
-        "example_zh": "今天非常冷。"
-      },
-      {
-        "word": "trabajo",
-        "pos": "名詞",
-        "meaning": "工作；職業",
-        "detail": "陽性 el trabajo / los trabajos",
-        "example_es": "Mi trabajo empieza a las nueve.",
-        "example_zh": "我的工作九點開始。"
-      },
-      {
-        "word": "nuevo",
+        "word": "feliz",
         "pos": "形容詞",
-        "meaning": "新的",
-        "detail": "變化：nuevo / nueva / nuevos / nuevas",
-        "example_es": "Tengo un teléfono nuevo.",
-        "example_zh": "我有一支新手機。"
+        "meaning": "快樂的；幸福的",
+        "detail": "單數 feliz / 複數 felices，陰陽性同形",
+        "example_es": "Estoy muy feliz hoy.",
+        "example_zh": "我今天很開心。"
       },
       {
-        "word": "cepillarse",
-        "pos": "動詞",
-        "meaning": "刷（牙）、梳（髮）",
-        "detail": "變化：me cepillo（我）/ te cepillas（你）/ se cepilla（他/她）",
-        "example_es": "Me cepillo los dientes cada mañana.",
-        "example_zh": "我每天早上刷牙。"
-      },
-      {
-        "word": "mojado",
-        "pos": "形容詞",
-        "meaning": "濕的",
-        "detail": "陽性 mojado / 陰性 mojada；複數 mojados / mojadas",
-        "example_es": "Mi ropa está mojada por la lluvia.",
-        "example_zh": "我的衣服被雨淋濕了。"
-      },
-      {
-        "word": "vecindad",
+        "word": "diente",
         "pos": "名詞",
-        "meaning": "鄰里、街坊",
-        "detail": "陰性 la vecindad / las vecindades",
-        "example_es": "Hay un parque en mi vecindad.",
-        "example_zh": "我的街坊裡有一個公園。"
+        "meaning": "牙齒",
+        "detail": "陽性 el diente / los dientes",
+        "example_es": "Me lavo los dientes cada noche.",
+        "example_zh": "我每天晚上刷牙。"
       },
       {
-        "word": "ponerse",
-        "pos": "動詞",
-        "meaning": "穿上（衣物）、戴上",
-        "detail": "變化：me pongo（我）/ te pones（你）/ se pone（他/她）",
-        "example_es": "Me pongo el abrigo porque hace frío.",
-        "example_zh": "因為天冷，我穿上外套。"
-      },
-      {
-        "word": "botella",
+        "word": "camión",
         "pos": "名詞",
-        "meaning": "瓶子",
-        "detail": "陰性 la botella / las botellas",
-        "example_es": "Bebo agua de una botella.",
-        "example_zh": "我從瓶子裡喝水。"
+        "meaning": "卡車；（墨西哥用法）公車",
+        "detail": "陽性 el camión / los camiones",
+        "example_es": "El camión llega a las ocho.",
+        "example_zh": "卡車八點到。"
+      },
+      {
+        "word": "besar",
+        "pos": "動詞",
+        "meaning": "親吻",
+        "detail": "變化：beso（我）/ besas（你）/ besa（他／她）",
+        "example_es": "Ella besa a su mamá antes de dormir.",
+        "example_zh": "她睡前親媽媽。"
+      },
+      {
+        "word": "cantar",
+        "pos": "動詞",
+        "meaning": "唱歌",
+        "detail": "變化：canto（我）/ cantas（你）/ canta（他／她）",
+        "example_es": "Me gusta cantar en la ducha.",
+        "example_zh": "我喜歡在淋浴時唱歌。"
+      },
+      {
+        "word": "lámpara",
+        "pos": "名詞",
+        "meaning": "燈；檯燈",
+        "detail": "陰性 la lámpara / las lámparas",
+        "example_es": "Enciendo la lámpara para leer.",
+        "example_zh": "我開燈來看書。"
+      },
+      {
+        "word": "gritar",
+        "pos": "動詞",
+        "meaning": "大叫；喊叫",
+        "detail": "變化：grito（我）/ gritas（你）/ grita（他／她）",
+        "example_es": "El niño grita porque tiene miedo.",
+        "example_zh": "那個小孩因為害怕而大叫。"
+      },
+      {
+        "word": "músico",
+        "pos": "名詞",
+        "meaning": "音樂家",
+        "detail": "陽性 el músico / los músicos；陰性 la música / las músicas",
+        "example_es": "Mi hermano es músico y toca la guitarra.",
+        "example_zh": "我哥哥是音樂家，他彈吉他。"
+      },
+      {
+        "word": "añadir",
+        "pos": "動詞",
+        "meaning": "加入；添加",
+        "detail": "變化：añado（我）/ añades（你）/ añade（他／她）",
+        "example_es": "Añado azúcar al café.",
+        "example_zh": "我在咖啡裡加糖。"
       }
     ]
   },
