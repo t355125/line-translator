@@ -85,47 +85,39 @@
     ]
   },
   "evening": {
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "cards": [
       {
-        "word": "cálido",
-        "pos": "形容詞",
-        "meaning": "溫暖的",
-        "detail": "陽性 cálido / 陰性 cálida；複數 cálidos / cálidas",
-        "example_es": "Hoy el día está cálido y bonito.",
-        "example_zh": "今天天氣溫暖又美好。"
-      },
-      {
-        "word": "piscina",
+        "word": "despertador",
         "pos": "名詞",
-        "meaning": "游泳池",
-        "detail": "陰性 la piscina / las piscinas",
-        "example_es": "Los niños nadan en la piscina.",
-        "example_zh": "孩子們在游泳池裡游泳。"
+        "meaning": "鬧鐘",
+        "detail": "陽性 el despertador / los despertadores",
+        "example_es": "Mi despertador suena a las siete.",
+        "example_zh": "我的鬧鐘在七點響。"
       },
       {
-        "word": "rápido",
-        "pos": "形容詞",
-        "meaning": "快的、迅速的",
-        "detail": "陽性 rápido / 陰性 rápida；複數 rápidos / rápidas",
-        "example_es": "El tren es muy rápido.",
-        "example_zh": "這列火車非常快。"
+        "word": "tomar",
+        "pos": "動詞",
+        "meaning": "喝；搭乘；拿取",
+        "detail": "變化：tomo（我）/ tomas（你）/ toma（他／她）",
+        "example_es": "Tomo el autobús cada día.",
+        "example_zh": "我每天搭公車。"
       },
       {
-        "word": "reloj",
+        "word": "bebida",
         "pos": "名詞",
-        "meaning": "時鐘、手錶",
-        "detail": "陽性 el reloj / los relojes",
-        "example_es": "Mi reloj marca las ocho.",
-        "example_zh": "我的錶顯示八點。"
+        "meaning": "飲料",
+        "detail": "陰性 la bebida / las bebidas",
+        "example_es": "¿Qué bebida quieres?",
+        "example_zh": "你想要什麼飲料？"
       },
       {
-        "word": "árbol",
+        "word": "baño",
         "pos": "名詞",
-        "meaning": "樹",
-        "detail": "陽性 el árbol / los árboles",
-        "example_es": "Hay un árbol grande en mi jardín.",
-        "example_zh": "我的花園裡有一棵大樹。"
+        "meaning": "浴室；廁所",
+        "detail": "陽性 el baño / los baños",
+        "example_es": "El baño está al final del pasillo.",
+        "example_zh": "浴室在走廊的盡頭。"
       }
     ]
   }
