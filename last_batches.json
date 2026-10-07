@@ -1,86 +1,70 @@
 {
   "morning": {
-    "date": "2026-10-06",
+    "date": "2026-10-07",
     "cards": [
       {
-        "word": "camino",
+        "word": "pasillo",
         "pos": "名詞",
-        "meaning": "路；道路",
-        "detail": "陽性 el camino / los caminos",
-        "example_es": "El camino al parque es largo.",
-        "example_zh": "去公園的路很長。"
+        "meaning": "走廊",
+        "detail": "陽性 el pasillo / los pasillos",
+        "example_es": "El pasillo de mi escuela es muy largo.",
+        "example_zh": "我學校的走廊很長。"
       },
       {
-        "word": "feliz",
+        "word": "jugo",
+        "pos": "名詞",
+        "meaning": "果汁",
+        "detail": "陽性 el jugo / los jugos",
+        "example_es": "Bebo un jugo de naranja en el desayuno.",
+        "example_zh": "我早餐喝一杯柳橙汁。"
+      },
+      {
+        "word": "cruzar",
+        "pos": "動詞",
+        "meaning": "穿越、過（馬路）",
+        "detail": "變化：cruzo（我）/ cruzas（你）/ cruza（他／她）",
+        "example_es": "Cruzo la calle con cuidado.",
+        "example_zh": "我小心地過馬路。"
+      },
+      {
+        "word": "cuidar",
+        "pos": "動詞",
+        "meaning": "照顧、照料",
+        "detail": "變化：cuido（我）/ cuidas（你）/ cuida（他／她）",
+        "example_es": "Cuido a mi gato todos los días.",
+        "example_zh": "我每天照顧我的貓。"
+      },
+      {
+        "word": "pañuelo",
+        "pos": "名詞",
+        "meaning": "手帕、面紙",
+        "detail": "陽性 el pañuelo / los pañuelos",
+        "example_es": "Llevo un pañuelo en mi bolsillo.",
+        "example_zh": "我口袋裡帶著一條手帕。"
+      },
+      {
+        "word": "rico",
         "pos": "形容詞",
-        "meaning": "快樂的；幸福的",
-        "detail": "單數 feliz / 複數 felices，陰陽性同形",
-        "example_es": "Estoy muy feliz hoy.",
-        "example_zh": "我今天很開心。"
+        "meaning": "好吃的；有錢的",
+        "detail": "陽性 rico / 陰性 rica；複數 ricos / ricas",
+        "example_es": "Este pastel está muy rico.",
+        "example_zh": "這個蛋糕非常好吃。"
       },
       {
-        "word": "diente",
+        "word": "carne",
         "pos": "名詞",
-        "meaning": "牙齒",
-        "detail": "陽性 el diente / los dientes",
-        "example_es": "Me lavo los dientes cada noche.",
-        "example_zh": "我每天晚上刷牙。"
+        "meaning": "肉",
+        "detail": "陰性 la carne / las carnes",
+        "example_es": "No como mucha carne, prefiero las verduras.",
+        "example_zh": "我不太吃肉，比較喜歡蔬菜。"
       },
       {
-        "word": "camión",
+        "word": "señor",
         "pos": "名詞",
-        "meaning": "卡車；（墨西哥用法）公車",
-        "detail": "陽性 el camión / los camiones",
-        "example_es": "El camión llega a las ocho.",
-        "example_zh": "卡車八點到。"
-      },
-      {
-        "word": "besar",
-        "pos": "動詞",
-        "meaning": "親吻",
-        "detail": "變化：beso（我）/ besas（你）/ besa（他／她）",
-        "example_es": "Ella besa a su mamá antes de dormir.",
-        "example_zh": "她睡前親媽媽。"
-      },
-      {
-        "word": "cantar",
-        "pos": "動詞",
-        "meaning": "唱歌",
-        "detail": "變化：canto（我）/ cantas（你）/ canta（他／她）",
-        "example_es": "Me gusta cantar en la ducha.",
-        "example_zh": "我喜歡在淋浴時唱歌。"
-      },
-      {
-        "word": "lámpara",
-        "pos": "名詞",
-        "meaning": "燈；檯燈",
-        "detail": "陰性 la lámpara / las lámparas",
-        "example_es": "Enciendo la lámpara para leer.",
-        "example_zh": "我開燈來看書。"
-      },
-      {
-        "word": "gritar",
-        "pos": "動詞",
-        "meaning": "大叫；喊叫",
-        "detail": "變化：grito（我）/ gritas（你）/ grita（他／她）",
-        "example_es": "El niño grita porque tiene miedo.",
-        "example_zh": "那個小孩因為害怕而大叫。"
-      },
-      {
-        "word": "músico",
-        "pos": "名詞",
-        "meaning": "音樂家",
-        "detail": "陽性 el músico / los músicos；陰性 la música / las músicas",
-        "example_es": "Mi hermano es músico y toca la guitarra.",
-        "example_zh": "我哥哥是音樂家，他彈吉他。"
-      },
-      {
-        "word": "añadir",
-        "pos": "動詞",
-        "meaning": "加入；添加",
-        "detail": "變化：añado（我）/ añades（你）/ añade（他／她）",
-        "example_es": "Añado azúcar al café.",
-        "example_zh": "我在咖啡裡加糖。"
+        "meaning": "先生；男士",
+        "detail": "陽性 el señor / los señores；陰性對應為 la señora",
+        "example_es": "Buenos días, señor. ¿En qué le puedo ayudar?",
+        "example_zh": "早安，先生。我能幫您什麼嗎？"
       }
     ]
   },
