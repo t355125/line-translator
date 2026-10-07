@@ -69,39 +69,79 @@
     ]
   },
   "evening": {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "cards": [
       {
-        "word": "despertador",
+        "word": "paragüero",
         "pos": "名詞",
-        "meaning": "鬧鐘",
-        "detail": "陽性 el despertador / los despertadores",
-        "example_es": "Mi despertador suena a las siete.",
-        "example_zh": "我的鬧鐘在七點響。"
+        "meaning": "雨傘架",
+        "detail": "陽性 el paragüero / los paragüeros",
+        "example_es": "El paragüero está cerca de la puerta.",
+        "example_zh": "雨傘架在門旁邊。"
       },
       {
-        "word": "tomar",
+        "word": "verdulería",
+        "pos": "名詞",
+        "meaning": "蔬果店",
+        "detail": "陰性 la verdulería / las verdulerías",
+        "example_es": "Compro tomates en la verdulería.",
+        "example_zh": "我在蔬果店買番茄。"
+      },
+      {
+        "word": "pastel",
+        "pos": "名詞",
+        "meaning": "蛋糕、點心",
+        "detail": "陽性 el pastel / los pasteles",
+        "example_es": "Mi mamá hace un pastel de chocolate.",
+        "example_zh": "我媽媽做了一個巧克力蛋糕。"
+      },
+      {
+        "word": "nevera",
+        "pos": "名詞",
+        "meaning": "冰箱",
+        "detail": "陰性 la nevera / las neveras",
+        "example_es": "Hay leche y zumo en la nevera.",
+        "example_zh": "冰箱裡有牛奶和果汁。"
+      },
+      {
+        "word": "elegir",
         "pos": "動詞",
-        "meaning": "喝；搭乘；拿取",
-        "detail": "變化：tomo（我）/ tomas（你）/ toma（他／她）",
-        "example_es": "Tomo el autobús cada día.",
-        "example_zh": "我每天搭公車。"
+        "meaning": "選擇",
+        "detail": "變化：elijo（我）/ eliges（你）/ elige（他／她）",
+        "example_es": "Elijo la camisa azul para hoy.",
+        "example_zh": "我今天選藍色的襯衫。"
       },
       {
-        "word": "bebida",
+        "word": "ruido",
         "pos": "名詞",
-        "meaning": "飲料",
-        "detail": "陰性 la bebida / las bebidas",
-        "example_es": "¿Qué bebida quieres?",
-        "example_zh": "你想要什麼飲料？"
+        "meaning": "噪音、聲音",
+        "detail": "陽性 el ruido / los ruidos",
+        "example_es": "Hay mucho ruido en la calle.",
+        "example_zh": "街上有很多噪音。"
       },
       {
-        "word": "baño",
+        "word": "pescado",
         "pos": "名詞",
-        "meaning": "浴室；廁所",
-        "detail": "陽性 el baño / los baños",
-        "example_es": "El baño está al final del pasillo.",
-        "example_zh": "浴室在走廊的盡頭。"
+        "meaning": "魚（食用魚）",
+        "detail": "陽性 el pescado / los pescados",
+        "example_es": "Me gusta el pescado con arroz.",
+        "example_zh": "我喜歡魚配飯。"
+      },
+      {
+        "word": "música",
+        "pos": "名詞",
+        "meaning": "音樂",
+        "detail": "陰性 la música / las músicas",
+        "example_es": "Escucho música cuando como.",
+        "example_zh": "我吃飯的時候聽音樂。"
+      },
+      {
+        "word": "decidir",
+        "pos": "動詞",
+        "meaning": "決定",
+        "detail": "變化：decido（我）/ decides（你）/ decide（他／她）",
+        "example_es": "Decido estudiar español todos los días.",
+        "example_zh": "我決定每天學西班牙文。"
       }
     ]
   }
