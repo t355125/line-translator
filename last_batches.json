@@ -1,70 +1,38 @@
 {
   "morning": {
-    "date": "2026-10-07",
+    "date": "2026-10-08",
     "cards": [
       {
-        "word": "pasillo",
+        "word": "diario",
         "pos": "名詞",
-        "meaning": "走廊",
-        "detail": "陽性 el pasillo / los pasillos",
-        "example_es": "El pasillo de mi escuela es muy largo.",
-        "example_zh": "我學校的走廊很長。"
+        "meaning": "日記；日報",
+        "detail": "陽性 el diario / los diarios",
+        "example_es": "Escribo en mi diario cada noche.",
+        "example_zh": "我每天晚上寫日記。"
       },
       {
-        "word": "jugo",
+        "word": "panadería",
         "pos": "名詞",
-        "meaning": "果汁",
-        "detail": "陽性 el jugo / los jugos",
-        "example_es": "Bebo un jugo de naranja en el desayuno.",
-        "example_zh": "我早餐喝一杯柳橙汁。"
+        "meaning": "麵包店",
+        "detail": "陰性 la panadería / las panaderías",
+        "example_es": "Compro pan en la panadería.",
+        "example_zh": "我在麵包店買麵包。"
       },
       {
-        "word": "cruzar",
+        "word": "gustar",
         "pos": "動詞",
-        "meaning": "穿越、過（馬路）",
-        "detail": "變化：cruzo（我）/ cruzas（你）/ cruza（他／她）",
-        "example_es": "Cruzo la calle con cuidado.",
-        "example_zh": "我小心地過馬路。"
+        "meaning": "喜歡",
+        "detail": "變化：me gusta（我喜歡）/ te gusta（你喜歡）/ le gusta（他／她喜歡）",
+        "example_es": "Me gusta mucho la música.",
+        "example_zh": "我非常喜歡音樂。"
       },
       {
-        "word": "cuidar",
-        "pos": "動詞",
-        "meaning": "照顧、照料",
-        "detail": "變化：cuido（我）/ cuidas（你）/ cuida（他／她）",
-        "example_es": "Cuido a mi gato todos los días.",
-        "example_zh": "我每天照顧我的貓。"
-      },
-      {
-        "word": "pañuelo",
+        "word": "señora",
         "pos": "名詞",
-        "meaning": "手帕、面紙",
-        "detail": "陽性 el pañuelo / los pañuelos",
-        "example_es": "Llevo un pañuelo en mi bolsillo.",
-        "example_zh": "我口袋裡帶著一條手帕。"
-      },
-      {
-        "word": "rico",
-        "pos": "形容詞",
-        "meaning": "好吃的；有錢的",
-        "detail": "陽性 rico / 陰性 rica；複數 ricos / ricas",
-        "example_es": "Este pastel está muy rico.",
-        "example_zh": "這個蛋糕非常好吃。"
-      },
-      {
-        "word": "carne",
-        "pos": "名詞",
-        "meaning": "肉",
-        "detail": "陰性 la carne / las carnes",
-        "example_es": "No como mucha carne, prefiero las verduras.",
-        "example_zh": "我不太吃肉，比較喜歡蔬菜。"
-      },
-      {
-        "word": "señor",
-        "pos": "名詞",
-        "meaning": "先生；男士",
-        "detail": "陽性 el señor / los señores；陰性對應為 la señora",
-        "example_es": "Buenos días, señor. ¿En qué le puedo ayudar?",
-        "example_zh": "早安，先生。我能幫您什麼嗎？"
+        "meaning": "女士；太太",
+        "detail": "陰性 la señora / las señoras",
+        "example_es": "Buenos días, señora García.",
+        "example_zh": "早安，賈西亞女士。"
       }
     ]
   },
