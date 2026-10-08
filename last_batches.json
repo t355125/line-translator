@@ -37,79 +37,55 @@
     ]
   },
   "evening": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "cards": [
       {
-        "word": "paragüero",
+        "word": "primavera",
         "pos": "名詞",
-        "meaning": "雨傘架",
-        "detail": "陽性 el paragüero / los paragüeros",
-        "example_es": "El paragüero está cerca de la puerta.",
-        "example_zh": "雨傘架在門旁邊。"
+        "meaning": "春天",
+        "detail": "陰性 la primavera / las primaveras",
+        "example_es": "Me gusta la primavera porque hay flores.",
+        "example_zh": "我喜歡春天，因為有花。"
       },
       {
-        "word": "verdulería",
+        "word": "sofa",
         "pos": "名詞",
-        "meaning": "蔬果店",
-        "detail": "陰性 la verdulería / las verdulerías",
-        "example_es": "Compro tomates en la verdulería.",
-        "example_zh": "我在蔬果店買番茄。"
+        "meaning": "沙發",
+        "detail": "陽性 el sofá / los sofás",
+        "example_es": "Mi gato duerme en el sofá.",
+        "example_zh": "我的貓睡在沙發上。"
       },
       {
-        "word": "pastel",
-        "pos": "名詞",
-        "meaning": "蛋糕、點心",
-        "detail": "陽性 el pastel / los pasteles",
-        "example_es": "Mi mamá hace un pastel de chocolate.",
-        "example_zh": "我媽媽做了一個巧克力蛋糕。"
-      },
-      {
-        "word": "nevera",
-        "pos": "名詞",
-        "meaning": "冰箱",
-        "detail": "陰性 la nevera / las neveras",
-        "example_es": "Hay leche y zumo en la nevera.",
-        "example_zh": "冰箱裡有牛奶和果汁。"
-      },
-      {
-        "word": "elegir",
+        "word": "apagar",
         "pos": "動詞",
-        "meaning": "選擇",
-        "detail": "變化：elijo（我）/ eliges（你）/ elige（他／她）",
-        "example_es": "Elijo la camisa azul para hoy.",
-        "example_zh": "我今天選藍色的襯衫。"
+        "meaning": "關掉（電燈、電器）",
+        "detail": "變化：apago（我）/ apagas（你）/ apaga（他／她）",
+        "example_es": "Apago la luz antes de dormir.",
+        "example_zh": "我睡前關燈。"
       },
       {
-        "word": "ruido",
+        "word": "otoño",
         "pos": "名詞",
-        "meaning": "噪音、聲音",
-        "detail": "陽性 el ruido / los ruidos",
-        "example_es": "Hay mucho ruido en la calle.",
-        "example_zh": "街上有很多噪音。"
+        "meaning": "秋天",
+        "detail": "陽性 el otoño / los otoños",
+        "example_es": "En otoño las hojas son amarillas.",
+        "example_zh": "秋天樹葉是黃色的。"
       },
       {
-        "word": "pescado",
-        "pos": "名詞",
-        "meaning": "魚（食用魚）",
-        "detail": "陽性 el pescado / los pescados",
-        "example_es": "Me gusta el pescado con arroz.",
-        "example_zh": "我喜歡魚配飯。"
-      },
-      {
-        "word": "música",
-        "pos": "名詞",
-        "meaning": "音樂",
-        "detail": "陰性 la música / las músicas",
-        "example_es": "Escucho música cuando como.",
-        "example_zh": "我吃飯的時候聽音樂。"
-      },
-      {
-        "word": "decidir",
+        "word": "hervir",
         "pos": "動詞",
-        "meaning": "決定",
-        "detail": "變化：decido（我）/ decides（你）/ decide（他／她）",
-        "example_es": "Decido estudiar español todos los días.",
-        "example_zh": "我決定每天學西班牙文。"
+        "meaning": "煮沸、燒開",
+        "detail": "變化：hiervo（我）/ hierves（你）/ hierve（他／她）",
+        "example_es": "Hiervo agua para hacer té.",
+        "example_zh": "我燒開水來泡茶。"
+      },
+      {
+        "word": "repetir",
+        "pos": "動詞",
+        "meaning": "重複、再說一次",
+        "detail": "變化：repito（我）/ repites（你）/ repite（他／她）",
+        "example_es": "¿Puedes repetir eso, por favor?",
+        "example_zh": "你可以再說一次嗎，拜託？"
       }
     ]
   }
