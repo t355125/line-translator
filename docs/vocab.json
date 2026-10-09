@@ -1210,5 +1210,47 @@
     "pos": "動詞",
     "meaning": "重複、再說一次",
     "date": "2026-10-09"
+  },
+  {
+    "word": "verano",
+    "pos": "名詞",
+    "meaning": "夏天",
+    "date": "2026-10-09"
+  },
+  {
+    "word": "inverno",
+    "pos": "名詞",
+    "meaning": "冬天",
+    "date": "2026-10-09"
+  },
+  {
+    "word": "aeropuerto",
+    "pos": "名詞",
+    "meaning": "機場",
+    "date": "2026-10-09"
+  },
+  {
+    "word": "limpiar",
+    "pos": "動詞",
+    "meaning": "打掃、清潔",
+    "date": "2026-10-09"
+  },
+  {
+    "word": "cumpleaños",
+    "pos": "名詞",
+    "meaning": "生日",
+    "date": "2026-10-09"
+  },
+  {
+    "word": "invitar",
+    "pos": "動詞",
+    "meaning": "邀請",
+    "date": "2026-10-09"
+  },
+  {
+    "word": "invierno",
+    "pos": "名詞",
+    "meaning": "冬天",
+    "date": "2026-10-09"
   }
 ]

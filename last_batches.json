@@ -1,38 +1,62 @@
 {
   "morning": {
-    "date": "2026-10-08",
+    "date": "2026-10-09",
     "cards": [
       {
-        "word": "diario",
+        "word": "verano",
         "pos": "名詞",
-        "meaning": "日記；日報",
-        "detail": "陽性 el diario / los diarios",
-        "example_es": "Escribo en mi diario cada noche.",
-        "example_zh": "我每天晚上寫日記。"
+        "meaning": "夏天",
+        "detail": "陽性 el verano / los veranos",
+        "example_es": "En verano hace mucho calor.",
+        "example_zh": "夏天非常熱。"
       },
       {
-        "word": "panadería",
+        "word": "inverno",
         "pos": "名詞",
-        "meaning": "麵包店",
-        "detail": "陰性 la panadería / las panaderías",
-        "example_es": "Compro pan en la panadería.",
-        "example_zh": "我在麵包店買麵包。"
+        "meaning": "冬天",
+        "detail": "陽性 el invierno / los inviernos",
+        "example_es": "En invierno llevo abrigo.",
+        "example_zh": "冬天我穿大衣。"
       },
       {
-        "word": "gustar",
+        "word": "aeropuerto",
+        "pos": "名詞",
+        "meaning": "機場",
+        "detail": "陽性 el aeropuerto / los aeropuertos",
+        "example_es": "El aeropuerto está muy lejos.",
+        "example_zh": "機場非常遠。"
+      },
+      {
+        "word": "limpiar",
         "pos": "動詞",
-        "meaning": "喜歡",
-        "detail": "變化：me gusta（我喜歡）/ te gusta（你喜歡）/ le gusta（他／她喜歡）",
-        "example_es": "Me gusta mucho la música.",
-        "example_zh": "我非常喜歡音樂。"
+        "meaning": "打掃、清潔",
+        "detail": "變化：limpio（我）/ limpias（你）/ limpia（他／她）",
+        "example_es": "Limpio mi cuarto todos los días.",
+        "example_zh": "我每天打掃我的房間。"
       },
       {
-        "word": "señora",
+        "word": "cumpleaños",
         "pos": "名詞",
-        "meaning": "女士；太太",
-        "detail": "陰性 la señora / las señoras",
-        "example_es": "Buenos días, señora García.",
-        "example_zh": "早安，賈西亞女士。"
+        "meaning": "生日",
+        "detail": "陽性 el cumpleaños / los cumpleaños（單複數同形）",
+        "example_es": "Hoy es mi cumpleaños. ¡Estoy muy feliz!",
+        "example_zh": "今天是我的生日，我非常開心！"
+      },
+      {
+        "word": "invitar",
+        "pos": "動詞",
+        "meaning": "邀請",
+        "detail": "變化：invito（我）/ invitas（你）/ invita（他／她）",
+        "example_es": "Te invito a cenar en mi casa.",
+        "example_zh": "我邀請你來我家吃晚飯。"
+      },
+      {
+        "word": "invierno",
+        "pos": "名詞",
+        "meaning": "冬天",
+        "detail": "陽性 el invierno / los inviernos",
+        "example_es": "En invierno llevo abrigo.",
+        "example_zh": "冬天我穿大衣。"
       }
     ]
   },
