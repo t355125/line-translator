@@ -1,62 +1,22 @@
 {
   "morning": {
-    "date": "2026-10-09",
+    "date": "2026-10-10",
     "cards": [
       {
-        "word": "verano",
+        "word": "niña",
         "pos": "名詞",
-        "meaning": "夏天",
-        "detail": "陽性 el verano / los veranos",
-        "example_es": "En verano hace mucho calor.",
-        "example_zh": "夏天非常熱。"
+        "meaning": "女孩、小女孩",
+        "detail": "陰性 la niña / las niñas",
+        "example_es": "La niña bebe leche por la mañana.",
+        "example_zh": "那個小女孩早上喝牛奶。"
       },
       {
-        "word": "inverno",
-        "pos": "名詞",
-        "meaning": "冬天",
-        "detail": "陽性 el invierno / los inviernos",
-        "example_es": "En invierno llevo abrigo.",
-        "example_zh": "冬天我穿大衣。"
-      },
-      {
-        "word": "aeropuerto",
-        "pos": "名詞",
-        "meaning": "機場",
-        "detail": "陽性 el aeropuerto / los aeropuertos",
-        "example_es": "El aeropuerto está muy lejos.",
-        "example_zh": "機場非常遠。"
-      },
-      {
-        "word": "limpiar",
-        "pos": "動詞",
-        "meaning": "打掃、清潔",
-        "detail": "變化：limpio（我）/ limpias（你）/ limpia（他／她）",
-        "example_es": "Limpio mi cuarto todos los días.",
-        "example_zh": "我每天打掃我的房間。"
-      },
-      {
-        "word": "cumpleaños",
-        "pos": "名詞",
-        "meaning": "生日",
-        "detail": "陽性 el cumpleaños / los cumpleaños（單複數同形）",
-        "example_es": "Hoy es mi cumpleaños. ¡Estoy muy feliz!",
-        "example_zh": "今天是我的生日，我非常開心！"
-      },
-      {
-        "word": "invitar",
-        "pos": "動詞",
-        "meaning": "邀請",
-        "detail": "變化：invito（我）/ invitas（你）/ invita（他／她）",
-        "example_es": "Te invito a cenar en mi casa.",
-        "example_zh": "我邀請你來我家吃晚飯。"
-      },
-      {
-        "word": "invierno",
-        "pos": "名詞",
-        "meaning": "冬天",
-        "detail": "陽性 el invierno / los inviernos",
-        "example_es": "En invierno llevo abrigo.",
-        "example_zh": "冬天我穿大衣。"
+        "word": "español",
+        "pos": "名詞／形容詞",
+        "meaning": "西班牙文；西班牙的",
+        "detail": "陽性 el español（語言）；形容詞：español／española",
+        "example_es": "Estudio español porque me gusta mucho.",
+        "example_zh": "我學西班牙文，因為我很喜歡它。"
       }
     ]
   },
