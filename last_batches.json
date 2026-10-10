@@ -24,12 +24,12 @@
     "date": "2026-10-10",
     "cards": [
       {
-        "word": "amiga",
+        "word": "calor",
         "pos": "名詞",
-        "meaning": "（女性）朋友",
-        "detail": "陰性 la amiga / las amigas",
-        "example_es": "Mi amiga vive cerca de mi casa.",
-        "example_zh": "我的朋友住在我家附近。"
+        "meaning": "熱、熱氣",
+        "detail": "陽性 el calor（無複數常用形）",
+        "example_es": "Hoy hace mucho calor.",
+        "example_zh": "今天非常熱。"
       }
     ]
   }
