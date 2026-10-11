@@ -1,22 +1,14 @@
 {
   "morning": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "cards": [
       {
-        "word": "niña",
+        "word": "puente",
         "pos": "名詞",
-        "meaning": "女孩、小女孩",
-        "detail": "陰性 la niña / las niñas",
-        "example_es": "La niña bebe leche por la mañana.",
-        "example_zh": "那個小女孩早上喝牛奶。"
-      },
-      {
-        "word": "español",
-        "pos": "名詞／形容詞",
-        "meaning": "西班牙文；西班牙的",
-        "detail": "陽性 el español（語言）；形容詞：español／española",
-        "example_es": "Estudio español porque me gusta mucho.",
-        "example_zh": "我學西班牙文，因為我很喜歡它。"
+        "meaning": "橋",
+        "detail": "陽性 el puente / los puentes",
+        "example_es": "Hay un puente cerca de mi casa.",
+        "example_zh": "我家附近有一座橋。"
       }
     ]
   },
