@@ -13,15 +13,15 @@
     ]
   },
   "evening": {
-    "date": "2026-10-10",
+    "date": "2026-10-11",
     "cards": [
       {
-        "word": "calor",
+        "word": "salud",
         "pos": "名詞",
-        "meaning": "熱、熱氣",
-        "detail": "陽性 el calor（無複數常用形）",
-        "example_es": "Hoy hace mucho calor.",
-        "example_zh": "今天非常熱。"
+        "meaning": "健康；乾杯（祝酒用語）",
+        "detail": "陰性 la salud（通常不用複數）",
+        "example_es": "La salud es muy importante para mí.",
+        "example_zh": "健康對我來說非常重要。"
       }
     ]
   }
