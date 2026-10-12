@@ -1,6 +1,8 @@
 import os
 import json
 import datetime
+import random
+import re
 import requests
 
 LINE_CHANNEL_ACCESS_TOKEN = os.environ["LINE_CHANNEL_ACCESS_TOKEN"]
@@ -52,6 +54,9 @@ def call_claude_json(prompt, max_tokens=2500):
         "messages": [{"role": "user", "content": prompt}],
     }
     r = requests.post(ANTHROPIC_URL, headers=headers, json=payload, timeout=60)
+    if r.status_code >= 400:
+        # 把 API 回的錯誤原因印出來(不含金鑰),方便在 Actions log 看到真正原因
+        print("Anthropic API error:", r.status_code, r.text[:600])
     r.raise_for_status()
     data = r.json()
     text = "".join(b["text"] for b in data.get("content", []) if b.get("type") == "text").strip()
@@ -81,20 +86,32 @@ def format_full(cards):
     lines = []
     for i, c in enumerate(cards):
         n = NUM[i] if i < len(NUM) else f"{i+1}."
-        block = f"{n}  {c['word']}  \u3010{c['pos']}\u3011\n"
-        block += f"\u3000\U0001f4cc {c['meaning']}\n"
+        block = f"{n}  {c['word']}  【{c.get('pos','')}】\n"
+        block += f"\u3000📌 {c.get('meaning','')}"
         if c.get("detail"):
-            block += f"\u3000\U0001f4dd {c['detail']}\n"
-        block += f"\u3000\U0001f4ac {c['example_es']}\n"
-        block += f"\u3000\u3000\u3000{c['example_zh']}"
+            block += f"\n\u3000📝 {c['detail']}"
+        if c.get("example_es"):
+            block += f"\n\u3000💬 {c['example_es']}"
+            if c.get("example_zh"):
+                block += f"\n\u3000\u3000\u3000{c['example_zh']}"
         lines.append(block)
     return "\n\n".join(lines)
 
 
-def format_review(cards):
+def short_date(d):
+    """2026-10-11 -> 10/11"""
+    if d and len(d) >= 10:
+        return d[5:7] + "/" + d[8:10]
+    return ""
+
+
+def format_review(items, default_date=""):
+    """複習清單:只列單字+意思,並注記『已學過』與學習日期"""
     lines = []
-    for i, c in enumerate(cards):
-        lines.append(f"\u3000\u2022 {c['word']} \u2014\u2014 {c['meaning']}")
+    for c in items:
+        d = short_date(c.get("date") or default_date)
+        tag = f"✓已學過 {d}" if d else "✓已學過"
+        lines.append(f"\u3000• {c['word']} —— {c.get('meaning','')}　{tag}")
     return "\n".join(lines)
 
 
@@ -143,94 +160,226 @@ def broadcast_messages(text, flex=None):
     r.raise_for_status()
 
 
+POOL_FILE = "words_pool.json"   # 單字池(來自網站主題字彙,約 900 字)
+_ART = re.compile(r"^(el|la|los|las|un|una)(/(el|la|los|las))?\s+")
+
+GENDER_HINT = {
+    "m": "陽性名詞", "f": "陰性名詞", "mf": "陰陽同形名詞",
+    "adj": "形容詞", "v": "動詞", "adv": "副詞", "x": "片語或其他詞類",
+}
+
+CARD_PROMPT_HEAD = """你是西班牙文老師。下面是今天要教一位台灣學習者的單字(A1~A2),每行格式:編號. 西語 | 中文意思 | 詞性提示。
+請為每一個字做一張學習卡。
+
+重要:回傳「純 JSON」,不要開場白、不要 markdown 反引號。
+西班牙文的重音字母(á é í ó ú)、ñ、¿ ¡ 一定要完整正確寫出,不可省略。
+每張卡的 "word" 必須和我給的西語完全一樣(包含 el/la 冠詞),不要改寫。格式:
+{
+  "cards": [
+    {
+      "word": "desayunar",
+      "pos": "動詞",
+      "meaning": "吃早餐",
+      "detail": "變化:desayuno(我)/ desayunas(你)",
+      "example_es": "Desayuno pan con café.",
+      "example_zh": "我吃麵包配咖啡。"
+    }
+  ]
+}
+要求:
+- 照我給的順序,每個字一張卡,不要少、不要多。
+- meaning 以我給的中文為準,可以補充用法。
+- 名詞的 detail 標陰陽性與單複數(如「陰性 la tienda / las tiendas」);動詞的 detail 標現在式常用變化;形容詞標陰陽性形式。
+- example 用 A1~A2 生活化短句。
+- 只輸出 JSON。
+
+今天的單字:
+"""
+
+
+def norm(w):
+    """去掉冠詞、轉小寫,用來比對同一個字"""
+    w = (w or "").lower().strip()
+    return _ART.sub("", w).strip()
+
+
+def pick_from_pool(pool, used_norm, n=10):
+    """從單字池挑 n 個沒學過的字,盡量分散在不同主題"""
+    by_theme = {}
+    for p in pool:
+        if norm(p.get("word", "")) in used_norm:
+            continue
+        by_theme.setdefault(p.get("theme", ""), []).append(p)
+    unused_total = sum(len(v) for v in by_theme.values())
+    themes = list(by_theme.keys())
+    random.shuffle(themes)
+    for t in themes:
+        random.shuffle(by_theme[t])
+    picked = []
+    while len(picked) < n and themes:
+        for t in list(themes):
+            if by_theme[t]:
+                picked.append(by_theme[t].pop())
+                if len(picked) >= n:
+                    break
+            else:
+                themes.remove(t)
+    return picked, unused_total - len(picked)
+
+
+def fallback_card(p):
+    return {
+        "word": p["word"],
+        "pos": GENDER_HINT.get(p.get("gender", ""), ""),
+        "meaning": p.get("meaning", ""),
+        "detail": "",
+        "example_es": "",
+        "example_zh": "",
+    }
+
+
+def generate_cards_for(items):
+    """請 AI 為指定的單字做學習卡;AI 失敗或漏字時,用單字池本身的資料補上"""
+    prompt = CARD_PROMPT_HEAD + "\n".join(
+        f"{i}. {p['word']} | {p.get('meaning','')} | {GENDER_HINT.get(p.get('gender',''), '')}"
+        for i, p in enumerate(items, 1)
+    )
+    data = []
+    try:
+        data = call_claude_json(prompt, max_tokens=3500).get("cards", [])
+    except Exception as e:
+        print("card generation failed, using fallback:", e)
+    by_norm = {norm(c.get("word", "")): c for c in data if isinstance(c, dict)}
+    cards = []
+    for p in items:
+        c = by_norm.get(norm(p["word"]))
+        if c:
+            c = dict(c)
+            c["word"] = p["word"]  # 與單字池一致,網頁才對得上「已收錄」
+            if not c.get("meaning"):
+                c["meaning"] = p.get("meaning", "")
+            c.setdefault("pos", GENDER_HINT.get(p.get("gender", ""), ""))
+        else:
+            c = fallback_card(p)
+        cards.append(c)
+    return cards
+
+
+def generate_free_cards(used_words, need):
+    """單字池用完時的備案:請 AI 自由出題,並避開已出過的字"""
+    used_norm = set(norm(w) for w in used_words)
+    got, have = [], set()
+    for _ in range(3):
+        if len(got) >= need:
+            break
+        recent = list(used_words)[-200:]
+        avoid = ("\n\n【非常重要:以下這些字已經出過了,絕對不要再出,請出完全不同的新字】\n"
+                 + "、".join(recent))
+        try:
+            cards = call_claude_json(NEW_VOCAB_PROMPT + avoid)["cards"]
+        except Exception as e:
+            print("free generation failed:", e)
+            break
+        for c in cards:
+            n = norm(c.get("word", ""))
+            if n and n not in used_norm and n not in have:
+                got.append(c)
+                have.add(n)
+            if len(got) >= need:
+                break
+    return got[:need]
+
+
+def pick_older_review(library, today, exclude_norm, k=5):
+    """從更早學過的字(3 天前以前)隨機抽 k 個來複習"""
+    cutoff = (today - datetime.timedelta(days=3)).strftime("%Y-%m-%d")
+    olds = [x for x in library
+            if x.get("date", "9999-99-99") <= cutoff
+            and norm(x.get("word", "")) not in exclude_norm]
+    random.shuffle(olds)
+    return olds[:k]
+
+
 def main():
     today = datetime.datetime.utcnow() + datetime.timedelta(hours=8)
     date_str = today.strftime("%Y-%m-%d")
 
     state = load_json(STATE_FILE, {"morning": None, "evening": None})
     library = load_json(VOCAB_FILE, [])
+    pool = load_json(POOL_FILE, [])
 
-    # 把已經出過的字告訴 AI,叫它避開,避免重複
-    used_words = [item.get("word", "") for item in library if item.get("word")]
-    avoid_text = ""
-    if used_words:
-        # 只取最近 200 個,避免 prompt 太長
-        recent = used_words[-200:]
-        avoid_text = (
-            "\n\n【非常重要:以下這些字已經出過了,絕對不要再出,請出完全不同的新字】\n"
-            + "、".join(recent)
-        )
+    used_words = [x.get("word", "") for x in library if x.get("word")]
+    used_norm = set(norm(w) for w in used_words)
 
-    new_cards = call_claude_json(NEW_VOCAB_PROMPT + avoid_text)["cards"]
+    # 1. 今天的新單字:優先從單字池抽「沒學過」的 10 個
+    picked, remaining = pick_from_pool(pool, used_norm, 10)
+    new_cards = generate_cards_for(picked) if picked else []
 
-    # 保險:過濾掉萬一還是重複的字(比對已出過的,只留新的)
-    used_set = set(w.lower() for w in used_words)
-    new_cards = [c for c in new_cards if c.get("word", "").lower() not in used_set]
-
-    # 如果過濾後不足 10 個,再要一批補齊(最多補一次)
+    # 2. 單字池不夠 10 個時,用 AI 自由出題補齊
     if len(new_cards) < 10:
-        try:
-            more = call_claude_json(NEW_VOCAB_PROMPT + avoid_text)["cards"]
-            have = set(c.get("word", "").lower() for c in new_cards)
-            for c in more:
-                w = c.get("word", "").lower()
-                if w and w not in used_set and w not in have:
-                    new_cards.append(c)
-                    have.add(w)
-                if len(new_cards) >= 10:
-                    break
-        except Exception:
-            pass
+        have_words = used_words + [c["word"] for c in new_cards]
+        new_cards += generate_free_cards(have_words, 10 - len(new_cards))
     new_cards = new_cards[:10]
 
+    # 3. 複習:上一批 + 更早學過的隨機幾個,都注記「已學過」
     if SLOT == "morning":
         review_batch = state.get("evening")
-        review_label = "\u8907\u7fd2\u6628\u5929\u4e0b\u5348"
-        title = "\U0001f305 \u65e9\u5b89!\u4eca\u65e5\u897f\u8a9e\u55ae\u5b57"
+        review_label = "複習昨天下午"
+        title = "🌅 早安!今日西語單字"
     else:
         review_batch = state.get("morning")
-        review_label = "\u8907\u7fd2\u4eca\u5929\u65e9\u4e0a"
-        title = "\U0001f306 \u5348\u5f8c\u897f\u8a9e\u6642\u9593"
+        review_label = "複習今天早上"
+        title = "🌆 午後西語時間"
+
+    prev_cards = (review_batch or {}).get("cards") or []
+    prev_date = (review_batch or {}).get("date", "")
+    exclude = set(norm(c.get("word", "")) for c in prev_cards)
+    exclude |= set(norm(c.get("word", "")) for c in new_cards)
+    older = pick_older_review(library, today, exclude, 5)
 
     web_url = "https://t355125.github.io/line-translator/"
-
-    # 第一則:按鈕卡片(網址藏在按鈕背後)
     flex = build_button_flex(
         title,
-        f"{date_str}\uff5c\u7d2f\u7a4d\u5df2\u6709 {len(library)+len(new_cards)} \u5b57",
+        f"{date_str}｜累積已有 {len(library) + len(new_cards)} 字",
         web_url,
     )
 
-    # 第二則:單字內容(純文字)
     parts = []
-    if review_batch and review_batch.get("cards"):
-        parts.append(f"\U0001f501 {review_label}\uff08\u8003\u8003\u81ea\u5df1\uff09\n{format_review(review_batch['cards'])}")
-    parts.append(f"\n\u2500\u2500\u2500  \u2728 \u4eca\u65e5\u65b0\u55ae\u5b57  \u2500\u2500\u2500\n\n{format_full(new_cards)}")
-    parts.append(f"\n\n\U0001f4aa \u00a1\u00c1nimo\uff01")
+    if prev_cards:
+        parts.append(f"🔁 {review_label}（已學過，考考自己）\n{format_review(prev_cards, prev_date)}")
+    if older:
+        parts.append(f"\n🔁 更早學過的（隨機抽 {len(older)} 個）\n{format_review(older)}")
+    parts.append(f"\n───  ✨ 今日新單字  ───\n\n{format_full(new_cards)}")
+    footer = "\n\n"
+    if pool:
+        footer += f"📚 單字池還剩 {max(remaining, 0)} 個沒學過的字\n"
+    footer += "💪 ¡Ánimo!"
+    parts.append(footer)
     message = "\n".join(parts)
 
     broadcast_messages(message, flex=flex)
 
+    # 4. 存檔:這批成為下次的複習對象,並累積進單字庫
     state[SLOT] = {"date": date_str, "cards": new_cards}
     save_json(STATE_FILE, state)
 
-    existing_words = {item["word"] for item in library}
+    existing = set(norm(x.get("word", "")) for x in library)
     for c in new_cards:
-        if c["word"] not in existing_words:
+        n = norm(c.get("word", ""))
+        if n and n not in existing:
             library.append({
                 "word": c["word"],
-                "pos": c["pos"],
-                "meaning": c["meaning"],
+                "pos": c.get("pos", ""),
+                "meaning": c.get("meaning", ""),
                 "date": date_str,
             })
-            existing_words.add(c["word"])
+            existing.add(n)
     save_json(VOCAB_FILE, library)
 
-    # 輸出一份給網頁讀(docs/ 是 GitHub Pages 網站根目錄)
     os.makedirs("docs", exist_ok=True)
     save_json("docs/vocab.json", library)
 
-    print(f"[{SLOT}] done, library has {len(library)} words")
+    print(f"[{SLOT}] done: {len(new_cards)} new words, library has {len(library)} words, pool remaining {remaining}")
 
 
 if __name__ == "__main__":

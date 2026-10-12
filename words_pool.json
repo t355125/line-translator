@@ -1,0 +1,5450 @@
+[
+{
+"word": "el perro",
+"gender": "m",
+"meaning": "狗",
+"theme": "動物 Animales"
+},
+{
+"word": "el gato",
+"gender": "m",
+"meaning": "貓",
+"theme": "動物 Animales"
+},
+{
+"word": "el caballo",
+"gender": "m",
+"meaning": "馬",
+"theme": "動物 Animales"
+},
+{
+"word": "la vaca",
+"gender": "f",
+"meaning": "母牛",
+"theme": "動物 Animales"
+},
+{
+"word": "el toro",
+"gender": "m",
+"meaning": "公牛",
+"theme": "動物 Animales"
+},
+{
+"word": "el cerdo",
+"gender": "m",
+"meaning": "豬",
+"theme": "動物 Animales"
+},
+{
+"word": "la oveja",
+"gender": "f",
+"meaning": "綿羊",
+"theme": "動物 Animales"
+},
+{
+"word": "la cabra",
+"gender": "f",
+"meaning": "山羊",
+"theme": "動物 Animales"
+},
+{
+"word": "la gallina",
+"gender": "f",
+"meaning": "母雞",
+"theme": "動物 Animales"
+},
+{
+"word": "el gallo",
+"gender": "m",
+"meaning": "公雞",
+"theme": "動物 Animales"
+},
+{
+"word": "el pollo",
+"gender": "m",
+"meaning": "小雞／雞肉",
+"theme": "動物 Animales"
+},
+{
+"word": "el pato",
+"gender": "m",
+"meaning": "鴨",
+"theme": "動物 Animales"
+},
+{
+"word": "el conejo",
+"gender": "m",
+"meaning": "兔子",
+"theme": "動物 Animales"
+},
+{
+"word": "el ratón",
+"gender": "m",
+"meaning": "老鼠",
+"theme": "動物 Animales"
+},
+{
+"word": "el pájaro",
+"gender": "m",
+"meaning": "鳥",
+"theme": "動物 Animales"
+},
+{
+"word": "el pez",
+"gender": "m",
+"meaning": "魚（活的）",
+"theme": "動物 Animales"
+},
+{
+"word": "el pescado",
+"gender": "m",
+"meaning": "魚（食用）",
+"theme": "動物 Animales"
+},
+{
+"word": "el león",
+"gender": "m",
+"meaning": "獅子",
+"theme": "動物 Animales"
+},
+{
+"word": "el tigre",
+"gender": "m",
+"meaning": "老虎",
+"theme": "動物 Animales"
+},
+{
+"word": "el elefante",
+"gender": "m",
+"meaning": "大象",
+"theme": "動物 Animales"
+},
+{
+"word": "el oso",
+"gender": "m",
+"meaning": "熊",
+"theme": "動物 Animales"
+},
+{
+"word": "el mono",
+"gender": "m",
+"meaning": "猴子",
+"theme": "動物 Animales"
+},
+{
+"word": "el lobo",
+"gender": "m",
+"meaning": "狼",
+"theme": "動物 Animales"
+},
+{
+"word": "la jirafa",
+"gender": "f",
+"meaning": "長頸鹿",
+"theme": "動物 Animales"
+},
+{
+"word": "el zorro",
+"gender": "m",
+"meaning": "狐狸",
+"theme": "動物 Animales"
+},
+{
+"word": "el ciervo",
+"gender": "m",
+"meaning": "鹿",
+"theme": "動物 Animales"
+},
+{
+"word": "el cocodrilo",
+"gender": "m",
+"meaning": "鱷魚",
+"theme": "動物 Animales"
+},
+{
+"word": "la serpiente",
+"gender": "f",
+"meaning": "蛇",
+"theme": "動物 Animales"
+},
+{
+"word": "la tortuga",
+"gender": "f",
+"meaning": "烏龜",
+"theme": "動物 Animales"
+},
+{
+"word": "la rana",
+"gender": "f",
+"meaning": "青蛙",
+"theme": "動物 Animales"
+},
+{
+"word": "el insecto",
+"gender": "m",
+"meaning": "昆蟲",
+"theme": "動物 Animales"
+},
+{
+"word": "la mosca",
+"gender": "f",
+"meaning": "蒼蠅",
+"theme": "動物 Animales"
+},
+{
+"word": "el mosquito",
+"gender": "m",
+"meaning": "蚊子",
+"theme": "動物 Animales"
+},
+{
+"word": "la abeja",
+"gender": "f",
+"meaning": "蜜蜂",
+"theme": "動物 Animales"
+},
+{
+"word": "la araña",
+"gender": "f",
+"meaning": "蜘蛛",
+"theme": "動物 Animales"
+},
+{
+"word": "la hormiga",
+"gender": "f",
+"meaning": "螞蟻",
+"theme": "動物 Animales"
+},
+{
+"word": "la mariposa",
+"gender": "f",
+"meaning": "蝴蝶",
+"theme": "動物 Animales"
+},
+{
+"word": "el delfín",
+"gender": "m",
+"meaning": "海豚",
+"theme": "動物 Animales"
+},
+{
+"word": "la ballena",
+"gender": "f",
+"meaning": "鯨魚",
+"theme": "動物 Animales"
+},
+{
+"word": "el tiburón",
+"gender": "m",
+"meaning": "鯊魚",
+"theme": "動物 Animales"
+},
+{
+"word": "el pingüino",
+"gender": "m",
+"meaning": "企鵝",
+"theme": "動物 Animales"
+},
+{
+"word": "el águila",
+"gender": "f",
+"meaning": "老鷹",
+"theme": "動物 Animales"
+},
+{
+"word": "la paloma",
+"gender": "f",
+"meaning": "鴿子",
+"theme": "動物 Animales"
+},
+{
+"word": "el búho",
+"gender": "m",
+"meaning": "貓頭鷹",
+"theme": "動物 Animales"
+},
+{
+"word": "el camello",
+"gender": "m",
+"meaning": "駱駝",
+"theme": "動物 Animales"
+},
+{
+"word": "la rata",
+"gender": "f",
+"meaning": "大老鼠",
+"theme": "動物 Animales"
+},
+{
+"word": "el murciélago",
+"gender": "m",
+"meaning": "蝙蝠",
+"theme": "動物 Animales"
+},
+{
+"word": "el zoológico",
+"gender": "m",
+"meaning": "動物園",
+"theme": "動物 Animales"
+},
+{
+"word": "la manzana",
+"gender": "f",
+"meaning": "蘋果",
+"theme": "水果 Frutas"
+},
+{
+"word": "la naranja",
+"gender": "f",
+"meaning": "柳橙／橘色",
+"theme": "水果 Frutas"
+},
+{
+"word": "el plátano",
+"gender": "m",
+"meaning": "香蕉",
+"theme": "水果 Frutas"
+},
+{
+"word": "la banana",
+"gender": "f",
+"meaning": "香蕉（拉美用法）",
+"theme": "水果 Frutas"
+},
+{
+"word": "la uva",
+"gender": "f",
+"meaning": "葡萄",
+"theme": "水果 Frutas"
+},
+{
+"word": "la fresa",
+"gender": "f",
+"meaning": "草莓",
+"theme": "水果 Frutas"
+},
+{
+"word": "la sandía",
+"gender": "f",
+"meaning": "西瓜",
+"theme": "水果 Frutas"
+},
+{
+"word": "el melón",
+"gender": "m",
+"meaning": "哈密瓜",
+"theme": "水果 Frutas"
+},
+{
+"word": "la piña",
+"gender": "f",
+"meaning": "鳳梨",
+"theme": "水果 Frutas"
+},
+{
+"word": "el mango",
+"gender": "m",
+"meaning": "芒果",
+"theme": "水果 Frutas"
+},
+{
+"word": "la papaya",
+"gender": "f",
+"meaning": "木瓜",
+"theme": "水果 Frutas"
+},
+{
+"word": "el limón",
+"gender": "m",
+"meaning": "檸檬",
+"theme": "水果 Frutas"
+},
+{
+"word": "la lima",
+"gender": "f",
+"meaning": "萊姆",
+"theme": "水果 Frutas"
+},
+{
+"word": "la pera",
+"gender": "f",
+"meaning": "梨子",
+"theme": "水果 Frutas"
+},
+{
+"word": "el melocotón",
+"gender": "m",
+"meaning": "桃子",
+"theme": "水果 Frutas"
+},
+{
+"word": "la cereza",
+"gender": "f",
+"meaning": "櫻桃",
+"theme": "水果 Frutas"
+},
+{
+"word": "la ciruela",
+"gender": "f",
+"meaning": "李子",
+"theme": "水果 Frutas"
+},
+{
+"word": "el kiwi",
+"gender": "m",
+"meaning": "奇異果",
+"theme": "水果 Frutas"
+},
+{
+"word": "el coco",
+"gender": "m",
+"meaning": "椰子",
+"theme": "水果 Frutas"
+},
+{
+"word": "la guayaba",
+"gender": "f",
+"meaning": "芭樂",
+"theme": "水果 Frutas"
+},
+{
+"word": "el aguacate",
+"gender": "m",
+"meaning": "酪梨",
+"theme": "水果 Frutas"
+},
+{
+"word": "la granada",
+"gender": "f",
+"meaning": "石榴",
+"theme": "水果 Frutas"
+},
+{
+"word": "el higo",
+"gender": "m",
+"meaning": "無花果",
+"theme": "水果 Frutas"
+},
+{
+"word": "la mora",
+"gender": "f",
+"meaning": "桑葚／黑莓",
+"theme": "水果 Frutas"
+},
+{
+"word": "el arándano",
+"gender": "m",
+"meaning": "藍莓",
+"theme": "水果 Frutas"
+},
+{
+"word": "la fruta",
+"gender": "f",
+"meaning": "水果（總稱）",
+"theme": "水果 Frutas"
+},
+{
+"word": "maduro",
+"gender": "adj",
+"meaning": "成熟的",
+"theme": "水果 Frutas"
+},
+{
+"word": "la cáscara",
+"gender": "f",
+"meaning": "果皮",
+"theme": "水果 Frutas"
+},
+{
+"word": "la verdura",
+"gender": "f",
+"meaning": "蔬菜（總稱）",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el tomate",
+"gender": "m",
+"meaning": "番茄",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la patata",
+"gender": "f",
+"meaning": "馬鈴薯（西班牙）",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la papa",
+"gender": "f",
+"meaning": "馬鈴薯（拉美）",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la zanahoria",
+"gender": "f",
+"meaning": "紅蘿蔔",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la cebolla",
+"gender": "f",
+"meaning": "洋蔥",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el ajo",
+"gender": "m",
+"meaning": "大蒜",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la lechuga",
+"gender": "f",
+"meaning": "生菜",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el pepino",
+"gender": "m",
+"meaning": "小黃瓜",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el pimiento",
+"gender": "m",
+"meaning": "甜椒",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el chile",
+"gender": "m",
+"meaning": "辣椒",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la col",
+"gender": "f",
+"meaning": "高麗菜",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el brócoli",
+"gender": "m",
+"meaning": "花椰菜",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la espinaca",
+"gender": "f",
+"meaning": "菠菜",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el maíz",
+"gender": "m",
+"meaning": "玉米",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la calabaza",
+"gender": "f",
+"meaning": "南瓜",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la berenjena",
+"gender": "f",
+"meaning": "茄子",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el champiñón",
+"gender": "m",
+"meaning": "蘑菇",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la seta",
+"gender": "f",
+"meaning": "菇類",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el guisante",
+"gender": "m",
+"meaning": "豌豆",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la judía",
+"gender": "f",
+"meaning": "豆子",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el apio",
+"gender": "m",
+"meaning": "芹菜",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el rábano",
+"gender": "m",
+"meaning": "蘿蔔",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la remolacha",
+"gender": "f",
+"meaning": "甜菜根",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "el jengibre",
+"gender": "m",
+"meaning": "薑",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la ensalada",
+"gender": "f",
+"meaning": "沙拉",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "fresco",
+"gender": "adj",
+"meaning": "新鮮的",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "crudo",
+"gender": "adj",
+"meaning": "生的",
+"theme": "蔬菜 Verduras"
+},
+{
+"word": "la comida",
+"gender": "f",
+"meaning": "食物／午餐",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el desayuno",
+"gender": "m",
+"meaning": "早餐",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el almuerzo",
+"gender": "m",
+"meaning": "午餐",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la cena",
+"gender": "f",
+"meaning": "晚餐",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el pan",
+"gender": "m",
+"meaning": "麵包",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el arroz",
+"gender": "m",
+"meaning": "米飯",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la carne",
+"gender": "f",
+"meaning": "肉",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la ternera",
+"gender": "f",
+"meaning": "牛肉",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el jamón",
+"gender": "m",
+"meaning": "火腿",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el huevo",
+"gender": "m",
+"meaning": "蛋",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el queso",
+"gender": "m",
+"meaning": "起司",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la leche",
+"gender": "f",
+"meaning": "牛奶",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la mantequilla",
+"gender": "f",
+"meaning": "奶油",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el azúcar",
+"gender": "m",
+"meaning": "糖",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la sal",
+"gender": "f",
+"meaning": "鹽",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la pimienta",
+"gender": "f",
+"meaning": "胡椒",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el aceite",
+"gender": "m",
+"meaning": "油",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el vinagre",
+"gender": "m",
+"meaning": "醋",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la sopa",
+"gender": "f",
+"meaning": "湯",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la pasta",
+"gender": "f",
+"meaning": "義大利麵",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el pastel",
+"gender": "m",
+"meaning": "蛋糕",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el postre",
+"gender": "m",
+"meaning": "甜點",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el helado",
+"gender": "m",
+"meaning": "冰淇淋",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el chocolate",
+"gender": "m",
+"meaning": "巧克力",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el agua",
+"gender": "f",
+"meaning": "水",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el café",
+"gender": "m",
+"meaning": "咖啡",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el té",
+"gender": "m",
+"meaning": "茶",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el jugo",
+"gender": "m",
+"meaning": "果汁（拉美）",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el zumo",
+"gender": "m",
+"meaning": "果汁（西班牙）",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la cerveza",
+"gender": "f",
+"meaning": "啤酒",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el vino",
+"gender": "m",
+"meaning": "酒",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el vino tinto",
+"gender": "m",
+"meaning": "紅酒",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el refresco",
+"gender": "m",
+"meaning": "汽水",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el hielo",
+"gender": "m",
+"meaning": "冰塊",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "dulce",
+"gender": "adj",
+"meaning": "甜的",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "salado",
+"gender": "adj",
+"meaning": "鹹的",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "picante",
+"gender": "adj",
+"meaning": "辣的",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "amargo",
+"gender": "adj",
+"meaning": "苦的",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "ácido",
+"gender": "adj",
+"meaning": "酸的",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "rico",
+"gender": "adj",
+"meaning": "好吃的／有錢的",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el restaurante",
+"gender": "m",
+"meaning": "餐廳",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la cuenta",
+"gender": "f",
+"meaning": "帳單",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "la propina",
+"gender": "f",
+"meaning": "小費",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el camarero",
+"gender": "m",
+"meaning": "服務生",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el menú",
+"gender": "m",
+"meaning": "菜單",
+"theme": "食物與飲料 Comida y Bebida"
+},
+{
+"word": "el cuerpo",
+"gender": "m",
+"meaning": "身體",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la cabeza",
+"gender": "f",
+"meaning": "頭",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el pelo",
+"gender": "m",
+"meaning": "頭髮",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la cara",
+"gender": "f",
+"meaning": "臉",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el ojo",
+"gender": "m",
+"meaning": "眼睛",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la nariz",
+"gender": "f",
+"meaning": "鼻子",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la boca",
+"gender": "f",
+"meaning": "嘴巴",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el diente",
+"gender": "m",
+"meaning": "牙齒",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la lengua",
+"gender": "f",
+"meaning": "舌頭／語言",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la oreja",
+"gender": "f",
+"meaning": "耳朵（外耳）",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el cuello",
+"gender": "m",
+"meaning": "脖子",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el hombro",
+"gender": "m",
+"meaning": "肩膀",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el brazo",
+"gender": "m",
+"meaning": "手臂",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el codo",
+"gender": "m",
+"meaning": "手肘",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la mano",
+"gender": "f",
+"meaning": "手",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el dedo",
+"gender": "m",
+"meaning": "手指／腳趾",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el pecho",
+"gender": "m",
+"meaning": "胸部",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la espalda",
+"gender": "f",
+"meaning": "背",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el estómago",
+"gender": "m",
+"meaning": "胃／肚子",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la cintura",
+"gender": "f",
+"meaning": "腰",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la pierna",
+"gender": "f",
+"meaning": "腿",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la rodilla",
+"gender": "f",
+"meaning": "膝蓋",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el pie",
+"gender": "m",
+"meaning": "腳",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el tobillo",
+"gender": "m",
+"meaning": "腳踝",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la piel",
+"gender": "f",
+"meaning": "皮膚",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el hueso",
+"gender": "m",
+"meaning": "骨頭",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el corazón",
+"gender": "m",
+"meaning": "心臟",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el cerebro",
+"gender": "m",
+"meaning": "大腦",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la sangre",
+"gender": "f",
+"meaning": "血",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "el músculo",
+"gender": "m",
+"meaning": "肌肉",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la voz",
+"gender": "f",
+"meaning": "聲音",
+"theme": "身體部位 El Cuerpo"
+},
+{
+"word": "la ropa",
+"gender": "f",
+"meaning": "衣服",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "la camisa",
+"gender": "f",
+"meaning": "襯衫",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "la camiseta",
+"gender": "f",
+"meaning": "T恤",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el pantalón",
+"gender": "m",
+"meaning": "褲子",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "los vaqueros",
+"gender": "m",
+"meaning": "牛仔褲",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "la falda",
+"gender": "f",
+"meaning": "裙子",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el vestido",
+"gender": "m",
+"meaning": "洋裝",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "la chaqueta",
+"gender": "f",
+"meaning": "外套",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el abrigo",
+"gender": "m",
+"meaning": "大衣",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el suéter",
+"gender": "m",
+"meaning": "毛衣",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el traje",
+"gender": "m",
+"meaning": "西裝",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "la corbata",
+"gender": "f",
+"meaning": "領帶",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el cinturón",
+"gender": "m",
+"meaning": "皮帶",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "los zapatos",
+"gender": "m",
+"meaning": "鞋子",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "las zapatillas",
+"gender": "f",
+"meaning": "運動鞋／拖鞋",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "las botas",
+"gender": "f",
+"meaning": "靴子",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "los calcetines",
+"gender": "m",
+"meaning": "襪子",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el sombrero",
+"gender": "m",
+"meaning": "帽子",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "la gorra",
+"gender": "f",
+"meaning": "鴨舌帽",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "la bufanda",
+"gender": "f",
+"meaning": "圍巾",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "los guantes",
+"gender": "m",
+"meaning": "手套",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "las gafas",
+"gender": "f",
+"meaning": "眼鏡",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "las gafas de sol",
+"gender": "f",
+"meaning": "太陽眼鏡",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el reloj",
+"gender": "m",
+"meaning": "手錶",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el bolso",
+"gender": "m",
+"meaning": "包包",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "la mochila",
+"gender": "f",
+"meaning": "背包",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "la cartera",
+"gender": "f",
+"meaning": "皮夾",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el anillo",
+"gender": "m",
+"meaning": "戒指",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el collar",
+"gender": "m",
+"meaning": "項鍊",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "el paraguas",
+"gender": "m",
+"meaning": "雨傘",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "la talla",
+"gender": "f",
+"meaning": "尺寸",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "probarse",
+"gender": "v",
+"meaning": "試穿",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "llevar",
+"gender": "v",
+"meaning": "穿著／攜帶",
+"theme": "衣物與配件 Ropa"
+},
+{
+"word": "la casa",
+"gender": "f",
+"meaning": "房子",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el piso",
+"gender": "m",
+"meaning": "公寓／樓層",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el apartamento",
+"gender": "m",
+"meaning": "公寓",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la habitación",
+"gender": "f",
+"meaning": "房間",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el dormitorio",
+"gender": "m",
+"meaning": "臥室",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la sala",
+"gender": "f",
+"meaning": "客廳",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el salón",
+"gender": "m",
+"meaning": "客廳",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el comedor",
+"gender": "m",
+"meaning": "餐廳（家中）",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la cocina",
+"gender": "f",
+"meaning": "廚房／爐子",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el baño",
+"gender": "m",
+"meaning": "浴室／廁所",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el jardín",
+"gender": "m",
+"meaning": "花園",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el garaje",
+"gender": "m",
+"meaning": "車庫",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la escalera",
+"gender": "f",
+"meaning": "樓梯",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la puerta",
+"gender": "f",
+"meaning": "門",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la ventana",
+"gender": "f",
+"meaning": "窗戶",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el techo",
+"gender": "m",
+"meaning": "天花板／屋頂",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el suelo",
+"gender": "m",
+"meaning": "地板",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la pared",
+"gender": "f",
+"meaning": "牆壁",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la llave",
+"gender": "f",
+"meaning": "鑰匙",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la mesa",
+"gender": "f",
+"meaning": "桌子",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la silla",
+"gender": "f",
+"meaning": "椅子",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el sofá",
+"gender": "m",
+"meaning": "沙發",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la cama",
+"gender": "f",
+"meaning": "床",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la almohada",
+"gender": "f",
+"meaning": "枕頭",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la manta",
+"gender": "f",
+"meaning": "毯子",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la sábana",
+"gender": "f",
+"meaning": "床單",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el armario",
+"gender": "m",
+"meaning": "衣櫃",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el estante",
+"gender": "m",
+"meaning": "架子",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el espejo",
+"gender": "m",
+"meaning": "鏡子",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la lámpara",
+"gender": "f",
+"meaning": "檯燈",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la luz",
+"gender": "f",
+"meaning": "光／電燈",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el cuadro",
+"gender": "m",
+"meaning": "畫作",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la cortina",
+"gender": "f",
+"meaning": "窗簾",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la alfombra",
+"gender": "f",
+"meaning": "地毯",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el televisor",
+"gender": "m",
+"meaning": "電視機",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la nevera",
+"gender": "f",
+"meaning": "冰箱",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el refrigerador",
+"gender": "m",
+"meaning": "冰箱（拉美）",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la lavadora",
+"gender": "f",
+"meaning": "洗衣機",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el horno",
+"gender": "m",
+"meaning": "烤箱",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el microondas",
+"gender": "m",
+"meaning": "微波爐",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la aspiradora",
+"gender": "f",
+"meaning": "吸塵器",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la basura",
+"gender": "f",
+"meaning": "垃圾",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el jabón",
+"gender": "m",
+"meaning": "肥皂",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la toalla",
+"gender": "f",
+"meaning": "毛巾",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el cepillo",
+"gender": "m",
+"meaning": "刷子",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la ducha",
+"gender": "f",
+"meaning": "淋浴",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el inodoro",
+"gender": "m",
+"meaning": "馬桶",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el grifo",
+"gender": "m",
+"meaning": "水龍頭",
+"theme": "家居用品 Casa"
+},
+{
+"word": "la escoba",
+"gender": "f",
+"meaning": "掃把",
+"theme": "家居用品 Casa"
+},
+{
+"word": "limpio",
+"gender": "adj",
+"meaning": "乾淨的",
+"theme": "家居用品 Casa"
+},
+{
+"word": "sucio",
+"gender": "adj",
+"meaning": "髒的",
+"theme": "家居用品 Casa"
+},
+{
+"word": "ordenado",
+"gender": "adj",
+"meaning": "整齊的",
+"theme": "家居用品 Casa"
+},
+{
+"word": "el plato",
+"gender": "m",
+"meaning": "盤子／菜餚",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "el vaso",
+"gender": "m",
+"meaning": "玻璃杯",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la taza",
+"gender": "f",
+"meaning": "杯子（有把手）",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la copa",
+"gender": "f",
+"meaning": "高腳杯",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "el tenedor",
+"gender": "m",
+"meaning": "叉子",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "el cuchillo",
+"gender": "m",
+"meaning": "刀子",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la cuchara",
+"gender": "f",
+"meaning": "湯匙",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la servilleta",
+"gender": "f",
+"meaning": "餐巾",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la olla",
+"gender": "f",
+"meaning": "鍋子",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la sartén",
+"gender": "f",
+"meaning": "平底鍋",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la tabla",
+"gender": "f",
+"meaning": "砧板／板子",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la botella",
+"gender": "f",
+"meaning": "瓶子",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la lata",
+"gender": "f",
+"meaning": "罐頭",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la bolsa",
+"gender": "f",
+"meaning": "袋子",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la caja",
+"gender": "f",
+"meaning": "盒子",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "el abrelatas",
+"gender": "m",
+"meaning": "開罐器",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "la batidora",
+"gender": "f",
+"meaning": "攪拌機",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "el fuego",
+"gender": "m",
+"meaning": "火",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "cocinar",
+"gender": "v",
+"meaning": "煮飯",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "freír",
+"gender": "v",
+"meaning": "炸／煎",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "hervir",
+"gender": "v",
+"meaning": "煮沸",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "asar",
+"gender": "v",
+"meaning": "烤",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "cortar",
+"gender": "v",
+"meaning": "切",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "mezclar",
+"gender": "v",
+"meaning": "混合",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "probar",
+"gender": "v",
+"meaning": "嚐／試",
+"theme": "廚房用品 Cocina"
+},
+{
+"word": "el color",
+"gender": "m",
+"meaning": "顏色",
+"theme": "顏色 Colores"
+},
+{
+"word": "rojo",
+"gender": "adj",
+"meaning": "紅色",
+"theme": "顏色 Colores"
+},
+{
+"word": "azul",
+"gender": "adj",
+"meaning": "藍色",
+"theme": "顏色 Colores"
+},
+{
+"word": "verde",
+"gender": "adj",
+"meaning": "綠色",
+"theme": "顏色 Colores"
+},
+{
+"word": "amarillo",
+"gender": "adj",
+"meaning": "黃色",
+"theme": "顏色 Colores"
+},
+{
+"word": "negro",
+"gender": "adj",
+"meaning": "黑色",
+"theme": "顏色 Colores"
+},
+{
+"word": "blanco",
+"gender": "adj",
+"meaning": "白色",
+"theme": "顏色 Colores"
+},
+{
+"word": "gris",
+"gender": "adj",
+"meaning": "灰色",
+"theme": "顏色 Colores"
+},
+{
+"word": "marrón",
+"gender": "adj",
+"meaning": "棕色",
+"theme": "顏色 Colores"
+},
+{
+"word": "rosa",
+"gender": "adj",
+"meaning": "粉紅色",
+"theme": "顏色 Colores"
+},
+{
+"word": "morado",
+"gender": "adj",
+"meaning": "紫色",
+"theme": "顏色 Colores"
+},
+{
+"word": "violeta",
+"gender": "adj",
+"meaning": "紫羅蘭色",
+"theme": "顏色 Colores"
+},
+{
+"word": "beige",
+"gender": "adj",
+"meaning": "米色",
+"theme": "顏色 Colores"
+},
+{
+"word": "dorado",
+"gender": "adj",
+"meaning": "金色",
+"theme": "顏色 Colores"
+},
+{
+"word": "plateado",
+"gender": "adj",
+"meaning": "銀色",
+"theme": "顏色 Colores"
+},
+{
+"word": "claro",
+"gender": "adj",
+"meaning": "淺的／清楚的",
+"theme": "顏色 Colores"
+},
+{
+"word": "oscuro",
+"gender": "adj",
+"meaning": "深的／暗的",
+"theme": "顏色 Colores"
+},
+{
+"word": "cero",
+"gender": "x",
+"meaning": "0",
+"theme": "數字 Números"
+},
+{
+"word": "uno",
+"gender": "x",
+"meaning": "1",
+"theme": "數字 Números"
+},
+{
+"word": "dos",
+"gender": "x",
+"meaning": "2",
+"theme": "數字 Números"
+},
+{
+"word": "tres",
+"gender": "x",
+"meaning": "3",
+"theme": "數字 Números"
+},
+{
+"word": "cuatro",
+"gender": "x",
+"meaning": "4",
+"theme": "數字 Números"
+},
+{
+"word": "cinco",
+"gender": "x",
+"meaning": "5",
+"theme": "數字 Números"
+},
+{
+"word": "seis",
+"gender": "x",
+"meaning": "6",
+"theme": "數字 Números"
+},
+{
+"word": "siete",
+"gender": "x",
+"meaning": "7",
+"theme": "數字 Números"
+},
+{
+"word": "ocho",
+"gender": "x",
+"meaning": "8",
+"theme": "數字 Números"
+},
+{
+"word": "nueve",
+"gender": "x",
+"meaning": "9",
+"theme": "數字 Números"
+},
+{
+"word": "diez",
+"gender": "x",
+"meaning": "10",
+"theme": "數字 Números"
+},
+{
+"word": "once",
+"gender": "x",
+"meaning": "11",
+"theme": "數字 Números"
+},
+{
+"word": "doce",
+"gender": "x",
+"meaning": "12",
+"theme": "數字 Números"
+},
+{
+"word": "trece",
+"gender": "x",
+"meaning": "13",
+"theme": "數字 Números"
+},
+{
+"word": "catorce",
+"gender": "x",
+"meaning": "14",
+"theme": "數字 Números"
+},
+{
+"word": "quince",
+"gender": "x",
+"meaning": "15",
+"theme": "數字 Números"
+},
+{
+"word": "dieciséis",
+"gender": "x",
+"meaning": "16",
+"theme": "數字 Números"
+},
+{
+"word": "diecisiete",
+"gender": "x",
+"meaning": "17",
+"theme": "數字 Números"
+},
+{
+"word": "dieciocho",
+"gender": "x",
+"meaning": "18",
+"theme": "數字 Números"
+},
+{
+"word": "diecinueve",
+"gender": "x",
+"meaning": "19",
+"theme": "數字 Números"
+},
+{
+"word": "veinte",
+"gender": "x",
+"meaning": "20",
+"theme": "數字 Números"
+},
+{
+"word": "treinta",
+"gender": "x",
+"meaning": "30",
+"theme": "數字 Números"
+},
+{
+"word": "cuarenta",
+"gender": "x",
+"meaning": "40",
+"theme": "數字 Números"
+},
+{
+"word": "cincuenta",
+"gender": "x",
+"meaning": "50",
+"theme": "數字 Números"
+},
+{
+"word": "sesenta",
+"gender": "x",
+"meaning": "60",
+"theme": "數字 Números"
+},
+{
+"word": "setenta",
+"gender": "x",
+"meaning": "70",
+"theme": "數字 Números"
+},
+{
+"word": "ochenta",
+"gender": "x",
+"meaning": "80",
+"theme": "數字 Números"
+},
+{
+"word": "noventa",
+"gender": "x",
+"meaning": "90",
+"theme": "數字 Números"
+},
+{
+"word": "cien",
+"gender": "x",
+"meaning": "100",
+"theme": "數字 Números"
+},
+{
+"word": "doscientos",
+"gender": "x",
+"meaning": "200",
+"theme": "數字 Números"
+},
+{
+"word": "quinientos",
+"gender": "x",
+"meaning": "500",
+"theme": "數字 Números"
+},
+{
+"word": "mil",
+"gender": "x",
+"meaning": "1000",
+"theme": "數字 Números"
+},
+{
+"word": "un millón",
+"gender": "m",
+"meaning": "一百萬",
+"theme": "數字 Números"
+},
+{
+"word": "primero",
+"gender": "adj",
+"meaning": "第一",
+"theme": "數字 Números"
+},
+{
+"word": "segundo",
+"gender": "adj",
+"meaning": "第二",
+"theme": "數字 Números"
+},
+{
+"word": "tercero",
+"gender": "adj",
+"meaning": "第三",
+"theme": "數字 Números"
+},
+{
+"word": "último",
+"gender": "adj",
+"meaning": "最後的",
+"theme": "數字 Números"
+},
+{
+"word": "la mitad",
+"gender": "f",
+"meaning": "一半",
+"theme": "數字 Números"
+},
+{
+"word": "el número",
+"gender": "m",
+"meaning": "數字",
+"theme": "數字 Números"
+},
+{
+"word": "el tiempo",
+"gender": "m",
+"meaning": "時間／天氣",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "la hora",
+"gender": "f",
+"meaning": "小時／時刻",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el minuto",
+"gender": "m",
+"meaning": "分鐘",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "en punto",
+"gender": "x",
+"meaning": "整點",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "y cuarto",
+"gender": "x",
+"meaning": "過15分",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "y media",
+"gender": "x",
+"meaning": "過30分",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "menos cuarto",
+"gender": "x",
+"meaning": "差15分",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "de la mañana",
+"gender": "x",
+"meaning": "上午（約6點到12點）",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "de la tarde",
+"gender": "x",
+"meaning": "下午（約12點到8點）",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "de la noche",
+"gender": "x",
+"meaning": "晚上（約8點到半夜）",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "de la madrugada",
+"gender": "x",
+"meaning": "凌晨（約1點到5點）",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el mediodía",
+"gender": "m",
+"meaning": "中午十二點",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "la medianoche",
+"gender": "f",
+"meaning": "午夜十二點",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el día",
+"gender": "m",
+"meaning": "天",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "la semana",
+"gender": "f",
+"meaning": "星期",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el mes",
+"gender": "m",
+"meaning": "月份",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el año",
+"gender": "m",
+"meaning": "年",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "hoy",
+"gender": "adv",
+"meaning": "今天",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "mañana",
+"gender": "adv",
+"meaning": "明天／早上",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "ayer",
+"gender": "adv",
+"meaning": "昨天",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "anoche",
+"gender": "adv",
+"meaning": "昨晚",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "ahora",
+"gender": "adv",
+"meaning": "現在",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "luego",
+"gender": "adv",
+"meaning": "稍後",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "temprano",
+"gender": "adv",
+"meaning": "早",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "tarde",
+"gender": "adv",
+"meaning": "晚／下午",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "siempre",
+"gender": "adv",
+"meaning": "總是",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "nunca",
+"gender": "adv",
+"meaning": "從不",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "a veces",
+"gender": "adv",
+"meaning": "有時候",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el lunes",
+"gender": "m",
+"meaning": "星期一",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el martes",
+"gender": "m",
+"meaning": "星期二",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el miércoles",
+"gender": "m",
+"meaning": "星期三",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el jueves",
+"gender": "m",
+"meaning": "星期四",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el viernes",
+"gender": "m",
+"meaning": "星期五",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el sábado",
+"gender": "m",
+"meaning": "星期六",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el domingo",
+"gender": "m",
+"meaning": "星期日",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "enero",
+"gender": "x",
+"meaning": "一月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "febrero",
+"gender": "x",
+"meaning": "二月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "marzo",
+"gender": "x",
+"meaning": "三月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "abril",
+"gender": "x",
+"meaning": "四月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "mayo",
+"gender": "x",
+"meaning": "五月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "junio",
+"gender": "x",
+"meaning": "六月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "julio",
+"gender": "x",
+"meaning": "七月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "agosto",
+"gender": "x",
+"meaning": "八月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "septiembre",
+"gender": "x",
+"meaning": "九月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "octubre",
+"gender": "x",
+"meaning": "十月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "noviembre",
+"gender": "x",
+"meaning": "十一月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "diciembre",
+"gender": "x",
+"meaning": "十二月",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el fin de semana",
+"gender": "m",
+"meaning": "週末",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "la primavera",
+"gender": "f",
+"meaning": "春天",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el verano",
+"gender": "m",
+"meaning": "夏天",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el otoño",
+"gender": "m",
+"meaning": "秋天",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el invierno",
+"gender": "m",
+"meaning": "冬天",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el cumpleaños",
+"gender": "m",
+"meaning": "生日",
+"theme": "時間與日期 Tiempo"
+},
+{
+"word": "el clima",
+"gender": "m",
+"meaning": "氣候",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el sol",
+"gender": "m",
+"meaning": "太陽",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la lluvia",
+"gender": "f",
+"meaning": "雨",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la nieve",
+"gender": "f",
+"meaning": "雪",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el viento",
+"gender": "m",
+"meaning": "風",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la nube",
+"gender": "f",
+"meaning": "雲",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la tormenta",
+"gender": "f",
+"meaning": "暴風雨",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el trueno",
+"gender": "m",
+"meaning": "雷",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el relámpago",
+"gender": "m",
+"meaning": "閃電",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la niebla",
+"gender": "f",
+"meaning": "霧",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el calor",
+"gender": "m",
+"meaning": "熱",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el frío",
+"gender": "m",
+"meaning": "冷",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la temperatura",
+"gender": "f",
+"meaning": "溫度",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el cielo",
+"gender": "m",
+"meaning": "天空",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la luna",
+"gender": "f",
+"meaning": "月亮",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la estrella",
+"gender": "f",
+"meaning": "星星",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la tierra",
+"gender": "f",
+"meaning": "土地／地球",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el mar",
+"gender": "m",
+"meaning": "海",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el río",
+"gender": "m",
+"meaning": "河",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el lago",
+"gender": "m",
+"meaning": "湖",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la montaña",
+"gender": "f",
+"meaning": "山",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la playa",
+"gender": "f",
+"meaning": "海灘",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el bosque",
+"gender": "m",
+"meaning": "森林",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el árbol",
+"gender": "m",
+"meaning": "樹",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la flor",
+"gender": "f",
+"meaning": "花",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la hoja",
+"gender": "f",
+"meaning": "葉子／紙張",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la hierba",
+"gender": "f",
+"meaning": "草",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la piedra",
+"gender": "f",
+"meaning": "石頭",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la arena",
+"gender": "f",
+"meaning": "沙",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el aire",
+"gender": "m",
+"meaning": "空氣",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "la isla",
+"gender": "f",
+"meaning": "島",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "el desierto",
+"gender": "m",
+"meaning": "沙漠",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "soleado",
+"gender": "adj",
+"meaning": "晴朗的",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "nublado",
+"gender": "adj",
+"meaning": "多雲的",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "húmedo",
+"gender": "adj",
+"meaning": "潮濕的",
+"theme": "天氣與自然 Naturaleza"
+},
+{
+"word": "yo",
+"gender": "x",
+"meaning": "我",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "tú",
+"gender": "x",
+"meaning": "你（熟人、平輩）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "usted",
+"gender": "x",
+"meaning": "您（正式、長輩、客戶）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "él",
+"gender": "x",
+"meaning": "他",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "ella",
+"gender": "x",
+"meaning": "她",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "nosotros",
+"gender": "x",
+"meaning": "我們（全男或男女混合）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "nosotras",
+"gender": "x",
+"meaning": "我們（全部都是女生）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "vosotros",
+"gender": "x",
+"meaning": "你們（西班牙用，熟人）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "vosotras",
+"gender": "x",
+"meaning": "你們（西班牙用，全女）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "ustedes",
+"gender": "x",
+"meaning": "你們／您們",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "ellos",
+"gender": "x",
+"meaning": "他們（全男或男女混合）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "ellas",
+"gender": "x",
+"meaning": "她們（全部都是女生）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "me",
+"gender": "x",
+"meaning": "我（受詞）／我自己",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "te",
+"gender": "x",
+"meaning": "你（受詞）／你自己",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "se",
+"gender": "x",
+"meaning": "他自己／她自己（反身）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "nos",
+"gender": "x",
+"meaning": "我們（受詞）／我們自己",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "lo",
+"gender": "x",
+"meaning": "他、它（直接受詞・陽性）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "la",
+"gender": "x",
+"meaning": "她、它（直接受詞・陰性）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "le",
+"gender": "x",
+"meaning": "給他／給她／給您（間接受詞）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "les",
+"gender": "x",
+"meaning": "給他們（間接受詞・複數）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "mí",
+"gender": "x",
+"meaning": "我（介系詞後面用）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "ti",
+"gender": "x",
+"meaning": "你（介系詞後面用）",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "conmigo",
+"gender": "x",
+"meaning": "跟我一起",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "contigo",
+"gender": "x",
+"meaning": "跟你一起",
+"theme": "人稱代名詞 Pronombres"
+},
+{
+"word": "ser",
+"gender": "v",
+"meaning": "是（本質、身分、來源）",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "soy",
+"gender": "v",
+"meaning": "我是",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "eres",
+"gender": "v",
+"meaning": "你是",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "es",
+"gender": "v",
+"meaning": "他／她／您是",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "somos",
+"gender": "v",
+"meaning": "我們是",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "sois",
+"gender": "v",
+"meaning": "你們是（西班牙）",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "son",
+"gender": "v",
+"meaning": "他們是",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "estar",
+"gender": "v",
+"meaning": "是（暫時狀態、位置）",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "estoy",
+"gender": "v",
+"meaning": "我在／我（現在）是",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "estás",
+"gender": "v",
+"meaning": "你在",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "está",
+"gender": "v",
+"meaning": "他／她／您在",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "estamos",
+"gender": "v",
+"meaning": "我們在",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "estáis",
+"gender": "v",
+"meaning": "你們在（西班牙）",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "están",
+"gender": "v",
+"meaning": "他們在",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "tener",
+"gender": "v",
+"meaning": "有",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "tengo",
+"gender": "v",
+"meaning": "我有",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "tienes",
+"gender": "v",
+"meaning": "你有",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "tiene",
+"gender": "v",
+"meaning": "他／她／您有",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "tenemos",
+"gender": "v",
+"meaning": "我們有",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "tenéis",
+"gender": "v",
+"meaning": "你們有（西班牙）",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "tienen",
+"gender": "v",
+"meaning": "他們有",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "ir",
+"gender": "v",
+"meaning": "去",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "voy",
+"gender": "v",
+"meaning": "我去",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "vas",
+"gender": "v",
+"meaning": "你去",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "va",
+"gender": "v",
+"meaning": "他／她／您去",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "vamos",
+"gender": "v",
+"meaning": "我們去",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "vais",
+"gender": "v",
+"meaning": "你們去（西班牙）",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "van",
+"gender": "v",
+"meaning": "他們去",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "hay",
+"gender": "v",
+"meaning": "有（存在）",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "hacer",
+"gender": "v",
+"meaning": "做、製作",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "hago",
+"gender": "v",
+"meaning": "我做",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "haces",
+"gender": "v",
+"meaning": "你做",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "hace",
+"gender": "v",
+"meaning": "他／她／您做；天氣如何",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "hacemos",
+"gender": "v",
+"meaning": "我們做",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "hacen",
+"gender": "v",
+"meaning": "他們做",
+"theme": "最常用動詞變化 Verbos esenciales"
+},
+{
+"word": "la familia",
+"gender": "f",
+"meaning": "家庭",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el padre",
+"gender": "m",
+"meaning": "父親",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la madre",
+"gender": "f",
+"meaning": "母親",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "los padres",
+"gender": "m",
+"meaning": "父母",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el hijo",
+"gender": "m",
+"meaning": "兒子",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la hija",
+"gender": "f",
+"meaning": "女兒",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el hermano",
+"gender": "m",
+"meaning": "兄弟",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la hermana",
+"gender": "f",
+"meaning": "姊妹",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el abuelo",
+"gender": "m",
+"meaning": "祖父",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la abuela",
+"gender": "f",
+"meaning": "祖母",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el nieto",
+"gender": "m",
+"meaning": "孫子",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el tío",
+"gender": "m",
+"meaning": "叔伯舅",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la tía",
+"gender": "f",
+"meaning": "阿姨姑姑",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el primo",
+"gender": "m",
+"meaning": "堂表兄弟",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el sobrino",
+"gender": "m",
+"meaning": "姪甥",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el esposo",
+"gender": "m",
+"meaning": "丈夫",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la esposa",
+"gender": "f",
+"meaning": "妻子",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el marido",
+"gender": "m",
+"meaning": "丈夫",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la mujer",
+"gender": "f",
+"meaning": "女人／妻子",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el hombre",
+"gender": "m",
+"meaning": "男人",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el niño",
+"gender": "m",
+"meaning": "男孩",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la niña",
+"gender": "f",
+"meaning": "女孩",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el bebé",
+"gender": "m",
+"meaning": "嬰兒",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el amigo",
+"gender": "m",
+"meaning": "朋友（男）",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la amiga",
+"gender": "f",
+"meaning": "朋友（女）",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el novio",
+"gender": "m",
+"meaning": "男友／新郎",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la novia",
+"gender": "f",
+"meaning": "女友／新娘",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el vecino",
+"gender": "m",
+"meaning": "鄰居",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el jefe",
+"gender": "m",
+"meaning": "老闆（男）",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la jefa",
+"gender": "f",
+"meaning": "老闆（女）",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "el compañero",
+"gender": "m",
+"meaning": "同事／夥伴（男）",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la compañera",
+"gender": "f",
+"meaning": "同事／夥伴（女）",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la gente",
+"gender": "f",
+"meaning": "人們（單數形但指多人）",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la persona",
+"gender": "f",
+"meaning": "人（一律陰性，男女都用 la）",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "casado",
+"gender": "adj",
+"meaning": "已婚的",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "soltero",
+"gender": "adj",
+"meaning": "單身的",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "joven",
+"gender": "adj",
+"meaning": "年輕的",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "viejo",
+"gender": "adj",
+"meaning": "老的",
+"theme": "家庭與人 Familia"
+},
+{
+"word": "la profesión",
+"gender": "f",
+"meaning": "職業",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el trabajo",
+"gender": "m",
+"meaning": "工作",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el ingeniero",
+"gender": "m",
+"meaning": "工程師（男）",
+"theme": "職業 Profesiones"
+},
+{
+"word": "la ingeniera",
+"gender": "f",
+"meaning": "工程師（女）",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el arquitecto",
+"gender": "m",
+"meaning": "建築師",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el médico",
+"gender": "m",
+"meaning": "醫生（男）",
+"theme": "職業 Profesiones"
+},
+{
+"word": "la médica",
+"gender": "f",
+"meaning": "醫生（女）",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el doctor",
+"gender": "m",
+"meaning": "醫生／博士（稱呼用）",
+"theme": "職業 Profesiones"
+},
+{
+"word": "la doctora",
+"gender": "f",
+"meaning": "醫生／博士（女，稱呼用）",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el farmacéutico",
+"gender": "m",
+"meaning": "藥師（男）",
+"theme": "職業 Profesiones"
+},
+{
+"word": "la farmacéutica",
+"gender": "f",
+"meaning": "藥師（女）",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el veterinario",
+"gender": "m",
+"meaning": "獸醫",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el cirujano",
+"gender": "m",
+"meaning": "外科醫生",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el dentista",
+"gender": "mf",
+"meaning": "牙醫",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el enfermero",
+"gender": "m",
+"meaning": "護理師",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el profesor",
+"gender": "m",
+"meaning": "老師／教授（男）",
+"theme": "職業 Profesiones"
+},
+{
+"word": "la profesora",
+"gender": "f",
+"meaning": "老師／教授（女）",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el maestro",
+"gender": "m",
+"meaning": "小學老師",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el estudiante",
+"gender": "mf",
+"meaning": "學生",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el abogado",
+"gender": "m",
+"meaning": "律師",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el contador",
+"gender": "m",
+"meaning": "會計師",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el policía",
+"gender": "m",
+"meaning": "警察",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el bombero",
+"gender": "m",
+"meaning": "消防員",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el cocinero",
+"gender": "m",
+"meaning": "廚師",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el vendedor",
+"gender": "m",
+"meaning": "業務員",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el gerente",
+"gender": "m",
+"meaning": "經理",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el director",
+"gender": "m",
+"meaning": "主管／導演",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el secretario",
+"gender": "m",
+"meaning": "秘書",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el obrero",
+"gender": "m",
+"meaning": "工人",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el albañil",
+"gender": "m",
+"meaning": "泥作工人",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el electricista",
+"gender": "mf",
+"meaning": "水電工",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el fontanero",
+"gender": "m",
+"meaning": "水管工",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el carpintero",
+"gender": "m",
+"meaning": "木工",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el conductor",
+"gender": "m",
+"meaning": "司機",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el piloto",
+"gender": "m",
+"meaning": "機師",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el periodista",
+"gender": "mf",
+"meaning": "記者",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el artista",
+"gender": "mf",
+"meaning": "藝術家",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el agricultor",
+"gender": "m",
+"meaning": "農夫",
+"theme": "職業 Profesiones"
+},
+{
+"word": "el empresario",
+"gender": "m",
+"meaning": "企業家",
+"theme": "職業 Profesiones"
+},
+{
+"word": "jubilado",
+"gender": "adj",
+"meaning": "退休的",
+"theme": "職業 Profesiones"
+},
+{
+"word": "desempleado",
+"gender": "adj",
+"meaning": "失業的",
+"theme": "職業 Profesiones"
+},
+{
+"word": "la ciudad",
+"gender": "f",
+"meaning": "城市",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el pueblo",
+"gender": "m",
+"meaning": "村鎮／人民",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el país",
+"gender": "m",
+"meaning": "國家",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la calle",
+"gender": "f",
+"meaning": "街道",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la avenida",
+"gender": "f",
+"meaning": "大道",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la plaza",
+"gender": "f",
+"meaning": "廣場",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la esquina",
+"gender": "f",
+"meaning": "街角",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el edificio",
+"gender": "m",
+"meaning": "建築物",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el banco",
+"gender": "m",
+"meaning": "銀行／長椅",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la tienda",
+"gender": "f",
+"meaning": "商店",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el supermercado",
+"gender": "m",
+"meaning": "超市",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el mercado",
+"gender": "m",
+"meaning": "市場",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la farmacia",
+"gender": "f",
+"meaning": "藥局",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el hospital",
+"gender": "m",
+"meaning": "醫院",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la escuela",
+"gender": "f",
+"meaning": "學校",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la universidad",
+"gender": "f",
+"meaning": "大學",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la iglesia",
+"gender": "f",
+"meaning": "教堂",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el museo",
+"gender": "m",
+"meaning": "博物館",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el parque",
+"gender": "m",
+"meaning": "公園",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el hotel",
+"gender": "m",
+"meaning": "飯店",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la oficina",
+"gender": "f",
+"meaning": "辦公室",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la fábrica",
+"gender": "f",
+"meaning": "工廠",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la obra",
+"gender": "f",
+"meaning": "工地／作品",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el correo",
+"gender": "m",
+"meaning": "郵局／郵件",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la biblioteca",
+"gender": "f",
+"meaning": "圖書館",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la librería",
+"gender": "f",
+"meaning": "書店",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el cine",
+"gender": "m",
+"meaning": "電影院",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el teatro",
+"gender": "m",
+"meaning": "劇院",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el aeropuerto",
+"gender": "m",
+"meaning": "機場",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la estación",
+"gender": "f",
+"meaning": "車站",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el centro",
+"gender": "m",
+"meaning": "市中心",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el barrio",
+"gender": "m",
+"meaning": "社區／區",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el baño público",
+"gender": "m",
+"meaning": "公廁",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la entrada",
+"gender": "f",
+"meaning": "入口／門票",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "la salida",
+"gender": "f",
+"meaning": "出口",
+"theme": "城市與地點 Ciudad"
+},
+{
+"word": "el transporte",
+"gender": "m",
+"meaning": "交通",
+"theme": "交通 Transporte"
+},
+{
+"word": "el coche",
+"gender": "m",
+"meaning": "車（西班牙）",
+"theme": "交通 Transporte"
+},
+{
+"word": "el carro",
+"gender": "m",
+"meaning": "車（拉美）",
+"theme": "交通 Transporte"
+},
+{
+"word": "el autobús",
+"gender": "m",
+"meaning": "公車",
+"theme": "交通 Transporte"
+},
+{
+"word": "el metro",
+"gender": "m",
+"meaning": "捷運",
+"theme": "交通 Transporte"
+},
+{
+"word": "el tren",
+"gender": "m",
+"meaning": "火車",
+"theme": "交通 Transporte"
+},
+{
+"word": "el avión",
+"gender": "m",
+"meaning": "飛機",
+"theme": "交通 Transporte"
+},
+{
+"word": "el barco",
+"gender": "m",
+"meaning": "船",
+"theme": "交通 Transporte"
+},
+{
+"word": "la bicicleta",
+"gender": "f",
+"meaning": "腳踏車",
+"theme": "交通 Transporte"
+},
+{
+"word": "la moto",
+"gender": "f",
+"meaning": "機車",
+"theme": "交通 Transporte"
+},
+{
+"word": "el taxi",
+"gender": "m",
+"meaning": "計程車",
+"theme": "交通 Transporte"
+},
+{
+"word": "el camión",
+"gender": "m",
+"meaning": "卡車",
+"theme": "交通 Transporte"
+},
+{
+"word": "el billete",
+"gender": "m",
+"meaning": "車票（西班牙）",
+"theme": "交通 Transporte"
+},
+{
+"word": "el boleto",
+"gender": "m",
+"meaning": "車票（拉美）",
+"theme": "交通 Transporte"
+},
+{
+"word": "el pasaporte",
+"gender": "m",
+"meaning": "護照",
+"theme": "交通 Transporte"
+},
+{
+"word": "el equipaje",
+"gender": "m",
+"meaning": "行李",
+"theme": "交通 Transporte"
+},
+{
+"word": "la maleta",
+"gender": "f",
+"meaning": "行李箱",
+"theme": "交通 Transporte"
+},
+{
+"word": "el semáforo",
+"gender": "m",
+"meaning": "紅綠燈",
+"theme": "交通 Transporte"
+},
+{
+"word": "la gasolina",
+"gender": "f",
+"meaning": "汽油",
+"theme": "交通 Transporte"
+},
+{
+"word": "el aparcamiento",
+"gender": "m",
+"meaning": "停車場",
+"theme": "交通 Transporte"
+},
+{
+"word": "conducir",
+"gender": "v",
+"meaning": "開車",
+"theme": "交通 Transporte"
+},
+{
+"word": "manejar",
+"gender": "v",
+"meaning": "開車（拉美）",
+"theme": "交通 Transporte"
+},
+{
+"word": "viajar",
+"gender": "v",
+"meaning": "旅行",
+"theme": "交通 Transporte"
+},
+{
+"word": "el viaje",
+"gender": "m",
+"meaning": "旅程",
+"theme": "交通 Transporte"
+},
+{
+"word": "el tráfico",
+"gender": "m",
+"meaning": "交通流量",
+"theme": "交通 Transporte"
+},
+{
+"word": "la dirección",
+"gender": "f",
+"meaning": "方向／地址",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "izquierda",
+"gender": "x",
+"meaning": "左",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "derecha",
+"gender": "x",
+"meaning": "右",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "recto",
+"gender": "x",
+"meaning": "直",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "el norte",
+"gender": "m",
+"meaning": "北",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "el sur",
+"gender": "m",
+"meaning": "南",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "el este",
+"gender": "m",
+"meaning": "東",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "el oeste",
+"gender": "m",
+"meaning": "西",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "cerca",
+"gender": "adv",
+"meaning": "近",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "lejos",
+"gender": "adv",
+"meaning": "遠",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "aquí",
+"gender": "adv",
+"meaning": "這裡",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "ahí",
+"gender": "adv",
+"meaning": "那裡",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "allí",
+"gender": "adv",
+"meaning": "那邊（更遠）",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "arriba",
+"gender": "adv",
+"meaning": "上面",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "abajo",
+"gender": "adv",
+"meaning": "下面",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "dentro",
+"gender": "adv",
+"meaning": "裡面",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "fuera",
+"gender": "adv",
+"meaning": "外面",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "delante",
+"gender": "adv",
+"meaning": "前面",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "detrás",
+"gender": "adv",
+"meaning": "後面",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "al lado de",
+"gender": "x",
+"meaning": "在……旁邊",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "enfrente de",
+"gender": "x",
+"meaning": "在……對面",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "entre",
+"gender": "x",
+"meaning": "在……之間",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "sobre",
+"gender": "x",
+"meaning": "在……上方／關於",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "debajo de",
+"gender": "x",
+"meaning": "在……下方",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "el mapa",
+"gender": "m",
+"meaning": "地圖",
+"theme": "方向與位置 Dirección"
+},
+{
+"word": "grande",
+"gender": "adj",
+"meaning": "大的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "pequeño",
+"gender": "adj",
+"meaning": "小的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "largo",
+"gender": "adj",
+"meaning": "長的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "corto",
+"gender": "adj",
+"meaning": "短的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "alto",
+"gender": "adj",
+"meaning": "高的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "bajo",
+"gender": "adj",
+"meaning": "矮的／低的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "ancho",
+"gender": "adj",
+"meaning": "寬的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "estrecho",
+"gender": "adj",
+"meaning": "窄的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "gordo",
+"gender": "adj",
+"meaning": "胖的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "delgado",
+"gender": "adj",
+"meaning": "瘦的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "nuevo",
+"gender": "adj",
+"meaning": "新的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "bueno",
+"gender": "adj",
+"meaning": "好的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "malo",
+"gender": "adj",
+"meaning": "壞的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "bonito",
+"gender": "adj",
+"meaning": "漂亮的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "feo",
+"gender": "adj",
+"meaning": "醜的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "guapo",
+"gender": "adj",
+"meaning": "帥的／美的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "fácil",
+"gender": "adj",
+"meaning": "容易的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "difícil",
+"gender": "adj",
+"meaning": "困難的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "rápido",
+"gender": "adj",
+"meaning": "快的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "lento",
+"gender": "adj",
+"meaning": "慢的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "fuerte",
+"gender": "adj",
+"meaning": "強壯的／大聲的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "débil",
+"gender": "adj",
+"meaning": "虛弱的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "caro",
+"gender": "adj",
+"meaning": "貴的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "barato",
+"gender": "adj",
+"meaning": "便宜的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "caliente",
+"gender": "adj",
+"meaning": "熱的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "lleno",
+"gender": "adj",
+"meaning": "滿的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "vacío",
+"gender": "adj",
+"meaning": "空的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "abierto",
+"gender": "adj",
+"meaning": "開的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "cerrado",
+"gender": "adj",
+"meaning": "關的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "importante",
+"gender": "adj",
+"meaning": "重要的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "interesante",
+"gender": "adj",
+"meaning": "有趣的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "aburrido",
+"gender": "adj",
+"meaning": "無聊的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "famoso",
+"gender": "adj",
+"meaning": "有名的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "peligroso",
+"gender": "adj",
+"meaning": "危險的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "seguro",
+"gender": "adj",
+"meaning": "安全的／確定的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "posible",
+"gender": "adj",
+"meaning": "可能的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "necesario",
+"gender": "adj",
+"meaning": "必要的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "diferente",
+"gender": "adj",
+"meaning": "不同的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "mismo",
+"gender": "adj",
+"meaning": "相同的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "todo",
+"gender": "adj",
+"meaning": "全部的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "mucho",
+"gender": "adj",
+"meaning": "很多",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "poco",
+"gender": "adj",
+"meaning": "很少",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "otro",
+"gender": "adj",
+"meaning": "另一個",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "propio",
+"gender": "adj",
+"meaning": "自己的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "libre",
+"gender": "adj",
+"meaning": "自由的／空閒的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "ocupado",
+"gender": "adj",
+"meaning": "忙碌的／被佔用的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "listo",
+"gender": "adj",
+"meaning": "準備好的／聰明的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "duro",
+"gender": "adj",
+"meaning": "硬的／辛苦的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "blando",
+"gender": "adj",
+"meaning": "軟的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "pesado",
+"gender": "adj",
+"meaning": "重的／煩人的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "ligero",
+"gender": "adj",
+"meaning": "輕的",
+"theme": "形容詞 Adjetivos"
+},
+{
+"word": "feliz",
+"gender": "adj",
+"meaning": "快樂的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "contento",
+"gender": "adj",
+"meaning": "開心的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "triste",
+"gender": "adj",
+"meaning": "難過的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "enfadado",
+"gender": "adj",
+"meaning": "生氣的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "enojado",
+"gender": "adj",
+"meaning": "生氣的（拉美）",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "preocupado",
+"gender": "adj",
+"meaning": "擔心的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "nervioso",
+"gender": "adj",
+"meaning": "緊張的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "tranquilo",
+"gender": "adj",
+"meaning": "平靜的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "cansado",
+"gender": "adj",
+"meaning": "累的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "emocionado",
+"gender": "adj",
+"meaning": "興奮的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "asustado",
+"gender": "adj",
+"meaning": "害怕的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "sorprendido",
+"gender": "adj",
+"meaning": "驚訝的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "orgulloso",
+"gender": "adj",
+"meaning": "驕傲的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "celoso",
+"gender": "adj",
+"meaning": "嫉妒的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "avergonzado",
+"gender": "adj",
+"meaning": "尷尬的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "embarazada",
+"gender": "adj",
+"meaning": "懷孕的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "amable",
+"gender": "adj",
+"meaning": "親切的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "simpático",
+"gender": "adj",
+"meaning": "友善的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "antipático",
+"gender": "adj",
+"meaning": "討人厭的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "generoso",
+"gender": "adj",
+"meaning": "慷慨的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "egoísta",
+"gender": "adj",
+"meaning": "自私的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "inteligente",
+"gender": "adj",
+"meaning": "聰明的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "tonto",
+"gender": "adj",
+"meaning": "笨的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "trabajador",
+"gender": "adj",
+"meaning": "努力的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "perezoso",
+"gender": "adj",
+"meaning": "懶惰的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "honesto",
+"gender": "adj",
+"meaning": "誠實的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "tímido",
+"gender": "adj",
+"meaning": "害羞的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "serio",
+"gender": "adj",
+"meaning": "嚴肅的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "divertido",
+"gender": "adj",
+"meaning": "有趣的／好玩的",
+"theme": "情緒與個性 Emociones"
+},
+{
+"word": "la salud",
+"gender": "f",
+"meaning": "健康",
+"theme": "健康 Salud"
+},
+{
+"word": "la enfermedad",
+"gender": "f",
+"meaning": "疾病",
+"theme": "健康 Salud"
+},
+{
+"word": "el dolor",
+"gender": "m",
+"meaning": "疼痛",
+"theme": "健康 Salud"
+},
+{
+"word": "la fiebre",
+"gender": "f",
+"meaning": "發燒",
+"theme": "健康 Salud"
+},
+{
+"word": "la tos",
+"gender": "f",
+"meaning": "咳嗽",
+"theme": "健康 Salud"
+},
+{
+"word": "el resfriado",
+"gender": "m",
+"meaning": "感冒",
+"theme": "健康 Salud"
+},
+{
+"word": "la gripe",
+"gender": "f",
+"meaning": "流感",
+"theme": "健康 Salud"
+},
+{
+"word": "la herida",
+"gender": "f",
+"meaning": "傷口",
+"theme": "健康 Salud"
+},
+{
+"word": "la medicina",
+"gender": "f",
+"meaning": "藥／醫學",
+"theme": "健康 Salud"
+},
+{
+"word": "la pastilla",
+"gender": "f",
+"meaning": "藥丸",
+"theme": "健康 Salud"
+},
+{
+"word": "la receta",
+"gender": "f",
+"meaning": "處方／食譜",
+"theme": "健康 Salud"
+},
+{
+"word": "la inyección",
+"gender": "f",
+"meaning": "打針",
+"theme": "健康 Salud"
+},
+{
+"word": "la cita",
+"gender": "f",
+"meaning": "預約／約會",
+"theme": "健康 Salud"
+},
+{
+"word": "la emergencia",
+"gender": "f",
+"meaning": "緊急狀況",
+"theme": "健康 Salud"
+},
+{
+"word": "la ambulancia",
+"gender": "f",
+"meaning": "救護車",
+"theme": "健康 Salud"
+},
+{
+"word": "enfermo",
+"gender": "adj",
+"meaning": "生病的",
+"theme": "健康 Salud"
+},
+{
+"word": "sano",
+"gender": "adj",
+"meaning": "健康的",
+"theme": "健康 Salud"
+},
+{
+"word": "constipado",
+"gender": "adj",
+"meaning": "感冒的",
+"theme": "健康 Salud"
+},
+{
+"word": "doler",
+"gender": "v",
+"meaning": "疼痛",
+"theme": "健康 Salud"
+},
+{
+"word": "curar",
+"gender": "v",
+"meaning": "治療",
+"theme": "健康 Salud"
+},
+{
+"word": "descansar",
+"gender": "v",
+"meaning": "休息",
+"theme": "健康 Salud"
+},
+{
+"word": "la reunión",
+"gender": "f",
+"meaning": "會議",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el proyecto",
+"gender": "m",
+"meaning": "專案",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el contrato",
+"gender": "m",
+"meaning": "合約",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el documento",
+"gender": "m",
+"meaning": "文件",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el informe",
+"gender": "m",
+"meaning": "報告",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el correo electrónico",
+"gender": "m",
+"meaning": "電子郵件",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el ordenador",
+"gender": "m",
+"meaning": "電腦（西班牙）",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "la computadora",
+"gender": "f",
+"meaning": "電腦（拉美）",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el teléfono",
+"gender": "m",
+"meaning": "電話",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el móvil",
+"gender": "m",
+"meaning": "手機（西班牙）",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el celular",
+"gender": "m",
+"meaning": "手機（拉美）",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "la pantalla",
+"gender": "f",
+"meaning": "螢幕",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el teclado",
+"gender": "m",
+"meaning": "鍵盤",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "la impresora",
+"gender": "f",
+"meaning": "印表機",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el archivo",
+"gender": "m",
+"meaning": "檔案",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "la carpeta",
+"gender": "f",
+"meaning": "資料夾",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "la red",
+"gender": "f",
+"meaning": "網路",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "la contraseña",
+"gender": "f",
+"meaning": "密碼",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el usuario",
+"gender": "m",
+"meaning": "使用者",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "la empresa",
+"gender": "f",
+"meaning": "公司",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "la compañía",
+"gender": "f",
+"meaning": "公司",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el cliente",
+"gender": "m",
+"meaning": "客戶",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el precio",
+"gender": "m",
+"meaning": "價格",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el presupuesto",
+"gender": "m",
+"meaning": "預算",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "la factura",
+"gender": "f",
+"meaning": "發票／帳單",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el plazo",
+"gender": "m",
+"meaning": "期限",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "la fecha",
+"gender": "f",
+"meaning": "日期",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "la firma",
+"gender": "f",
+"meaning": "簽名",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el sueldo",
+"gender": "m",
+"meaning": "薪水",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el salario",
+"gender": "m",
+"meaning": "薪水",
+"theme": "辦公與科技 Trabajo"
+},
+{
+"word": "el dinero",
+"gender": "m",
+"meaning": "錢",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "el euro",
+"gender": "m",
+"meaning": "歐元",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "el dólar",
+"gender": "m",
+"meaning": "美金",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "la moneda",
+"gender": "f",
+"meaning": "硬幣／貨幣",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "la tarjeta",
+"gender": "f",
+"meaning": "卡片",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "el efectivo",
+"gender": "m",
+"meaning": "現金",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "el cambio",
+"gender": "m",
+"meaning": "零錢／改變",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "el descuento",
+"gender": "m",
+"meaning": "折扣",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "la oferta",
+"gender": "f",
+"meaning": "特價／提案",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "el recibo",
+"gender": "m",
+"meaning": "收據",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "el impuesto",
+"gender": "m",
+"meaning": "稅",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "gratis",
+"gender": "adj",
+"meaning": "免費的",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "comprar",
+"gender": "v",
+"meaning": "買",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "vender",
+"gender": "v",
+"meaning": "賣",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "pagar",
+"gender": "v",
+"meaning": "付錢",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "costar",
+"gender": "v",
+"meaning": "花費",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "gastar",
+"gender": "v",
+"meaning": "花掉",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "ahorrar",
+"gender": "v",
+"meaning": "存錢",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "deber",
+"gender": "v",
+"meaning": "欠／應該",
+"theme": "金錢與購物 Dinero"
+},
+{
+"word": "levantarse",
+"gender": "v",
+"meaning": "起床",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "despertarse",
+"gender": "v",
+"meaning": "醒來",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "ducharse",
+"gender": "v",
+"meaning": "洗澡",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "bañarse",
+"gender": "v",
+"meaning": "泡澡",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "lavarse",
+"gender": "v",
+"meaning": "洗（身體部位）",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "vestirse",
+"gender": "v",
+"meaning": "穿衣服",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "peinarse",
+"gender": "v",
+"meaning": "梳頭",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "afeitarse",
+"gender": "v",
+"meaning": "刮鬍子",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "maquillarse",
+"gender": "v",
+"meaning": "化妝",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "desayunar",
+"gender": "v",
+"meaning": "吃早餐",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "almorzar",
+"gender": "v",
+"meaning": "吃午餐",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "cenar",
+"gender": "v",
+"meaning": "吃晚餐",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "acostarse",
+"gender": "v",
+"meaning": "上床睡覺",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "dormirse",
+"gender": "v",
+"meaning": "入睡",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "sentarse",
+"gender": "v",
+"meaning": "坐下",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "llamarse",
+"gender": "v",
+"meaning": "名叫",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "ponerse",
+"gender": "v",
+"meaning": "穿上／變成",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "quitarse",
+"gender": "v",
+"meaning": "脫掉",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "irse",
+"gender": "v",
+"meaning": "離開",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "quedarse",
+"gender": "v",
+"meaning": "留下",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "divertirse",
+"gender": "v",
+"meaning": "玩得開心",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "preocuparse",
+"gender": "v",
+"meaning": "擔心",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "olvidarse",
+"gender": "v",
+"meaning": "忘記",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "acordarse",
+"gender": "v",
+"meaning": "記得",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "la rutina",
+"gender": "f",
+"meaning": "例行公事",
+"theme": "日常作息 Rutina"
+},
+{
+"word": "el deporte",
+"gender": "m",
+"meaning": "運動",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "el fútbol",
+"gender": "m",
+"meaning": "足球",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "el baloncesto",
+"gender": "m",
+"meaning": "籃球",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "el béisbol",
+"gender": "m",
+"meaning": "棒球",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "el tenis",
+"gender": "m",
+"meaning": "網球",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "la natación",
+"gender": "f",
+"meaning": "游泳",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "el gimnasio",
+"gender": "m",
+"meaning": "健身房",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "correr",
+"gender": "v",
+"meaning": "跑步",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "nadar",
+"gender": "v",
+"meaning": "游泳",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "caminar",
+"gender": "v",
+"meaning": "走路",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "jugar",
+"gender": "v",
+"meaning": "玩／打球",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "ganar",
+"gender": "v",
+"meaning": "贏／賺",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "perder",
+"gender": "v",
+"meaning": "輸／失去",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "el equipo",
+"gender": "m",
+"meaning": "隊伍／設備",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "el partido",
+"gender": "m",
+"meaning": "比賽／政黨",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "la película",
+"gender": "f",
+"meaning": "電影",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "la música",
+"gender": "f",
+"meaning": "音樂",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "la canción",
+"gender": "f",
+"meaning": "歌曲",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "el libro",
+"gender": "m",
+"meaning": "書",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "la revista",
+"gender": "f",
+"meaning": "雜誌",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "el periódico",
+"gender": "m",
+"meaning": "報紙",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "la fiesta",
+"gender": "f",
+"meaning": "派對",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "el juego",
+"gender": "m",
+"meaning": "遊戲",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "bailar",
+"gender": "v",
+"meaning": "跳舞",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "cantar",
+"gender": "v",
+"meaning": "唱歌",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "dibujar",
+"gender": "v",
+"meaning": "畫畫",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "la afición",
+"gender": "f",
+"meaning": "興趣嗜好",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "el pasatiempo",
+"gender": "m",
+"meaning": "消遣",
+"theme": "運動與休閒 Ocio"
+},
+{
+"word": "y",
+"gender": "x",
+"meaning": "和",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "o",
+"gender": "x",
+"meaning": "或",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "pero",
+"gender": "x",
+"meaning": "但是",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "porque",
+"gender": "x",
+"meaning": "因為",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "por qué",
+"gender": "x",
+"meaning": "為什麼",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "si",
+"gender": "x",
+"meaning": "如果",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "cuando",
+"gender": "x",
+"meaning": "當……的時候",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "aunque",
+"gender": "x",
+"meaning": "雖然",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "también",
+"gender": "x",
+"meaning": "也",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "tampoco",
+"gender": "x",
+"meaning": "也不",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "además",
+"gender": "x",
+"meaning": "此外",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "entonces",
+"gender": "x",
+"meaning": "那麼／然後",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "por eso",
+"gender": "x",
+"meaning": "所以",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "sin embargo",
+"gender": "x",
+"meaning": "然而",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "mientras",
+"gender": "x",
+"meaning": "同時／當",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "antes de",
+"gender": "x",
+"meaning": "在……之前",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "después de",
+"gender": "x",
+"meaning": "在……之後",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "para",
+"gender": "x",
+"meaning": "為了／給",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "por",
+"gender": "x",
+"meaning": "因為／經由",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "con",
+"gender": "x",
+"meaning": "和……一起",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "sin",
+"gender": "x",
+"meaning": "沒有",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "de",
+"gender": "x",
+"meaning": "的／來自",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "a",
+"gender": "x",
+"meaning": "到",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "en",
+"gender": "x",
+"meaning": "在……裡／在",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "desde",
+"gender": "x",
+"meaning": "從",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "hasta",
+"gender": "x",
+"meaning": "直到",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "muy",
+"gender": "adv",
+"meaning": "很",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "más",
+"gender": "adv",
+"meaning": "更多",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "menos",
+"gender": "adv",
+"meaning": "更少",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "tan",
+"gender": "adv",
+"meaning": "如此",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "ya",
+"gender": "adv",
+"meaning": "已經",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "todavía",
+"gender": "adv",
+"meaning": "還／仍然",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "quizás",
+"gender": "adv",
+"meaning": "也許",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "por supuesto",
+"gender": "x",
+"meaning": "當然",
+"theme": "連接詞與功能字 Conectores"
+},
+{
+"word": "qué",
+"gender": "x",
+"meaning": "什麼",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "quién",
+"gender": "x",
+"meaning": "誰",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "dónde",
+"gender": "x",
+"meaning": "哪裡",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "cuándo",
+"gender": "x",
+"meaning": "什麼時候",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "cómo",
+"gender": "x",
+"meaning": "如何／怎麼樣",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "cuánto",
+"gender": "x",
+"meaning": "多少",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "cuál",
+"gender": "x",
+"meaning": "哪一個",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "para qué",
+"gender": "x",
+"meaning": "為了什麼",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "adónde",
+"gender": "x",
+"meaning": "去哪裡",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "de dónde",
+"gender": "x",
+"meaning": "從哪裡來",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "con quién",
+"gender": "x",
+"meaning": "跟誰",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "cuántos",
+"gender": "x",
+"meaning": "幾個（複數）",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "qué tal",
+"gender": "x",
+"meaning": "如何（打招呼）",
+"theme": "疑問詞 Preguntas"
+},
+{
+"word": "cuánto tiempo",
+"gender": "x",
+"meaning": "多久",
+"theme": "疑問詞 Preguntas"
+}
+]
