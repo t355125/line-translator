@@ -85,15 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-11",
+    "date": "2026-10-13",
     "cards": [
       {
-        "word": "salud",
-        "pos": "名詞",
-        "meaning": "健康；乾杯（祝酒用語）",
-        "detail": "陰性 la salud（通常不用複數）",
-        "example_es": "La salud es muy importante para mí.",
-        "example_zh": "健康對我來說非常重要。"
+        "word": "quién",
+        "pos": "片語或其他詞類",
+        "meaning": "誰（疑問詞，用於詢問人物）",
+        "detail": "疑問詞，有重音符號；複數為 quiénes（誰們）；常用於 ¿Quién es...? / ¿Quiénes son...?",
+        "example_es": "¿Quién es esa chica?",
+        "example_zh": "那個女孩是誰？"
+      },
+      {
+        "word": "el taxi",
+        "pos": "陽性名詞",
+        "meaning": "計程車",
+        "detail": "陽性 el taxi / los taxis；搭計程車常說 coger un taxi（西班牙）或 tomar un taxi（拉美）",
+        "example_es": "Tomo un taxi para ir al aeropuerto.",
+        "example_zh": "我搭計程車去機場。"
+      },
+      {
+        "word": "el juego",
+        "pos": "陽性名詞",
+        "meaning": "遊戲",
+        "detail": "陽性 el juego / los juegos；可指桌遊、電玩或各種遊戲活動",
+        "example_es": "Me gusta mucho este juego de mesa.",
+        "example_zh": "我非常喜歡這個桌遊。"
+      },
+      {
+        "word": "la enfermedad",
+        "pos": "陰性名詞",
+        "meaning": "疾病",
+        "detail": "陰性 la enfermedad / las enfermedades；相關詞：enfermo/a（生病的）、el enfermo（病人）",
+        "example_es": "El médico dice que es una enfermedad común.",
+        "example_zh": "醫生說這是一種常見的疾病。"
+      },
+      {
+        "word": "sin",
+        "pos": "片語或其他詞類",
+        "meaning": "沒有、不含（介系詞，表示缺少或不包含某物）",
+        "detail": "介系詞，後接名詞或動詞原形；反義詞為 con（有、帶著）；常見搭配：sin azúcar（無糖）、sin problema（沒問題）",
+        "example_es": "Quiero un café sin azúcar, por favor.",
+        "example_zh": "我要一杯無糖咖啡，謝謝。"
+      },
+      {
+        "word": "la col",
+        "pos": "陰性名詞",
+        "meaning": "高麗菜（捲心菜）",
+        "detail": "陰性 la col / las coles；在部分地區也說 el repollo；常用於沙拉或燉菜",
+        "example_es": "La col es muy buena para la salud.",
+        "example_zh": "高麗菜對健康非常好。"
+      },
+      {
+        "word": "malo",
+        "pos": "形容詞",
+        "meaning": "壞的、不好的",
+        "detail": "陽性 malo / 陰性 mala；複數 malos / malas；置於名詞前時陽性縮短為 mal（如 un mal día）；也可表示「生病的」（estar malo）",
+        "example_es": "Hoy tengo un mal día en el trabajo.",
+        "example_zh": "今天我工作不順。"
+      },
+      {
+        "word": "ti",
+        "pos": "片語或其他詞類",
+        "meaning": "你（用於介系詞之後的受格代詞）",
+        "detail": "只能放在介系詞（para、con、de、a 等）之後；主格是 tú；注意：contigo 是「con + ti」的特殊合併形式",
+        "example_es": "Este regalo es para ti.",
+        "example_zh": "這個禮物是給你的。"
+      },
+      {
+        "word": "la ternera",
+        "pos": "陰性名詞",
+        "meaning": "牛肉（小牛肉）",
+        "detail": "陰性 la ternera / las terneras；原意為「小母牛」，在飲食語境中指牛肉或小牛肉；也可說 la carne de ternera",
+        "example_es": "Voy a cocinar ternera con verduras para cenar.",
+        "example_zh": "我要煮牛肉配蔬菜當晚餐。"
+      },
+      {
+        "word": "es",
+        "pos": "動詞",
+        "meaning": "他／她／您是（ser 的第三人稱單數現在式）",
+        "detail": "變化：soy（我）/ eres（你）/ es（他、她、您）/ somos（我們）/ sois（你們）/ son（他們、您們）；ser 用於描述本質、特徵、職業、國籍等",
+        "example_es": "Ella es profesora de español.",
+        "example_zh": "她是西班牙語老師。"
       }
     ]
   }
