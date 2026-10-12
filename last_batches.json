@@ -1,14 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-11",
+    "date": "2026-10-12",
     "cards": [
       {
-        "word": "puente",
-        "pos": "名詞",
-        "meaning": "橋",
-        "detail": "陽性 el puente / los puentes",
-        "example_es": "Hay un puente cerca de mi casa.",
-        "example_zh": "我家附近有一座橋。"
+        "word": "el ordenador",
+        "pos": "陽性名詞",
+        "meaning": "電腦（西班牙用法，拉丁美洲說 la computadora）",
+        "detail": "陽性 el ordenador / los ordenadores",
+        "example_es": "Mi ordenador es muy rápido.",
+        "example_zh": "我的電腦非常快。"
+      },
+      {
+        "word": "el conejo",
+        "pos": "陽性名詞",
+        "meaning": "兔子",
+        "detail": "陽性 el conejo / los conejos；雌兔說 la coneja",
+        "example_es": "El conejo come zanahorias.",
+        "example_zh": "兔子吃紅蘿蔔。"
+      },
+      {
+        "word": "el desierto",
+        "pos": "陽性名詞",
+        "meaning": "沙漠",
+        "detail": "陽性 el desierto / los desiertos",
+        "example_es": "El desierto del Sahara es muy grande.",
+        "example_zh": "撒哈拉沙漠非常大。"
+      },
+      {
+        "word": "la mochila",
+        "pos": "陰性名詞",
+        "meaning": "背包",
+        "detail": "陰性 la mochila / las mochilas",
+        "example_es": "Tengo mis libros en la mochila.",
+        "example_zh": "我的書在背包裡。"
+      },
+      {
+        "word": "enfadado",
+        "pos": "形容詞",
+        "meaning": "生氣的",
+        "detail": "陽性 enfadado / 陰性 enfadada；複數 enfadados / enfadadas",
+        "example_es": "Mi mamá está enfadada conmigo.",
+        "example_zh": "我媽媽在生我的氣。"
+      },
+      {
+        "word": "la fiesta",
+        "pos": "陰性名詞",
+        "meaning": "派對；節慶",
+        "detail": "陰性 la fiesta / las fiestas",
+        "example_es": "Hay una fiesta en casa de Ana el sábado.",
+        "example_zh": "星期六在安娜家有一個派對。"
+      },
+      {
+        "word": "dónde",
+        "pos": "疑問副詞",
+        "meaning": "哪裡（用於疑問句）",
+        "detail": "有重音符號的 dónde 用於疑問句；無重音的 donde 用於關係子句",
+        "example_es": "¿Dónde está el baño?",
+        "example_zh": "廁所在哪裡？"
+      },
+      {
+        "word": "el maíz",
+        "pos": "陽性名詞",
+        "meaning": "玉米",
+        "detail": "陽性 el maíz / los maíces；注意 í 上有重音符號",
+        "example_es": "Me gusta comer maíz con mantequilla.",
+        "example_zh": "我喜歡吃加奶油的玉米。"
+      },
+      {
+        "word": "el ojo",
+        "pos": "陽性名詞",
+        "meaning": "眼睛",
+        "detail": "陽性 el ojo / los ojos；通常以複數 los ojos 表示一個人的兩隻眼睛",
+        "example_es": "Ella tiene los ojos azules.",
+        "example_zh": "她有藍色的眼睛。"
+      },
+      {
+        "word": "el doctor",
+        "pos": "陽性名詞",
+        "meaning": "醫生／博士（稱呼用）",
+        "detail": "陽性 el doctor / los doctores；陰性 la doctora / las doctoras",
+        "example_es": "El doctor García me da una medicina.",
+        "example_zh": "賈西亞醫生給我一種藥。"
       }
     ]
   },
