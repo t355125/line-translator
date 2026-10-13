@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-12",
+    "date": "2026-10-13",
     "cards": [
       {
-        "word": "el ordenador",
-        "pos": "陽性名詞",
-        "meaning": "電腦（西班牙用法，拉丁美洲說 la computadora）",
-        "detail": "陽性 el ordenador / los ordenadores",
-        "example_es": "Mi ordenador es muy rápido.",
-        "example_zh": "我的電腦非常快。"
+        "word": "hasta",
+        "pos": "介系詞／副詞",
+        "meaning": "直到；甚至",
+        "detail": "常用於時間（hasta las tres）、地點（hasta aquí）或程度（hasta yo lo sé）",
+        "example_es": "Trabajo hasta las seis de la tarde.",
+        "example_zh": "我工作到下午六點。"
       },
       {
-        "word": "el conejo",
-        "pos": "陽性名詞",
-        "meaning": "兔子",
-        "detail": "陽性 el conejo / los conejos；雌兔說 la coneja",
-        "example_es": "El conejo come zanahorias.",
-        "example_zh": "兔子吃紅蘿蔔。"
-      },
-      {
-        "word": "el desierto",
-        "pos": "陽性名詞",
-        "meaning": "沙漠",
-        "detail": "陽性 el desierto / los desiertos",
-        "example_es": "El desierto del Sahara es muy grande.",
-        "example_zh": "撒哈拉沙漠非常大。"
-      },
-      {
-        "word": "la mochila",
+        "word": "la temperatura",
         "pos": "陰性名詞",
-        "meaning": "背包",
-        "detail": "陰性 la mochila / las mochilas",
-        "example_es": "Tengo mis libros en la mochila.",
-        "example_zh": "我的書在背包裡。"
+        "meaning": "溫度",
+        "detail": "陰性 la temperatura / las temperaturas",
+        "example_es": "La temperatura hoy es de treinta grados.",
+        "example_zh": "今天的溫度是三十度。"
       },
       {
-        "word": "enfadado",
+        "word": "el mango",
+        "pos": "陽性名詞",
+        "meaning": "芒果",
+        "detail": "陽性 el mango / los mangos",
+        "example_es": "Me gustan mucho los mangos dulces.",
+        "example_zh": "我非常喜歡甜芒果。"
+      },
+      {
+        "word": "el cuchillo",
+        "pos": "陽性名詞",
+        "meaning": "刀子",
+        "detail": "陽性 el cuchillo / los cuchillos",
+        "example_es": "Necesito un cuchillo para cortar la carne.",
+        "example_zh": "我需要一把刀來切肉。"
+      },
+      {
+        "word": "quitarse",
+        "pos": "動詞（反身動詞）",
+        "meaning": "脫掉（衣物）；摘掉",
+        "detail": "現在式：me quito(我) / te quitas(你) / se quita(他／她)；反身代名詞須隨主詞變化",
+        "example_es": "Me quito el abrigo cuando llego a casa.",
+        "example_zh": "我到家的時候脫掉外套。"
+      },
+      {
+        "word": "rojo",
         "pos": "形容詞",
-        "meaning": "生氣的",
-        "detail": "陽性 enfadado / 陰性 enfadada；複數 enfadados / enfadadas",
-        "example_es": "Mi mamá está enfadada conmigo.",
-        "example_zh": "我媽媽在生我的氣。"
+        "meaning": "紅色的",
+        "detail": "陽性 rojo / 陰性 roja；複數 rojos / rojas",
+        "example_es": "Ella lleva una falda roja muy bonita.",
+        "example_zh": "她穿著一條非常漂亮的紅色裙子。"
       },
       {
-        "word": "la fiesta",
-        "pos": "陰性名詞",
-        "meaning": "派對；節慶",
-        "detail": "陰性 la fiesta / las fiestas",
-        "example_es": "Hay una fiesta en casa de Ana el sábado.",
-        "example_zh": "星期六在安娜家有一個派對。"
+        "word": "quinientos",
+        "pos": "數詞",
+        "meaning": "五百（500）",
+        "detail": "陽性 quinientos / 陰性 quinientas；與陰性名詞搭配時用 quinientas（如 quinientas personas）",
+        "example_es": "Este libro cuesta quinientos pesos.",
+        "example_zh": "這本書要五百披索。"
       },
       {
-        "word": "dónde",
-        "pos": "疑問副詞",
-        "meaning": "哪裡（用於疑問句）",
-        "detail": "有重音符號的 dónde 用於疑問句；無重音的 donde 用於關係子句",
-        "example_es": "¿Dónde está el baño?",
-        "example_zh": "廁所在哪裡？"
+        "word": "y media",
+        "pos": "片語",
+        "meaning": "過三十分；……點半",
+        "detail": "接在整點時間後，表示「半小時」；如 las tres y media（三點半）",
+        "example_es": "La clase empieza a las ocho y media.",
+        "example_zh": "課程在八點半開始。"
       },
       {
-        "word": "el maíz",
+        "word": "el garaje",
         "pos": "陽性名詞",
-        "meaning": "玉米",
-        "detail": "陽性 el maíz / los maíces；注意 í 上有重音符號",
-        "example_es": "Me gusta comer maíz con mantequilla.",
-        "example_zh": "我喜歡吃加奶油的玉米。"
+        "meaning": "車庫",
+        "detail": "陽性 el garaje / los garajes",
+        "example_es": "El coche está en el garaje.",
+        "example_zh": "車子在車庫裡。"
       },
       {
-        "word": "el ojo",
+        "word": "el contador",
         "pos": "陽性名詞",
-        "meaning": "眼睛",
-        "detail": "陽性 el ojo / los ojos；通常以複數 los ojos 表示一個人的兩隻眼睛",
-        "example_es": "Ella tiene los ojos azules.",
-        "example_zh": "她有藍色的眼睛。"
-      },
-      {
-        "word": "el doctor",
-        "pos": "陽性名詞",
-        "meaning": "醫生／博士（稱呼用）",
-        "detail": "陽性 el doctor / los doctores；陰性 la doctora / las doctoras",
-        "example_es": "El doctor García me da una medicina.",
-        "example_zh": "賈西亞醫生給我一種藥。"
+        "meaning": "會計師",
+        "detail": "陽性 el contador / los contadores；陰性 la contadora / las contadoras",
+        "example_es": "Mi padre es contador en una empresa grande.",
+        "example_zh": "我爸爸在一家大公司擔任會計師。"
       }
     ]
   },
