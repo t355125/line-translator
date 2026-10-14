@@ -88,84 +88,84 @@
     "date": "2026-10-14",
     "cards": [
       {
-        "word": "el impuesto",
+        "word": "con quién",
+        "pos": "片語",
+        "meaning": "跟誰；用於詢問對象是誰",
+        "detail": "疑問片語，用於問句時前面加 ¿，例如 ¿Con quién...?；也可用於間接問句",
+        "example_es": "¿Con quién comes hoy?",
+        "example_zh": "你今天跟誰吃飯？"
+      },
+      {
+        "word": "el jamón",
         "pos": "陽性名詞",
-        "meaning": "稅；稅金",
-        "detail": "陽性 el impuesto / los impuestos",
-        "example_es": "El impuesto es muy alto en este país.",
-        "example_zh": "這個國家的稅很高。"
+        "meaning": "火腿",
+        "detail": "陽性 el jamón / los jamones；西班牙常見食材，如 jamón serrano（山火腿）",
+        "example_es": "Me gusta el bocadillo de jamón.",
+        "example_zh": "我喜歡火腿三明治。"
       },
       {
-        "word": "la serpiente",
-        "pos": "陰性名詞",
-        "meaning": "蛇",
-        "detail": "陰性 la serpiente / las serpientes",
-        "example_es": "Hay una serpiente en el jardín.",
-        "example_zh": "花園裡有一條蛇。"
-      },
-      {
-        "word": "allí",
+        "word": "menos",
         "pos": "副詞",
-        "meaning": "那邊（更遠）；在那裡",
-        "detail": "表示距離說話者和聽者都較遠的地方，比 ahí 更遠",
-        "example_es": "Mi abuela vive allí, en aquella casa.",
-        "example_zh": "我奶奶住在那邊，在那棟房子裡。"
+        "meaning": "更少；較少",
+        "detail": "反義詞為 más（更多）；常用結構：menos + 形容詞/名詞，或 menos de + 數字",
+        "example_es": "Quiero comer menos azúcar.",
+        "example_zh": "我想吃少一點糖。"
       },
       {
-        "word": "soy",
-        "pos": "動詞",
-        "meaning": "我是（ser 的第一人稱單數現在式）",
-        "detail": "ser 現在式：soy(我) / eres(你) / es(他/她) / somos(我們) / sois(你們) / son(他們)",
-        "example_es": "Soy estudiante de español.",
-        "example_zh": "我是西班牙文的學生。"
+        "word": "el brócoli",
+        "pos": "陽性名詞",
+        "meaning": "花椰菜（綠花椰）",
+        "detail": "陽性 el brócoli / los brócolis；也可拼作 brécol；屬蔬菜類詞彙",
+        "example_es": "El brócoli es muy sano.",
+        "example_zh": "花椰菜非常健康。"
       },
       {
-        "word": "aunque",
-        "pos": "連接詞",
-        "meaning": "雖然；即使",
-        "detail": "用來引導讓步子句，後接直述式（事實）或虛擬式（假設）",
-        "example_es": "Aunque llueve, voy a caminar.",
-        "example_zh": "雖然在下雨，我還是要去散步。"
+        "word": "el fuego",
+        "pos": "陽性名詞",
+        "meaning": "火",
+        "detail": "陽性 el fuego / los fuegos；常見片語：a fuego lento（小火慢煮）；¡Fuego! 也可表示緊急情況「失火了！」",
+        "example_es": "Cocina la sopa a fuego lento.",
+        "example_zh": "用小火煮湯。"
       },
       {
-        "word": "la fecha",
+        "word": "la oveja",
         "pos": "陰性名詞",
-        "meaning": "日期",
-        "detail": "陰性 la fecha / las fechas",
-        "example_es": "¿Cuál es la fecha de hoy?",
-        "example_zh": "今天的日期是幾號？"
+        "meaning": "綿羊",
+        "detail": "陰性 la oveja / las ovejas；雄性為 el carnero；常見於農場或童話語境",
+        "example_es": "Las ovejas comen hierba en el campo.",
+        "example_zh": "綿羊在田野裡吃草。"
       },
       {
-        "word": "cinco",
-        "pos": "數詞",
-        "meaning": "5；五",
-        "detail": "基數詞，不隨性數變化，用於數量與順序表達",
-        "example_es": "Tengo cinco clases hoy.",
-        "example_zh": "我今天有五堂課。"
+        "word": "peinarse",
+        "pos": "動詞",
+        "meaning": "梳頭；梳理頭髮",
+        "detail": "反身動詞；現在式變化：me peino（我）/ te peinas（你）/ se peina（他/她）/ nos peinamos（我們）",
+        "example_es": "Me peino antes de salir de casa.",
+        "example_zh": "我出門前會梳頭。"
       },
       {
-        "word": "el coche",
-        "pos": "陽性名詞",
-        "meaning": "車；汽車（西班牙用法）",
-        "detail": "陽性 el coche / los coches；拉丁美洲常用 el carro 或 el auto",
-        "example_es": "Mi padre lava el coche los domingos.",
-        "example_zh": "我爸爸每個星期天洗車。"
-      },
-      {
-        "word": "el cuadro",
-        "pos": "陽性名詞",
-        "meaning": "畫作；圖畫",
-        "detail": "陽性 el cuadro / los cuadros；也可指方格、表格等",
-        "example_es": "Hay un cuadro muy bonito en la pared.",
-        "example_zh": "牆上有一幅很漂亮的畫。"
-      },
-      {
-        "word": "honesto",
+        "word": "joven",
         "pos": "形容詞",
-        "meaning": "誠實的；正直的",
-        "detail": "陽性 honesto / 陰性 honesta；複數 honestos / honestas",
-        "example_es": "Él es muy honesto con sus amigos.",
-        "example_zh": "他對朋友非常誠實。"
+        "meaning": "年輕的",
+        "detail": "陰陽同形：joven（單數男/女）/ jóvenes（複數男/女）；注意複數時重音符號消失在 jóvenes 上仍保留",
+        "example_es": "Mi profesora es muy joven.",
+        "example_zh": "我的老師非常年輕。"
+      },
+      {
+        "word": "el hombro",
+        "pos": "陽性名詞",
+        "meaning": "肩膀",
+        "detail": "陽性 el hombro / los hombros；身體部位詞彙，常與動詞 levantar（抬起）或 doler（疼痛）搭配",
+        "example_es": "Me duele el hombro derecho.",
+        "example_zh": "我的右肩很痛。"
+      },
+      {
+        "word": "sano",
+        "pos": "形容詞",
+        "meaning": "健康的",
+        "detail": "陽性 sano / 陰性 sana；複數 sanos / sanas；可形容人或食物，反義詞為 enfermo（生病的）",
+        "example_es": "Es importante comer comida sana.",
+        "example_zh": "吃健康的食物很重要。"
       }
     ]
   }
