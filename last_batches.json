@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-13",
+    "date": "2026-10-14",
     "cards": [
       {
-        "word": "hasta",
-        "pos": "介系詞／副詞",
-        "meaning": "直到；甚至",
-        "detail": "常用於時間（hasta las tres）、地點（hasta aquí）或程度（hasta yo lo sé）",
-        "example_es": "Trabajo hasta las seis de la tarde.",
-        "example_zh": "我工作到下午六點。"
-      },
-      {
-        "word": "la temperatura",
+        "word": "la rodilla",
         "pos": "陰性名詞",
-        "meaning": "溫度",
-        "detail": "陰性 la temperatura / las temperaturas",
-        "example_es": "La temperatura hoy es de treinta grados.",
-        "example_zh": "今天的溫度是三十度。"
+        "meaning": "膝蓋",
+        "detail": "陰性 la rodilla / las rodillas",
+        "example_es": "Me duele la rodilla derecha.",
+        "example_zh": "我的右膝蓋很痛。"
       },
       {
-        "word": "el mango",
+        "word": "acostarse",
+        "pos": "動詞",
+        "meaning": "上床睡覺",
+        "detail": "反身動詞，變化：me acuesto（我）/ te acuestas（你）/ se acuesta（他／她）",
+        "example_es": "Me acuesto a las diez de la noche.",
+        "example_zh": "我晚上十點上床睡覺。"
+      },
+      {
+        "word": "el mono",
         "pos": "陽性名詞",
-        "meaning": "芒果",
-        "detail": "陽性 el mango / los mangos",
-        "example_es": "Me gustan mucho los mangos dulces.",
-        "example_zh": "我非常喜歡甜芒果。"
+        "meaning": "猴子",
+        "detail": "陽性 el mono / los monos；雌性可說 la mona",
+        "example_es": "El mono come una banana en el árbol.",
+        "example_zh": "猴子在樹上吃香蕉。"
       },
       {
-        "word": "el cuchillo",
-        "pos": "陽性名詞",
-        "meaning": "刀子",
-        "detail": "陽性 el cuchillo / los cuchillos",
-        "example_es": "Necesito un cuchillo para cortar la carne.",
-        "example_zh": "我需要一把刀來切肉。"
+        "word": "enero",
+        "pos": "名詞（月份）",
+        "meaning": "一月",
+        "detail": "月份名詞在西班牙文中不大寫，前面常搭配介系詞 en 表示「在一月」",
+        "example_es": "Mi cumpleaños es en enero.",
+        "example_zh": "我的生日在一月。"
       },
       {
-        "word": "quitarse",
-        "pos": "動詞（反身動詞）",
-        "meaning": "脫掉（衣物）；摘掉",
-        "detail": "現在式：me quito(我) / te quitas(你) / se quita(他／她)；反身代名詞須隨主詞變化",
-        "example_es": "Me quito el abrigo cuando llego a casa.",
-        "example_zh": "我到家的時候脫掉外套。"
+        "word": "la gasolina",
+        "pos": "陰性名詞",
+        "meaning": "汽油",
+        "detail": "陰性 la gasolina / las gasolinas；常用片語：poner gasolina（加油）",
+        "example_es": "Necesito poner gasolina al coche.",
+        "example_zh": "我需要幫車子加油。"
       },
       {
-        "word": "rojo",
+        "word": "la niebla",
+        "pos": "陰性名詞",
+        "meaning": "霧",
+        "detail": "陰性 la niebla / las nieblas；常用句型：hay niebla（有霧）",
+        "example_es": "Hoy hay mucha niebla en la ciudad.",
+        "example_zh": "今天城市裡霧很大。"
+      },
+      {
+        "word": "rosa",
         "pos": "形容詞",
-        "meaning": "紅色的",
-        "detail": "陽性 rojo / 陰性 roja；複數 rojos / rojas",
-        "example_es": "Ella lleva una falda roja muy bonita.",
-        "example_zh": "她穿著一條非常漂亮的紅色裙子。"
+        "meaning": "粉紅色的",
+        "detail": "rosa 為不變化形容詞，陰陽性相同，單複數：rosa / rosas",
+        "example_es": "Ella lleva una camisa rosa.",
+        "example_zh": "她穿著一件粉紅色的襯衫。"
       },
       {
-        "word": "quinientos",
-        "pos": "數詞",
-        "meaning": "五百（500）",
-        "detail": "陽性 quinientos / 陰性 quinientas；與陰性名詞搭配時用 quinientas（如 quinientas personas）",
-        "example_es": "Este libro cuesta quinientos pesos.",
-        "example_zh": "這本書要五百披索。"
+        "word": "el dentista",
+        "pos": "陰陽同形名詞",
+        "meaning": "牙醫",
+        "detail": "陽性 el dentista / los dentistas；陰性 la dentista / las dentistas；字形不變，冠詞區分性別",
+        "example_es": "Tengo una cita con el dentista mañana.",
+        "example_zh": "我明天和牙醫有個預約。"
       },
       {
-        "word": "y media",
-        "pos": "片語",
-        "meaning": "過三十分；……點半",
-        "detail": "接在整點時間後，表示「半小時」；如 las tres y media（三點半）",
-        "example_es": "La clase empieza a las ocho y media.",
-        "example_zh": "課程在八點半開始。"
+        "word": "la iglesia",
+        "pos": "陰性名詞",
+        "meaning": "教堂",
+        "detail": "陰性 la iglesia / las iglesias",
+        "example_es": "La iglesia está cerca de mi casa.",
+        "example_zh": "教堂在我家附近。"
       },
       {
-        "word": "el garaje",
-        "pos": "陽性名詞",
-        "meaning": "車庫",
-        "detail": "陽性 el garaje / los garajes",
-        "example_es": "El coche está en el garaje.",
-        "example_zh": "車子在車庫裡。"
-      },
-      {
-        "word": "el contador",
-        "pos": "陽性名詞",
-        "meaning": "會計師",
-        "detail": "陽性 el contador / los contadores；陰性 la contadora / las contadoras",
-        "example_es": "Mi padre es contador en una empresa grande.",
-        "example_zh": "我爸爸在一家大公司擔任會計師。"
+        "word": "otro",
+        "pos": "形容詞",
+        "meaning": "另一個，其他的",
+        "detail": "陽性 otro / otros；陰性 otra / otras；注意：前面不加不定冠詞 un／una",
+        "example_es": "¿Puedes traerme otro vaso de agua, por favor?",
+        "example_zh": "你可以再幫我拿一杯水嗎？"
       }
     ]
   },
