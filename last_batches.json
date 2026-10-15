@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-14",
+    "date": "2026-10-15",
     "cards": [
       {
-        "word": "la rodilla",
-        "pos": "陰性名詞",
-        "meaning": "膝蓋",
-        "detail": "陰性 la rodilla / las rodillas",
-        "example_es": "Me duele la rodilla derecha.",
-        "example_zh": "我的右膝蓋很痛。"
-      },
-      {
-        "word": "acostarse",
-        "pos": "動詞",
-        "meaning": "上床睡覺",
-        "detail": "反身動詞，變化：me acuesto（我）/ te acuestas（你）/ se acuesta（他／她）",
-        "example_es": "Me acuesto a las diez de la noche.",
-        "example_zh": "我晚上十點上床睡覺。"
-      },
-      {
-        "word": "el mono",
+        "word": "el hermano",
         "pos": "陽性名詞",
-        "meaning": "猴子",
-        "detail": "陽性 el mono / los monos；雌性可說 la mona",
-        "example_es": "El mono come una banana en el árbol.",
-        "example_zh": "猴子在樹上吃香蕉。"
+        "meaning": "兄弟（泛指兄或弟）",
+        "detail": "陽性 el hermano / los hermanos；陰性 la hermana / las hermanas；los hermanos 也可指「兄弟姊妹」",
+        "example_es": "Mi hermano se llama Carlos.",
+        "example_zh": "我的兄弟叫卡洛斯。"
       },
       {
-        "word": "enero",
-        "pos": "名詞（月份）",
-        "meaning": "一月",
-        "detail": "月份名詞在西班牙文中不大寫，前面常搭配介系詞 en 表示「在一月」",
-        "example_es": "Mi cumpleaños es en enero.",
-        "example_zh": "我的生日在一月。"
+        "word": "el comedor",
+        "pos": "陽性名詞",
+        "meaning": "餐廳（家中的飯廳）",
+        "detail": "陽性 el comedor / los comedores；特指家裡或學校的用餐空間，與餐廳 el restaurante 不同",
+        "example_es": "Comemos en el comedor todos los días.",
+        "example_zh": "我們每天都在飯廳吃飯。"
       },
       {
-        "word": "la gasolina",
+        "word": "la cabra",
         "pos": "陰性名詞",
-        "meaning": "汽油",
-        "detail": "陰性 la gasolina / las gasolinas；常用片語：poner gasolina（加油）",
-        "example_es": "Necesito poner gasolina al coche.",
-        "example_zh": "我需要幫車子加油。"
+        "meaning": "山羊",
+        "detail": "陰性 la cabra / las cabras；陽性（公山羊）el cabro 或 el macho cabrío",
+        "example_es": "La cabra come hierba en el campo.",
+        "example_zh": "山羊在田野裡吃草。"
       },
       {
-        "word": "la niebla",
-        "pos": "陰性名詞",
-        "meaning": "霧",
-        "detail": "陰性 la niebla / las nieblas；常用句型：hay niebla（有霧）",
-        "example_es": "Hoy hay mucha niebla en la ciudad.",
-        "example_zh": "今天城市裡霧很大。"
+        "word": "olvidarse",
+        "pos": "動詞",
+        "meaning": "忘記（反身動詞）",
+        "detail": "現在式：me olvido（我）/ te olvidas（你）/ se olvida（他／她）；常用結構：olvidarse de + 名詞／動詞原形",
+        "example_es": "Me olvido de mi paraguas siempre.",
+        "example_zh": "我總是忘記帶雨傘。"
       },
       {
-        "word": "rosa",
-        "pos": "形容詞",
-        "meaning": "粉紅色的",
-        "detail": "rosa 為不變化形容詞，陰陽性相同，單複數：rosa / rosas",
-        "example_es": "Ella lleva una camisa rosa.",
-        "example_zh": "她穿著一件粉紅色的襯衫。"
+        "word": "perder",
+        "pos": "動詞",
+        "meaning": "輸／失去／遺失",
+        "detail": "不規則動詞（e→ie）：pierdo（我）/ pierdes（你）/ pierde（他／她）/ perdemos（我們）/ perdéis（你們）/ pierden（他們）",
+        "example_es": "Siempre pierdo mis llaves.",
+        "example_zh": "我總是弄丟我的鑰匙。"
       },
       {
-        "word": "el dentista",
-        "pos": "陰陽同形名詞",
-        "meaning": "牙醫",
-        "detail": "陽性 el dentista / los dentistas；陰性 la dentista / las dentistas；字形不變，冠詞區分性別",
-        "example_es": "Tengo una cita con el dentista mañana.",
-        "example_zh": "我明天和牙醫有個預約。"
+        "word": "por qué",
+        "pos": "疑問副詞片語",
+        "meaning": "為什麼（用於提問）",
+        "detail": "疑問句中寫作 por qué（分開＋重音）；回答原因時用 porque（合寫、無重音）",
+        "example_es": "¿Por qué no comes?",
+        "example_zh": "你為什麼不吃東西？"
       },
       {
-        "word": "la iglesia",
-        "pos": "陰性名詞",
-        "meaning": "教堂",
-        "detail": "陰性 la iglesia / las iglesias",
-        "example_es": "La iglesia está cerca de mi casa.",
-        "example_zh": "教堂在我家附近。"
+        "word": "ser",
+        "pos": "動詞",
+        "meaning": "是（表本質、身分、來源、職業）",
+        "detail": "高度不規則：soy（我）/ eres（你）/ es（他／她）/ somos（我們）/ sois（你們）/ son（他們）；與 estar 區分：ser 表永久特質",
+        "example_es": "Soy estudiante y soy de Taiwán.",
+        "example_zh": "我是學生，我來自台灣。"
       },
       {
-        "word": "otro",
-        "pos": "形容詞",
-        "meaning": "另一個，其他的",
-        "detail": "陽性 otro / otros；陰性 otra / otras；注意：前面不加不定冠詞 un／una",
-        "example_es": "¿Puedes traerme otro vaso de agua, por favor?",
-        "example_zh": "你可以再幫我拿一杯水嗎？"
+        "word": "el usuario",
+        "pos": "陽性名詞",
+        "meaning": "使用者／用戶",
+        "detail": "陽性 el usuario / los usuarios；陰性 la usuaria / las usuarias；常見於科技、網路情境",
+        "example_es": "El usuario necesita una contraseña.",
+        "example_zh": "使用者需要一組密碼。"
+      },
+      {
+        "word": "cómo",
+        "pos": "疑問副詞",
+        "meaning": "如何／怎麼樣",
+        "detail": "疑問或感嘆句中帶重音 cómo；間接問句中也保留重音；常見句型：¿Cómo estás? / ¿Cómo se llama?",
+        "example_es": "¿Cómo vas al trabajo?",
+        "example_zh": "你怎麼去上班？"
+      },
+      {
+        "word": "el vaso",
+        "pos": "陽性名詞",
+        "meaning": "玻璃杯",
+        "detail": "陽性 el vaso / los vasos；泛指無把手的杯子；有把手的杯子為 la taza",
+        "example_es": "Quiero un vaso de agua, por favor.",
+        "example_zh": "請給我一杯水。"
       }
     ]
   },

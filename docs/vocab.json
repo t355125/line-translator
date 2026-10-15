@@ -1648,5 +1648,65 @@
     "pos": "形容詞",
     "meaning": "健康的",
     "date": "2026-10-14"
+  },
+  {
+    "word": "el hermano",
+    "pos": "陽性名詞",
+    "meaning": "兄弟（泛指兄或弟）",
+    "date": "2026-10-15"
+  },
+  {
+    "word": "el comedor",
+    "pos": "陽性名詞",
+    "meaning": "餐廳（家中的飯廳）",
+    "date": "2026-10-15"
+  },
+  {
+    "word": "la cabra",
+    "pos": "陰性名詞",
+    "meaning": "山羊",
+    "date": "2026-10-15"
+  },
+  {
+    "word": "olvidarse",
+    "pos": "動詞",
+    "meaning": "忘記（反身動詞）",
+    "date": "2026-10-15"
+  },
+  {
+    "word": "perder",
+    "pos": "動詞",
+    "meaning": "輸／失去／遺失",
+    "date": "2026-10-15"
+  },
+  {
+    "word": "por qué",
+    "pos": "疑問副詞片語",
+    "meaning": "為什麼（用於提問）",
+    "date": "2026-10-15"
+  },
+  {
+    "word": "ser",
+    "pos": "動詞",
+    "meaning": "是（表本質、身分、來源、職業）",
+    "date": "2026-10-15"
+  },
+  {
+    "word": "el usuario",
+    "pos": "陽性名詞",
+    "meaning": "使用者／用戶",
+    "date": "2026-10-15"
+  },
+  {
+    "word": "cómo",
+    "pos": "疑問副詞",
+    "meaning": "如何／怎麼樣",
+    "date": "2026-10-15"
+  },
+  {
+    "word": "el vaso",
+    "pos": "陽性名詞",
+    "meaning": "玻璃杯",
+    "date": "2026-10-15"
   }
 ]
