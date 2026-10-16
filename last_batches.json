@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "cards": [
       {
-        "word": "el descuento",
-        "pos": "陽性名詞",
-        "meaning": "折扣",
-        "detail": "陽性 el descuento / los descuentos",
-        "example_es": "Hay un descuento del 20% en esta tienda.",
-        "example_zh": "這家店有八折優惠。"
-      },
-      {
-        "word": "manejar",
-        "pos": "動詞",
-        "meaning": "開車（拉丁美洲用法）",
-        "detail": "變化：manejo（我）/ manejas（你）/ maneja（他／她）",
-        "example_es": "Ella maneja al trabajo todos los días.",
-        "example_zh": "她每天開車去上班。"
-      },
-      {
-        "word": "el inodoro",
-        "pos": "陽性名詞",
-        "meaning": "馬桶",
-        "detail": "陽性 el inodoro / los inodoros",
-        "example_es": "El inodoro del baño está roto.",
-        "example_zh": "浴室的馬桶壞了。"
-      },
-      {
-        "word": "la doctora",
-        "pos": "陰性名詞",
-        "meaning": "醫生／博士（女性，常用於稱呼）",
-        "detail": "陰性 la doctora / las doctoras；男性對應為 el doctor",
-        "example_es": "La doctora me receta una medicina.",
-        "example_zh": "女醫生開了一種藥給我。"
-      },
-      {
-        "word": "amarillo",
+        "word": "violeta",
         "pos": "形容詞",
-        "meaning": "黃色的",
-        "detail": "陽性 amarillo / 陰性 amarilla；複數 amarillos / amarillas",
-        "example_es": "El autobús escolar es amarillo.",
-        "example_zh": "校車是黃色的。"
+        "meaning": "紫羅蘭色的；陰陽性同形，不隨性別改變",
+        "detail": "陰陽性同形：violeta（男/女）；複數：violetas。用法與顏色名詞一樣，放在名詞後面。",
+        "example_es": "Ella lleva una falda violeta.",
+        "example_zh": "她穿著一條紫羅蘭色的裙子。"
       },
       {
-        "word": "la piedra",
-        "pos": "陰性名詞",
-        "meaning": "石頭",
-        "detail": "陰性 la piedra / las piedras",
-        "example_es": "Los niños juegan con piedras en el parque.",
-        "example_zh": "孩子們在公園裡玩石頭。"
+        "word": "el efectivo",
+        "pos": "名詞",
+        "meaning": "現金；指實體鈔票或硬幣，對應刷卡付款",
+        "detail": "陽性 el efectivo / los efectivos（此義通常只用單數）。常用片語：pagar en efectivo（用現金付款）。",
+        "example_es": "¿Puedo pagar en efectivo?",
+        "example_zh": "我可以用現金付款嗎？"
       },
       {
-        "word": "ocho",
-        "pos": "數詞",
-        "meaning": "八（8）",
-        "detail": "基數詞，不變格；用於計數或表達數量",
-        "example_es": "Tengo ocho clases esta semana.",
-        "example_zh": "我這週有八堂課。"
+        "word": "tranquilo",
+        "pos": "形容詞",
+        "meaning": "平靜的、安靜的、放鬆的",
+        "detail": "陽性：tranquilo / tranquilos；陰性：tranquila / tranquilas。也可當感嘆語 ¡Tranquilo! 表示「放輕鬆！」",
+        "example_es": "Este barrio es muy tranquilo por la noche.",
+        "example_zh": "這個街區晚上非常安靜。"
       },
       {
-        "word": "el kiwi",
-        "pos": "陽性名詞",
-        "meaning": "奇異果",
-        "detail": "陽性 el kiwi / los kiwis",
-        "example_es": "Como un kiwi cada mañana porque es muy sano.",
-        "example_zh": "我每天早上吃一顆奇異果，因為它很健康。"
+        "word": "la abeja",
+        "pos": "名詞",
+        "meaning": "蜜蜂",
+        "detail": "陰性 la abeja / las abejas。注意：以 a 開頭但用 la，不像某些陰性名詞用 el。",
+        "example_es": "Las abejas producen miel.",
+        "example_zh": "蜜蜂產蜂蜜。"
       },
       {
-        "word": "desde",
-        "pos": "介系詞",
-        "meaning": "從（時間或地點的起點）",
-        "detail": "用於表示起點，常與 hasta 搭配表示「從⋯到⋯」",
-        "example_es": "Trabajo desde las nueve hasta las seis.",
-        "example_zh": "我從九點工作到六點。"
+        "word": "menos cuarto",
+        "pos": "片語",
+        "meaning": "差15分（即整點前15分）；用於表達時間",
+        "detail": "固定片語，cuarto 表示四分之一小時（15分鐘）。格式：Son las [時] menos cuarto。例：Son las tres menos cuarto = 2:45。",
+        "example_es": "Son las ocho menos cuarto. Tenemos que salir ya.",
+        "example_zh": "現在是七點四十五分。我們得出發了。"
       },
       {
-        "word": "ayer",
-        "pos": "副詞",
-        "meaning": "昨天",
-        "detail": "時間副詞，位置通常在句首或句尾；常與過去式搭配使用",
-        "example_es": "Ayer comí pizza con mis amigos.",
-        "example_zh": "昨天我和朋友一起吃了披薩。"
+        "word": "cuando",
+        "pos": "連接詞／副詞",
+        "meaning": "當……的時候；引導時間子句",
+        "detail": "作連接詞時引導時間副詞子句，談現在或過去的習慣用直陳式；談未來事件用虛擬式（A2以上）。",
+        "example_es": "Cuando tengo hambre, como fruta.",
+        "example_zh": "當我餓的時候，我吃水果。"
+      },
+      {
+        "word": "húmedo",
+        "pos": "形容詞",
+        "meaning": "潮濕的；形容天氣、空氣或物體含有水分",
+        "detail": "陽性：húmedo / húmedos；陰性：húmeda / húmedas。注意重音符號在 ú，不可省略。",
+        "example_es": "El verano en Taipéi es muy húmedo.",
+        "example_zh": "台北的夏天非常潮濕。"
+      },
+      {
+        "word": "la afición",
+        "pos": "名詞",
+        "meaning": "興趣、嗜好；對某事的熱愛",
+        "detail": "陰性 la afición / las aficiones。常用搭配：tener afición por/a algo（對某事有興趣）。",
+        "example_es": "Mi afición es escuchar música.",
+        "example_zh": "我的興趣是聽音樂。"
+      },
+      {
+        "word": "hacemos",
+        "pos": "動詞",
+        "meaning": "我們做（hacer 的第一人稱複數現在式）",
+        "detail": "hacer 現在式變化：hago（我）/ haces（你）/ hace（他/她）/ hacemos（我們）/ hacéis（你們）/ hacen（他們）。",
+        "example_es": "Los sábados hacemos ejercicio en el parque.",
+        "example_zh": "每個星期六我們在公園運動。"
+      },
+      {
+        "word": "la madre",
+        "pos": "名詞",
+        "meaning": "母親、媽媽",
+        "detail": "陰性 la madre / las madres。對應陽性 el padre（父親）。口語也用 mamá。",
+        "example_es": "Mi madre cocina muy bien.",
+        "example_zh": "我的媽媽做菜做得非常好。"
       }
     ]
   }
