@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-15",
+    "date": "2026-10-16",
     "cards": [
       {
-        "word": "el hermano",
-        "pos": "陽性名詞",
-        "meaning": "兄弟（泛指兄或弟）",
-        "detail": "陽性 el hermano / los hermanos；陰性 la hermana / las hermanas；los hermanos 也可指「兄弟姊妹」",
-        "example_es": "Mi hermano se llama Carlos.",
-        "example_zh": "我的兄弟叫卡洛斯。"
+        "word": "oscuro",
+        "pos": "形容詞",
+        "meaning": "深的／暗的",
+        "detail": "陽性單數 oscuro / 陰性單數 oscura / 陽性複數 oscuros / 陰性複數 oscuras",
+        "example_es": "El cielo está muy oscuro esta noche.",
+        "example_zh": "今晚天空非常暗。"
       },
       {
-        "word": "el comedor",
-        "pos": "陽性名詞",
-        "meaning": "餐廳（家中的飯廳）",
-        "detail": "陽性 el comedor / los comedores；特指家裡或學校的用餐空間，與餐廳 el restaurante 不同",
-        "example_es": "Comemos en el comedor todos los días.",
-        "example_zh": "我們每天都在飯廳吃飯。"
+        "word": "muy",
+        "pos": "副詞",
+        "meaning": "很",
+        "detail": "不隨性別或數量變化，放在形容詞或副詞前修飾，不可用於名詞前",
+        "example_es": "Esta sopa está muy caliente.",
+        "example_zh": "這碗湯非常燙。"
       },
       {
-        "word": "la cabra",
+        "word": "para qué",
+        "pos": "疑問片語",
+        "meaning": "為了什麼／有什麼用",
+        "detail": "用於詢問目的或用途，常見句型：¿Para qué + 動詞？",
+        "example_es": "¿Para qué estudias español?",
+        "example_zh": "你為什麼（為了什麼）學西班牙文？"
+      },
+      {
+        "word": "hacen",
+        "pos": "動詞",
+        "meaning": "他們做／他們製作",
+        "detail": "動詞原形 hacer 的現在式變化：hago(我) / haces(你) / hace(他／她) / hacemos(我們) / hacéis(你們) / hacen(他們)",
+        "example_es": "Ellos hacen la tarea juntos.",
+        "example_zh": "他們一起做作業。"
+      },
+      {
+        "word": "el maestro",
+        "pos": "陽性名詞",
+        "meaning": "小學老師（男）",
+        "detail": "陽性單數 el maestro / 陽性複數 los maestros / 陰性單數 la maestra / 陰性複數 las maestras",
+        "example_es": "El maestro explica la lección con paciencia.",
+        "example_zh": "老師耐心地解釋課文。"
+      },
+      {
+        "word": "la nieve",
         "pos": "陰性名詞",
-        "meaning": "山羊",
-        "detail": "陰性 la cabra / las cabras；陽性（公山羊）el cabro 或 el macho cabrío",
-        "example_es": "La cabra come hierba en el campo.",
-        "example_zh": "山羊在田野裡吃草。"
+        "meaning": "雪",
+        "detail": "陰性單數 la nieve / 陰性複數 las nieves（複數較少用，通常以單數表示）",
+        "example_es": "En invierno cae mucha nieve en las montañas.",
+        "example_zh": "冬天山上下很多雪。"
       },
       {
-        "word": "olvidarse",
-        "pos": "動詞",
-        "meaning": "忘記（反身動詞）",
-        "detail": "現在式：me olvido（我）/ te olvidas（你）/ se olvida（他／她）；常用結構：olvidarse de + 名詞／動詞原形",
-        "example_es": "Me olvido de mi paraguas siempre.",
-        "example_zh": "我總是忘記帶雨傘。"
-      },
-      {
-        "word": "perder",
-        "pos": "動詞",
-        "meaning": "輸／失去／遺失",
-        "detail": "不規則動詞（e→ie）：pierdo（我）/ pierdes（你）/ pierde（他／她）/ perdemos（我們）/ perdéis（你們）/ pierden（他們）",
-        "example_es": "Siempre pierdo mis llaves.",
-        "example_zh": "我總是弄丟我的鑰匙。"
-      },
-      {
-        "word": "por qué",
-        "pos": "疑問副詞片語",
-        "meaning": "為什麼（用於提問）",
-        "detail": "疑問句中寫作 por qué（分開＋重音）；回答原因時用 porque（合寫、無重音）",
-        "example_es": "¿Por qué no comes?",
-        "example_zh": "你為什麼不吃東西？"
-      },
-      {
-        "word": "ser",
-        "pos": "動詞",
-        "meaning": "是（表本質、身分、來源、職業）",
-        "detail": "高度不規則：soy（我）/ eres（你）/ es（他／她）/ somos（我們）/ sois（你們）/ son（他們）；與 estar 區分：ser 表永久特質",
-        "example_es": "Soy estudiante y soy de Taiwán.",
-        "example_zh": "我是學生，我來自台灣。"
-      },
-      {
-        "word": "el usuario",
+        "word": "el tráfico",
         "pos": "陽性名詞",
-        "meaning": "使用者／用戶",
-        "detail": "陽性 el usuario / los usuarios；陰性 la usuaria / las usuarias；常見於科技、網路情境",
-        "example_es": "El usuario necesita una contraseña.",
-        "example_zh": "使用者需要一組密碼。"
+        "meaning": "交通流量",
+        "detail": "陽性單數 el tráfico / 通常以單數使用，注意重音符號在 á 上",
+        "example_es": "Hay mucho tráfico en la ciudad por la mañana.",
+        "example_zh": "早上城市裡交通流量很大。"
       },
       {
-        "word": "cómo",
-        "pos": "疑問副詞",
-        "meaning": "如何／怎麼樣",
-        "detail": "疑問或感嘆句中帶重音 cómo；間接問句中也保留重音；常見句型：¿Cómo estás? / ¿Cómo se llama?",
-        "example_es": "¿Cómo vas al trabajo?",
-        "example_zh": "你怎麼去上班？"
+        "word": "recto",
+        "pos": "副詞／形容詞",
+        "meaning": "直／筆直地",
+        "detail": "作副詞時表示「一直走／直行」，常用於路線指引，如 todo recto（一直直走）；作形容詞時 recto／recta／rectos／rectas",
+        "example_es": "Siga todo recto y llegará al banco.",
+        "example_zh": "一直直走就會到銀行了。"
       },
       {
-        "word": "el vaso",
-        "pos": "陽性名詞",
-        "meaning": "玻璃杯",
-        "detail": "陽性 el vaso / los vasos；泛指無把手的杯子；有把手的杯子為 la taza",
-        "example_es": "Quiero un vaso de agua, por favor.",
-        "example_zh": "請給我一杯水。"
+        "word": "la canción",
+        "pos": "陰性名詞",
+        "meaning": "歌曲",
+        "detail": "陰性單數 la canción / 陰性複數 las canciones，注意單數有重音符號 ó，複數去掉重音符號",
+        "example_es": "Me gusta mucho esta canción.",
+        "example_zh": "我非常喜歡這首歌。"
+      },
+      {
+        "word": "ahorrar",
+        "pos": "動詞",
+        "meaning": "存錢／節省",
+        "detail": "現在式變化：ahorro(我) / ahorras(你) / ahorra(他／她) / ahorramos(我們) / ahorráis(你們) / ahorran(他們)",
+        "example_es": "Quiero ahorrar dinero para comprar una bicicleta.",
+        "example_zh": "我想存錢買一輛腳踏車。"
       }
     ]
   },
