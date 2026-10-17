@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "cards": [
       {
-        "word": "oscuro",
+        "word": "las botas",
+        "pos": "陰性名詞",
+        "meaning": "靴子",
+        "detail": "陰性複數：las botas；單數：la bota / las botas",
+        "example_es": "Mis botas son de color marrón.",
+        "example_zh": "我的靴子是棕色的。"
+      },
+      {
+        "word": "el murciélago",
+        "pos": "陽性名詞",
+        "meaning": "蝙蝠",
+        "detail": "陽性：el murciélago / los murciélagos",
+        "example_es": "El murciélago vuela de noche.",
+        "example_zh": "蝙蝠在夜晚飛翔。"
+      },
+      {
+        "word": "el barrio",
+        "pos": "陽性名詞",
+        "meaning": "社區／區",
+        "detail": "陽性：el barrio / los barrios",
+        "example_es": "Vivo en un barrio muy tranquilo.",
+        "example_zh": "我住在一個很安靜的社區。"
+      },
+      {
+        "word": "probar",
+        "pos": "動詞",
+        "meaning": "嚐／試",
+        "detail": "語幹變化動詞(o→ue)：pruebo(我)／pruebas(你)／prueba(他)／probamos(我們)／probáis(你們)／prueban(他們)",
+        "example_es": "¿Quieres probar este plato?",
+        "example_zh": "你想嚐嚐這道菜嗎？"
+      },
+      {
+        "word": "tonto",
         "pos": "形容詞",
-        "meaning": "深的／暗的",
-        "detail": "陽性單數 oscuro / 陰性單數 oscura / 陽性複數 oscuros / 陰性複數 oscuras",
-        "example_es": "El cielo está muy oscuro esta noche.",
-        "example_zh": "今晚天空非常暗。"
+        "meaning": "笨的",
+        "detail": "陽性：tonto；陰性：tonta；複數：tontos／tontas",
+        "example_es": "No seas tonto, es muy fácil.",
+        "example_zh": "別傻了，這很簡單。"
       },
       {
-        "word": "muy",
-        "pos": "副詞",
-        "meaning": "很",
-        "detail": "不隨性別或數量變化，放在形容詞或副詞前修飾，不可用於名詞前",
-        "example_es": "Esta sopa está muy caliente.",
-        "example_zh": "這碗湯非常燙。"
-      },
-      {
-        "word": "para qué",
-        "pos": "疑問片語",
-        "meaning": "為了什麼／有什麼用",
-        "detail": "用於詢問目的或用途，常見句型：¿Para qué + 動詞？",
-        "example_es": "¿Para qué estudias español?",
-        "example_zh": "你為什麼（為了什麼）學西班牙文？"
-      },
-      {
-        "word": "hacen",
-        "pos": "動詞",
-        "meaning": "他們做／他們製作",
-        "detail": "動詞原形 hacer 的現在式變化：hago(我) / haces(你) / hace(他／她) / hacemos(我們) / hacéis(你們) / hacen(他們)",
-        "example_es": "Ellos hacen la tarea juntos.",
-        "example_zh": "他們一起做作業。"
-      },
-      {
-        "word": "el maestro",
-        "pos": "陽性名詞",
-        "meaning": "小學老師（男）",
-        "detail": "陽性單數 el maestro / 陽性複數 los maestros / 陰性單數 la maestra / 陰性複數 las maestras",
-        "example_es": "El maestro explica la lección con paciencia.",
-        "example_zh": "老師耐心地解釋課文。"
-      },
-      {
-        "word": "la nieve",
+        "word": "la gripe",
         "pos": "陰性名詞",
-        "meaning": "雪",
-        "detail": "陰性單數 la nieve / 陰性複數 las nieves（複數較少用，通常以單數表示）",
-        "example_es": "En invierno cae mucha nieve en las montañas.",
-        "example_zh": "冬天山上下很多雪。"
+        "meaning": "流感",
+        "detail": "陰性：la gripe / las gripes；通常以單數使用",
+        "example_es": "Tengo gripe y me duele la cabeza.",
+        "example_zh": "我得了流感，頭很痛。"
       },
       {
-        "word": "el tráfico",
+        "word": "picante",
+        "pos": "形容詞",
+        "meaning": "辣的",
+        "detail": "陰陽性同形：picante；複數：picantes",
+        "example_es": "Esta salsa es muy picante.",
+        "example_zh": "這個醬汁非常辣。"
+      },
+      {
+        "word": "el lunes",
         "pos": "陽性名詞",
-        "meaning": "交通流量",
-        "detail": "陽性單數 el tráfico / 通常以單數使用，注意重音符號在 á 上",
-        "example_es": "Hay mucho tráfico en la ciudad por la mañana.",
-        "example_zh": "早上城市裡交通流量很大。"
+        "meaning": "星期一",
+        "detail": "陽性：el lunes / los lunes；單複數同形，複數加 los 區分",
+        "example_es": "El lunes tengo clase de español.",
+        "example_zh": "星期一我有西班牙文課。"
       },
       {
-        "word": "recto",
-        "pos": "副詞／形容詞",
-        "meaning": "直／筆直地",
-        "detail": "作副詞時表示「一直走／直行」，常用於路線指引，如 todo recto（一直直走）；作形容詞時 recto／recta／rectos／rectas",
-        "example_es": "Siga todo recto y llegará al banco.",
-        "example_zh": "一直直走就會到銀行了。"
-      },
-      {
-        "word": "la canción",
+        "word": "la zanahoria",
         "pos": "陰性名詞",
-        "meaning": "歌曲",
-        "detail": "陰性單數 la canción / 陰性複數 las canciones，注意單數有重音符號 ó，複數去掉重音符號",
-        "example_es": "Me gusta mucho esta canción.",
-        "example_zh": "我非常喜歡這首歌。"
+        "meaning": "紅蘿蔔",
+        "detail": "陰性：la zanahoria / las zanahorias",
+        "example_es": "Me gustan las zanahorias crudas.",
+        "example_zh": "我喜歡吃生紅蘿蔔。"
       },
       {
-        "word": "ahorrar",
-        "pos": "動詞",
-        "meaning": "存錢／節省",
-        "detail": "現在式變化：ahorro(我) / ahorras(你) / ahorra(他／她) / ahorramos(我們) / ahorráis(你們) / ahorran(他們)",
-        "example_es": "Quiero ahorrar dinero para comprar una bicicleta.",
-        "example_zh": "我想存錢買一輛腳踏車。"
+        "word": "el boleto",
+        "pos": "陽性名詞",
+        "meaning": "車票（拉美）",
+        "detail": "陽性：el boleto / los boletos；拉丁美洲用法，西班牙多用 el billete",
+        "example_es": "Necesito comprar un boleto de autobús.",
+        "example_zh": "我需要買一張公車票。"
       }
     ]
   },
