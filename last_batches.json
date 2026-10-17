@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-16",
+    "date": "2026-10-17",
     "cards": [
       {
-        "word": "violeta",
+        "word": "la inyección",
+        "pos": "陰性名詞",
+        "meaning": "打針；注射",
+        "detail": "陰性 la inyección / las inyecciones",
+        "example_es": "El médico me pone una inyección.",
+        "example_zh": "醫生幫我打針。"
+      },
+      {
+        "word": "todavía",
+        "pos": "副詞",
+        "meaning": "還／仍然；用於表示某狀態持續中",
+        "detail": "否定用法：todavía no（還沒）",
+        "example_es": "Todavía no como carne.",
+        "example_zh": "我還沒吃肉。"
+      },
+      {
+        "word": "el edificio",
+        "pos": "陽性名詞",
+        "meaning": "建築物；大樓",
+        "detail": "陽性 el edificio / los edificios",
+        "example_es": "Ese edificio tiene veinte pisos.",
+        "example_zh": "那棟建築物有二十層樓。"
+      },
+      {
+        "word": "uno",
+        "pos": "數詞／不定冠詞",
+        "meaning": "1；一；在名詞前用 un（陽性）或 una（陰性）",
+        "detail": "uno（獨立使用）/ un + 陽性名詞 / una + 陰性名詞",
+        "example_es": "Tengo un hermano y una hermana.",
+        "example_zh": "我有一個哥哥和一個姐姐。"
+      },
+      {
+        "word": "cuánto",
+        "pos": "疑問詞／形容詞",
+        "meaning": "多少；用於詢問數量或金額",
+        "detail": "cuánto（陽性）/ cuánta（陰性）/ cuántos / cuántas；¿Cuánto cuesta?（多少錢？）",
+        "example_es": "¿Cuánto cuesta esta camisa?",
+        "example_zh": "這件襯衫多少錢？"
+      },
+      {
+        "word": "el cerdo",
+        "pos": "陽性名詞",
+        "meaning": "豬；也可指豬肉（la carne de cerdo）",
+        "detail": "陽性 el cerdo / los cerdos；母豬為 la cerda",
+        "example_es": "No como cerdo porque soy vegetariano.",
+        "example_zh": "我不吃豬肉，因為我是素食者。"
+      },
+      {
+        "word": "abierto",
         "pos": "形容詞",
-        "meaning": "紫羅蘭色的；陰陽性同形，不隨性別改變",
-        "detail": "陰陽性同形：violeta（男/女）；複數：violetas。用法與顏色名詞一樣，放在名詞後面。",
-        "example_es": "Ella lleva una falda violeta.",
-        "example_zh": "她穿著一條紫羅蘭色的裙子。"
+        "meaning": "開的；開著的（店、門、窗等）",
+        "detail": "陽性 abierto / 陰性 abierta / 複數 abiertos / abiertas；也是 abrir 的過去分詞",
+        "example_es": "La tienda está abierta hasta las nueve.",
+        "example_zh": "這家店開到九點。"
       },
       {
-        "word": "el efectivo",
-        "pos": "名詞",
-        "meaning": "現金；指實體鈔票或硬幣，對應刷卡付款",
-        "detail": "陽性 el efectivo / los efectivos（此義通常只用單數）。常用片語：pagar en efectivo（用現金付款）。",
-        "example_es": "¿Puedo pagar en efectivo?",
-        "example_zh": "我可以用現金付款嗎？"
+        "word": "lo",
+        "pos": "直接受詞代名詞",
+        "meaning": "他、它（直接受詞・陽性）；代替已提過的陽性人或事物",
+        "detail": "放在動詞前：Lo veo.（我看到他/它）；放在原形動詞或現在分詞後：Quiero verlo.",
+        "example_es": "¿Dónde está mi libro? No lo encuentro.",
+        "example_zh": "我的書在哪裡？我找不到它。"
       },
       {
-        "word": "tranquilo",
-        "pos": "形容詞",
-        "meaning": "平靜的、安靜的、放鬆的",
-        "detail": "陽性：tranquilo / tranquilos；陰性：tranquila / tranquilas。也可當感嘆語 ¡Tranquilo! 表示「放輕鬆！」",
-        "example_es": "Este barrio es muy tranquilo por la noche.",
-        "example_zh": "這個街區晚上非常安靜。"
-      },
-      {
-        "word": "la abeja",
-        "pos": "名詞",
-        "meaning": "蜜蜂",
-        "detail": "陰性 la abeja / las abejas。注意：以 a 開頭但用 la，不像某些陰性名詞用 el。",
-        "example_es": "Las abejas producen miel.",
-        "example_zh": "蜜蜂產蜂蜜。"
-      },
-      {
-        "word": "menos cuarto",
-        "pos": "片語",
-        "meaning": "差15分（即整點前15分）；用於表達時間",
-        "detail": "固定片語，cuarto 表示四分之一小時（15分鐘）。格式：Son las [時] menos cuarto。例：Son las tres menos cuarto = 2:45。",
-        "example_es": "Son las ocho menos cuarto. Tenemos que salir ya.",
-        "example_zh": "現在是七點四十五分。我們得出發了。"
-      },
-      {
-        "word": "cuando",
-        "pos": "連接詞／副詞",
-        "meaning": "當……的時候；引導時間子句",
-        "detail": "作連接詞時引導時間副詞子句，談現在或過去的習慣用直陳式；談未來事件用虛擬式（A2以上）。",
-        "example_es": "Cuando tengo hambre, como fruta.",
-        "example_zh": "當我餓的時候，我吃水果。"
-      },
-      {
-        "word": "húmedo",
-        "pos": "形容詞",
-        "meaning": "潮濕的；形容天氣、空氣或物體含有水分",
-        "detail": "陽性：húmedo / húmedos；陰性：húmeda / húmedas。注意重音符號在 ú，不可省略。",
-        "example_es": "El verano en Taipéi es muy húmedo.",
-        "example_zh": "台北的夏天非常潮濕。"
-      },
-      {
-        "word": "la afición",
-        "pos": "名詞",
-        "meaning": "興趣、嗜好；對某事的熱愛",
-        "detail": "陰性 la afición / las aficiones。常用搭配：tener afición por/a algo（對某事有興趣）。",
-        "example_es": "Mi afición es escuchar música.",
-        "example_zh": "我的興趣是聽音樂。"
-      },
-      {
-        "word": "hacemos",
+        "word": "acordarse",
         "pos": "動詞",
-        "meaning": "我們做（hacer 的第一人稱複數現在式）",
-        "detail": "hacer 現在式變化：hago（我）/ haces（你）/ hace（他/她）/ hacemos（我們）/ hacéis（你們）/ hacen（他們）。",
-        "example_es": "Los sábados hacemos ejercicio en el parque.",
-        "example_zh": "每個星期六我們在公園運動。"
+        "meaning": "記得；想起（反身動詞，常接 de）",
+        "detail": "現在式（語幹母音變化 o→ue）：me acuerdo / te acuerdas / se acuerda / nos acordamos / os acordáis / se acuerdan",
+        "example_es": "¿Te acuerdas de su nombre?",
+        "example_zh": "你記得他的名字嗎？"
       },
       {
-        "word": "la madre",
-        "pos": "名詞",
-        "meaning": "母親、媽媽",
-        "detail": "陰性 la madre / las madres。對應陽性 el padre（父親）。口語也用 mamá。",
-        "example_es": "Mi madre cocina muy bien.",
-        "example_zh": "我的媽媽做菜做得非常好。"
+        "word": "mayo",
+        "pos": "名詞（月份）",
+        "meaning": "五月",
+        "detail": "月份在西班牙文中不大寫；el mes de mayo（五月這個月）",
+        "example_es": "Mi cumpleaños es en mayo.",
+        "example_zh": "我的生日在五月。"
       }
     ]
   }

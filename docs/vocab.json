@@ -1948,5 +1948,65 @@
     "pos": "陽性名詞",
     "meaning": "車票（拉美）",
     "date": "2026-10-17"
+  },
+  {
+    "word": "la inyección",
+    "pos": "陰性名詞",
+    "meaning": "打針；注射",
+    "date": "2026-10-17"
+  },
+  {
+    "word": "todavía",
+    "pos": "副詞",
+    "meaning": "還／仍然；用於表示某狀態持續中",
+    "date": "2026-10-17"
+  },
+  {
+    "word": "el edificio",
+    "pos": "陽性名詞",
+    "meaning": "建築物；大樓",
+    "date": "2026-10-17"
+  },
+  {
+    "word": "uno",
+    "pos": "數詞／不定冠詞",
+    "meaning": "1；一；在名詞前用 un（陽性）或 una（陰性）",
+    "date": "2026-10-17"
+  },
+  {
+    "word": "cuánto",
+    "pos": "疑問詞／形容詞",
+    "meaning": "多少；用於詢問數量或金額",
+    "date": "2026-10-17"
+  },
+  {
+    "word": "el cerdo",
+    "pos": "陽性名詞",
+    "meaning": "豬；也可指豬肉（la carne de cerdo）",
+    "date": "2026-10-17"
+  },
+  {
+    "word": "abierto",
+    "pos": "形容詞",
+    "meaning": "開的；開著的（店、門、窗等）",
+    "date": "2026-10-17"
+  },
+  {
+    "word": "lo",
+    "pos": "直接受詞代名詞",
+    "meaning": "他、它（直接受詞・陽性）；代替已提過的陽性人或事物",
+    "date": "2026-10-17"
+  },
+  {
+    "word": "acordarse",
+    "pos": "動詞",
+    "meaning": "記得；想起（反身動詞，常接 de）",
+    "date": "2026-10-17"
+  },
+  {
+    "word": "mayo",
+    "pos": "名詞（月份）",
+    "meaning": "五月",
+    "date": "2026-10-17"
   }
 ]
