@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-17",
+    "date": "2026-10-18",
     "cards": [
       {
-        "word": "la inyección",
+        "word": "la persona",
         "pos": "陰性名詞",
-        "meaning": "打針；注射",
-        "detail": "陰性 la inyección / las inyecciones",
-        "example_es": "El médico me pone una inyección.",
-        "example_zh": "醫生幫我打針。"
+        "meaning": "人（一律陰性，男女都用 la）",
+        "detail": "陰性 la persona / las personas；無論指男性或女性，冠詞與形容詞一律用陰性形式",
+        "example_es": "Hay una persona en la puerta.",
+        "example_zh": "門口有一個人。"
       },
       {
-        "word": "todavía",
-        "pos": "副詞",
-        "meaning": "還／仍然；用於表示某狀態持續中",
-        "detail": "否定用法：todavía no（還沒）",
-        "example_es": "Todavía no como carne.",
-        "example_zh": "我還沒吃肉。"
-      },
-      {
-        "word": "el edificio",
-        "pos": "陽性名詞",
-        "meaning": "建築物；大樓",
-        "detail": "陽性 el edificio / los edificios",
-        "example_es": "Ese edificio tiene veinte pisos.",
-        "example_zh": "那棟建築物有二十層樓。"
-      },
-      {
-        "word": "uno",
-        "pos": "數詞／不定冠詞",
-        "meaning": "1；一；在名詞前用 un（陽性）或 una（陰性）",
-        "detail": "uno（獨立使用）/ un + 陽性名詞 / una + 陰性名詞",
-        "example_es": "Tengo un hermano y una hermana.",
-        "example_zh": "我有一個哥哥和一個姐姐。"
-      },
-      {
-        "word": "cuánto",
-        "pos": "疑問詞／形容詞",
-        "meaning": "多少；用於詢問數量或金額",
-        "detail": "cuánto（陽性）/ cuánta（陰性）/ cuántos / cuántas；¿Cuánto cuesta?（多少錢？）",
-        "example_es": "¿Cuánto cuesta esta camisa?",
-        "example_zh": "這件襯衫多少錢？"
-      },
-      {
-        "word": "el cerdo",
-        "pos": "陽性名詞",
-        "meaning": "豬；也可指豬肉（la carne de cerdo）",
-        "detail": "陽性 el cerdo / los cerdos；母豬為 la cerda",
-        "example_es": "No como cerdo porque soy vegetariano.",
-        "example_zh": "我不吃豬肉，因為我是素食者。"
-      },
-      {
-        "word": "abierto",
+        "word": "marrón",
         "pos": "形容詞",
-        "meaning": "開的；開著的（店、門、窗等）",
-        "detail": "陽性 abierto / 陰性 abierta / 複數 abiertos / abiertas；也是 abrir 的過去分詞",
-        "example_es": "La tienda está abierta hasta las nueve.",
-        "example_zh": "這家店開到九點。"
+        "meaning": "棕色的",
+        "detail": "陰陽性同形 marrón（單數）/ marrones（複數）；不隨性別變化，只隨數變化",
+        "example_es": "Él lleva un abrigo marrón.",
+        "example_zh": "他穿著一件棕色的大衣。"
       },
       {
-        "word": "lo",
-        "pos": "直接受詞代名詞",
-        "meaning": "他、它（直接受詞・陽性）；代替已提過的陽性人或事物",
-        "detail": "放在動詞前：Lo veo.（我看到他/它）；放在原形動詞或現在分詞後：Quiero verlo.",
-        "example_es": "¿Dónde está mi libro? No lo encuentro.",
-        "example_zh": "我的書在哪裡？我找不到它。"
-      },
-      {
-        "word": "acordarse",
+        "word": "divertirse",
         "pos": "動詞",
-        "meaning": "記得；想起（反身動詞，常接 de）",
-        "detail": "現在式（語幹母音變化 o→ue）：me acuerdo / te acuerdas / se acuerda / nos acordamos / os acordáis / se acuerdan",
-        "example_es": "¿Te acuerdas de su nombre?",
-        "example_zh": "你記得他的名字嗎？"
+        "meaning": "玩得開心、享受樂趣",
+        "detail": "反身動詞，詞根母音變化 e→ie：me divierto（我）/ te diviertes（你）/ se divierte（他／她）/ nos divertimos（我們）/ os divertís（你們）/ se divierten（他們）",
+        "example_es": "Nos divertimos mucho en la fiesta.",
+        "example_zh": "我們在派對上玩得非常開心。"
       },
       {
-        "word": "mayo",
-        "pos": "名詞（月份）",
-        "meaning": "五月",
-        "detail": "月份在西班牙文中不大寫；el mes de mayo（五月這個月）",
-        "example_es": "Mi cumpleaños es en mayo.",
-        "example_zh": "我的生日在五月。"
+        "word": "el fútbol",
+        "pos": "陽性名詞",
+        "meaning": "足球（運動）",
+        "detail": "陽性 el fútbol；通常以單數使用，複數 los fútboles 極少見",
+        "example_es": "Me gusta mucho el fútbol.",
+        "example_zh": "我非常喜歡足球。"
+      },
+      {
+        "word": "en",
+        "pos": "介系詞",
+        "meaning": "在……裡／在……上／在（某地或某時）",
+        "detail": "用法廣泛：表示地點（en casa 在家）、時間（en enero 在一月）、交通方式（en autobús 搭公車）",
+        "example_es": "Estudio español en casa.",
+        "example_zh": "我在家學西班牙文。"
+      },
+      {
+        "word": "el dedo",
+        "pos": "陽性名詞",
+        "meaning": "手指／腳趾",
+        "detail": "陽性 el dedo / los dedos；手指為 dedo de la mano，腳趾為 dedo del pie",
+        "example_es": "Me duele el dedo.",
+        "example_zh": "我的手指很痛。"
+      },
+      {
+        "word": "listo",
+        "pos": "形容詞",
+        "meaning": "準備好的／聰明的",
+        "detail": "陽性 listo / 陰性 lista；複數 listos / listas；搭配 estar 表示「準備好了」（¿Estás listo?），搭配 ser 表示「聰明」（Es muy lista.）",
+        "example_es": "¿Estás listo para salir?",
+        "example_zh": "你準備好出門了嗎？"
+      },
+      {
+        "word": "la aspiradora",
+        "pos": "陰性名詞",
+        "meaning": "吸塵器",
+        "detail": "陰性 la aspiradora / las aspiradoras；常見搭配：pasar la aspiradora（用吸塵器吸地）",
+        "example_es": "Paso la aspiradora los sábados.",
+        "example_zh": "我每週六用吸塵器吸地。"
+      },
+      {
+        "word": "la chaqueta",
+        "pos": "陰性名詞",
+        "meaning": "外套、夾克",
+        "detail": "陰性 la chaqueta / las chaquetas；指較輕薄的外套或上衣，與 el abrigo（厚大衣）有所區別",
+        "example_es": "Coge tu chaqueta, hace frío.",
+        "example_zh": "拿你的外套，天氣很冷。"
+      },
+      {
+        "word": "el abrelatas",
+        "pos": "陽性名詞",
+        "meaning": "開罐器",
+        "detail": "陽性 el abrelatas / los abrelatas；單複數同形，結尾不加 s",
+        "example_es": "¿Dónde está el abrelatas?",
+        "example_zh": "開罐器在哪裡？"
       }
     ]
   }
