@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-18",
+    "date": "2026-10-20",
     "cards": [
       {
-        "word": "la persona",
-        "pos": "陰性名詞",
-        "meaning": "人（一律陰性，男女都用 la）",
-        "detail": "陰性 la persona / las personas；無論指男性或女性，冠詞與形容詞一律用陰性形式",
-        "example_es": "Hay una persona en la puerta.",
-        "example_zh": "門口有一個人。"
+        "word": "el plato",
+        "pos": "陽性名詞",
+        "meaning": "盤子／菜餚",
+        "detail": "陽性 el plato / los platos；指餐具時為「盤子」，指菜單上的項目時為「菜餚、一道菜」",
+        "example_es": "Este plato está muy rico.",
+        "example_zh": "這道菜非常好吃。"
       },
       {
-        "word": "marrón",
-        "pos": "形容詞",
-        "meaning": "棕色的",
-        "detail": "陰陽性同形 marrón（單數）/ marrones（複數）；不隨性別變化，只隨數變化",
-        "example_es": "Él lleva un abrigo marrón.",
-        "example_zh": "他穿著一件棕色的大衣。"
-      },
-      {
-        "word": "divertirse",
+        "word": "preocuparse",
         "pos": "動詞",
-        "meaning": "玩得開心、享受樂趣",
-        "detail": "反身動詞，詞根母音變化 e→ie：me divierto（我）/ te diviertes（你）/ se divierte（他／她）/ nos divertimos（我們）/ os divertís（你們）/ se divierten（他們）",
-        "example_es": "Nos divertimos mucho en la fiesta.",
-        "example_zh": "我們在派對上玩得非常開心。"
+        "meaning": "擔心",
+        "detail": "反身動詞，現在式變化：me preocupo(我)/ te preocupas(你)/ se preocupa(他／她)；常與介系詞 por 搭配，表示「為…擔心」",
+        "example_es": "No te preocupes, todo está bien.",
+        "example_zh": "不要擔心，一切都很好。"
       },
       {
-        "word": "el fútbol",
+        "word": "el techo",
         "pos": "陽性名詞",
-        "meaning": "足球（運動）",
-        "detail": "陽性 el fútbol；通常以單數使用，複數 los fútboles 極少見",
-        "example_es": "Me gusta mucho el fútbol.",
-        "example_zh": "我非常喜歡足球。"
+        "meaning": "天花板／屋頂",
+        "detail": "陽性 el techo / los techos；在室內指「天花板」，在建築外部指「屋頂」",
+        "example_es": "Hay una lámpara en el techo.",
+        "example_zh": "天花板上有一盞燈。"
       },
       {
-        "word": "en",
-        "pos": "介系詞",
-        "meaning": "在……裡／在……上／在（某地或某時）",
-        "detail": "用法廣泛：表示地點（en casa 在家）、時間（en enero 在一月）、交通方式（en autobús 搭公車）",
-        "example_es": "Estudio español en casa.",
-        "example_zh": "我在家學西班牙文。"
-      },
-      {
-        "word": "el dedo",
+        "word": "el día",
         "pos": "陽性名詞",
-        "meaning": "手指／腳趾",
-        "detail": "陽性 el dedo / los dedos；手指為 dedo de la mano，腳趾為 dedo del pie",
-        "example_es": "Me duele el dedo.",
-        "example_zh": "我的手指很痛。"
+        "meaning": "天／日子",
+        "detail": "陽性 el día / los días；注意雖以 -a 結尾，仍為陽性；常用於問候語如 ¡Buenos días!",
+        "example_es": "Hoy es un día muy bonito.",
+        "example_zh": "今天是非常美好的一天。"
       },
       {
-        "word": "listo",
+        "word": "el camello",
+        "pos": "陽性名詞",
+        "meaning": "駱駝",
+        "detail": "陽性 el camello / los camellos；陰性為 la camella；雙峰駝與單峰駝在西語中均可用此詞泛稱",
+        "example_es": "El camello puede vivir en el desierto.",
+        "example_zh": "駱駝可以在沙漠中生活。"
+      },
+      {
+        "word": "el sol",
+        "pos": "陽性名詞",
+        "meaning": "太陽",
+        "detail": "陽性 el sol / los soles；常用片語：hace sol（天氣晴朗）、tomar el sol（曬太陽）",
+        "example_es": "Hoy hace mucho sol.",
+        "example_zh": "今天陽光很強。"
+      },
+      {
+        "word": "el zumo",
+        "pos": "陽性名詞",
+        "meaning": "果汁（西班牙用語）",
+        "detail": "陽性 el zumo / los zumos；此為西班牙用法，拉丁美洲多說 el jugo；常見搭配：zumo de naranja（柳橙汁）",
+        "example_es": "Quiero un zumo de naranja, por favor.",
+        "example_zh": "請給我一杯柳橙汁。"
+      },
+      {
+        "word": "blando",
         "pos": "形容詞",
-        "meaning": "準備好的／聰明的",
-        "detail": "陽性 listo / 陰性 lista；複數 listos / listas；搭配 estar 表示「準備好了」（¿Estás listo?），搭配 ser 表示「聰明」（Es muy lista.）",
-        "example_es": "¿Estás listo para salir?",
-        "example_zh": "你準備好出門了嗎？"
+        "meaning": "軟的",
+        "detail": "陽性 blando / 陰性 blanda；複數 blandos / blandas；反義詞為 duro（硬的）",
+        "example_es": "Este pan es muy blando.",
+        "example_zh": "這個麵包非常軟。"
       },
       {
-        "word": "la aspiradora",
+        "word": "la talla",
         "pos": "陰性名詞",
-        "meaning": "吸塵器",
-        "detail": "陰性 la aspiradora / las aspiradoras；常見搭配：pasar la aspiradora（用吸塵器吸地）",
-        "example_es": "Paso la aspiradora los sábados.",
-        "example_zh": "我每週六用吸塵器吸地。"
+        "meaning": "尺寸（衣物、鞋子）",
+        "detail": "陰性 la talla / las tallas；主要用於衣服或鞋子的尺碼；詢問尺寸可說：¿Qué talla usas?",
+        "example_es": "¿Qué talla usas?",
+        "example_zh": "你穿什麼尺寸？"
       },
       {
-        "word": "la chaqueta",
-        "pos": "陰性名詞",
-        "meaning": "外套、夾克",
-        "detail": "陰性 la chaqueta / las chaquetas；指較輕薄的外套或上衣，與 el abrigo（厚大衣）有所區別",
-        "example_es": "Coge tu chaqueta, hace frío.",
-        "example_zh": "拿你的外套，天氣很冷。"
-      },
-      {
-        "word": "el abrelatas",
-        "pos": "陽性名詞",
-        "meaning": "開罐器",
-        "detail": "陽性 el abrelatas / los abrelatas；單複數同形，結尾不加 s",
-        "example_es": "¿Dónde está el abrelatas?",
-        "example_zh": "開罐器在哪裡？"
+        "word": "abajo",
+        "pos": "副詞",
+        "meaning": "下面／在下方",
+        "detail": "表示位置「在下方、往下」；反義詞為 arriba（上面）；可與動詞搭配表示方向，如 bajar abajo（往下走）",
+        "example_es": "Las llaves están abajo, en la mesa.",
+        "example_zh": "鑰匙在下面，在桌子上。"
       }
     ]
   }
