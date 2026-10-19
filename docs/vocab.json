@@ -2128,5 +2128,65 @@
     "pos": "陽性名詞",
     "meaning": "開罐器",
     "date": "2026-10-18"
+  },
+  {
+    "word": "el chocolate",
+    "pos": "陽性名詞",
+    "meaning": "巧克力",
+    "date": "2026-10-19"
+  },
+  {
+    "word": "la tormenta",
+    "pos": "陰性名詞",
+    "meaning": "暴風雨",
+    "date": "2026-10-19"
+  },
+  {
+    "word": "el pueblo",
+    "pos": "陽性名詞",
+    "meaning": "村鎮／人民",
+    "date": "2026-10-19"
+  },
+  {
+    "word": "dorado",
+    "pos": "形容詞",
+    "meaning": "金色的",
+    "date": "2026-10-19"
+  },
+  {
+    "word": "el cinturón",
+    "pos": "陽性名詞",
+    "meaning": "皮帶",
+    "date": "2026-10-19"
+  },
+  {
+    "word": "trece",
+    "pos": "數詞",
+    "meaning": "13",
+    "date": "2026-10-19"
+  },
+  {
+    "word": "desempleado",
+    "pos": "形容詞",
+    "meaning": "失業的",
+    "date": "2026-10-19"
+  },
+  {
+    "word": "el dolor",
+    "pos": "陽性名詞",
+    "meaning": "疼痛",
+    "date": "2026-10-19"
+  },
+  {
+    "word": "tímido",
+    "pos": "形容詞",
+    "meaning": "害羞的",
+    "date": "2026-10-19"
+  },
+  {
+    "word": "el sábado",
+    "pos": "陽性名詞",
+    "meaning": "星期六",
+    "date": "2026-10-19"
   }
 ]

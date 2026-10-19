@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-18",
+    "date": "2026-10-19",
     "cards": [
       {
-        "word": "cuándo",
-        "pos": "副詞／疑問詞",
-        "meaning": "什麼時候（用於提問時間）",
-        "detail": "疑問副詞，用於直接或間接疑問句，需加重音符號；非疑問用法寫作 cuando（無重音）",
-        "example_es": "¿Cuándo llegas a casa?",
-        "example_zh": "你什麼時候到家？"
+        "word": "el chocolate",
+        "pos": "陽性名詞",
+        "meaning": "巧克力",
+        "detail": "陽性 el chocolate / los chocolates",
+        "example_es": "Me gusta mucho el chocolate negro.",
+        "example_zh": "我非常喜歡黑巧克力。"
       },
       {
-        "word": "la esposa",
+        "word": "la tormenta",
         "pos": "陰性名詞",
-        "meaning": "妻子",
-        "detail": "陰性 la esposa / las esposas；對應陽性為 el esposo（丈夫）",
-        "example_es": "Su esposa trabaja en un hospital.",
-        "example_zh": "他的妻子在醫院工作。"
+        "meaning": "暴風雨",
+        "detail": "陰性 la tormenta / las tormentas",
+        "example_es": "Hay una tormenta muy fuerte esta noche.",
+        "example_zh": "今晚有一場非常強烈的暴風雨。"
       },
       {
-        "word": "el traje",
+        "word": "el pueblo",
         "pos": "陽性名詞",
-        "meaning": "西裝；套裝",
-        "detail": "陽性 el traje / los trajes；可指男性西裝，也可泛指整套服裝",
-        "example_es": "Mi padre lleva un traje negro hoy.",
-        "example_zh": "我爸爸今天穿著一套黑色西裝。"
+        "meaning": "村鎮／人民",
+        "detail": "陽性 el pueblo / los pueblos；可指小城鎮，也可指「人民、族群」",
+        "example_es": "Mis abuelos viven en un pueblo pequeño.",
+        "example_zh": "我的祖父母住在一個小村鎮。"
       },
       {
-        "word": "el clima",
+        "word": "dorado",
+        "pos": "形容詞",
+        "meaning": "金色的",
+        "detail": "陽性 dorado / 陰性 dorada；複數 dorados / doradas",
+        "example_es": "Ella lleva unos aretes dorados muy bonitos.",
+        "example_zh": "她戴著一對非常漂亮的金色耳環。"
+      },
+      {
+        "word": "el cinturón",
         "pos": "陽性名詞",
-        "meaning": "氣候",
-        "detail": "陽性 el clima / los climas；注意雖以 -a 結尾，仍為陽性；與 el tiempo（天氣）區分，clima 指長期氣候型態",
-        "example_es": "El clima de Taiwan es muy húmedo.",
-        "example_zh": "台灣的氣候非常潮濕。"
+        "meaning": "皮帶",
+        "detail": "陽性 el cinturón / los cinturones；注意複數去重音符號",
+        "example_es": "Necesito un cinturón nuevo para estos pantalones.",
+        "example_zh": "我需要一條新皮帶來配這條褲子。"
       },
       {
-        "word": "el dólar",
+        "word": "trece",
+        "pos": "數詞",
+        "meaning": "13",
+        "detail": "基數詞，不變化；用於計數與表達日期",
+        "example_es": "Mi hermano tiene trece años.",
+        "example_zh": "我弟弟（哥哥）十三歲。"
+      },
+      {
+        "word": "desempleado",
+        "pos": "形容詞",
+        "meaning": "失業的",
+        "detail": "陽性 desempleado / 陰性 desempleada；複數 desempleados / desempleadas；也可當名詞使用，指「失業者」",
+        "example_es": "Él está desempleado desde enero.",
+        "example_zh": "他從一月起就失業了。"
+      },
+      {
+        "word": "el dolor",
         "pos": "陽性名詞",
-        "meaning": "美金；美元",
-        "detail": "陽性 el dólar / los dólares；注意重音在第一音節 dó-lar",
-        "example_es": "Este libro cuesta diez dólares.",
-        "example_zh": "這本書要十美元。"
+        "meaning": "疼痛",
+        "detail": "陽性 el dolor / los dolores；常與 de 連用，如 dolor de cabeza（頭痛）、dolor de estómago（胃痛）",
+        "example_es": "Tengo un dolor de cabeza muy fuerte.",
+        "example_zh": "我頭痛得很厲害。"
       },
       {
-        "word": "la obra",
-        "pos": "陰性名詞",
-        "meaning": "工地；作品",
-        "detail": "陰性 la obra / las obras；obra de construcción 指建築工地；obra de arte 指藝術作品",
-        "example_es": "Hay una obra cerca de mi casa.",
-        "example_zh": "我家附近有一個工地。"
+        "word": "tímido",
+        "pos": "形容詞",
+        "meaning": "害羞的",
+        "detail": "陽性 tímido / 陰性 tímida；複數 tímidos / tímidas",
+        "example_es": "La niña es muy tímida con personas nuevas.",
+        "example_zh": "這個女孩在陌生人面前非常害羞。"
       },
       {
-        "word": "tenemos",
-        "pos": "動詞",
-        "meaning": "我們有（tener 的第一人稱複數現在式）",
-        "detail": "tener 現在式變化：tengo（我）/ tienes（你）/ tiene（他／她）/ tenemos（我們）/ tenéis（你們）/ tienen（他們）",
-        "example_es": "Tenemos una reunión a las tres.",
-        "example_zh": "我們三點有一個會議。"
-      },
-      {
-        "word": "el documento",
+        "word": "el sábado",
         "pos": "陽性名詞",
-        "meaning": "文件；證件",
-        "detail": "陽性 el documento / los documentos；可指紙本文件或電子檔案",
-        "example_es": "Necesito firmar este documento.",
-        "example_zh": "我需要簽署這份文件。"
-      },
-      {
-        "word": "la rana",
-        "pos": "陰性名詞",
-        "meaning": "青蛙",
-        "detail": "陰性 la rana / las ranas；常見於自然、動物相關話題",
-        "example_es": "La rana salta cerca del río.",
-        "example_zh": "青蛙在河邊跳來跳去。"
-      },
-      {
-        "word": "el este",
-        "pos": "陽性名詞",
-        "meaning": "東；東方",
-        "detail": "陽性 el este（單數為主，複數少用）；四個方位：el norte（北）、el sur（南）、el este（東）、el oeste（西）",
-        "example_es": "Taiwan está en el este de Asia.",
-        "example_zh": "台灣位於亞洲東部。"
+        "meaning": "星期六",
+        "detail": "陽性 el sábado / los sábados；說「每個星期六」用 los sábados；星期幾前通常不加冠詞於 ser 句型中",
+        "example_es": "El sábado voy al mercado con mi mamá.",
+        "example_zh": "星期六我和媽媽去市場。"
       }
     ]
   },
