@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-19",
+    "date": "2026-10-20",
     "cards": [
       {
-        "word": "el chocolate",
+        "word": "el pecho",
         "pos": "陽性名詞",
-        "meaning": "巧克力",
-        "detail": "陽性 el chocolate / los chocolates",
-        "example_es": "Me gusta mucho el chocolate negro.",
-        "example_zh": "我非常喜歡黑巧克力。"
+        "meaning": "胸部",
+        "detail": "陽性 el pecho / los pechos",
+        "example_es": "Me duele el pecho cuando corro.",
+        "example_zh": "我跑步時胸部會痛。"
       },
       {
-        "word": "la tormenta",
+        "word": "ahora",
+        "pos": "副詞",
+        "meaning": "現在",
+        "detail": "常用於表達當下時間，也可說 ahora mismo（就在現在、馬上）",
+        "example_es": "Ahora estoy en casa.",
+        "example_zh": "我現在在家。"
+      },
+      {
+        "word": "la cáscara",
         "pos": "陰性名詞",
-        "meaning": "暴風雨",
-        "detail": "陰性 la tormenta / las tormentas",
-        "example_es": "Hay una tormenta muy fuerte esta noche.",
-        "example_zh": "今晚有一場非常強烈的暴風雨。"
+        "meaning": "果皮；外殼",
+        "detail": "陰性 la cáscara / las cáscaras；可指水果皮、蛋殼、堅果殼等",
+        "example_es": "No comas la cáscara de la naranja.",
+        "example_zh": "不要吃橘子皮。"
       },
       {
-        "word": "el pueblo",
+        "word": "el suéter",
         "pos": "陽性名詞",
-        "meaning": "村鎮／人民",
-        "detail": "陽性 el pueblo / los pueblos；可指小城鎮，也可指「人民、族群」",
-        "example_es": "Mis abuelos viven en un pueblo pequeño.",
-        "example_zh": "我的祖父母住在一個小村鎮。"
+        "meaning": "毛衣",
+        "detail": "陽性 el suéter / los suéteres；在西班牙也常說 el jersey",
+        "example_es": "Llevo un suéter azul hoy.",
+        "example_zh": "我今天穿了一件藍色毛衣。"
       },
       {
-        "word": "dorado",
-        "pos": "形容詞",
-        "meaning": "金色的",
-        "detail": "陽性 dorado / 陰性 dorada；複數 dorados / doradas",
-        "example_es": "Ella lleva unos aretes dorados muy bonitos.",
-        "example_zh": "她戴著一對非常漂亮的金色耳環。"
+        "word": "la hermana",
+        "pos": "陰性名詞",
+        "meaning": "姊妹",
+        "detail": "陰性 la hermana / las hermanas；對應陽性為 el hermano（兄弟）",
+        "example_es": "Mi hermana se llama Ana.",
+        "example_zh": "我姊妹叫做安娜。"
       },
       {
-        "word": "el cinturón",
-        "pos": "陽性名詞",
-        "meaning": "皮帶",
-        "detail": "陽性 el cinturón / los cinturones；注意複數去重音符號",
-        "example_es": "Necesito un cinturón nuevo para estos pantalones.",
-        "example_zh": "我需要一條新皮帶來配這條褲子。"
+        "word": "tampoco",
+        "pos": "副詞",
+        "meaning": "也不",
+        "detail": "用於否定句中表示「同樣也不」，是 también（也）的否定對應詞；例：Yo tampoco（我也不）",
+        "example_es": "Él no come carne y yo tampoco.",
+        "example_zh": "他不吃肉，我也不吃。"
       },
       {
-        "word": "trece",
+        "word": "cuatro",
         "pos": "數詞",
-        "meaning": "13",
-        "detail": "基數詞，不變化；用於計數與表達日期",
-        "example_es": "Mi hermano tiene trece años.",
-        "example_zh": "我弟弟（哥哥）十三歲。"
+        "meaning": "4；四",
+        "detail": "基數詞，不隨名詞性別變化；cuatro + 名詞複數，如 cuatro libros（四本書）",
+        "example_es": "Tengo cuatro clases hoy.",
+        "example_zh": "我今天有四堂課。"
       },
       {
-        "word": "desempleado",
-        "pos": "形容詞",
-        "meaning": "失業的",
-        "detail": "陽性 desempleado / 陰性 desempleada；複數 desempleados / desempleadas；也可當名詞使用，指「失業者」",
-        "example_es": "Él está desempleado desde enero.",
-        "example_zh": "他從一月起就失業了。"
+        "word": "el águila",
+        "pos": "陰性名詞",
+        "meaning": "老鷹",
+        "detail": "陰性名詞，但因以重音母音 á 開頭，單數用陽性冠詞 el：el águila / las águilas",
+        "example_es": "El águila vuela muy alto.",
+        "example_zh": "老鷹飛得很高。"
       },
       {
-        "word": "el dolor",
-        "pos": "陽性名詞",
-        "meaning": "疼痛",
-        "detail": "陽性 el dolor / los dolores；常與 de 連用，如 dolor de cabeza（頭痛）、dolor de estómago（胃痛）",
-        "example_es": "Tengo un dolor de cabeza muy fuerte.",
-        "example_zh": "我頭痛得很厲害。"
+        "word": "la moto",
+        "pos": "陰性名詞",
+        "meaning": "機車；摩托車",
+        "detail": "陰性 la moto / las motos；是 la motocicleta 的縮寫",
+        "example_es": "Mi padre va al trabajo en moto.",
+        "example_zh": "我爸爸騎摩托車去上班。"
       },
       {
-        "word": "tímido",
-        "pos": "形容詞",
-        "meaning": "害羞的",
-        "detail": "陽性 tímido / 陰性 tímida；複數 tímidos / tímidas",
-        "example_es": "La niña es muy tímida con personas nuevas.",
-        "example_zh": "這個女孩在陌生人面前非常害羞。"
-      },
-      {
-        "word": "el sábado",
-        "pos": "陽性名詞",
-        "meaning": "星期六",
-        "detail": "陽性 el sábado / los sábados；說「每個星期六」用 los sábados；星期幾前通常不加冠詞於 ser 句型中",
-        "example_es": "El sábado voy al mercado con mi mamá.",
-        "example_zh": "星期六我和媽媽去市場。"
+        "word": "la cena",
+        "pos": "陰性名詞",
+        "meaning": "晚餐",
+        "detail": "陰性 la cena / las cenas；相關動詞為 cenar（吃晚餐）",
+        "example_es": "La cena está lista a las ocho.",
+        "example_zh": "晚餐八點準備好。"
       }
     ]
   },
