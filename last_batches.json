@@ -88,84 +88,84 @@
     "date": "2026-10-20",
     "cards": [
       {
-        "word": "el plato",
-        "pos": "陽性名詞",
-        "meaning": "盤子／菜餚",
-        "detail": "陽性 el plato / los platos；指餐具時為「盤子」，指菜單上的項目時為「菜餚、一道菜」",
-        "example_es": "Este plato está muy rico.",
-        "example_zh": "這道菜非常好吃。"
-      },
-      {
-        "word": "preocuparse",
-        "pos": "動詞",
-        "meaning": "擔心",
-        "detail": "反身動詞，現在式變化：me preocupo(我)/ te preocupas(你)/ se preocupa(他／她)；常與介系詞 por 搭配，表示「為…擔心」",
-        "example_es": "No te preocupes, todo está bien.",
-        "example_zh": "不要擔心，一切都很好。"
-      },
-      {
-        "word": "el techo",
-        "pos": "陽性名詞",
-        "meaning": "天花板／屋頂",
-        "detail": "陽性 el techo / los techos；在室內指「天花板」，在建築外部指「屋頂」",
-        "example_es": "Hay una lámpara en el techo.",
-        "example_zh": "天花板上有一盞燈。"
-      },
-      {
-        "word": "el día",
-        "pos": "陽性名詞",
-        "meaning": "天／日子",
-        "detail": "陽性 el día / los días；注意雖以 -a 結尾，仍為陽性；常用於問候語如 ¡Buenos días!",
-        "example_es": "Hoy es un día muy bonito.",
-        "example_zh": "今天是非常美好的一天。"
-      },
-      {
-        "word": "el camello",
-        "pos": "陽性名詞",
-        "meaning": "駱駝",
-        "detail": "陽性 el camello / los camellos；陰性為 la camella；雙峰駝與單峰駝在西語中均可用此詞泛稱",
-        "example_es": "El camello puede vivir en el desierto.",
-        "example_zh": "駱駝可以在沙漠中生活。"
-      },
-      {
-        "word": "el sol",
-        "pos": "陽性名詞",
-        "meaning": "太陽",
-        "detail": "陽性 el sol / los soles；常用片語：hace sol（天氣晴朗）、tomar el sol（曬太陽）",
-        "example_es": "Hoy hace mucho sol.",
-        "example_zh": "今天陽光很強。"
-      },
-      {
-        "word": "el zumo",
-        "pos": "陽性名詞",
-        "meaning": "果汁（西班牙用語）",
-        "detail": "陽性 el zumo / los zumos；此為西班牙用法，拉丁美洲多說 el jugo；常見搭配：zumo de naranja（柳橙汁）",
-        "example_es": "Quiero un zumo de naranja, por favor.",
-        "example_zh": "請給我一杯柳橙汁。"
-      },
-      {
-        "word": "blando",
-        "pos": "形容詞",
-        "meaning": "軟的",
-        "detail": "陽性 blando / 陰性 blanda；複數 blandos / blandas；反義詞為 duro（硬的）",
-        "example_es": "Este pan es muy blando.",
-        "example_zh": "這個麵包非常軟。"
-      },
-      {
-        "word": "la talla",
+        "word": "la cita",
         "pos": "陰性名詞",
-        "meaning": "尺寸（衣物、鞋子）",
-        "detail": "陰性 la talla / las tallas；主要用於衣服或鞋子的尺碼；詢問尺寸可說：¿Qué talla usas?",
-        "example_es": "¿Qué talla usas?",
-        "example_zh": "你穿什麼尺寸？"
+        "meaning": "預約／約會",
+        "detail": "陰性 la cita / las citas；可指醫院預約、美容預約，也可指男女約會",
+        "example_es": "Tengo una cita con el médico a las tres.",
+        "example_zh": "我三點有一個醫生預約。"
       },
       {
-        "word": "abajo",
-        "pos": "副詞",
-        "meaning": "下面／在下方",
-        "detail": "表示位置「在下方、往下」；反義詞為 arriba（上面）；可與動詞搭配表示方向，如 bajar abajo（往下走）",
-        "example_es": "Las llaves están abajo, en la mesa.",
-        "example_zh": "鑰匙在下面，在桌子上。"
+        "word": "de la tarde",
+        "pos": "片語",
+        "meaning": "下午（約12點到8點）",
+        "detail": "接在具體時間後面，用來說明是下午幾點，例如：las cuatro de la tarde（下午四點）",
+        "example_es": "La reunión es a las cinco de la tarde.",
+        "example_zh": "會議在下午五點。"
+      },
+      {
+        "word": "usted",
+        "pos": "代名詞",
+        "meaning": "您（正式、長輩、客戶）",
+        "detail": "縮寫為 Ud.；用於正式場合或對長輩、客戶表示尊重，動詞變化與第三人稱單數相同",
+        "example_es": "¿Cómo está usted hoy?",
+        "example_zh": "您今天好嗎？"
+      },
+      {
+        "word": "qué",
+        "pos": "疑問詞",
+        "meaning": "什麼",
+        "detail": "用於疑問句或感嘆句；注意有重音符號，與關係代名詞 que 不同",
+        "example_es": "¿Qué quieres comer?",
+        "example_zh": "你想吃什麼？"
+      },
+      {
+        "word": "la pimienta",
+        "pos": "陰性名詞",
+        "meaning": "胡椒",
+        "detail": "陰性 la pimienta / las pimientas；常見搭配：pimienta negra（黑胡椒）、pimienta blanca（白胡椒）",
+        "example_es": "¿Me pasas la sal y la pimienta, por favor?",
+        "example_zh": "請你把鹽和胡椒遞給我好嗎？"
+      },
+      {
+        "word": "el estómago",
+        "pos": "陽性名詞",
+        "meaning": "胃／肚子",
+        "detail": "陽性 el estómago / los estómagos；常見搭配：dolor de estómago（胃痛）",
+        "example_es": "Me duele el estómago después de comer.",
+        "example_zh": "吃完飯後我胃痛。"
+      },
+      {
+        "word": "sucio",
+        "pos": "形容詞",
+        "meaning": "髒的",
+        "detail": "陽性 sucio / sucios；陰性 sucia / sucias；反義詞為 limpio（乾淨的）",
+        "example_es": "El vaso está sucio, necesito uno limpio.",
+        "example_zh": "這個杯子是髒的，我需要一個乾淨的。"
+      },
+      {
+        "word": "el recibo",
+        "pos": "陽性名詞",
+        "meaning": "收據",
+        "detail": "陽性 el recibo / los recibos；常見搭配：pedir el recibo（索取收據）、guardar el recibo（保留收據）",
+        "example_es": "¿Me puede dar el recibo, por favor?",
+        "example_zh": "請問可以給我收據嗎？"
+      },
+      {
+        "word": "la judía",
+        "pos": "陰性名詞",
+        "meaning": "豆子",
+        "detail": "陰性 la judía / las judías；常見說法：judías verdes（四季豆）、judías blancas（白豆）；在拉丁美洲多用 el frijol",
+        "example_es": "Hoy comemos judías verdes con patatas.",
+        "example_zh": "今天我們吃四季豆配馬鈴薯。"
+      },
+      {
+        "word": "asar",
+        "pos": "動詞",
+        "meaning": "烤",
+        "detail": "變化：aso（我）/ asas（你）/ asa（他／她）/ asamos（我們）；指用烤箱或明火燒烤",
+        "example_es": "Voy a asar el pollo en el horno.",
+        "example_zh": "我要把雞肉放進烤箱烤。"
       }
     ]
   }
