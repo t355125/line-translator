@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "cards": [
       {
-        "word": "la cita",
+        "word": "la fábrica",
         "pos": "陰性名詞",
-        "meaning": "預約／約會",
-        "detail": "陰性 la cita / las citas；可指醫院預約、美容預約，也可指男女約會",
-        "example_es": "Tengo una cita con el médico a las tres.",
-        "example_zh": "我三點有一個醫生預約。"
+        "meaning": "工廠",
+        "detail": "陰性 la fábrica / las fábricas",
+        "example_es": "Mi papá trabaja en una fábrica grande.",
+        "example_zh": "我爸爸在一間大工廠工作。"
       },
       {
-        "word": "de la tarde",
-        "pos": "片語",
-        "meaning": "下午（約12點到8點）",
-        "detail": "接在具體時間後面，用來說明是下午幾點，例如：las cuatro de la tarde（下午四點）",
-        "example_es": "La reunión es a las cinco de la tarde.",
-        "example_zh": "會議在下午五點。"
-      },
-      {
-        "word": "usted",
-        "pos": "代名詞",
-        "meaning": "您（正式、長輩、客戶）",
-        "detail": "縮寫為 Ud.；用於正式場合或對長輩、客戶表示尊重，動詞變化與第三人稱單數相同",
-        "example_es": "¿Cómo está usted hoy?",
-        "example_zh": "您今天好嗎？"
-      },
-      {
-        "word": "qué",
-        "pos": "疑問詞",
-        "meaning": "什麼",
-        "detail": "用於疑問句或感嘆句；注意有重音符號，與關係代名詞 que 不同",
-        "example_es": "¿Qué quieres comer?",
-        "example_zh": "你想吃什麼？"
-      },
-      {
-        "word": "la pimienta",
-        "pos": "陰性名詞",
-        "meaning": "胡椒",
-        "detail": "陰性 la pimienta / las pimientas；常見搭配：pimienta negra（黑胡椒）、pimienta blanca（白胡椒）",
-        "example_es": "¿Me pasas la sal y la pimienta, por favor?",
-        "example_zh": "請你把鹽和胡椒遞給我好嗎？"
-      },
-      {
-        "word": "el estómago",
+        "word": "el viernes",
         "pos": "陽性名詞",
-        "meaning": "胃／肚子",
-        "detail": "陽性 el estómago / los estómagos；常見搭配：dolor de estómago（胃痛）",
-        "example_es": "Me duele el estómago después de comer.",
-        "example_zh": "吃完飯後我胃痛。"
+        "meaning": "星期五",
+        "detail": "陽性 el viernes / los viernes；單複數同形",
+        "example_es": "El viernes voy al cine con mis amigos.",
+        "example_zh": "星期五我和朋友去看電影。"
       },
       {
-        "word": "sucio",
+        "word": "la luna",
+        "pos": "陰性名詞",
+        "meaning": "月亮",
+        "detail": "陰性 la luna / las lunas",
+        "example_es": "La luna está muy bonita esta noche.",
+        "example_zh": "今晚月亮非常漂亮。"
+      },
+      {
+        "word": "fresco",
         "pos": "形容詞",
-        "meaning": "髒的",
-        "detail": "陽性 sucio / sucios；陰性 sucia / sucias；反義詞為 limpio（乾淨的）",
-        "example_es": "El vaso está sucio, necesito uno limpio.",
-        "example_zh": "這個杯子是髒的，我需要一個乾淨的。"
+        "meaning": "新鮮的；涼爽的",
+        "detail": "陽性 fresco / 陰性 fresca；複數 frescos / frescas",
+        "example_es": "Quiero comprar pan fresco en la panadería.",
+        "example_zh": "我想在麵包店買新鮮的麵包。"
       },
       {
-        "word": "el recibo",
+        "word": "el policía",
         "pos": "陽性名詞",
-        "meaning": "收據",
-        "detail": "陽性 el recibo / los recibos；常見搭配：pedir el recibo（索取收據）、guardar el recibo（保留收據）",
-        "example_es": "¿Me puede dar el recibo, por favor?",
-        "example_zh": "請問可以給我收據嗎？"
+        "meaning": "警察",
+        "detail": "陽性 el policía / los policías；注意：雖以 -a 結尾，但指男性警察時用陽性冠詞",
+        "example_es": "El policía ayuda a la gente en la calle.",
+        "example_zh": "警察在街上幫助民眾。"
       },
       {
-        "word": "la judía",
-        "pos": "陰性名詞",
-        "meaning": "豆子",
-        "detail": "陰性 la judía / las judías；常見說法：judías verdes（四季豆）、judías blancas（白豆）；在拉丁美洲多用 el frijol",
-        "example_es": "Hoy comemos judías verdes con patatas.",
-        "example_zh": "今天我們吃四季豆配馬鈴薯。"
+        "word": "conmigo",
+        "pos": "介系詞片語",
+        "meaning": "跟我一起；和我",
+        "detail": "con + migo 的合併形式，固定用法，不可說 con mí",
+        "example_es": "¿Quieres venir conmigo al supermercado?",
+        "example_zh": "你想跟我一起去超市嗎？"
       },
       {
-        "word": "asar",
-        "pos": "動詞",
-        "meaning": "烤",
-        "detail": "變化：aso（我）/ asas（你）/ asa（他／她）/ asamos（我們）；指用烤箱或明火燒烤",
-        "example_es": "Voy a asar el pollo en el horno.",
-        "example_zh": "我要把雞肉放進烤箱烤。"
+        "word": "el proyecto",
+        "pos": "陽性名詞",
+        "meaning": "專案；計畫",
+        "detail": "陽性 el proyecto / los proyectos",
+        "example_es": "Tengo que terminar el proyecto antes del viernes.",
+        "example_zh": "我必須在星期五之前完成這個專案。"
+      },
+      {
+        "word": "plateado",
+        "pos": "形容詞",
+        "meaning": "銀色的",
+        "detail": "陽性 plateado / 陰性 plateada；複數 plateados / plateadas",
+        "example_es": "Ella tiene un bolso plateado muy elegante.",
+        "example_zh": "她有一個非常優雅的銀色包包。"
+      },
+      {
+        "word": "a",
+        "pos": "介系詞",
+        "meaning": "到；向；給",
+        "detail": "用於表示方向、目的地、時間點；a + el = al（縮合形式）",
+        "example_es": "Voy a la escuela a las ocho de la mañana.",
+        "example_zh": "我早上八點去學校。"
+      },
+      {
+        "word": "los vaqueros",
+        "pos": "陽性名詞",
+        "meaning": "牛仔褲",
+        "detail": "陽性複數 los vaqueros；通常以複數形式使用，單數 el vaquero 較少見",
+        "example_es": "Hoy llevo unos vaqueros azules y una camiseta blanca.",
+        "example_zh": "我今天穿著藍色牛仔褲和白色T恤。"
       }
     ]
   }
