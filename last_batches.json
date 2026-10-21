@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-20",
+    "date": "2026-10-21",
     "cards": [
       {
-        "word": "el pecho",
+        "word": "un millón",
         "pos": "陽性名詞",
-        "meaning": "胸部",
-        "detail": "陽性 el pecho / los pechos",
-        "example_es": "Me duele el pecho cuando corro.",
-        "example_zh": "我跑步時胸部會痛。"
+        "meaning": "一百萬",
+        "detail": "陽性 un millón / dos millones；注意：millón 後接名詞須加 de，如 un millón de personas",
+        "example_es": "Hay un millón de personas en la ciudad.",
+        "example_zh": "這座城市裡有一百萬人。"
       },
       {
-        "word": "ahora",
+        "word": "hoy",
         "pos": "副詞",
-        "meaning": "現在",
-        "detail": "常用於表達當下時間，也可說 ahora mismo（就在現在、馬上）",
-        "example_es": "Ahora estoy en casa.",
-        "example_zh": "我現在在家。"
+        "meaning": "今天",
+        "detail": "時間副詞，不隨主詞變化；常用搭配：hoy en día（現今）、hoy por la mañana（今天早上）",
+        "example_es": "Hoy tengo clase de español.",
+        "example_zh": "我今天有西班牙文課。"
       },
       {
-        "word": "la cáscara",
+        "word": "la naranja",
         "pos": "陰性名詞",
-        "meaning": "果皮；外殼",
-        "detail": "陰性 la cáscara / las cáscaras；可指水果皮、蛋殼、堅果殼等",
-        "example_es": "No comas la cáscara de la naranja.",
-        "example_zh": "不要吃橘子皮。"
+        "meaning": "柳橙；橘色",
+        "detail": "陰性 la naranja / las naranjas；作顏色形容詞時為 naranja，陰陽性同形，如 una camisa naranja",
+        "example_es": "Me gusta el zumo de naranja por la mañana.",
+        "example_zh": "我早上喜歡喝柳橙汁。"
       },
       {
-        "word": "el suéter",
+        "word": "el viento",
         "pos": "陽性名詞",
-        "meaning": "毛衣",
-        "detail": "陽性 el suéter / los suéteres；在西班牙也常說 el jersey",
-        "example_es": "Llevo un suéter azul hoy.",
-        "example_zh": "我今天穿了一件藍色毛衣。"
+        "meaning": "風",
+        "detail": "陽性 el viento / los vientos；常用搭配：hace viento（刮風）、viento fuerte（強風）",
+        "example_es": "Hoy hace mucho viento, lleva un abrigo.",
+        "example_zh": "今天風很大，穿件外套吧。"
       },
       {
-        "word": "la hermana",
+        "word": "bailar",
+        "pos": "動詞",
+        "meaning": "跳舞",
+        "detail": "現在式變化：bailo（我）/ bailas（你）/ baila（他/她）/ bailamos（我們）/ bailáis（你們）/ bailan（他們）",
+        "example_es": "Nosotros bailamos salsa los sábados.",
+        "example_zh": "我們每個星期六跳騷莎舞。"
+      },
+      {
+        "word": "la tortuga",
         "pos": "陰性名詞",
-        "meaning": "姊妹",
-        "detail": "陰性 la hermana / las hermanas；對應陽性為 el hermano（兄弟）",
-        "example_es": "Mi hermana se llama Ana.",
-        "example_zh": "我姊妹叫做安娜。"
+        "meaning": "烏龜",
+        "detail": "陰性 la tortuga / las tortugas；常見搭配：tortuga marina（海龜）、tortuga de tierra（陸龜）",
+        "example_es": "Mi hermana tiene una tortuga como mascota.",
+        "example_zh": "我妹妹養了一隻烏龜當寵物。"
       },
       {
-        "word": "tampoco",
-        "pos": "副詞",
-        "meaning": "也不",
-        "detail": "用於否定句中表示「同樣也不」，是 también（也）的否定對應詞；例：Yo tampoco（我也不）",
-        "example_es": "Él no come carne y yo tampoco.",
-        "example_zh": "他不吃肉，我也不吃。"
+        "word": "el camarero",
+        "pos": "陽性名詞",
+        "meaning": "服務生（男）",
+        "detail": "陽性 el camarero / los camareros；陰性為 la camarera / las camareras；工作場景常用詞",
+        "example_es": "El camarero nos trae la carta del restaurante.",
+        "example_zh": "服務生把餐廳菜單拿給我們。"
       },
       {
-        "word": "cuatro",
-        "pos": "數詞",
-        "meaning": "4；四",
-        "detail": "基數詞，不隨名詞性別變化；cuatro + 名詞複數，如 cuatro libros（四本書）",
-        "example_es": "Tengo cuatro clases hoy.",
-        "example_zh": "我今天有四堂課。"
-      },
-      {
-        "word": "el águila",
+        "word": "la ducha",
         "pos": "陰性名詞",
-        "meaning": "老鷹",
-        "detail": "陰性名詞，但因以重音母音 á 開頭，單數用陽性冠詞 el：el águila / las águilas",
-        "example_es": "El águila vuela muy alto.",
-        "example_zh": "老鷹飛得很高。"
+        "meaning": "淋浴；淋浴間",
+        "detail": "陰性 la ducha / las duchas；常用搭配：ducharse（淋浴，反身動詞）、tomar una ducha（洗淋浴）",
+        "example_es": "Tomo una ducha rápida cada mañana.",
+        "example_zh": "我每天早上快速洗個澡。"
       },
       {
-        "word": "la moto",
-        "pos": "陰性名詞",
-        "meaning": "機車；摩托車",
-        "detail": "陰性 la moto / las motos；是 la motocicleta 的縮寫",
-        "example_es": "Mi padre va al trabajo en moto.",
-        "example_zh": "我爸爸騎摩托車去上班。"
+        "word": "el semáforo",
+        "pos": "陽性名詞",
+        "meaning": "紅綠燈",
+        "detail": "陽性 el semáforo / los semáforos；常用搭配：el semáforo está en rojo／verde／amarillo（紅燈／綠燈／黃燈）",
+        "example_es": "Para en el semáforo cuando está en rojo.",
+        "example_zh": "紅燈的時候要停下來。"
       },
       {
-        "word": "la cena",
+        "word": "la librería",
         "pos": "陰性名詞",
-        "meaning": "晚餐",
-        "detail": "陰性 la cena / las cenas；相關動詞為 cenar（吃晚餐）",
-        "example_es": "La cena está lista a las ocho.",
-        "example_zh": "晚餐八點準備好。"
+        "meaning": "書店",
+        "detail": "陰性 la librería / las librerías；注意：la librería 是書店，la biblioteca 是圖書館，兩者不要混淆",
+        "example_es": "Compro este libro en la librería del centro.",
+        "example_zh": "我在市中心的書店買這本書。"
       }
     ]
   },
