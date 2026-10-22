@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "cards": [
       {
-        "word": "un millón",
-        "pos": "陽性名詞",
-        "meaning": "一百萬",
-        "detail": "陽性 un millón / dos millones；注意：millón 後接名詞須加 de，如 un millón de personas",
-        "example_es": "Hay un millón de personas en la ciudad.",
-        "example_zh": "這座城市裡有一百萬人。"
+        "word": "el estudiante",
+        "pos": "名詞",
+        "meaning": "學生（男女同形）",
+        "detail": "陰陽同形：el estudiante（男學生）/ la estudiante（女學生）；複數：los estudiantes / las estudiantes",
+        "example_es": "El estudiante estudia mucho.",
+        "example_zh": "這位學生讀書很認真。"
       },
       {
-        "word": "hoy",
-        "pos": "副詞",
-        "meaning": "今天",
-        "detail": "時間副詞，不隨主詞變化；常用搭配：hoy en día（現今）、hoy por la mañana（今天早上）",
-        "example_es": "Hoy tengo clase de español.",
-        "example_zh": "我今天有西班牙文課。"
+        "word": "la espinaca",
+        "pos": "名詞",
+        "meaning": "菠菜",
+        "detail": "陰性：la espinaca / las espinacas；常用複數形式 las espinacas",
+        "example_es": "Me gustan las espinacas con ajo.",
+        "example_zh": "我喜歡大蒜炒菠菜。"
       },
       {
-        "word": "la naranja",
-        "pos": "陰性名詞",
-        "meaning": "柳橙；橘色",
-        "detail": "陰性 la naranja / las naranjas；作顏色形容詞時為 naranja，陰陽性同形，如 una camisa naranja",
-        "example_es": "Me gusta el zumo de naranja por la mañana.",
-        "example_zh": "我早上喜歡喝柳橙汁。"
+        "word": "el museo",
+        "pos": "名詞",
+        "meaning": "博物館",
+        "detail": "陽性：el museo / los museos",
+        "example_es": "Vamos al museo el sábado.",
+        "example_zh": "我們星期六去博物館。"
       },
       {
-        "word": "el viento",
-        "pos": "陽性名詞",
-        "meaning": "風",
-        "detail": "陽性 el viento / los vientos；常用搭配：hace viento（刮風）、viento fuerte（強風）",
-        "example_es": "Hoy hace mucho viento, lleva un abrigo.",
-        "example_zh": "今天風很大，穿件外套吧。"
+        "word": "la copa",
+        "pos": "名詞",
+        "meaning": "高腳杯",
+        "detail": "陰性：la copa / las copas；也可指「一杯（酒）」",
+        "example_es": "¿Quieres una copa de vino?",
+        "example_zh": "你想要一杯葡萄酒嗎？"
       },
       {
-        "word": "bailar",
-        "pos": "動詞",
-        "meaning": "跳舞",
-        "detail": "現在式變化：bailo（我）/ bailas（你）/ baila（他/她）/ bailamos（我們）/ bailáis（你們）/ bailan（他們）",
-        "example_es": "Nosotros bailamos salsa los sábados.",
-        "example_zh": "我們每個星期六跳騷莎舞。"
+        "word": "los calcetines",
+        "pos": "名詞",
+        "meaning": "襪子",
+        "detail": "陽性複數：los calcetines；單數：el calcetín",
+        "example_es": "Llevo calcetines azules hoy.",
+        "example_zh": "我今天穿藍色襪子。"
       },
       {
-        "word": "la tortuga",
-        "pos": "陰性名詞",
-        "meaning": "烏龜",
-        "detail": "陰性 la tortuga / las tortugas；常見搭配：tortuga marina（海龜）、tortuga de tierra（陸龜）",
-        "example_es": "Mi hermana tiene una tortuga como mascota.",
-        "example_zh": "我妹妹養了一隻烏龜當寵物。"
+        "word": "el aparcamiento",
+        "pos": "名詞",
+        "meaning": "停車場",
+        "detail": "陽性：el aparcamiento / los aparcamientos；在拉丁美洲常說 el estacionamiento",
+        "example_es": "El aparcamiento está lleno.",
+        "example_zh": "停車場已經滿了。"
       },
       {
-        "word": "el camarero",
-        "pos": "陽性名詞",
-        "meaning": "服務生（男）",
-        "detail": "陽性 el camarero / los camareros；陰性為 la camarera / las camareras；工作場景常用詞",
-        "example_es": "El camarero nos trae la carta del restaurante.",
-        "example_zh": "服務生把餐廳菜單拿給我們。"
+        "word": "contento",
+        "pos": "形容詞",
+        "meaning": "開心的、滿足的",
+        "detail": "陽性：contento；陰性：contenta；複數：contentos / contentas",
+        "example_es": "Estoy muy contento con mi nota.",
+        "example_zh": "我對我的成績非常滿意。"
       },
       {
-        "word": "la ducha",
-        "pos": "陰性名詞",
-        "meaning": "淋浴；淋浴間",
-        "detail": "陰性 la ducha / las duchas；常用搭配：ducharse（淋浴，反身動詞）、tomar una ducha（洗淋浴）",
-        "example_es": "Tomo una ducha rápida cada mañana.",
-        "example_zh": "我每天早上快速洗個澡。"
+        "word": "la",
+        "pos": "代名詞",
+        "meaning": "她、它（直接受詞，陰性第三人稱）",
+        "detail": "直接受詞代名詞，放在動詞前；指代陰性名詞或女性人物，複數為 las",
+        "example_es": "¿Ves a María? Sí, la veo.",
+        "example_zh": "你看到瑪麗亞了嗎？對，我看到她了。"
       },
       {
-        "word": "el semáforo",
-        "pos": "陽性名詞",
-        "meaning": "紅綠燈",
-        "detail": "陽性 el semáforo / los semáforos；常用搭配：el semáforo está en rojo／verde／amarillo（紅燈／綠燈／黃燈）",
-        "example_es": "Para en el semáforo cuando está en rojo.",
-        "example_zh": "紅燈的時候要停下來。"
+        "word": "por supuesto",
+        "pos": "片語",
+        "meaning": "當然，當然了",
+        "detail": "固定片語，語氣肯定；可單獨回答，也可接句子，如 Por supuesto que sí.",
+        "example_es": "¿Puedes ayudarme? ¡Por supuesto!",
+        "example_zh": "你可以幫我嗎？當然可以！"
       },
       {
-        "word": "la librería",
-        "pos": "陰性名詞",
-        "meaning": "書店",
-        "detail": "陰性 la librería / las librerías；注意：la librería 是書店，la biblioteca 是圖書館，兩者不要混淆",
-        "example_es": "Compro este libro en la librería del centro.",
-        "example_zh": "我在市中心的書店買這本書。"
+        "word": "la natación",
+        "pos": "名詞",
+        "meaning": "游泳（運動）",
+        "detail": "陰性：la natación；通常以單數使用，無常用複數形",
+        "example_es": "La natación es buena para la salud.",
+        "example_zh": "游泳對健康很好。"
       }
     ]
   },
