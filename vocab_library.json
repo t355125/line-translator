@@ -2548,5 +2548,65 @@
     "pos": "名詞",
     "meaning": "游泳（運動）",
     "date": "2026-10-22"
+  },
+  {
+    "word": "el jabón",
+    "pos": "陽性名詞",
+    "meaning": "肥皂",
+    "date": "2026-10-22"
+  },
+  {
+    "word": "el ratón",
+    "pos": "陽性名詞",
+    "meaning": "老鼠",
+    "date": "2026-10-22"
+  },
+  {
+    "word": "jubilado",
+    "pos": "形容詞",
+    "meaning": "退休的",
+    "date": "2026-10-22"
+  },
+  {
+    "word": "curar",
+    "pos": "動詞",
+    "meaning": "治療",
+    "date": "2026-10-22"
+  },
+  {
+    "word": "la tarjeta",
+    "pos": "陰性名詞",
+    "meaning": "卡片",
+    "date": "2026-10-22"
+  },
+  {
+    "word": "el barco",
+    "pos": "陽性名詞",
+    "meaning": "船",
+    "date": "2026-10-22"
+  },
+  {
+    "word": "la olla",
+    "pos": "陰性名詞",
+    "meaning": "鍋子",
+    "date": "2026-10-22"
+  },
+  {
+    "word": "lavarse",
+    "pos": "動詞",
+    "meaning": "洗（身體部位）",
+    "date": "2026-10-22"
+  },
+  {
+    "word": "la cuenta",
+    "pos": "陰性名詞",
+    "meaning": "帳單",
+    "date": "2026-10-22"
+  },
+  {
+    "word": "el partido",
+    "pos": "陽性名詞",
+    "meaning": "比賽／政黨",
+    "date": "2026-10-22"
   }
 ]

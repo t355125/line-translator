@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-21",
+    "date": "2026-10-22",
     "cards": [
       {
-        "word": "la fábrica",
-        "pos": "陰性名詞",
-        "meaning": "工廠",
-        "detail": "陰性 la fábrica / las fábricas",
-        "example_es": "Mi papá trabaja en una fábrica grande.",
-        "example_zh": "我爸爸在一間大工廠工作。"
-      },
-      {
-        "word": "el viernes",
+        "word": "el jabón",
         "pos": "陽性名詞",
-        "meaning": "星期五",
-        "detail": "陽性 el viernes / los viernes；單複數同形",
-        "example_es": "El viernes voy al cine con mis amigos.",
-        "example_zh": "星期五我和朋友去看電影。"
+        "meaning": "肥皂",
+        "detail": "陽性 el jabón / los jabones",
+        "example_es": "Necesito el jabón para lavarme las manos.",
+        "example_zh": "我需要肥皂來洗手。"
       },
       {
-        "word": "la luna",
-        "pos": "陰性名詞",
-        "meaning": "月亮",
-        "detail": "陰性 la luna / las lunas",
-        "example_es": "La luna está muy bonita esta noche.",
-        "example_zh": "今晚月亮非常漂亮。"
+        "word": "el ratón",
+        "pos": "陽性名詞",
+        "meaning": "老鼠",
+        "detail": "陽性 el ratón / los ratones；也可指電腦滑鼠",
+        "example_es": "El ratón come queso.",
+        "example_zh": "老鼠吃起司。"
       },
       {
-        "word": "fresco",
+        "word": "jubilado",
         "pos": "形容詞",
-        "meaning": "新鮮的；涼爽的",
-        "detail": "陽性 fresco / 陰性 fresca；複數 frescos / frescas",
-        "example_es": "Quiero comprar pan fresco en la panadería.",
-        "example_zh": "我想在麵包店買新鮮的麵包。"
+        "meaning": "退休的",
+        "detail": "陽性 jubilado / 陰性 jubilada；複數 jubilados / jubiladas；也可作名詞用，指退休人員",
+        "example_es": "Mi abuelo está jubilado y descansa en casa.",
+        "example_zh": "我爺爺退休了，在家休息。"
       },
       {
-        "word": "el policía",
+        "word": "curar",
+        "pos": "動詞",
+        "meaning": "治療",
+        "detail": "變化：curo（我）/ curas（你）/ cura（他／她）/ curamos（我們）/ curáis（你們）/ curan（他們）",
+        "example_es": "El médico cura a los pacientes.",
+        "example_zh": "醫生治療病患。"
+      },
+      {
+        "word": "la tarjeta",
+        "pos": "陰性名詞",
+        "meaning": "卡片",
+        "detail": "陰性 la tarjeta / las tarjetas；常見搭配：tarjeta de crédito（信用卡）、tarjeta de cumpleaños（生日卡）",
+        "example_es": "Pago con la tarjeta de crédito.",
+        "example_zh": "我用信用卡付款。"
+      },
+      {
+        "word": "el barco",
         "pos": "陽性名詞",
-        "meaning": "警察",
-        "detail": "陽性 el policía / los policías；注意：雖以 -a 結尾，但指男性警察時用陽性冠詞",
-        "example_es": "El policía ayuda a la gente en la calle.",
-        "example_zh": "警察在街上幫助民眾。"
+        "meaning": "船",
+        "detail": "陽性 el barco / los barcos",
+        "example_es": "Viajamos a la isla en barco.",
+        "example_zh": "我們搭船去那座島。"
       },
       {
-        "word": "conmigo",
-        "pos": "介系詞片語",
-        "meaning": "跟我一起；和我",
-        "detail": "con + migo 的合併形式，固定用法，不可說 con mí",
-        "example_es": "¿Quieres venir conmigo al supermercado?",
-        "example_zh": "你想跟我一起去超市嗎？"
+        "word": "la olla",
+        "pos": "陰性名詞",
+        "meaning": "鍋子",
+        "detail": "陰性 la olla / las ollas；常見搭配：olla a presión（壓力鍋）",
+        "example_es": "Pongo agua en la olla para hacer sopa.",
+        "example_zh": "我在鍋子裡加水來煮湯。"
       },
       {
-        "word": "el proyecto",
+        "word": "lavarse",
+        "pos": "動詞",
+        "meaning": "洗（身體部位）",
+        "detail": "反身動詞，變化：me lavo（我）/ te lavas（你）/ se lava（他／她）/ nos lavamos（我們）/ os laváis（你們）/ se lavan（他們）",
+        "example_es": "Me lavo los dientes después de comer.",
+        "example_zh": "我吃飯後刷牙。"
+      },
+      {
+        "word": "la cuenta",
+        "pos": "陰性名詞",
+        "meaning": "帳單",
+        "detail": "陰性 la cuenta / las cuentas；也有「帳戶」、「計算」等意思；常見用語：¿Me trae la cuenta, por favor?（請給我帳單）",
+        "example_es": "¿Me trae la cuenta, por favor?",
+        "example_zh": "請給我帳單，好嗎？"
+      },
+      {
+        "word": "el partido",
         "pos": "陽性名詞",
-        "meaning": "專案；計畫",
-        "detail": "陽性 el proyecto / los proyectos",
-        "example_es": "Tengo que terminar el proyecto antes del viernes.",
-        "example_zh": "我必須在星期五之前完成這個專案。"
-      },
-      {
-        "word": "plateado",
-        "pos": "形容詞",
-        "meaning": "銀色的",
-        "detail": "陽性 plateado / 陰性 plateada；複數 plateados / plateadas",
-        "example_es": "Ella tiene un bolso plateado muy elegante.",
-        "example_zh": "她有一個非常優雅的銀色包包。"
-      },
-      {
-        "word": "a",
-        "pos": "介系詞",
-        "meaning": "到；向；給",
-        "detail": "用於表示方向、目的地、時間點；a + el = al（縮合形式）",
-        "example_es": "Voy a la escuela a las ocho de la mañana.",
-        "example_zh": "我早上八點去學校。"
-      },
-      {
-        "word": "los vaqueros",
-        "pos": "陽性名詞",
-        "meaning": "牛仔褲",
-        "detail": "陽性複數 los vaqueros；通常以複數形式使用，單數 el vaquero 較少見",
-        "example_es": "Hoy llevo unos vaqueros azules y una camiseta blanca.",
-        "example_zh": "我今天穿著藍色牛仔褲和白色T恤。"
+        "meaning": "比賽／政黨",
+        "detail": "陽性 el partido / los partidos；el partido de fútbol（足球比賽）、el partido político（政黨）",
+        "example_es": "El partido de fútbol empieza a las ocho.",
+        "example_zh": "足球比賽八點開始。"
       }
     ]
   }
