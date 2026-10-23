@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-22",
+    "date": "2026-10-23",
     "cards": [
       {
-        "word": "el estudiante",
-        "pos": "名詞",
-        "meaning": "學生（男女同形）",
-        "detail": "陰陽同形：el estudiante（男學生）/ la estudiante（女學生）；複數：los estudiantes / las estudiantes",
-        "example_es": "El estudiante estudia mucho.",
-        "example_zh": "這位學生讀書很認真。"
+        "word": "la cintura",
+        "pos": "陰性名詞",
+        "meaning": "腰",
+        "detail": "陰性 la cintura / las cinturas",
+        "example_es": "Me duele la cintura después de trabajar.",
+        "example_zh": "工作之後我的腰很痛。"
       },
       {
-        "word": "la espinaca",
-        "pos": "名詞",
-        "meaning": "菠菜",
-        "detail": "陰性：la espinaca / las espinacas；常用複數形式 las espinacas",
-        "example_es": "Me gustan las espinacas con ajo.",
-        "example_zh": "我喜歡大蒜炒菠菜。"
+        "word": "vender",
+        "pos": "動詞",
+        "meaning": "賣",
+        "detail": "變化：vendo（我）/ vendes（你）/ vende（他／她）/ vendemos（我們）",
+        "example_es": "Ella vende frutas en el mercado.",
+        "example_zh": "她在市場賣水果。"
       },
       {
-        "word": "el museo",
-        "pos": "名詞",
-        "meaning": "博物館",
-        "detail": "陽性：el museo / los museos",
-        "example_es": "Vamos al museo el sábado.",
-        "example_zh": "我們星期六去博物館。"
+        "word": "doce",
+        "pos": "數詞",
+        "meaning": "12，十二",
+        "detail": "基數詞，不隨性別變化，用於計數與時間表達",
+        "example_es": "La clase empieza a las doce.",
+        "example_zh": "課程在十二點開始。"
       },
       {
-        "word": "la copa",
-        "pos": "名詞",
-        "meaning": "高腳杯",
-        "detail": "陰性：la copa / las copas；也可指「一杯（酒）」",
-        "example_es": "¿Quieres una copa de vino?",
-        "example_zh": "你想要一杯葡萄酒嗎？"
-      },
-      {
-        "word": "los calcetines",
-        "pos": "名詞",
-        "meaning": "襪子",
-        "detail": "陽性複數：los calcetines；單數：el calcetín",
-        "example_es": "Llevo calcetines azules hoy.",
-        "example_zh": "我今天穿藍色襪子。"
-      },
-      {
-        "word": "el aparcamiento",
-        "pos": "名詞",
-        "meaning": "停車場",
-        "detail": "陽性：el aparcamiento / los aparcamientos；在拉丁美洲常說 el estacionamiento",
-        "example_es": "El aparcamiento está lleno.",
-        "example_zh": "停車場已經滿了。"
-      },
-      {
-        "word": "contento",
+        "word": "negro",
         "pos": "形容詞",
-        "meaning": "開心的、滿足的",
-        "detail": "陽性：contento；陰性：contenta；複數：contentos / contentas",
-        "example_es": "Estoy muy contento con mi nota.",
-        "example_zh": "我對我的成績非常滿意。"
+        "meaning": "黑色的",
+        "detail": "陽性 negro / 陰性 negra；複數 negros / negras",
+        "example_es": "Tengo un gato negro muy bonito.",
+        "example_zh": "我有一隻很漂亮的黑貓。"
       },
       {
-        "word": "la",
-        "pos": "代名詞",
-        "meaning": "她、它（直接受詞，陰性第三人稱）",
-        "detail": "直接受詞代名詞，放在動詞前；指代陰性名詞或女性人物，複數為 las",
-        "example_es": "¿Ves a María? Sí, la veo.",
-        "example_zh": "你看到瑪麗亞了嗎？對，我看到她了。"
+        "word": "la luz",
+        "pos": "陰性名詞",
+        "meaning": "光／電燈",
+        "detail": "陰性 la luz / las luces（複數 z 變 c）",
+        "example_es": "Por favor, apaga la luz antes de dormir.",
+        "example_zh": "請在睡覺前關燈。"
       },
       {
-        "word": "por supuesto",
-        "pos": "片語",
-        "meaning": "當然，當然了",
-        "detail": "固定片語，語氣肯定；可單獨回答，也可接句子，如 Por supuesto que sí.",
-        "example_es": "¿Puedes ayudarme? ¡Por supuesto!",
-        "example_zh": "你可以幫我嗎？當然可以！"
+        "word": "emocionado",
+        "pos": "形容詞",
+        "meaning": "興奮的，激動的",
+        "detail": "陽性 emocionado / 陰性 emocionada；複數 emocionados / emocionadas",
+        "example_es": "Estoy muy emocionado por el viaje a España.",
+        "example_zh": "我對去西班牙的旅行感到非常興奮。"
       },
       {
-        "word": "la natación",
-        "pos": "名詞",
-        "meaning": "游泳（運動）",
-        "detail": "陰性：la natación；通常以單數使用，無常用複數形",
-        "example_es": "La natación es buena para la salud.",
-        "example_zh": "游泳對健康很好。"
+        "word": "irse",
+        "pos": "動詞",
+        "meaning": "離開，走掉",
+        "detail": "代動詞；變化：me voy（我）/ te vas（你）/ se va（他／她）/ nos vamos（我們）",
+        "example_es": "Me voy a casa ahora. ¡Hasta luego!",
+        "example_zh": "我現在要回家了。再見！"
+      },
+      {
+        "word": "el pasaporte",
+        "pos": "陽性名詞",
+        "meaning": "護照",
+        "detail": "陽性 el pasaporte / los pasaportes",
+        "example_es": "No encuentro mi pasaporte. ¿Dónde está?",
+        "example_zh": "我找不到我的護照。它在哪裡？"
+      },
+      {
+        "word": "aburrido",
+        "pos": "形容詞",
+        "meaning": "無聊的，感到無聊的",
+        "detail": "陽性 aburrido / 陰性 aburrida；複數 aburridos / aburridas；也可形容事物「令人無聊的」",
+        "example_es": "Estoy aburrido porque no hay nada que hacer.",
+        "example_zh": "我很無聊，因為沒有什麼事可做。"
+      },
+      {
+        "word": "el pepino",
+        "pos": "陽性名詞",
+        "meaning": "小黃瓜",
+        "detail": "陽性 el pepino / los pepinos",
+        "example_es": "Me gusta comer pepino con sal.",
+        "example_zh": "我喜歡吃加鹽的小黃瓜。"
       }
     ]
   },
