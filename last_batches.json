@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "cards": [
       {
-        "word": "el pimiento",
-        "pos": "陽性名詞",
-        "meaning": "甜椒",
-        "detail": "陽性 el pimiento / los pimientos；常見顏色：pimiento rojo（紅椒）、pimiento verde（青椒）、pimiento amarillo（黃椒）",
-        "example_es": "Me gusta el pimiento rojo en la ensalada.",
-        "example_zh": "我喜歡沙拉裡的紅甜椒。"
-      },
-      {
-        "word": "el codo",
-        "pos": "陽性名詞",
-        "meaning": "手肘",
-        "detail": "陽性 el codo / los codos；身體部位詞彙，常與動詞 doblar（彎曲）或 apoyar（靠著）搭配",
-        "example_es": "Me duele el codo derecho.",
-        "example_zh": "我的右手肘很痛。"
-      },
-      {
-        "word": "el collar",
-        "pos": "陽性名詞",
-        "meaning": "項鍊",
-        "detail": "陽性 el collar / los collares；也可指寵物的項圈",
-        "example_es": "Ella lleva un collar de oro muy bonito.",
-        "example_zh": "她戴著一條很漂亮的金項鍊。"
-      },
-      {
-        "word": "maquillarse",
+        "word": "quedarse",
         "pos": "動詞",
-        "meaning": "化妝",
-        "detail": "反身動詞，現在式變化：me maquillo（我）/ te maquillas（你）/ se maquilla（他／她）/ nos maquillamos（我們）/ os maquilláis（你們）/ se maquillan（他們）",
-        "example_es": "Ella se maquilla antes de salir de casa.",
-        "example_zh": "她在出門前化妝。"
+        "meaning": "留下、待在（某地）",
+        "detail": "反身動詞，現在式變化：me quedo（我留下）/ te quedas（你留下）/ se queda（他／她留下）",
+        "example_es": "Me quedo en casa hoy.",
+        "example_zh": "我今天待在家裡。"
       },
       {
-        "word": "el melón",
-        "pos": "陽性名詞",
-        "meaning": "哈密瓜",
-        "detail": "陽性 el melón / los melones；注意重音符號不可省略",
-        "example_es": "En verano como mucho melón porque es muy dulce.",
-        "example_zh": "夏天我吃很多哈密瓜，因為它很甜。"
+        "word": "dos",
+        "pos": "數詞",
+        "meaning": "2、兩個",
+        "detail": "基數詞，不隨陰陽性變化，用於計數或表示數量",
+        "example_es": "Tengo dos hermanos.",
+        "example_zh": "我有兩個兄弟。"
       },
       {
-        "word": "enfermo",
+        "word": "la tierra",
+        "pos": "名詞",
+        "meaning": "土地、大地；（Tierra）地球",
+        "detail": "陰性名詞：la tierra（單數）/ las tierras（複數）；寫成大寫 Tierra 時指地球",
+        "example_es": "La tierra de mi pueblo es muy fértil.",
+        "example_zh": "我家鄉的土地非常肥沃。"
+      },
+      {
+        "word": "el equipo",
+        "pos": "名詞",
+        "meaning": "隊伍、團隊；設備、器材",
+        "detail": "陽性名詞：el equipo（單數）/ los equipos（複數）；可指運動隊伍或一套設備",
+        "example_es": "Nuestro equipo ganó el partido.",
+        "example_zh": "我們的隊伍贏得了比賽。"
+      },
+      {
+        "word": "la fiebre",
+        "pos": "名詞",
+        "meaning": "發燒、高燒",
+        "detail": "陰性名詞：la fiebre（單數）/ las fiebres（複數）；常用搭配：tener fiebre（發燒）",
+        "example_es": "El niño tiene fiebre y no va al colegio.",
+        "example_zh": "那個小孩發燒了，沒去學校。"
+      },
+      {
+        "word": "el carro",
+        "pos": "名詞",
+        "meaning": "車、汽車（拉丁美洲用語）",
+        "detail": "陽性名詞：el carro（單數）/ los carros（複數）；在西班牙通常說 el coche，拉美地區普遍用 el carro",
+        "example_es": "Mi papá lava el carro los domingos.",
+        "example_zh": "我爸爸每個星期天洗車。"
+      },
+      {
+        "word": "anoche",
+        "pos": "副詞",
+        "meaning": "昨晚、昨天晚上",
+        "detail": "時間副詞，不變化，通常與過去式搭配使用",
+        "example_es": "Anoche comí pizza con mis amigos.",
+        "example_zh": "昨晚我和朋友們一起吃披薩。"
+      },
+      {
+        "word": "cortar",
+        "pos": "動詞",
+        "meaning": "切、剪、割斷",
+        "detail": "規則 -ar 動詞，現在式變化：corto（我）/ cortas（你）/ corta（他／她）",
+        "example_es": "Corto las verduras para la sopa.",
+        "example_zh": "我把蔬菜切好來煮湯。"
+      },
+      {
+        "word": "la moneda",
+        "pos": "名詞",
+        "meaning": "硬幣；貨幣、幣制",
+        "detail": "陰性名詞：la moneda（單數）/ las monedas（複數）；可指實體硬幣，也可指一個國家的貨幣單位",
+        "example_es": "No tengo monedas para el autobús.",
+        "example_zh": "我沒有硬幣搭公車。"
+      },
+      {
+        "word": "ácido",
         "pos": "形容詞",
-        "meaning": "生病的",
-        "detail": "陽性 enfermo / 陰性 enferma；複數：enfermos / enfermas；常與動詞 estar 搭配使用（estar enfermo/a）",
-        "example_es": "Hoy no voy a clase porque estoy enfermo.",
-        "example_zh": "今天我不去上課，因為我生病了。"
-      },
-      {
-        "word": "la gallina",
-        "pos": "陰性名詞",
-        "meaning": "母雞",
-        "detail": "陰性 la gallina / las gallinas；雄性為 el gallo（公雞）；也可口語用來形容膽小的人",
-        "example_es": "La gallina pone un huevo cada día.",
-        "example_zh": "那隻母雞每天下一顆蛋。"
-      },
-      {
-        "word": "el mediodía",
-        "pos": "陽性名詞",
-        "meaning": "中午十二點",
-        "detail": "陽性 el mediodía（通常無複數用法）；注意重音符號；常用片語：a mediodía（在中午）",
-        "example_es": "Comemos juntos a mediodía.",
-        "example_zh": "我們中午一起吃飯。"
-      },
-      {
-        "word": "serio",
-        "pos": "形容詞",
-        "meaning": "嚴肅的",
-        "detail": "陽性 serio / 陰性 seria；複數：serios / serias；也有「認真的、可靠的」之意",
-        "example_es": "Mi profesor de matemáticas es muy serio en clase.",
-        "example_zh": "我的數學老師上課非常嚴肅。"
-      },
-      {
-        "word": "el teatro",
-        "pos": "陽性名詞",
-        "meaning": "劇院",
-        "detail": "陽性 el teatro / los teatros；也可指「戲劇」這門藝術；常用片語：ir al teatro（去看戲）",
-        "example_es": "El sábado vamos al teatro a ver una obra.",
-        "example_zh": "星期六我們去劇院看一齣戲。"
+        "meaning": "酸的、酸味的",
+        "detail": "陽性形式：ácido；陰性形式：ácida；複數：ácidos / ácidas；也可作名詞使用，el ácido 表示「酸（物質）」",
+        "example_es": "Este limón está muy ácido.",
+        "example_zh": "這顆檸檬非常酸。"
       }
     ]
   }
