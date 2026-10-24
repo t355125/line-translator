@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-23",
+    "date": "2026-10-24",
     "cards": [
       {
-        "word": "la cintura",
-        "pos": "陰性名詞",
-        "meaning": "腰",
-        "detail": "陰性 la cintura / las cinturas",
-        "example_es": "Me duele la cintura después de trabajar.",
-        "example_zh": "工作之後我的腰很痛。"
+        "word": "abril",
+        "pos": "名詞（月份）",
+        "meaning": "四月",
+        "detail": "月份在西班牙文中不大寫，前面通常不加冠詞，說日期時用 en abril（在四月）",
+        "example_es": "Mi cumpleaños es en abril.",
+        "example_zh": "我的生日在四月。"
       },
       {
-        "word": "vender",
-        "pos": "動詞",
-        "meaning": "賣",
-        "detail": "變化：vendo（我）/ vendes（你）/ vende（他／她）/ vendemos（我們）",
-        "example_es": "Ella vende frutas en el mercado.",
-        "example_zh": "她在市場賣水果。"
-      },
-      {
-        "word": "doce",
-        "pos": "數詞",
-        "meaning": "12，十二",
-        "detail": "基數詞，不隨性別變化，用於計數與時間表達",
-        "example_es": "La clase empieza a las doce.",
-        "example_zh": "課程在十二點開始。"
-      },
-      {
-        "word": "negro",
-        "pos": "形容詞",
-        "meaning": "黑色的",
-        "detail": "陽性 negro / 陰性 negra；複數 negros / negras",
-        "example_es": "Tengo un gato negro muy bonito.",
-        "example_zh": "我有一隻很漂亮的黑貓。"
-      },
-      {
-        "word": "la luz",
-        "pos": "陰性名詞",
-        "meaning": "光／電燈",
-        "detail": "陰性 la luz / las luces（複數 z 變 c）",
-        "example_es": "Por favor, apaga la luz antes de dormir.",
-        "example_zh": "請在睡覺前關燈。"
-      },
-      {
-        "word": "emocionado",
-        "pos": "形容詞",
-        "meaning": "興奮的，激動的",
-        "detail": "陽性 emocionado / 陰性 emocionada；複數 emocionados / emocionadas",
-        "example_es": "Estoy muy emocionado por el viaje a España.",
-        "example_zh": "我對去西班牙的旅行感到非常興奮。"
-      },
-      {
-        "word": "irse",
-        "pos": "動詞",
-        "meaning": "離開，走掉",
-        "detail": "代動詞；變化：me voy（我）/ te vas（你）/ se va（他／她）/ nos vamos（我們）",
-        "example_es": "Me voy a casa ahora. ¡Hasta luego!",
-        "example_zh": "我現在要回家了。再見！"
-      },
-      {
-        "word": "el pasaporte",
+        "word": "el presupuesto",
         "pos": "陽性名詞",
-        "meaning": "護照",
-        "detail": "陽性 el pasaporte / los pasaportes",
-        "example_es": "No encuentro mi pasaporte. ¿Dónde está?",
-        "example_zh": "我找不到我的護照。它在哪裡？"
+        "meaning": "預算",
+        "detail": "陽性 el presupuesto / los presupuestos",
+        "example_es": "No tenemos mucho presupuesto para las vacaciones.",
+        "example_zh": "我們度假的預算不多。"
       },
       {
-        "word": "aburrido",
-        "pos": "形容詞",
-        "meaning": "無聊的，感到無聊的",
-        "detail": "陽性 aburrido / 陰性 aburrida；複數 aburridos / aburridas；也可形容事物「令人無聊的」",
-        "example_es": "Estoy aburrido porque no hay nada que hacer.",
-        "example_zh": "我很無聊，因為沒有什麼事可做。"
-      },
-      {
-        "word": "el pepino",
+        "word": "el metro",
         "pos": "陽性名詞",
-        "meaning": "小黃瓜",
-        "detail": "陽性 el pepino / los pepinos",
-        "example_es": "Me gusta comer pepino con sal.",
-        "example_zh": "我喜歡吃加鹽的小黃瓜。"
+        "meaning": "捷運／地鐵",
+        "detail": "陽性 el metro / los metros；也可指「公尺」，視語境判斷",
+        "example_es": "Tomo el metro para ir al trabajo.",
+        "example_zh": "我搭捷運去上班。"
+      },
+      {
+        "word": "la tabla",
+        "pos": "陰性名詞",
+        "meaning": "砧板／板子",
+        "detail": "陰性 la tabla / las tablas；廚房用語常說 la tabla de cortar（砧板）",
+        "example_es": "Corto las verduras en la tabla.",
+        "example_zh": "我在砧板上切蔬菜。"
+      },
+      {
+        "word": "doler",
+        "pos": "動詞",
+        "meaning": "疼痛、痛",
+        "detail": "用法類似 gustar，以疼痛部位為主詞：me duele（我的某部位痛）/ me duelen（複數部位）；常用第三人稱 duele / duelen",
+        "example_es": "Me duele mucho la cabeza hoy.",
+        "example_zh": "我今天頭很痛。"
+      },
+      {
+        "word": "la seta",
+        "pos": "陰性名詞",
+        "meaning": "菇類／蘑菇",
+        "detail": "陰性 la seta / las setas；在西班牙常指野生菇，超市常見的蘑菇也可說 el champiñón",
+        "example_es": "Me gustan las setas salteadas con ajo.",
+        "example_zh": "我喜歡用大蒜炒的菇類。"
+      },
+      {
+        "word": "el cielo",
+        "pos": "陽性名詞",
+        "meaning": "天空",
+        "detail": "陽性 el cielo / los cielos；也可作「天堂」之意；常用搭配：el cielo azul（藍天）、el cielo nublado（陰天）",
+        "example_es": "El cielo está muy azul hoy.",
+        "example_zh": "今天天空非常藍。"
+      },
+      {
+        "word": "dormirse",
+        "pos": "動詞（反身動詞）",
+        "meaning": "入睡、睡著",
+        "detail": "反身動詞，現在式變化：me duermo（我）/ te duermes（你）/ se duerme（他／她）；注意 o→ue 的詞幹變化",
+        "example_es": "El bebé se duerme muy rápido.",
+        "example_zh": "那個嬰兒很快就睡著了。"
+      },
+      {
+        "word": "la piña",
+        "pos": "陰性名詞",
+        "meaning": "鳳梨",
+        "detail": "陰性 la piña / las piñas；注意 ñ 的發音；在部分拉丁美洲國家也說 el ananá",
+        "example_es": "Me gusta mucho el jugo de piña.",
+        "example_zh": "我非常喜歡鳳梨汁。"
+      },
+      {
+        "word": "el pingüino",
+        "pos": "陽性名詞",
+        "meaning": "企鵝",
+        "detail": "陽性 el pingüino / los pingüinos；注意 ü 上方的分音符號，表示 u 要發音",
+        "example_es": "Los pingüinos viven en lugares muy fríos.",
+        "example_zh": "企鵝生活在非常寒冷的地方。"
       }
     ]
   },
