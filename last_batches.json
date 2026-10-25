@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "cards": [
       {
-        "word": "abril",
-        "pos": "名詞（月份）",
-        "meaning": "四月",
-        "detail": "月份在西班牙文中不大寫，前面通常不加冠詞，說日期時用 en abril（在四月）",
-        "example_es": "Mi cumpleaños es en abril.",
-        "example_zh": "我的生日在四月。"
+        "word": "debajo de",
+        "pos": "片語",
+        "meaning": "在……下方",
+        "detail": "介系詞片語，後接名詞，表示位置在某物之下。反義詞為 encima de（在……上方）。",
+        "example_es": "El gato está debajo de la mesa.",
+        "example_zh": "貓在桌子下面。"
       },
       {
-        "word": "el presupuesto",
+        "word": "el pasatiempo",
         "pos": "陽性名詞",
-        "meaning": "預算",
-        "detail": "陽性 el presupuesto / los presupuestos",
-        "example_es": "No tenemos mucho presupuesto para las vacaciones.",
-        "example_zh": "我們度假的預算不多。"
+        "meaning": "消遣；嗜好",
+        "detail": "陽性 el pasatiempo / los pasatiempos",
+        "example_es": "Mi pasatiempo favorito es leer libros.",
+        "example_zh": "我最喜歡的消遣是讀書。"
       },
       {
-        "word": "el metro",
+        "word": "el minuto",
         "pos": "陽性名詞",
-        "meaning": "捷運／地鐵",
-        "detail": "陽性 el metro / los metros；也可指「公尺」，視語境判斷",
-        "example_es": "Tomo el metro para ir al trabajo.",
-        "example_zh": "我搭捷運去上班。"
+        "meaning": "分鐘",
+        "detail": "陽性 el minuto / los minutos",
+        "example_es": "Espera un minuto, por favor.",
+        "example_zh": "請等一分鐘。"
       },
       {
-        "word": "la tabla",
-        "pos": "陰性名詞",
-        "meaning": "砧板／板子",
-        "detail": "陰性 la tabla / las tablas；廚房用語常說 la tabla de cortar（砧板）",
-        "example_es": "Corto las verduras en la tabla.",
-        "example_zh": "我在砧板上切蔬菜。"
-      },
-      {
-        "word": "doler",
+        "word": "gastar",
         "pos": "動詞",
-        "meaning": "疼痛、痛",
-        "detail": "用法類似 gustar，以疼痛部位為主詞：me duele（我的某部位痛）/ me duelen（複數部位）；常用第三人稱 duele / duelen",
-        "example_es": "Me duele mucho la cabeza hoy.",
-        "example_zh": "我今天頭很痛。"
+        "meaning": "花掉（金錢、時間等）",
+        "detail": "變化：gasto（我）/ gastas（你）/ gasta（他／她）/ gastamos（我們）/ gastáis（你們）/ gastan（他們）",
+        "example_es": "Gasto mucho dinero en ropa.",
+        "example_zh": "我在衣服上花了很多錢。"
       },
       {
-        "word": "la seta",
+        "word": "la novia",
         "pos": "陰性名詞",
-        "meaning": "菇類／蘑菇",
-        "detail": "陰性 la seta / las setas；在西班牙常指野生菇，超市常見的蘑菇也可說 el champiñón",
-        "example_es": "Me gustan las setas salteadas con ajo.",
-        "example_zh": "我喜歡用大蒜炒的菇類。"
+        "meaning": "女友；新娘",
+        "detail": "陰性 la novia / las novias；男友／新郎為 el novio",
+        "example_es": "Mi novia se llama Ana.",
+        "example_zh": "我的女友叫 Ana。"
       },
       {
-        "word": "el cielo",
+        "word": "verde",
+        "pos": "形容詞",
+        "meaning": "綠色的",
+        "detail": "陰陽性同形：verde（陽／陰性單數）/ verdes（陽／陰性複數）",
+        "example_es": "Me gusta la camisa verde.",
+        "example_zh": "我喜歡那件綠色襯衫。"
+      },
+      {
+        "word": "el carpintero",
         "pos": "陽性名詞",
-        "meaning": "天空",
-        "detail": "陽性 el cielo / los cielos；也可作「天堂」之意；常用搭配：el cielo azul（藍天）、el cielo nublado（陰天）",
-        "example_es": "El cielo está muy azul hoy.",
-        "example_zh": "今天天空非常藍。"
+        "meaning": "木工；木匠",
+        "detail": "陽性 el carpintero / los carpinteros；陰性為 la carpintera",
+        "example_es": "El carpintero hace una mesa de madera.",
+        "example_zh": "那位木匠正在做一張木桌。"
       },
       {
-        "word": "dormirse",
-        "pos": "動詞（反身動詞）",
-        "meaning": "入睡、睡著",
-        "detail": "反身動詞，現在式變化：me duermo（我）/ te duermes（你）/ se duerme（他／她）；注意 o→ue 的詞幹變化",
-        "example_es": "El bebé se duerme muy rápido.",
-        "example_zh": "那個嬰兒很快就睡著了。"
-      },
-      {
-        "word": "la piña",
+        "word": "la firma",
         "pos": "陰性名詞",
-        "meaning": "鳳梨",
-        "detail": "陰性 la piña / las piñas；注意 ñ 的發音；在部分拉丁美洲國家也說 el ananá",
-        "example_es": "Me gusta mucho el jugo de piña.",
-        "example_zh": "我非常喜歡鳳梨汁。"
+        "meaning": "簽名",
+        "detail": "陰性 la firma / las firmas；動詞為 firmar（簽名）",
+        "example_es": "Necesito tu firma en este documento.",
+        "example_zh": "我需要你在這份文件上簽名。"
       },
       {
-        "word": "el pingüino",
-        "pos": "陽性名詞",
-        "meaning": "企鵝",
-        "detail": "陽性 el pingüino / los pingüinos；注意 ü 上方的分音符號，表示 u 要發音",
-        "example_es": "Los pingüinos viven en lugares muy fríos.",
-        "example_zh": "企鵝生活在非常寒冷的地方。"
+        "word": "perezoso",
+        "pos": "形容詞",
+        "meaning": "懶惰的",
+        "detail": "陽性單數 perezoso / 陰性單數 perezosa / 陽性複數 perezosos / 陰性複數 perezosas",
+        "example_es": "Mi hermano es muy perezoso los fines de semana.",
+        "example_zh": "我哥哥週末非常懶惰。"
+      },
+      {
+        "word": "la lata",
+        "pos": "陰性名詞",
+        "meaning": "罐頭",
+        "detail": "陰性 la lata / las latas；也可指馬口鐵材質的容器。",
+        "example_es": "Compro una lata de atún en el supermercado.",
+        "example_zh": "我在超市買了一罐鮪魚罐頭。"
       }
     ]
   },
