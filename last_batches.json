@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-24",
+    "date": "2026-10-25",
     "cards": [
       {
-        "word": "quedarse",
-        "pos": "動詞",
-        "meaning": "留下、待在（某地）",
-        "detail": "反身動詞，現在式變化：me quedo（我留下）/ te quedas（你留下）/ se queda（他／她留下）",
-        "example_es": "Me quedo en casa hoy.",
-        "example_zh": "我今天待在家裡。"
+        "word": "la hija",
+        "pos": "陰性名詞",
+        "meaning": "女兒",
+        "detail": "陰性 la hija / las hijas；對應陽性 el hijo（兒子）",
+        "example_es": "Mi hija tiene cinco años.",
+        "example_zh": "我的女兒五歲。"
       },
       {
-        "word": "dos",
-        "pos": "數詞",
-        "meaning": "2、兩個",
-        "detail": "基數詞，不隨陰陽性變化，用於計數或表示數量",
-        "example_es": "Tengo dos hermanos.",
-        "example_zh": "我有兩個兄弟。"
+        "word": "el aceite",
+        "pos": "陽性名詞",
+        "meaning": "油",
+        "detail": "陽性 el aceite / los aceites；常見搭配：aceite de oliva（橄欖油）",
+        "example_es": "Cocino con aceite de oliva.",
+        "example_zh": "我用橄欖油烹飪。"
       },
       {
-        "word": "la tierra",
-        "pos": "名詞",
-        "meaning": "土地、大地；（Tierra）地球",
-        "detail": "陰性名詞：la tierra（單數）/ las tierras（複數）；寫成大寫 Tierra 時指地球",
-        "example_es": "La tierra de mi pueblo es muy fértil.",
-        "example_zh": "我家鄉的土地非常肥沃。"
+        "word": "el director",
+        "pos": "陽性名詞",
+        "meaning": "主管／導演",
+        "detail": "陽性 el director / los directores；陰性 la directora / las directoras",
+        "example_es": "El director de la empresa es muy simpático.",
+        "example_zh": "這家公司的主管非常友善。"
       },
       {
-        "word": "el equipo",
-        "pos": "名詞",
-        "meaning": "隊伍、團隊；設備、器材",
-        "detail": "陽性名詞：el equipo（單數）/ los equipos（複數）；可指運動隊伍或一套設備",
-        "example_es": "Nuestro equipo ganó el partido.",
-        "example_zh": "我們的隊伍贏得了比賽。"
-      },
-      {
-        "word": "la fiebre",
-        "pos": "名詞",
-        "meaning": "發燒、高燒",
-        "detail": "陰性名詞：la fiebre（單數）/ las fiebres（複數）；常用搭配：tener fiebre（發燒）",
-        "example_es": "El niño tiene fiebre y no va al colegio.",
-        "example_zh": "那個小孩發燒了，沒去學校。"
-      },
-      {
-        "word": "el carro",
-        "pos": "名詞",
-        "meaning": "車、汽車（拉丁美洲用語）",
-        "detail": "陽性名詞：el carro（單數）/ los carros（複數）；在西班牙通常說 el coche，拉美地區普遍用 el carro",
-        "example_es": "Mi papá lava el carro los domingos.",
-        "example_zh": "我爸爸每個星期天洗車。"
-      },
-      {
-        "word": "anoche",
-        "pos": "副詞",
-        "meaning": "昨晚、昨天晚上",
-        "detail": "時間副詞，不變化，通常與過去式搭配使用",
-        "example_es": "Anoche comí pizza con mis amigos.",
-        "example_zh": "昨晚我和朋友們一起吃披薩。"
-      },
-      {
-        "word": "cortar",
-        "pos": "動詞",
-        "meaning": "切、剪、割斷",
-        "detail": "規則 -ar 動詞，現在式變化：corto（我）/ cortas（你）/ corta（他／她）",
-        "example_es": "Corto las verduras para la sopa.",
-        "example_zh": "我把蔬菜切好來煮湯。"
-      },
-      {
-        "word": "la moneda",
-        "pos": "名詞",
-        "meaning": "硬幣；貨幣、幣制",
-        "detail": "陰性名詞：la moneda（單數）/ las monedas（複數）；可指實體硬幣，也可指一個國家的貨幣單位",
-        "example_es": "No tengo monedas para el autobús.",
-        "example_zh": "我沒有硬幣搭公車。"
-      },
-      {
-        "word": "ácido",
+        "word": "gris",
         "pos": "形容詞",
-        "meaning": "酸的、酸味的",
-        "detail": "陽性形式：ácido；陰性形式：ácida；複數：ácidos / ácidas；也可作名詞使用，el ácido 表示「酸（物質）」",
-        "example_es": "Este limón está muy ácido.",
-        "example_zh": "這顆檸檬非常酸。"
+        "meaning": "灰色的",
+        "detail": "陰陽性同形：gris（男／女）；複數 grises；不隨名詞性別變化",
+        "example_es": "Hoy el cielo está gris.",
+        "example_zh": "今天天空是灰色的。"
+      },
+      {
+        "word": "tienes",
+        "pos": "動詞",
+        "meaning": "你有（tener 的第二人稱單數現在式）",
+        "detail": "tener 現在式變化：tengo（我）/ tienes（你）/ tiene（他／她）/ tenemos（我們）/ tenéis（你們）/ tienen（他們）",
+        "example_es": "¿Tienes un bolígrafo?",
+        "example_zh": "你有原子筆嗎？"
+      },
+      {
+        "word": "la patata",
+        "pos": "陰性名詞",
+        "meaning": "馬鈴薯（西班牙用法）",
+        "detail": "陰性 la patata / las patatas；拉丁美洲說法為 la papa",
+        "example_es": "Me gustan las patatas fritas.",
+        "example_zh": "我喜歡炸薯條。"
+      },
+      {
+        "word": "el brazo",
+        "pos": "陽性名詞",
+        "meaning": "手臂",
+        "detail": "陽性 el brazo / los brazos；身體部位，常與動詞 levantar（舉起）搭配",
+        "example_es": "Me duele el brazo derecho.",
+        "example_zh": "我的右手臂很痛。"
+      },
+      {
+        "word": "el río",
+        "pos": "陽性名詞",
+        "meaning": "河",
+        "detail": "陽性 el río / los ríos；注意 í 有重音符號",
+        "example_es": "El río Ebro está en España.",
+        "example_zh": "埃布羅河在西班牙。"
+      },
+      {
+        "word": "la rata",
+        "pos": "陰性名詞",
+        "meaning": "大老鼠",
+        "detail": "陰性 la rata / las ratas；對應小鼠為 el ratón",
+        "example_es": "Hay una rata en la calle.",
+        "example_zh": "街上有一隻大老鼠。"
+      },
+      {
+        "word": "la red",
+        "pos": "陰性名詞",
+        "meaning": "網路／網絡",
+        "detail": "陰性 la red / las redes；常見搭配：la red social（社群媒體）、conectarse a la red（連上網路）",
+        "example_es": "No tengo red en este lugar.",
+        "example_zh": "我在這個地方沒有網路。"
       }
     ]
   }
