@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-26",
+    "date": "2026-10-27",
     "cards": [
       {
-        "word": "detrás",
-        "pos": "副詞",
-        "meaning": "後面、在後方",
-        "detail": "常與介詞 de 連用：detrás de（在……的後面），例如 detrás de la puerta（在門後面）",
-        "example_es": "El gato está detrás del sofá.",
-        "example_zh": "貓在沙發後面。"
+        "word": "la estrella",
+        "pos": "陰性名詞",
+        "meaning": "星星",
+        "detail": "陰性 la estrella / las estrellas",
+        "example_es": "El cielo tiene muchas estrellas.",
+        "example_zh": "天空有很多星星。"
       },
       {
-        "word": "crudo",
+        "word": "el jefe",
+        "pos": "陽性名詞",
+        "meaning": "老闆（男）",
+        "detail": "陽性 el jefe / los jefes；女性老闆說 la jefa",
+        "example_es": "Mi jefe es muy simpático.",
+        "example_zh": "我的老闆非常友善。"
+      },
+      {
+        "word": "maduro",
         "pos": "形容詞",
-        "meaning": "生的、未煮熟的",
-        "detail": "陽性：crudo / crudos；陰性：cruda / crudas",
-        "example_es": "No me gusta el pescado crudo.",
-        "example_zh": "我不喜歡生魚。"
+        "meaning": "成熟的",
+        "detail": "陽性 maduro / 陰性 madura；複數 maduros / maduras；可指水果熟了，也可指人成熟",
+        "example_es": "Este plátano está muy maduro.",
+        "example_zh": "這根香蕉非常熟。"
       },
       {
-        "word": "la mantequilla",
-        "pos": "名詞",
-        "meaning": "奶油、牛油",
-        "detail": "陰性：la mantequilla / las mantequillas",
-        "example_es": "Pongo mantequilla en el pan cada mañana.",
-        "example_zh": "我每天早上在麵包上塗奶油。"
+        "word": "hago",
+        "pos": "動詞",
+        "meaning": "我做",
+        "detail": "動詞原形 hacer（做）的第一人稱單數現在式：hago(yo) / haces(tú) / hace(él/ella)",
+        "example_es": "Hago la tarea en casa.",
+        "example_zh": "我在家做作業。"
       },
       {
-        "word": "el viaje",
-        "pos": "名詞",
-        "meaning": "旅程、旅行",
-        "detail": "陽性：el viaje / los viajes；常用片語：hacer un viaje（去旅行）、buen viaje（一路順風）",
-        "example_es": "El viaje a México fue muy largo.",
-        "example_zh": "去墨西哥的旅程非常漫長。"
-      },
-      {
-        "word": "el abogado",
-        "pos": "名詞",
-        "meaning": "律師",
-        "detail": "陽性：el abogado / los abogados；陰性：la abogada / las abogadas",
-        "example_es": "Mi hermana es abogada en Madrid.",
-        "example_zh": "我姊姊是馬德里的律師。"
-      },
-      {
-        "word": "divertido",
+        "word": "orgulloso",
         "pos": "形容詞",
-        "meaning": "有趣的、好玩的",
-        "detail": "陽性：divertido / divertidos；陰性：divertida / divertidas",
-        "example_es": "La fiesta de ayer fue muy divertida.",
-        "example_zh": "昨天的派對非常好玩。"
+        "meaning": "驕傲的",
+        "detail": "陽性 orgulloso / 陰性 orgullosa；複數 orgullosos / orgullosas；常與介系詞 de 搭配，如 orgulloso de（對…感到驕傲）",
+        "example_es": "Estoy muy orgulloso de ti.",
+        "example_zh": "我非常以你為榮。"
       },
       {
-        "word": "la entrada",
-        "pos": "名詞",
-        "meaning": "入口；門票",
-        "detail": "陰性：la entrada / las entradas；兩種常用意思：①入口（la entrada del museo）②門票（comprar una entrada）",
-        "example_es": "Compré dos entradas para el concierto.",
-        "example_zh": "我買了兩張音樂會的門票。"
+        "word": "la berenjena",
+        "pos": "陰性名詞",
+        "meaning": "茄子",
+        "detail": "陰性 la berenjena / las berenjenas",
+        "example_es": "Me gusta comer berenjena con tomate.",
+        "example_zh": "我喜歡吃茄子配番茄。"
       },
       {
-        "word": "en punto",
-        "pos": "片語",
-        "meaning": "整點、準時（幾點整）",
-        "detail": "用於表示精確的時刻，放在時間表達之後，例如：a las tres en punto（三點整）",
-        "example_es": "La clase empieza a las nueve en punto.",
-        "example_zh": "課在九點整開始。"
+        "word": "cincuenta",
+        "pos": "數詞",
+        "meaning": "50",
+        "detail": "基數詞，不隨性別變化；51 = cincuenta y uno，52 = cincuenta y dos，以此類推",
+        "example_es": "Mi abuela tiene cincuenta años.",
+        "example_zh": "我的祖母五十歲。"
       },
       {
-        "word": "beige",
-        "pos": "形容詞",
-        "meaning": "米色的、淺褐色的",
-        "detail": "陰陽性同形：beige / beige；複數：beiges；為外來語（源自法文），發音近似「béis」",
-        "example_es": "Ella lleva un abrigo beige muy elegante.",
-        "example_zh": "她穿著一件非常優雅的米色大衣。"
+        "word": "la lengua",
+        "pos": "陰性名詞",
+        "meaning": "舌頭／語言",
+        "detail": "陰性 la lengua / las lenguas；指身體器官「舌頭」，也指「語言」（同 el idioma）",
+        "example_es": "El español es una lengua muy bonita.",
+        "example_zh": "西班牙文是一種非常美的語言。"
       },
       {
-        "word": "la mitad",
-        "pos": "名詞",
-        "meaning": "一半",
-        "detail": "陰性：la mitad / las mitades；常用結構：la mitad de（……的一半），例如：la mitad del precio（半價）",
-        "example_es": "Como solo la mitad del pastel porque tengo dieta.",
-        "example_zh": "我只吃了一半的蛋糕，因為我在節食。"
+        "word": "los guantes",
+        "pos": "陽性名詞",
+        "meaning": "手套",
+        "detail": "陽性複數 los guantes；單數 el guante；手套通常成對，日常多用複數",
+        "example_es": "En invierno llevo los guantes.",
+        "example_zh": "冬天我戴手套。"
+      },
+      {
+        "word": "les",
+        "pos": "間接受詞代名詞",
+        "meaning": "給他們／給她們（間接受詞・複數）",
+        "detail": "第三人稱複數間接受詞代名詞，不分陰陽性；對應單數為 le；放在變位動詞前",
+        "example_es": "Les doy un regalo a mis amigos.",
+        "example_zh": "我送給我的朋友們一份禮物。"
       }
     ]
   },
