@@ -88,84 +88,84 @@
     "date": "2026-10-27",
     "cards": [
       {
-        "word": "qué tal",
-        "pos": "片語",
-        "meaning": "如何（打招呼），常用於問候，相當於「你好嗎？」或「怎麼樣？」",
-        "detail": "固定片語，不隨主詞變化。常見回應：Bien, gracias.（很好，謝謝。）",
-        "example_es": "¡Hola! ¿Qué tal?",
-        "example_zh": "嗨！你好嗎？"
+        "word": "está",
+        "pos": "動詞",
+        "meaning": "他／她／您在（某地或某狀態）",
+        "detail": "ser/estar 的 estar 現在式第三人稱單數變化：estoy(我)／estás(你)／está(他、她、您)／estamos(我們)／estáis(你們)／están(他們)",
+        "example_es": "Mi mamá está en casa.",
+        "example_zh": "我媽媽在家。"
       },
       {
-        "word": "el refresco",
-        "pos": "陽性名詞",
-        "meaning": "汽水；清涼飲料",
-        "detail": "陽性 el refresco / los refrescos",
-        "example_es": "Quiero un refresco de naranja, por favor.",
-        "example_zh": "我想要一杯柳橙汽水，麻煩您。"
+        "word": "el limón",
+        "pos": "名詞",
+        "meaning": "檸檬",
+        "detail": "陽性：el limón／los limones",
+        "example_es": "Quiero un té con limón, por favor.",
+        "example_zh": "我想要一杯檸檬茶，謝謝。"
       },
       {
-        "word": "el arándano",
-        "pos": "陽性名詞",
-        "meaning": "藍莓",
-        "detail": "陽性 el arándano / los arándanos",
-        "example_es": "Me gustan mucho los arándanos con yogur.",
-        "example_zh": "我非常喜歡藍莓配優格。"
+        "word": "el cambio",
+        "pos": "名詞",
+        "meaning": "零錢／改變",
+        "detail": "陽性：el cambio／los cambios；日常用語中「el cambio」常指找零的零錢，也可指「改變、變化」",
+        "example_es": "No tengo cambio. ¿Tienes monedas?",
+        "example_zh": "我沒有零錢。你有硬幣嗎？"
       },
       {
-        "word": "morado",
+        "word": "el búho",
+        "pos": "名詞",
+        "meaning": "貓頭鷹",
+        "detail": "陽性：el búho／los búhos；注意重音在 ú",
+        "example_es": "El búho duerme durante el día.",
+        "example_zh": "貓頭鷹白天睡覺。"
+      },
+      {
+        "word": "la toalla",
+        "pos": "名詞",
+        "meaning": "毛巾",
+        "detail": "陰性：la toalla／las toallas",
+        "example_es": "Necesito una toalla limpia, por favor.",
+        "example_zh": "我需要一條乾淨的毛巾，謝謝。"
+      },
+      {
+        "word": "la pierna",
+        "pos": "名詞",
+        "meaning": "腿",
+        "detail": "陰性：la pierna／las piernas；指整條腿，膝蓋以下也可用 la pierna 泛指",
+        "example_es": "Me duele la pierna derecha.",
+        "example_zh": "我的右腿很痛。"
+      },
+      {
+        "word": "el billete",
+        "pos": "名詞",
+        "meaning": "車票（西班牙用語）／鈔票",
+        "detail": "陽性：el billete／los billetes；在西班牙指火車票、巴士票等，也可指紙鈔；拉丁美洲一般用「el boleto」表示車票",
+        "example_es": "Compro un billete de tren para Madrid.",
+        "example_zh": "我買一張去馬德里的火車票。"
+      },
+      {
+        "word": "catorce",
+        "pos": "數詞",
+        "meaning": "十四（14）",
+        "detail": "基數詞，不隨名詞性別變化；14 = catorce，前後數字：trece(13)、quince(15)",
+        "example_es": "Tengo catorce años.",
+        "example_zh": "我十四歲。"
+      },
+      {
+        "word": "la receta",
+        "pos": "名詞",
+        "meaning": "處方／食譜",
+        "detail": "陰性：la receta／las recetas；「la receta médica」指醫師處方，「la receta de cocina」指烹飪食譜",
+        "example_es": "El médico me da una receta para la medicina.",
+        "example_zh": "醫生給我一張藥品處方。"
+      },
+      {
+        "word": "embarazada",
         "pos": "形容詞",
-        "meaning": "紫色的",
-        "detail": "陽性 morado / 陰性 morada；複數 morados / moradas",
-        "example_es": "Ella lleva una camisa morada hoy.",
-        "example_zh": "她今天穿一件紫色的襯衫。"
-      },
-      {
-        "word": "el resfriado",
-        "pos": "陽性名詞",
-        "meaning": "感冒；也可說 tener un resfriado（得了感冒）",
-        "detail": "陽性 el resfriado / los resfriados",
-        "example_es": "Tengo un resfriado y me duele la cabeza.",
-        "example_zh": "我感冒了，而且頭很痛。"
-      },
-      {
-        "word": "septiembre",
-        "pos": "名詞（月份）",
-        "meaning": "九月",
-        "detail": "月份在西班牙文中不大寫（除非在句首）。用法：en septiembre（在九月）",
-        "example_es": "Mi cumpleaños es en septiembre.",
-        "example_zh": "我的生日在九月。"
-      },
-      {
-        "word": "al lado de",
-        "pos": "介系詞片語",
-        "meaning": "在……旁邊；緊鄰……",
-        "detail": "固定片語：al lado de + 名詞。al = a + el 的縮寫",
-        "example_es": "La farmacia está al lado de la escuela.",
-        "example_zh": "藥局在學校旁邊。"
-      },
-      {
-        "word": "la compañera",
-        "pos": "陰性名詞",
-        "meaning": "同事／夥伴（女性）；男性為 el compañero",
-        "detail": "陰性 la compañera / las compañeras；可加修飾語如 compañera de trabajo（工作夥伴）、compañera de clase（同學）",
-        "example_es": "Mi compañera de trabajo es muy simpática.",
-        "example_zh": "我的女同事非常友善。"
-      },
-      {
-        "word": "ustedes",
-        "pos": "代名詞",
-        "meaning": "你們／您們（第二人稱複數，拉丁美洲通用；西班牙正式場合使用）",
-        "detail": "縮寫常寫作 Uds. 或 Vds.；動詞使用第三人稱複數變化，如 ustedes son（你們是）",
-        "example_es": "¿De dónde son ustedes?",
-        "example_zh": "你們是哪裡人？"
-      },
-      {
-        "word": "la rutina",
-        "pos": "陰性名詞",
-        "meaning": "例行公事；日常慣例",
-        "detail": "陰性 la rutina / las rutinas；常見搭配：rutina diaria（每日例行公事）",
-        "example_es": "Mi rutina diaria empieza a las siete de la mañana.",
-        "example_zh": "我的每日例行公事從早上七點開始。"
+        "meaning": "懷孕的",
+        "detail": "陰性形：embarazada；陽性形：embarazado（幾乎不用）；注意：西班牙文的 embarazada 不是「尷尬的」，是「懷孕的」，為常見假朋友（false friend）",
+        "example_es": "Mi hermana está embarazada de tres meses.",
+        "example_zh": "我姊姊懷孕三個月了。"
       }
     ]
   }
