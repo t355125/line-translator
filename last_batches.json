@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-27",
+    "date": "2026-10-28",
     "cards": [
       {
-        "word": "la estrella",
-        "pos": "陰性名詞",
-        "meaning": "星星",
-        "detail": "陰性 la estrella / las estrellas",
-        "example_es": "El cielo tiene muchas estrellas.",
-        "example_zh": "天空有很多星星。"
-      },
-      {
-        "word": "el jefe",
-        "pos": "陽性名詞",
-        "meaning": "老闆（男）",
-        "detail": "陽性 el jefe / los jefes；女性老闆說 la jefa",
-        "example_es": "Mi jefe es muy simpático.",
-        "example_zh": "我的老闆非常友善。"
-      },
-      {
-        "word": "maduro",
+        "word": "antipático",
         "pos": "形容詞",
-        "meaning": "成熟的",
-        "detail": "陽性 maduro / 陰性 madura；複數 maduros / maduras；可指水果熟了，也可指人成熟",
-        "example_es": "Este plátano está muy maduro.",
-        "example_zh": "這根香蕉非常熟。"
+        "meaning": "討人厭的、不友善的",
+        "detail": "陽性單數 antipático / 陰性單數 antipática / 陽性複數 antipáticos / 陰性複數 antipáticas",
+        "example_es": "Ese chico es muy antipático con todos.",
+        "example_zh": "那個男孩對所有人都很不友善。"
       },
       {
-        "word": "hago",
+        "word": "mí",
+        "pos": "代名詞（介系詞格）",
+        "meaning": "我（用於介系詞之後，如 para mí、a mí）",
+        "detail": "介系詞後面必須用 mí（有重音符號），而非主格的 yo。常見搭配：para mí（對我來說）、a mí（對我）",
+        "example_es": "Para mí, el café es muy importante.",
+        "example_zh": "對我來說，咖啡非常重要。"
+      },
+      {
+        "word": "afeitarse",
         "pos": "動詞",
-        "meaning": "我做",
-        "detail": "動詞原形 hacer（做）的第一人稱單數現在式：hago(yo) / haces(tú) / hace(él/ella)",
-        "example_es": "Hago la tarea en casa.",
-        "example_zh": "我在家做作業。"
+        "meaning": "刮鬍子（反身動詞）",
+        "detail": "現在式變化：me afeito（我）/ te afeitas（你）/ se afeita（他／她）/ nos afeitamos（我們）/ os afeitáis（你們）/ se afeitan（他們）",
+        "example_es": "Mi papá se afeita todas las mañanas.",
+        "example_zh": "我爸爸每天早上都刮鬍子。"
       },
       {
-        "word": "orgulloso",
+        "word": "viejo",
         "pos": "形容詞",
-        "meaning": "驕傲的",
-        "detail": "陽性 orgulloso / 陰性 orgullosa；複數 orgullosos / orgullosas；常與介系詞 de 搭配，如 orgulloso de（對…感到驕傲）",
-        "example_es": "Estoy muy orgulloso de ti.",
-        "example_zh": "我非常以你為榮。"
+        "meaning": "老的、舊的（指人或物）",
+        "detail": "陽性單數 viejo / 陰性單數 vieja / 陽性複數 viejos / 陰性複數 viejas",
+        "example_es": "Este edificio es muy viejo.",
+        "example_zh": "這棟建築物非常老舊。"
       },
       {
-        "word": "la berenjena",
-        "pos": "陰性名詞",
-        "meaning": "茄子",
-        "detail": "陰性 la berenjena / las berenjenas",
-        "example_es": "Me gusta comer berenjena con tomate.",
-        "example_zh": "我喜歡吃茄子配番茄。"
+        "word": "el país",
+        "pos": "名詞",
+        "meaning": "國家",
+        "detail": "陽性 el país / los países；注意複數加 -es 且保留重音符號",
+        "example_es": "España es un país muy bonito.",
+        "example_zh": "西班牙是一個很美的國家。"
       },
       {
-        "word": "cincuenta",
-        "pos": "數詞",
-        "meaning": "50",
-        "detail": "基數詞，不隨性別變化；51 = cincuenta y uno，52 = cincuenta y dos，以此類推",
-        "example_es": "Mi abuela tiene cincuenta años.",
-        "example_zh": "我的祖母五十歲。"
+        "word": "el correo electrónico",
+        "pos": "名詞",
+        "meaning": "電子郵件",
+        "detail": "陽性 el correo electrónico / los correos electrónicos；口語中也常說 el email",
+        "example_es": "Te mando la información por correo electrónico.",
+        "example_zh": "我用電子郵件把資訊傳給你。"
       },
       {
-        "word": "la lengua",
-        "pos": "陰性名詞",
-        "meaning": "舌頭／語言",
-        "detail": "陰性 la lengua / las lenguas；指身體器官「舌頭」，也指「語言」（同 el idioma）",
-        "example_es": "El español es una lengua muy bonita.",
-        "example_zh": "西班牙文是一種非常美的語言。"
+        "word": "la manzana",
+        "pos": "名詞",
+        "meaning": "蘋果",
+        "detail": "陰性 la manzana / las manzanas",
+        "example_es": "Como una manzana cada día.",
+        "example_zh": "我每天吃一顆蘋果。"
       },
       {
-        "word": "los guantes",
-        "pos": "陽性名詞",
-        "meaning": "手套",
-        "detail": "陽性複數 los guantes；單數 el guante；手套通常成對，日常多用複數",
-        "example_es": "En invierno llevo los guantes.",
-        "example_zh": "冬天我戴手套。"
+        "word": "el transporte",
+        "pos": "名詞",
+        "meaning": "交通、運輸",
+        "detail": "陽性 el transporte / los transportes；常見搭配：transporte público（大眾交通）",
+        "example_es": "El transporte público en esta ciudad es muy bueno.",
+        "example_zh": "這座城市的大眾交通非常好。"
       },
       {
-        "word": "les",
-        "pos": "間接受詞代名詞",
-        "meaning": "給他們／給她們（間接受詞・複數）",
-        "detail": "第三人稱複數間接受詞代名詞，不分陰陽性；對應單數為 le；放在變位動詞前",
-        "example_es": "Les doy un regalo a mis amigos.",
-        "example_zh": "我送給我的朋友們一份禮物。"
+        "word": "la papa",
+        "pos": "名詞",
+        "meaning": "馬鈴薯（拉丁美洲用法，西班牙則說 la patata）",
+        "detail": "陰性 la papa / las papas；在拉美日常口語中非常常用",
+        "example_es": "Quiero papas fritas, por favor.",
+        "example_zh": "我想要薯條，謝謝。"
+      },
+      {
+        "word": "la cartera",
+        "pos": "名詞",
+        "meaning": "皮夾、錢包",
+        "detail": "陰性 la cartera / las carteras；在部分國家也指書包或公事包",
+        "example_es": "No encuentro mi cartera. ¿La viste?",
+        "example_zh": "我找不到我的皮夾。你有看到嗎？"
       }
     ]
   },
