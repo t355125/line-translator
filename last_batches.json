@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-27",
+    "date": "2026-10-29",
     "cards": [
       {
-        "word": "está",
-        "pos": "動詞",
-        "meaning": "他／她／您在（某地或某狀態）",
-        "detail": "ser/estar 的 estar 現在式第三人稱單數變化：estoy(我)／estás(你)／está(他、她、您)／estamos(我們)／estáis(你們)／están(他們)",
-        "example_es": "Mi mamá está en casa.",
-        "example_zh": "我媽媽在家。"
+        "word": "agosto",
+        "pos": "名詞（月份）",
+        "meaning": "八月",
+        "detail": "陽性名詞，月份名稱在西班牙文中不大寫。單數：agosto，複數少用。常與介系詞 en 搭配表示「在八月」。",
+        "example_es": "Mi cumpleaños es en agosto.",
+        "example_zh": "我的生日在八月。"
       },
       {
-        "word": "el limón",
-        "pos": "名詞",
-        "meaning": "檸檬",
-        "detail": "陽性：el limón／los limones",
-        "example_es": "Quiero un té con limón, por favor.",
-        "example_zh": "我想要一杯檸檬茶，謝謝。"
-      },
-      {
-        "word": "el cambio",
-        "pos": "名詞",
-        "meaning": "零錢／改變",
-        "detail": "陽性：el cambio／los cambios；日常用語中「el cambio」常指找零的零錢，也可指「改變、變化」",
-        "example_es": "No tengo cambio. ¿Tienes monedas?",
-        "example_zh": "我沒有零錢。你有硬幣嗎？"
-      },
-      {
-        "word": "el búho",
-        "pos": "名詞",
-        "meaning": "貓頭鷹",
-        "detail": "陽性：el búho／los búhos；注意重音在 ú",
-        "example_es": "El búho duerme durante el día.",
-        "example_zh": "貓頭鷹白天睡覺。"
-      },
-      {
-        "word": "la toalla",
-        "pos": "名詞",
-        "meaning": "毛巾",
-        "detail": "陰性：la toalla／las toallas",
-        "example_es": "Necesito una toalla limpia, por favor.",
-        "example_zh": "我需要一條乾淨的毛巾，謝謝。"
-      },
-      {
-        "word": "la pierna",
-        "pos": "名詞",
-        "meaning": "腿",
-        "detail": "陰性：la pierna／las piernas；指整條腿，膝蓋以下也可用 la pierna 泛指",
-        "example_es": "Me duele la pierna derecha.",
-        "example_zh": "我的右腿很痛。"
-      },
-      {
-        "word": "el billete",
-        "pos": "名詞",
-        "meaning": "車票（西班牙用語）／鈔票",
-        "detail": "陽性：el billete／los billetes；在西班牙指火車票、巴士票等，也可指紙鈔；拉丁美洲一般用「el boleto」表示車票",
-        "example_es": "Compro un billete de tren para Madrid.",
-        "example_zh": "我買一張去馬德里的火車票。"
-      },
-      {
-        "word": "catorce",
-        "pos": "數詞",
-        "meaning": "十四（14）",
-        "detail": "基數詞，不隨名詞性別變化；14 = catorce，前後數字：trece(13)、quince(15)",
-        "example_es": "Tengo catorce años.",
-        "example_zh": "我十四歲。"
-      },
-      {
-        "word": "la receta",
-        "pos": "名詞",
-        "meaning": "處方／食譜",
-        "detail": "陰性：la receta／las recetas；「la receta médica」指醫師處方，「la receta de cocina」指烹飪食譜",
-        "example_es": "El médico me da una receta para la medicina.",
-        "example_zh": "醫生給我一張藥品處方。"
-      },
-      {
-        "word": "embarazada",
+        "word": "guapo",
         "pos": "形容詞",
-        "meaning": "懷孕的",
-        "detail": "陰性形：embarazada；陽性形：embarazado（幾乎不用）；注意：西班牙文的 embarazada 不是「尷尬的」，是「懷孕的」，為常見假朋友（false friend）",
-        "example_es": "Mi hermana está embarazada de tres meses.",
-        "example_zh": "我姊姊懷孕三個月了。"
+        "meaning": "帥的／美的（外表好看）",
+        "detail": "陽性單數：guapo；陰性單數：guapa；陽性複數：guapos；陰性複數：guapas。可用於男性或女性。",
+        "example_es": "Tu hermano es muy guapo.",
+        "example_zh": "你哥哥非常帥。"
+      },
+      {
+        "word": "la jirafa",
+        "pos": "名詞",
+        "meaning": "長頸鹿",
+        "detail": "陰性名詞：la jirafa（單數）／las jirafas（複數）。",
+        "example_es": "La jirafa tiene el cuello muy largo.",
+        "example_zh": "長頸鹿的脖子非常長。"
+      },
+      {
+        "word": "adónde",
+        "pos": "疑問副詞",
+        "meaning": "去哪裡",
+        "detail": "用於疑問句，表示目的地方向，通常與移動動詞（如 ir、volver）搭配。有重音符號的 adónde 用於疑問句；無重音的 adonde 用於關係子句。",
+        "example_es": "¿Adónde vas esta tarde?",
+        "example_zh": "你今天下午要去哪裡？"
+      },
+      {
+        "word": "la mujer",
+        "pos": "名詞",
+        "meaning": "女人／妻子",
+        "detail": "陰性名詞：la mujer（單數）／las mujeres（複數）。依語境可指「女性」或「妻子」。",
+        "example_es": "La mujer de Juan es doctora.",
+        "example_zh": "Juan的妻子是醫生。"
+      },
+      {
+        "word": "por",
+        "pos": "介系詞",
+        "meaning": "因為／經由／為了／透過",
+        "detail": "用法多元：① 原因：por eso（因此）；② 經由路線：por la calle（沿著街道）；③ 交換：por diez euros（花十歐元）；④ 代替：hablar por teléfono（打電話）。",
+        "example_es": "Gracias por tu ayuda.",
+        "example_zh": "謝謝你的幫助。"
+      },
+      {
+        "word": "preocupado",
+        "pos": "形容詞",
+        "meaning": "擔心的／憂慮的",
+        "detail": "陽性單數：preocupado；陰性單數：preocupada；陽性複數：preocupados；陰性複數：preocupadas。常與動詞 estar 搭配使用（estar preocupado/a）。",
+        "example_es": "Estoy muy preocupada por el examen.",
+        "example_zh": "我非常擔心這場考試。"
+      },
+      {
+        "word": "la sala",
+        "pos": "名詞",
+        "meaning": "客廳／大廳",
+        "detail": "陰性名詞：la sala（單數）／las salas（複數）。在家裡常說 la sala de estar 指客廳；la sala 也可指演講廳或展覽廳。",
+        "example_es": "Mi familia ve la televisión en la sala.",
+        "example_zh": "我的家人在客廳看電視。"
+      },
+      {
+        "word": "la caja",
+        "pos": "名詞",
+        "meaning": "盒子／箱子／收銀台",
+        "detail": "陰性名詞：la caja（單數）／las cajas（複數）。依語境可指「盒子、箱子」或商店的「收銀台」。",
+        "example_es": "Hay chocolates en la caja.",
+        "example_zh": "盒子裡有巧克力。"
+      },
+      {
+        "word": "el cerebro",
+        "pos": "名詞",
+        "meaning": "大腦",
+        "detail": "陽性名詞：el cerebro（單數）／los cerebros（複數）。也可比喻為「聰明的人／核心人物」。",
+        "example_es": "El cerebro necesita dormir bien.",
+        "example_zh": "大腦需要好好睡眠。"
       }
     ]
   }
