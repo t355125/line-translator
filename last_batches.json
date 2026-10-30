@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-29",
+    "date": "2026-10-30",
     "cards": [
       {
-        "word": "posible",
+        "word": "azul",
         "pos": "形容詞",
-        "meaning": "可能的",
-        "detail": "陰陽性同形：posible（男/女）；複數：posibles。常用於句型 Es posible que + 虛擬式。",
-        "example_es": "¿Es posible llegar a tiempo?",
-        "example_zh": "有可能準時到嗎？"
+        "meaning": "藍色的",
+        "detail": "陰陽性同形：azul（男／女）；複數加 -es：azules。不因名詞性別改變拼寫。",
+        "example_es": "Mi bolsa es azul.",
+        "example_zh": "我的包包是藍色的。"
       },
       {
-        "word": "el lago",
+        "word": "el padre",
         "pos": "名詞",
-        "meaning": "湖",
-        "detail": "陽性：el lago / los lagos",
-        "example_es": "Hay un lago muy bonito cerca del pueblo.",
-        "example_zh": "村子附近有一個很漂亮的湖。"
+        "meaning": "父親",
+        "detail": "陽性：el padre／los padres；複數 los padres 也常指「父母（雙親）」。",
+        "example_es": "Mi padre trabaja en una oficina.",
+        "example_zh": "我的父親在辦公室工作。"
       },
       {
-        "word": "la manta",
+        "word": "la compañía",
         "pos": "名詞",
-        "meaning": "毯子",
-        "detail": "陰性：la manta / las mantas",
-        "example_es": "Tengo frío. ¿Puedes traerme una manta?",
-        "example_zh": "我很冷，你可以幫我拿一條毯子嗎？"
+        "meaning": "公司",
+        "detail": "陰性：la compañía／las compañías；注意重音符號 í 不可省略。",
+        "example_es": "Ella trabaja en una compañía grande.",
+        "example_zh": "她在一家大公司工作。"
       },
       {
-        "word": "el champiñón",
+        "word": "el vestido",
         "pos": "名詞",
-        "meaning": "蘑菇",
-        "detail": "陽性：el champiñón / los champiñones",
-        "example_es": "Me gustan los champiñones con ajo.",
-        "example_zh": "我喜歡蒜炒蘑菇。"
+        "meaning": "洋裝",
+        "detail": "陽性：el vestido／los vestidos；雖字尾 -o 為陽性，指的是女性服裝，使用時冠詞仍用 el。",
+        "example_es": "Ella lleva un vestido rojo hoy.",
+        "example_zh": "她今天穿著一件紅色洋裝。"
       },
       {
-        "word": "el cine",
-        "pos": "名詞",
-        "meaning": "電影院",
-        "detail": "陽性：el cine / los cines",
-        "example_es": "Esta tarde vamos al cine con los amigos.",
-        "example_zh": "今天下午我們和朋友一起去電影院。"
+        "word": "seguro",
+        "pos": "形容詞",
+        "meaning": "安全的／確定的",
+        "detail": "陽性：seguro；陰性：segura；複數：seguros／seguras。依名詞性別與數量變化。",
+        "example_es": "Este barrio es muy seguro.",
+        "example_zh": "這個社區非常安全。"
       },
       {
-        "word": "ganar",
+        "word": "costar",
         "pos": "動詞",
-        "meaning": "贏／賺",
-        "detail": "現在式變化：gano（我）/ ganas（你）/ gana（他/她）/ ganamos（我們）/ ganáis（你們）/ ganan（他們）",
-        "example_es": "Nuestro equipo gana el partido.",
-        "example_zh": "我們的隊伍贏得了比賽。"
+        "meaning": "花費（金錢）、價格是…",
+        "detail": "字根變化動詞 o→ue：cuesta（它／單數）／cuestan（它們／複數）；常用於詢問價格。",
+        "example_es": "¿Cuánto cuesta este vestido?",
+        "example_zh": "這件洋裝多少錢？"
       },
       {
-        "word": "triste",
-        "pos": "形容詞",
-        "meaning": "難過的",
-        "detail": "陰陽性同形：triste（男/女）；複數：tristes",
-        "example_es": "Estoy triste porque hoy llueve mucho.",
-        "example_zh": "我很難過，因為今天雨下得很大。"
+        "word": "tienen",
+        "pos": "動詞",
+        "meaning": "他們有／你們有",
+        "detail": "tener（有）的現在式第三人稱複數形：ellos／ellas／ustedes tienen；完整變化：tengo／tienes／tiene／tenemos／tenéis／tienen。",
+        "example_es": "Ellos tienen dos hijos.",
+        "example_zh": "他們有兩個孩子。"
       },
       {
-        "word": "el huevo",
+        "word": "el gimnasio",
         "pos": "名詞",
-        "meaning": "蛋",
-        "detail": "陽性：el huevo / los huevos",
-        "example_es": "Como dos huevos fritos cada mañana.",
-        "example_zh": "我每天早上吃兩個煎蛋。"
+        "meaning": "健身房",
+        "detail": "陽性：el gimnasio／los gimnasios；注意拼寫含 mn，發音時 m 幾乎不發音。",
+        "example_es": "Voy al gimnasio todos los lunes.",
+        "example_zh": "我每週一都去健身房。"
       },
       {
-        "word": "la impresora",
-        "pos": "名詞",
-        "meaning": "印表機",
-        "detail": "陰性：la impresora / las impresoras",
-        "example_es": "La impresora de la oficina no funciona hoy.",
-        "example_zh": "辦公室的印表機今天壞了。"
+        "word": "aquí",
+        "pos": "副詞",
+        "meaning": "這裡、在這裡",
+        "detail": "表示說話者所在位置；注意重音符號 í 不可省略；近義詞 acá 語氣較口語。",
+        "example_es": "El baño está aquí, a la derecha.",
+        "example_zh": "洗手間在這裡，在右邊。"
       },
       {
-        "word": "la mora",
+        "word": "el bosque",
         "pos": "名詞",
-        "meaning": "桑葚／黑莓",
-        "detail": "陰性：la mora / las moras。在西班牙通常指黑莓（zarzamora），在拉丁美洲也常指桑葚。",
-        "example_es": "Las moras son pequeñas y muy dulces.",
-        "example_zh": "黑莓很小而且非常甜。"
+        "meaning": "森林",
+        "detail": "陽性：el bosque／los bosques；與 la selva（熱帶雨林）區別，bosque 泛指一般樹林或森林。",
+        "example_es": "Hay muchos árboles en el bosque.",
+        "example_zh": "森林裡有很多樹。"
       }
     ]
   },
