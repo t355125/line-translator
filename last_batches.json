@@ -88,84 +88,84 @@
     "date": "2026-10-30",
     "cards": [
       {
-        "word": "la almohada",
-        "pos": "陰性名詞",
-        "meaning": "枕頭",
-        "detail": "陰性 la almohada / las almohadas",
-        "example_es": "Mi almohada es muy suave.",
-        "example_zh": "我的枕頭非常柔軟。"
-      },
-      {
-        "word": "y",
-        "pos": "連接詞",
-        "meaning": "和、與",
-        "detail": "連接兩個名詞或句子；在以 i- 或 hi- 開頭的詞前，y 改為 e",
-        "example_es": "Tengo un perro y un gato.",
-        "example_zh": "我有一隻狗和一隻貓。"
-      },
-      {
-        "word": "fuera",
-        "pos": "副詞",
-        "meaning": "外面、在外面",
-        "detail": "表示位置在某空間之外，常與 estar、jugar 等動詞搭配",
-        "example_es": "Los niños juegan fuera de la casa.",
-        "example_zh": "孩子們在房子外面玩。"
-      },
-      {
-        "word": "salado",
-        "pos": "形容詞",
-        "meaning": "鹹的",
-        "detail": "陽性 salado / 陰性 salada；複數 salados / saladas",
-        "example_es": "Esta sopa está muy salada.",
-        "example_zh": "這湯非常鹹。"
-      },
-      {
-        "word": "la pastilla",
-        "pos": "陰性名詞",
-        "meaning": "藥丸、藥片",
-        "detail": "陰性 la pastilla / las pastillas",
-        "example_es": "El médico me da una pastilla para el dolor.",
-        "example_zh": "醫生給我一顆止痛藥。"
-      },
-      {
-        "word": "el sobrino",
+        "word": "el correo",
         "pos": "陽性名詞",
-        "meaning": "姪子／外甥",
-        "detail": "陽性 el sobrino / los sobrinos；陰性形式為 la sobrina / las sobrinas；los sobrinos 可泛指姪甥（男女混合）",
-        "example_es": "Mi sobrino tiene cinco años.",
-        "example_zh": "我的姪子／外甥五歲。"
+        "meaning": "郵局／郵件",
+        "detail": "陽性 el correo / los correos。可指實體郵局，也可指郵件或電子郵件（correo electrónico）。",
+        "example_es": "Voy al correo a enviar una carta.",
+        "example_zh": "我去郵局寄一封信。"
       },
       {
-        "word": "la mosca",
+        "word": "la herida",
         "pos": "陰性名詞",
-        "meaning": "蒼蠅",
-        "detail": "陰性 la mosca / las moscas",
-        "example_es": "Hay una mosca en la cocina.",
-        "example_zh": "廚房裡有一隻蒼蠅。"
+        "meaning": "傷口",
+        "detail": "陰性 la herida / las heridas。常與動詞 tener（有）或 limpiar（清潔）搭配使用。",
+        "example_es": "Tengo una herida en la mano.",
+        "example_zh": "我手上有一個傷口。"
       },
       {
-        "word": "la hoja",
-        "pos": "陰性名詞",
-        "meaning": "葉子／紙張",
-        "detail": "陰性 la hoja / las hojas；依情境可指樹葉或一張紙",
-        "example_es": "Necesito una hoja de papel para escribir.",
-        "example_zh": "我需要一張紙來寫字。"
-      },
-      {
-        "word": "claro",
+        "word": "nervioso",
         "pos": "形容詞",
-        "meaning": "淺的／清楚的",
-        "detail": "陽性 claro / 陰性 clara；複數 claros / claras；描述顏色時表示淺色，描述說明或聲音時表示清楚",
-        "example_es": "Ella tiene los ojos de color azul claro.",
-        "example_zh": "她有一雙淺藍色的眼睛。"
+        "meaning": "緊張的",
+        "detail": "陽性 nervioso / 陰性 nerviosa；複數 nerviosos / nerviosas。需與主詞性別一致。",
+        "example_es": "Estoy muy nervioso antes del examen.",
+        "example_zh": "考試前我非常緊張。"
       },
       {
-        "word": "el bombero",
+        "word": "la cama",
+        "pos": "陰性名詞",
+        "meaning": "床",
+        "detail": "陰性 la cama / las camas。常見片語：hacer la cama（整理床鋪）、irse a la cama（去睡覺）。",
+        "example_es": "Me voy a la cama a las diez.",
+        "example_zh": "我十點去睡覺。"
+      },
+      {
+        "word": "cuántos",
+        "pos": "疑問詞／限定詞",
+        "meaning": "幾個（複數）",
+        "detail": "與陽性複數名詞搭配用 cuántos；與陰性複數名詞搭配用 cuántas。用於詢問數量。",
+        "example_es": "¿Cuántos hermanos tienes?",
+        "example_zh": "你有幾個兄弟？"
+      },
+      {
+        "word": "la lechuga",
+        "pos": "陰性名詞",
+        "meaning": "生菜／萵苣",
+        "detail": "陰性 la lechuga / las lechugas。常出現在沙拉或三明治的描述中。",
+        "example_es": "La ensalada tiene lechuga y tomate.",
+        "example_zh": "沙拉裡有生菜和番茄。"
+      },
+      {
+        "word": "con",
+        "pos": "介系詞",
+        "meaning": "和……一起／搭配……",
+        "detail": "用法廣泛：表示陪伴（con mis amigos）、搭配（café con leche）或工具（escribir con un lápiz）。",
+        "example_es": "Como arroz con pollo todos los días.",
+        "example_zh": "我每天吃雞肉飯。"
+      },
+      {
+        "word": "el plátano",
         "pos": "陽性名詞",
-        "meaning": "消防員",
-        "detail": "陽性 el bombero / los bomberos；陰性形式為 la bombera / las bomberas",
-        "example_es": "El bombero apaga el fuego rápidamente.",
-        "example_zh": "消防員迅速撲滅了火。"
+        "meaning": "香蕉",
+        "detail": "陽性 el plátano / los plátanos。在部分拉丁美洲國家也說 la banana。",
+        "example_es": "Me como un plátano cada mañana.",
+        "example_zh": "我每天早上吃一根香蕉。"
+      },
+      {
+        "word": "la espalda",
+        "pos": "陰性名詞",
+        "meaning": "背（部）",
+        "detail": "陰性 la espalda / las espaldas。常見搭配：dolor de espalda（背痛）、dar la espalda（轉身背對）。",
+        "example_es": "Me duele mucho la espalda hoy.",
+        "example_zh": "我今天背部非常痛。"
+      },
+      {
+        "word": "el contrato",
+        "pos": "陽性名詞",
+        "meaning": "合約",
+        "detail": "陽性 el contrato / los contratos。常見動詞搭配：firmar un contrato（簽合約）、leer el contrato（閱讀合約）。",
+        "example_es": "Voy a firmar el contrato mañana.",
+        "example_zh": "我明天要簽合約。"
       }
     ]
   }
