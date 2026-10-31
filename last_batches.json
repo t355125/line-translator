@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "cards": [
       {
-        "word": "azul",
+        "word": "generoso",
         "pos": "形容詞",
-        "meaning": "藍色的",
-        "detail": "陰陽性同形：azul（男／女）；複數加 -es：azules。不因名詞性別改變拼寫。",
-        "example_es": "Mi bolsa es azul.",
-        "example_zh": "我的包包是藍色的。"
+        "meaning": "慷慨的",
+        "detail": "陽性單數：generoso／陰性單數：generosa／陽性複數：generosos／陰性複數：generosas",
+        "example_es": "Mi abuelo es muy generoso con todos.",
+        "example_zh": "我的祖父對大家都很慷慨。"
       },
       {
-        "word": "el padre",
-        "pos": "名詞",
-        "meaning": "父親",
-        "detail": "陽性：el padre／los padres；複數 los padres 也常指「父母（雙親）」。",
-        "example_es": "Mi padre trabaja en una oficina.",
-        "example_zh": "我的父親在辦公室工作。"
+        "word": "cero",
+        "pos": "數詞／名詞",
+        "meaning": "零（0）",
+        "detail": "cero 作為數字時不變化；作名詞使用時為陽性：el cero",
+        "example_es": "La temperatura es de cero grados hoy.",
+        "example_zh": "今天氣溫是零度。"
       },
       {
-        "word": "la compañía",
-        "pos": "名詞",
-        "meaning": "公司",
-        "detail": "陰性：la compañía／las compañías；注意重音符號 í 不可省略。",
-        "example_es": "Ella trabaja en una compañía grande.",
-        "example_zh": "她在一家大公司工作。"
+        "word": "la hierba",
+        "pos": "陰性名詞",
+        "meaning": "草",
+        "detail": "陰性單數：la hierba／陰性複數：las hierbas；也可指藥草或香草",
+        "example_es": "El perro corre por la hierba del parque.",
+        "example_zh": "狗在公園的草地上跑。"
       },
       {
-        "word": "el vestido",
-        "pos": "名詞",
-        "meaning": "洋裝",
-        "detail": "陽性：el vestido／los vestidos；雖字尾 -o 為陽性，指的是女性服裝，使用時冠詞仍用 el。",
-        "example_es": "Ella lleva un vestido rojo hoy.",
-        "example_zh": "她今天穿著一件紅色洋裝。"
-      },
-      {
-        "word": "seguro",
-        "pos": "形容詞",
-        "meaning": "安全的／確定的",
-        "detail": "陽性：seguro；陰性：segura；複數：seguros／seguras。依名詞性別與數量變化。",
-        "example_es": "Este barrio es muy seguro.",
-        "example_zh": "這個社區非常安全。"
-      },
-      {
-        "word": "costar",
+        "word": "deber",
         "pos": "動詞",
-        "meaning": "花費（金錢）、價格是…",
-        "detail": "字根變化動詞 o→ue：cuesta（它／單數）／cuestan（它們／複數）；常用於詢問價格。",
-        "example_es": "¿Cuánto cuesta este vestido?",
-        "example_zh": "這件洋裝多少錢？"
+        "meaning": "欠／應該（表義務）",
+        "detail": "現在式變化：debo（我）／debes（你）／debe（他／她）／debemos（我們）／debéis（你們）／deben（他們）；後接原形動詞表「應該做…」",
+        "example_es": "Debes beber más agua cada día.",
+        "example_zh": "你每天應該多喝水。"
       },
       {
-        "word": "tienen",
-        "pos": "動詞",
-        "meaning": "他們有／你們有",
-        "detail": "tener（有）的現在式第三人稱複數形：ellos／ellas／ustedes tienen；完整變化：tengo／tienes／tiene／tenemos／tenéis／tienen。",
-        "example_es": "Ellos tienen dos hijos.",
-        "example_zh": "他們有兩個孩子。"
-      },
-      {
-        "word": "el gimnasio",
-        "pos": "名詞",
-        "meaning": "健身房",
-        "detail": "陽性：el gimnasio／los gimnasios；注意拼寫含 mn，發音時 m 幾乎不發音。",
-        "example_es": "Voy al gimnasio todos los lunes.",
-        "example_zh": "我每週一都去健身房。"
-      },
-      {
-        "word": "aquí",
+        "word": "arriba",
         "pos": "副詞",
-        "meaning": "這裡、在這裡",
-        "detail": "表示說話者所在位置；注意重音符號 í 不可省略；近義詞 acá 語氣較口語。",
-        "example_es": "El baño está aquí, a la derecha.",
-        "example_zh": "洗手間在這裡，在右邊。"
+        "meaning": "上面、在上方",
+        "detail": "表示位置「在上方」，反義詞為 abajo（下面）；常與動詞 estar、subir 搭配使用",
+        "example_es": "Mis libros están arriba, en la estantería.",
+        "example_zh": "我的書在上面，在書架上。"
       },
       {
-        "word": "el bosque",
-        "pos": "名詞",
-        "meaning": "森林",
-        "detail": "陽性：el bosque／los bosques；與 la selva（熱帶雨林）區別，bosque 泛指一般樹林或森林。",
-        "example_es": "Hay muchos árboles en el bosque.",
-        "example_zh": "森林裡有很多樹。"
+        "word": "el equipaje",
+        "pos": "陽性名詞",
+        "meaning": "行李",
+        "detail": "陽性單數：el equipaje／陽性複數：los equipajes；通常以單數集合名詞使用",
+        "example_es": "Tengo mucho equipaje para el viaje.",
+        "example_zh": "我這次旅行有很多行李。"
+      },
+      {
+        "word": "el almuerzo",
+        "pos": "陽性名詞",
+        "meaning": "午餐",
+        "detail": "陽性單數：el almuerzo／陽性複數：los almuerzos；動詞搭配：almorzar（吃午餐）",
+        "example_es": "El almuerzo está listo a las dos.",
+        "example_zh": "午餐兩點準備好。"
+      },
+      {
+        "word": "nosotras",
+        "pos": "人稱代名詞",
+        "meaning": "我們（全部成員皆為女性）",
+        "detail": "nosotras 專指全體為女性的「我們」；若群體中有任何一位男性則使用 nosotros",
+        "example_es": "Nosotras somos amigas desde la escuela.",
+        "example_zh": "我們從學校起就是朋友了。"
+      },
+      {
+        "word": "blanco",
+        "pos": "形容詞",
+        "meaning": "白色的",
+        "detail": "陽性單數：blanco／陰性單數：blanca／陽性複數：blancos／陰性複數：blancas",
+        "example_es": "Ella lleva una camisa blanca hoy.",
+        "example_zh": "她今天穿著一件白色襯衫。"
+      },
+      {
+        "word": "el veterinario",
+        "pos": "陽性名詞",
+        "meaning": "獸醫",
+        "detail": "陽性單數：el veterinario／陰性單數：la veterinaria／陽性複數：los veterinarios／陰性複數：las veterinarias",
+        "example_es": "Llevo a mi gato al veterinario mañana.",
+        "example_zh": "我明天帶我的貓去看獸醫。"
       }
     ]
   },
