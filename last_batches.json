@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-30",
+    "date": "2026-10-31",
     "cards": [
       {
-        "word": "el correo",
+        "word": "la guayaba",
+        "pos": "陰性名詞",
+        "meaning": "芭樂（一種熱帶水果）",
+        "detail": "陰性 la guayaba / las guayabas",
+        "example_es": "Me gusta mucho la guayaba.",
+        "example_zh": "我非常喜歡芭樂。"
+      },
+      {
+        "word": "el cirujano",
         "pos": "陽性名詞",
-        "meaning": "郵局／郵件",
-        "detail": "陽性 el correo / los correos。可指實體郵局，也可指郵件或電子郵件（correo electrónico）。",
-        "example_es": "Voy al correo a enviar una carta.",
-        "example_zh": "我去郵局寄一封信。"
+        "meaning": "外科醫生",
+        "detail": "陽性 el cirujano / los cirujanos；陰性形式 la cirujana / las cirujanas",
+        "example_es": "El cirujano opera en el hospital.",
+        "example_zh": "那位外科醫生在醫院動手術。"
       },
       {
-        "word": "la herida",
+        "word": "gratis",
+        "pos": "形容詞／副詞",
+        "meaning": "免費的；免費地",
+        "detail": "陰陽性同形，不隨名詞性別變化：gratis（陽性／陰性皆同）",
+        "example_es": "La entrada es gratis hoy.",
+        "example_zh": "今天入場是免費的。"
+      },
+      {
+        "word": "conducir",
+        "pos": "動詞",
+        "meaning": "開車；駕駛",
+        "detail": "現在式變化：conduzco（我）/ conduces（你）/ conduce（他／她）/ conducimos（我們）",
+        "example_es": "Yo conduzco al trabajo todos los días.",
+        "example_zh": "我每天開車去上班。"
+      },
+      {
+        "word": "la comida",
         "pos": "陰性名詞",
-        "meaning": "傷口",
-        "detail": "陰性 la herida / las heridas。常與動詞 tener（有）或 limpiar（清潔）搭配使用。",
-        "example_es": "Tengo una herida en la mano.",
-        "example_zh": "我手上有一個傷口。"
+        "meaning": "食物；午餐",
+        "detail": "陰性 la comida / las comidas；在西班牙常指午餐，在拉丁美洲也泛指食物",
+        "example_es": "La comida de hoy está muy rica.",
+        "example_zh": "今天的午餐非常好吃。"
       },
       {
-        "word": "nervioso",
-        "pos": "形容詞",
-        "meaning": "緊張的",
-        "detail": "陽性 nervioso / 陰性 nerviosa；複數 nerviosos / nerviosas。需與主詞性別一致。",
-        "example_es": "Estoy muy nervioso antes del examen.",
-        "example_zh": "考試前我非常緊張。"
+        "word": "siempre",
+        "pos": "副詞",
+        "meaning": "總是；一直",
+        "detail": "不變化；常與動詞現在式或現在進行時搭配使用",
+        "example_es": "Siempre desayuno a las ocho.",
+        "example_zh": "我總是八點吃早餐。"
       },
       {
-        "word": "la cama",
-        "pos": "陰性名詞",
-        "meaning": "床",
-        "detail": "陰性 la cama / las camas。常見片語：hacer la cama（整理床鋪）、irse a la cama（去睡覺）。",
-        "example_es": "Me voy a la cama a las diez.",
-        "example_zh": "我十點去睡覺。"
+        "word": "dibujar",
+        "pos": "動詞",
+        "meaning": "畫畫；繪圖",
+        "detail": "現在式變化：dibujo（我）/ dibujas（你）/ dibuja（他／她）/ dibujamos（我們）",
+        "example_es": "Mi hija dibuja flores en su cuaderno.",
+        "example_zh": "我女兒在筆記本上畫花。"
       },
       {
-        "word": "cuántos",
-        "pos": "疑問詞／限定詞",
-        "meaning": "幾個（複數）",
-        "detail": "與陽性複數名詞搭配用 cuántos；與陰性複數名詞搭配用 cuántas。用於詢問數量。",
-        "example_es": "¿Cuántos hermanos tienes?",
-        "example_zh": "你有幾個兄弟？"
-      },
-      {
-        "word": "la lechuga",
-        "pos": "陰性名詞",
-        "meaning": "生菜／萵苣",
-        "detail": "陰性 la lechuga / las lechugas。常出現在沙拉或三明治的描述中。",
-        "example_es": "La ensalada tiene lechuga y tomate.",
-        "example_zh": "沙拉裡有生菜和番茄。"
-      },
-      {
-        "word": "con",
-        "pos": "介系詞",
-        "meaning": "和……一起／搭配……",
-        "detail": "用法廣泛：表示陪伴（con mis amigos）、搭配（café con leche）或工具（escribir con un lápiz）。",
-        "example_es": "Como arroz con pollo todos los días.",
-        "example_zh": "我每天吃雞肉飯。"
-      },
-      {
-        "word": "el plátano",
+        "word": "el plazo",
         "pos": "陽性名詞",
-        "meaning": "香蕉",
-        "detail": "陽性 el plátano / los plátanos。在部分拉丁美洲國家也說 la banana。",
-        "example_es": "Me como un plátano cada mañana.",
-        "example_zh": "我每天早上吃一根香蕉。"
+        "meaning": "期限；截止日期",
+        "detail": "陽性 el plazo / los plazos；常用片語：a corto plazo（短期）、a largo plazo（長期）",
+        "example_es": "El plazo para entregar el trabajo es el viernes.",
+        "example_zh": "交作業的期限是星期五。"
       },
       {
-        "word": "la espalda",
+        "word": "la alfombra",
         "pos": "陰性名詞",
-        "meaning": "背（部）",
-        "detail": "陰性 la espalda / las espaldas。常見搭配：dolor de espalda（背痛）、dar la espalda（轉身背對）。",
-        "example_es": "Me duele mucho la espalda hoy.",
-        "example_zh": "我今天背部非常痛。"
+        "meaning": "地毯",
+        "detail": "陰性 la alfombra / las alfombras",
+        "example_es": "Hay una alfombra roja en la sala.",
+        "example_zh": "客廳裡有一張紅色地毯。"
       },
       {
-        "word": "el contrato",
-        "pos": "陽性名詞",
-        "meaning": "合約",
-        "detail": "陽性 el contrato / los contratos。常見動詞搭配：firmar un contrato（簽合約）、leer el contrato（閱讀合約）。",
-        "example_es": "Voy a firmar el contrato mañana.",
-        "example_zh": "我明天要簽合約。"
+        "word": "la gorra",
+        "pos": "陰性名詞",
+        "meaning": "鴨舌帽；棒球帽",
+        "detail": "陰性 la gorra / las gorras；特指有帽簷的帽子，與 el sombrero（寬邊帽）不同",
+        "example_es": "Llevo una gorra azul cuando hago ejercicio.",
+        "example_zh": "我運動時戴一頂藍色鴨舌帽。"
       }
     ]
   }
