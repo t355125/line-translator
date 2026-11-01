@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-10-31",
+    "date": "2026-11-02",
     "cards": [
       {
-        "word": "la guayaba",
+        "word": "la batidora",
         "pos": "陰性名詞",
-        "meaning": "芭樂（一種熱帶水果）",
-        "detail": "陰性 la guayaba / las guayabas",
-        "example_es": "Me gusta mucho la guayaba.",
-        "example_zh": "我非常喜歡芭樂。"
+        "meaning": "攪拌機",
+        "detail": "陰性 la batidora / las batidoras",
+        "example_es": "Uso la batidora para hacer un batido de frutas.",
+        "example_zh": "我用攪拌機做水果奶昔。"
       },
       {
-        "word": "el cirujano",
+        "word": "el tren",
         "pos": "陽性名詞",
-        "meaning": "外科醫生",
-        "detail": "陽性 el cirujano / los cirujanos；陰性形式 la cirujana / las cirujanas",
-        "example_es": "El cirujano opera en el hospital.",
-        "example_zh": "那位外科醫生在醫院動手術。"
+        "meaning": "火車",
+        "detail": "陽性 el tren / los trenes",
+        "example_es": "Tomo el tren para ir al trabajo.",
+        "example_zh": "我搭火車去上班。"
       },
       {
-        "word": "gratis",
-        "pos": "形容詞／副詞",
-        "meaning": "免費的；免費地",
-        "detail": "陰陽性同形，不隨名詞性別變化：gratis（陽性／陰性皆同）",
-        "example_es": "La entrada es gratis hoy.",
-        "example_zh": "今天入場是免費的。"
+        "word": "me",
+        "pos": "代名詞（受詞）",
+        "meaning": "我（受詞）／我自己",
+        "detail": "用於直接受詞、間接受詞或反身動詞，放在動詞前：me gusta（我喜歡）、me llamo（我叫做）",
+        "example_es": "Me llamo Ana y me gusta el café.",
+        "example_zh": "我叫安娜，我喜歡咖啡。"
       },
       {
-        "word": "conducir",
-        "pos": "動詞",
-        "meaning": "開車；駕駛",
-        "detail": "現在式變化：conduzco（我）/ conduces（你）/ conduce（他／她）/ conducimos（我們）",
-        "example_es": "Yo conduzco al trabajo todos los días.",
-        "example_zh": "我每天開車去上班。"
-      },
-      {
-        "word": "la comida",
-        "pos": "陰性名詞",
-        "meaning": "食物；午餐",
-        "detail": "陰性 la comida / las comidas；在西班牙常指午餐，在拉丁美洲也泛指食物",
-        "example_es": "La comida de hoy está muy rica.",
-        "example_zh": "今天的午餐非常好吃。"
-      },
-      {
-        "word": "siempre",
-        "pos": "副詞",
-        "meaning": "總是；一直",
-        "detail": "不變化；常與動詞現在式或現在進行時搭配使用",
-        "example_es": "Siempre desayuno a las ocho.",
-        "example_zh": "我總是八點吃早餐。"
-      },
-      {
-        "word": "dibujar",
-        "pos": "動詞",
-        "meaning": "畫畫；繪圖",
-        "detail": "現在式變化：dibujo（我）/ dibujas（你）/ dibuja（他／她）/ dibujamos（我們）",
-        "example_es": "Mi hija dibuja flores en su cuaderno.",
-        "example_zh": "我女兒在筆記本上畫花。"
-      },
-      {
-        "word": "el plazo",
+        "word": "el béisbol",
         "pos": "陽性名詞",
-        "meaning": "期限；截止日期",
-        "detail": "陽性 el plazo / los plazos；常用片語：a corto plazo（短期）、a largo plazo（長期）",
-        "example_es": "El plazo para entregar el trabajo es el viernes.",
-        "example_zh": "交作業的期限是星期五。"
+        "meaning": "棒球",
+        "detail": "陽性 el béisbol（通常只用單數）",
+        "example_es": "Mi hermano juega al béisbol los fines de semana.",
+        "example_zh": "我哥哥週末打棒球。"
       },
       {
-        "word": "la alfombra",
-        "pos": "陰性名詞",
-        "meaning": "地毯",
-        "detail": "陰性 la alfombra / las alfombras",
-        "example_es": "Hay una alfombra roja en la sala.",
-        "example_zh": "客廳裡有一張紅色地毯。"
+        "word": "el relámpago",
+        "pos": "陽性名詞",
+        "meaning": "閃電",
+        "detail": "陽性 el relámpago / los relámpagos",
+        "example_es": "Hay muchos relámpagos durante la tormenta.",
+        "example_zh": "暴風雨中有很多閃電。"
       },
       {
-        "word": "la gorra",
+        "word": "la paloma",
         "pos": "陰性名詞",
-        "meaning": "鴨舌帽；棒球帽",
-        "detail": "陰性 la gorra / las gorras；特指有帽簷的帽子，與 el sombrero（寬邊帽）不同",
-        "example_es": "Llevo una gorra azul cuando hago ejercicio.",
-        "example_zh": "我運動時戴一頂藍色鴨舌帽。"
+        "meaning": "鴿子",
+        "detail": "陰性 la paloma / las palomas",
+        "example_es": "Hay muchas palomas en la plaza.",
+        "example_zh": "廣場上有很多鴿子。"
+      },
+      {
+        "word": "después de",
+        "pos": "介系詞片語",
+        "meaning": "在……之後",
+        "detail": "後面接名詞或動詞原形：después de + 名詞／動詞原形",
+        "example_es": "Después de comer, tomamos un café.",
+        "example_zh": "吃完飯後，我們喝了咖啡。"
+      },
+      {
+        "word": "el tío",
+        "pos": "陽性名詞",
+        "meaning": "叔伯舅（泛指父母的兄弟）",
+        "detail": "陽性 el tío / los tíos；陰性對應為 la tía；los tíos 可指叔伯舅們或叔伯舅與阿姨",
+        "example_es": "Mi tío vive en Madrid y trabaja en un banco.",
+        "example_zh": "我叔叔住在馬德里，在銀行工作。"
+      },
+      {
+        "word": "la oferta",
+        "pos": "陰性名詞",
+        "meaning": "特價／提案",
+        "detail": "陰性 la oferta / las ofertas；en oferta 表示「特價中」",
+        "example_es": "Este supermercado tiene muy buenas ofertas hoy.",
+        "example_zh": "這家超市今天有很棒的特價商品。"
+      },
+      {
+        "word": "gordo",
+        "pos": "形容詞",
+        "meaning": "胖的",
+        "detail": "陽性 gordo / gordos；陰性 gorda / gordas；需與名詞的性數一致",
+        "example_es": "El gato de mi abuela es muy gordo.",
+        "example_zh": "我奶奶的貓非常胖。"
       }
     ]
   }
