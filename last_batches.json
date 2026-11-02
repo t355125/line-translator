@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-01",
+    "date": "2026-11-02",
     "cards": [
       {
-        "word": "hay",
-        "pos": "動詞",
-        "meaning": "有（表示存在），相當於「存在著……」",
-        "detail": "haber 的第三人稱單數非人稱形式，不隨主詞變化，後接名詞。肯定：hay／否定：no hay／疑問：¿Hay...?",
-        "example_es": "Hay una manzana en la mesa.",
-        "example_zh": "桌上有一顆蘋果。"
+        "word": "antes de",
+        "pos": "片語",
+        "meaning": "在……之前",
+        "detail": "後接名詞或動詞原形，例如：antes de comer（吃飯之前）、antes del desayuno（早餐之前，del = de + el）",
+        "example_es": "Me lavo los dientes antes de dormir.",
+        "example_zh": "我睡覺之前刷牙。"
       },
       {
-        "word": "el guisante",
-        "pos": "名詞",
-        "meaning": "豌豆",
-        "detail": "陽性 el guisante／los guisantes；通常以複數出現於料理中",
-        "example_es": "Me gustan los guisantes con arroz.",
-        "example_zh": "我喜歡豌豆配飯。"
+        "word": "tú",
+        "pos": "代名詞",
+        "meaning": "你（熟人、平輩）",
+        "detail": "主格人稱代名詞，用於熟識的人、同齡人或晚輩；注意重音符號 tú（你）與 tu（你的所有格）不同",
+        "example_es": "¿Tú hablas chino?",
+        "example_zh": "你說中文嗎？"
       },
       {
-        "word": "el pollo",
-        "pos": "名詞",
-        "meaning": "小雞／雞肉；日常最常指「雞肉」",
-        "detail": "陽性 el pollo／los pollos；指動物時為「小雞」，指食材時為「雞肉」",
-        "example_es": "Como pollo con verduras todos los días.",
-        "example_zh": "我每天吃雞肉配蔬菜。"
+        "word": "la universidad",
+        "pos": "陰性名詞",
+        "meaning": "大學",
+        "detail": "陰性 la universidad / las universidades",
+        "example_es": "Mi hermana estudia en la universidad.",
+        "example_zh": "我姊姊在大學念書。"
       },
       {
-        "word": "se",
-        "pos": "代名詞（反身）",
-        "meaning": "他自己／她自己／他們自己（反身代名詞，第三人稱）",
-        "detail": "反身代名詞，用於第三人稱單數與複數（él/ella/usted/ellos/ellas/ustedes）；放在動詞前，如 se llama、se levanta",
-        "example_es": "Él se llama Carlos.",
-        "example_zh": "他叫做卡洛斯。"
+        "word": "la revista",
+        "pos": "陰性名詞",
+        "meaning": "雜誌",
+        "detail": "陰性 la revista / las revistas",
+        "example_es": "Leo una revista de cocina los domingos.",
+        "example_zh": "我每個星期天看烹飪雜誌。"
       },
       {
-        "word": "el euro",
-        "pos": "名詞",
-        "meaning": "歐元（歐盟通用貨幣單位）",
-        "detail": "陽性 el euro／los euros；數字＋euro(s)，如 cinco euros",
-        "example_es": "Este café cuesta dos euros.",
-        "example_zh": "這杯咖啡要兩歐元。"
+        "word": "el apio",
+        "pos": "陽性名詞",
+        "meaning": "芹菜",
+        "detail": "陽性 el apio / los apios；日常烹飪中常見蔬菜",
+        "example_es": "Pongo apio en la sopa.",
+        "example_zh": "我在湯裡放芹菜。"
       },
       {
-        "word": "tres",
+        "word": "ocupado",
+        "pos": "形容詞",
+        "meaning": "忙碌的／被佔用的",
+        "detail": "陽性 ocupado / 陰性 ocupada；複數 ocupados / ocupadas；可描述人（很忙）或地方、座位（被佔用）",
+        "example_es": "Hoy estoy muy ocupada con el trabajo.",
+        "example_zh": "我今天工作很忙。"
+      },
+      {
+        "word": "el pato",
+        "pos": "陽性名詞",
+        "meaning": "鴨",
+        "detail": "陽性 el pato / los patos；母鴨說 la pata",
+        "example_es": "Hay un pato en el parque.",
+        "example_zh": "公園裡有一隻鴨。"
+      },
+      {
+        "word": "julio",
+        "pos": "名詞（月份）",
+        "meaning": "七月",
+        "detail": "西班牙文月份不大寫；陽性名詞 el julio，但日常使用通常省略冠詞；位於六月（junio）之後、八月（agosto）之前",
+        "example_es": "Mi cumpleaños es en julio.",
+        "example_zh": "我的生日在七月。"
+      },
+      {
+        "word": "de dónde",
+        "pos": "疑問片語",
+        "meaning": "從哪裡來",
+        "detail": "常用句型：¿De dónde eres tú?（你是哪裡人？）；注意 dónde 帶重音，為疑問副詞",
+        "example_es": "¿De dónde eres tú?",
+        "example_zh": "你是哪裡人？"
+      },
+      {
+        "word": "setenta",
         "pos": "數詞",
-        "meaning": "3（數字三）",
-        "detail": "基數詞，不隨性數變化；放在名詞前，如 tres libros、tres personas",
-        "example_es": "Tengo tres hermanos.",
-        "example_zh": "我有三個兄弟。"
-      },
-      {
-        "word": "el archivo",
-        "pos": "名詞",
-        "meaning": "檔案；也可指檔案夾或檔案室",
-        "detail": "陽性 el archivo／los archivos；數位情境中常指電腦檔案",
-        "example_es": "No puedo abrir el archivo en mi computadora.",
-        "example_zh": "我無法在電腦上開啟這個檔案。"
-      },
-      {
-        "word": "sobre",
-        "pos": "介系詞",
-        "meaning": "在……上方／關於；表示位置或主題",
-        "detail": "介系詞，用法一：位置「在……上方」（sobre la mesa）；用法二：主題「關於……」（un libro sobre España）",
-        "example_es": "Hay un libro sobre la silla.",
-        "example_zh": "椅子上有一本書。"
-      },
-      {
-        "word": "el compañero",
-        "pos": "名詞",
-        "meaning": "同事／夥伴（男性）；女性為 la compañera",
-        "detail": "陽性 el compañero／los compañeros；女性形式 la compañera／las compañeras；可用於 compañero de trabajo（同事）、compañero de clase（同學）",
-        "example_es": "Mi compañero de trabajo es muy simpático.",
-        "example_zh": "我的男同事非常友善。"
-      },
-      {
-        "word": "la bolsa",
-        "pos": "名詞",
-        "meaning": "袋子；也可指購物袋或股票市場（la Bolsa）",
-        "detail": "陰性 la bolsa／las bolsas；日常用語中最常指「袋子、購物袋」",
-        "example_es": "Llevo la bolsa al supermercado.",
-        "example_zh": "我帶著袋子去超市。"
+        "meaning": "70",
+        "detail": "基數詞，不變化性別；71 起為 setenta y uno、setenta y dos……以此類推",
+        "example_es": "Mi abuelo tiene setenta años.",
+        "example_zh": "我爺爺七十歲。"
       }
     ]
   },

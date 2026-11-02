@@ -3808,5 +3808,65 @@
     "pos": "形容詞",
     "meaning": "胖的",
     "date": "2026-11-02"
+  },
+  {
+    "word": "antes de",
+    "pos": "片語",
+    "meaning": "在……之前",
+    "date": "2026-11-02"
+  },
+  {
+    "word": "tú",
+    "pos": "代名詞",
+    "meaning": "你（熟人、平輩）",
+    "date": "2026-11-02"
+  },
+  {
+    "word": "la universidad",
+    "pos": "陰性名詞",
+    "meaning": "大學",
+    "date": "2026-11-02"
+  },
+  {
+    "word": "la revista",
+    "pos": "陰性名詞",
+    "meaning": "雜誌",
+    "date": "2026-11-02"
+  },
+  {
+    "word": "el apio",
+    "pos": "陽性名詞",
+    "meaning": "芹菜",
+    "date": "2026-11-02"
+  },
+  {
+    "word": "ocupado",
+    "pos": "形容詞",
+    "meaning": "忙碌的／被佔用的",
+    "date": "2026-11-02"
+  },
+  {
+    "word": "el pato",
+    "pos": "陽性名詞",
+    "meaning": "鴨",
+    "date": "2026-11-02"
+  },
+  {
+    "word": "julio",
+    "pos": "名詞（月份）",
+    "meaning": "七月",
+    "date": "2026-11-02"
+  },
+  {
+    "word": "de dónde",
+    "pos": "疑問片語",
+    "meaning": "從哪裡來",
+    "date": "2026-11-02"
+  },
+  {
+    "word": "setenta",
+    "pos": "數詞",
+    "meaning": "70",
+    "date": "2026-11-02"
   }
 ]
