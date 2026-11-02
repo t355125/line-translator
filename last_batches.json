@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "cards": [
       {
-        "word": "la batidora",
-        "pos": "陰性名詞",
-        "meaning": "攪拌機",
-        "detail": "陰性 la batidora / las batidoras",
-        "example_es": "Uso la batidora para hacer un batido de frutas.",
-        "example_zh": "我用攪拌機做水果奶昔。"
-      },
-      {
-        "word": "el tren",
+        "word": "el deporte",
         "pos": "陽性名詞",
-        "meaning": "火車",
-        "detail": "陽性 el tren / los trenes",
-        "example_es": "Tomo el tren para ir al trabajo.",
-        "example_zh": "我搭火車去上班。"
+        "meaning": "運動",
+        "detail": "陽性 el deporte / los deportes",
+        "example_es": "Me gusta mucho el deporte.",
+        "example_zh": "我非常喜歡運動。"
       },
       {
-        "word": "me",
-        "pos": "代名詞（受詞）",
-        "meaning": "我（受詞）／我自己",
-        "detail": "用於直接受詞、間接受詞或反身動詞，放在動詞前：me gusta（我喜歡）、me llamo（我叫做）",
-        "example_es": "Me llamo Ana y me gusta el café.",
-        "example_zh": "我叫安娜，我喜歡咖啡。"
-      },
-      {
-        "word": "el béisbol",
-        "pos": "陽性名詞",
-        "meaning": "棒球",
-        "detail": "陽性 el béisbol（通常只用單數）",
-        "example_es": "Mi hermano juega al béisbol los fines de semana.",
-        "example_zh": "我哥哥週末打棒球。"
-      },
-      {
-        "word": "el relámpago",
-        "pos": "陽性名詞",
-        "meaning": "閃電",
-        "detail": "陽性 el relámpago / los relámpagos",
-        "example_es": "Hay muchos relámpagos durante la tormenta.",
-        "example_zh": "暴風雨中有很多閃電。"
-      },
-      {
-        "word": "la paloma",
-        "pos": "陰性名詞",
-        "meaning": "鴿子",
-        "detail": "陰性 la paloma / las palomas",
-        "example_es": "Hay muchas palomas en la plaza.",
-        "example_zh": "廣場上有很多鴿子。"
-      },
-      {
-        "word": "después de",
-        "pos": "介系詞片語",
-        "meaning": "在……之後",
-        "detail": "後面接名詞或動詞原形：después de + 名詞／動詞原形",
-        "example_es": "Después de comer, tomamos un café.",
-        "example_zh": "吃完飯後，我們喝了咖啡。"
-      },
-      {
-        "word": "el tío",
-        "pos": "陽性名詞",
-        "meaning": "叔伯舅（泛指父母的兄弟）",
-        "detail": "陽性 el tío / los tíos；陰性對應為 la tía；los tíos 可指叔伯舅們或叔伯舅與阿姨",
-        "example_es": "Mi tío vive en Madrid y trabaja en un banco.",
-        "example_zh": "我叔叔住在馬德里，在銀行工作。"
-      },
-      {
-        "word": "la oferta",
-        "pos": "陰性名詞",
-        "meaning": "特價／提案",
-        "detail": "陰性 la oferta / las ofertas；en oferta 表示「特價中」",
-        "example_es": "Este supermercado tiene muy buenas ofertas hoy.",
-        "example_zh": "這家超市今天有很棒的特價商品。"
-      },
-      {
-        "word": "gordo",
+        "word": "tercero",
         "pos": "形容詞",
-        "meaning": "胖的",
-        "detail": "陽性 gordo / gordos；陰性 gorda / gordas；需與名詞的性數一致",
-        "example_es": "El gato de mi abuela es muy gordo.",
-        "example_zh": "我奶奶的貓非常胖。"
+        "meaning": "第三",
+        "detail": "陽性 tercero（名詞前縮寫為 tercer）/ 陰性 tercera；複數 terceros / terceras",
+        "example_es": "Vivo en el tercer piso.",
+        "example_zh": "我住在三樓。"
+      },
+      {
+        "word": "el postre",
+        "pos": "陽性名詞",
+        "meaning": "甜點",
+        "detail": "陽性 el postre / los postres",
+        "example_es": "De postre quiero un helado.",
+        "example_zh": "甜點我想要一球冰淇淋。"
+      },
+      {
+        "word": "ella",
+        "pos": "代名詞",
+        "meaning": "她",
+        "detail": "第三人稱單數陰性主格代名詞，用來指女性或陰性事物",
+        "example_es": "Ella es mi profesora de español.",
+        "example_zh": "她是我的西班牙文老師。"
+      },
+      {
+        "word": "la pantalla",
+        "pos": "陰性名詞",
+        "meaning": "螢幕",
+        "detail": "陰性 la pantalla / las pantallas",
+        "example_es": "La pantalla de mi móvil es muy grande.",
+        "example_zh": "我手機的螢幕非常大。"
+      },
+      {
+        "word": "el jueves",
+        "pos": "陽性名詞",
+        "meaning": "星期四",
+        "detail": "陽性 el jueves / los jueves（複數形式不變）；星期幾前通常用定冠詞",
+        "example_es": "El jueves tengo clase de yoga.",
+        "example_zh": "星期四我有瑜伽課。"
+      },
+      {
+        "word": "la maleta",
+        "pos": "陰性名詞",
+        "meaning": "行李箱",
+        "detail": "陰性 la maleta / las maletas",
+        "example_es": "Tengo que hacer la maleta esta noche.",
+        "example_zh": "我今晚必須打包行李箱。"
+      },
+      {
+        "word": "el marido",
+        "pos": "陽性名詞",
+        "meaning": "丈夫",
+        "detail": "陽性 el marido / los maridos；對應陰性詞為 la mujer（妻子）",
+        "example_es": "Mi marido trabaja en una oficina.",
+        "example_zh": "我的丈夫在辦公室工作。"
+      },
+      {
+        "word": "cerca",
+        "pos": "副詞",
+        "meaning": "近",
+        "detail": "常與介系詞 de 搭配，構成 cerca de（在……附近）；反義詞為 lejos（遠）",
+        "example_es": "La tienda está muy cerca de mi casa.",
+        "example_zh": "那家商店離我家很近。"
+      },
+      {
+        "word": "el zoológico",
+        "pos": "陽性名詞",
+        "meaning": "動物園",
+        "detail": "陽性 el zoológico / los zoológicos",
+        "example_es": "El domingo vamos al zoológico con los niños.",
+        "example_zh": "星期天我們帶孩子們去動物園。"
       }
     ]
   }
