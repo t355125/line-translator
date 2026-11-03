@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-02",
+    "date": "2026-11-03",
     "cards": [
       {
-        "word": "antes de",
-        "pos": "片語",
-        "meaning": "在……之前",
-        "detail": "後接名詞或動詞原形，例如：antes de comer（吃飯之前）、antes del desayuno（早餐之前，del = de + el）",
-        "example_es": "Me lavo los dientes antes de dormir.",
-        "example_zh": "我睡覺之前刷牙。"
+        "word": "hacer",
+        "pos": "動詞",
+        "meaning": "做、製作",
+        "detail": "不規則動詞。現在式變化：hago（我）/ haces（你）/ hace（他／她）/ hacemos（我們）/ hacéis（你們）/ hacen（他們）",
+        "example_es": "Hago la tarea en casa.",
+        "example_zh": "我在家做作業。"
       },
       {
-        "word": "tú",
-        "pos": "代名詞",
-        "meaning": "你（熟人、平輩）",
-        "detail": "主格人稱代名詞，用於熟識的人、同齡人或晚輩；注意重音符號 tú（你）與 tu（你的所有格）不同",
-        "example_es": "¿Tú hablas chino?",
-        "example_zh": "你說中文嗎？"
+        "word": "la película",
+        "pos": "名詞",
+        "meaning": "電影",
+        "detail": "陰性名詞：la película（單數）/ las películas（複數）",
+        "example_es": "Veo una película con mi familia.",
+        "example_zh": "我和家人一起看電影。"
       },
       {
-        "word": "la universidad",
-        "pos": "陰性名詞",
-        "meaning": "大學",
-        "detail": "陰性 la universidad / las universidades",
-        "example_es": "Mi hermana estudia en la universidad.",
-        "example_zh": "我姊姊在大學念書。"
-      },
-      {
-        "word": "la revista",
-        "pos": "陰性名詞",
-        "meaning": "雜誌",
-        "detail": "陰性 la revista / las revistas",
-        "example_es": "Leo una revista de cocina los domingos.",
-        "example_zh": "我每個星期天看烹飪雜誌。"
-      },
-      {
-        "word": "el apio",
-        "pos": "陽性名詞",
-        "meaning": "芹菜",
-        "detail": "陽性 el apio / los apios；日常烹飪中常見蔬菜",
-        "example_es": "Pongo apio en la sopa.",
-        "example_zh": "我在湯裡放芹菜。"
-      },
-      {
-        "word": "ocupado",
-        "pos": "形容詞",
-        "meaning": "忙碌的／被佔用的",
-        "detail": "陽性 ocupado / 陰性 ocupada；複數 ocupados / ocupadas；可描述人（很忙）或地方、座位（被佔用）",
-        "example_es": "Hoy estoy muy ocupada con el trabajo.",
-        "example_zh": "我今天工作很忙。"
-      },
-      {
-        "word": "el pato",
-        "pos": "陽性名詞",
-        "meaning": "鴨",
-        "detail": "陽性 el pato / los patos；母鴨說 la pata",
-        "example_es": "Hay un pato en el parque.",
-        "example_zh": "公園裡有一隻鴨。"
-      },
-      {
-        "word": "julio",
-        "pos": "名詞（月份）",
-        "meaning": "七月",
-        "detail": "西班牙文月份不大寫；陽性名詞 el julio，但日常使用通常省略冠詞；位於六月（junio）之後、八月（agosto）之前",
-        "example_es": "Mi cumpleaños es en julio.",
-        "example_zh": "我的生日在七月。"
-      },
-      {
-        "word": "de dónde",
-        "pos": "疑問片語",
-        "meaning": "從哪裡來",
-        "detail": "常用句型：¿De dónde eres tú?（你是哪裡人？）；注意 dónde 帶重音，為疑問副詞",
-        "example_es": "¿De dónde eres tú?",
-        "example_zh": "你是哪裡人？"
-      },
-      {
-        "word": "setenta",
+        "word": "dieciséis",
         "pos": "數詞",
-        "meaning": "70",
-        "detail": "基數詞，不變化性別；71 起為 setenta y uno、setenta y dos……以此類推",
-        "example_es": "Mi abuelo tiene setenta años.",
-        "example_zh": "我爺爺七十歲。"
+        "meaning": "16（十六）",
+        "detail": "基數詞，不變化。注意重音符號：dieciséis。用於數量、年齡、時間等。",
+        "example_es": "Tengo dieciséis años.",
+        "example_zh": "我十六歲。"
+      },
+      {
+        "word": "la medianoche",
+        "pos": "名詞",
+        "meaning": "午夜十二點",
+        "detail": "陰性名詞：la medianoche（單數，通常不用複數）。常與介系詞 a 連用，表示「在午夜」：a medianoche。",
+        "example_es": "La fiesta termina a medianoche.",
+        "example_zh": "派對在午夜結束。"
+      },
+      {
+        "word": "la pasta",
+        "pos": "名詞",
+        "meaning": "義大利麵",
+        "detail": "陰性名詞：la pasta（單數）/ las pastas（複數）。也可泛指麵食或糕點，視語境而定。",
+        "example_es": "Como pasta con tomate todos los viernes.",
+        "example_zh": "我每個星期五吃番茄義大利麵。"
+      },
+      {
+        "word": "el esposo",
+        "pos": "名詞",
+        "meaning": "丈夫",
+        "detail": "陽性名詞：el esposo（單數）/ los esposos（複數）。陰性形式：la esposa（妻子）。",
+        "example_es": "Mi esposo trabaja en una oficina.",
+        "example_zh": "我丈夫在辦公室工作。"
+      },
+      {
+        "word": "el microondas",
+        "pos": "名詞",
+        "meaning": "微波爐",
+        "detail": "陽性名詞：el microondas（單數）/ los microondas（複數，形式相同）。",
+        "example_es": "Caliento la sopa en el microondas.",
+        "example_zh": "我用微波爐加熱湯。"
+      },
+      {
+        "word": "la cereza",
+        "pos": "名詞",
+        "meaning": "櫻桃",
+        "detail": "陰性名詞：la cereza（單數）/ las cerezas（複數）。樹木說法為 el cerezo（櫻桃樹）。",
+        "example_es": "Las cerezas están muy dulces hoy.",
+        "example_zh": "今天的櫻桃非常甜。"
+      },
+      {
+        "word": "la tos",
+        "pos": "名詞",
+        "meaning": "咳嗽",
+        "detail": "陰性名詞：la tos（單數）/ las toses（複數，較少用）。常用搭配：tener tos（有咳嗽／在咳嗽）。",
+        "example_es": "Tengo tos y me duele la garganta.",
+        "example_zh": "我在咳嗽，而且喉嚨痛。"
+      },
+      {
+        "word": "el cocodrilo",
+        "pos": "名詞",
+        "meaning": "鱷魚",
+        "detail": "陽性名詞：el cocodrilo（單數）/ los cocodrilos（複數）。",
+        "example_es": "El cocodrilo vive cerca del río.",
+        "example_zh": "鱷魚住在河邊附近。"
       }
     ]
   },
