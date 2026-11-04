@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "cards": [
       {
-        "word": "el sueldo",
-        "pos": "名詞",
-        "meaning": "薪水",
-        "detail": "陽性 el sueldo / los sueldos",
-        "example_es": "Mi sueldo no es muy alto.",
-        "example_zh": "我的薪水不是很高。"
+        "word": "la camiseta",
+        "pos": "陰性名詞",
+        "meaning": "T恤",
+        "detail": "陰性：la camiseta / las camisetas",
+        "example_es": "Me pongo la camiseta azul.",
+        "example_zh": "我穿上藍色的T恤。"
       },
       {
-        "word": "la profesora",
-        "pos": "名詞",
-        "meaning": "老師／教授（女）",
-        "detail": "陰性 la profesora / las profesoras；男性為 el profesor",
-        "example_es": "La profesora explica muy bien.",
-        "example_zh": "這位女老師解釋得很好。"
+        "word": "amable",
+        "pos": "形容詞",
+        "meaning": "親切的",
+        "detail": "陰陽性同形：amable（男/女）；複數：amables。用於描述人的態度或性格。",
+        "example_es": "La profesora es muy amable.",
+        "example_zh": "這位老師非常親切。"
       },
       {
-        "word": "el tenis",
-        "pos": "名詞",
-        "meaning": "網球",
-        "detail": "陽性 el tenis（此詞無複數變化，單複數同形）",
-        "example_es": "Me gusta jugar al tenis los fines de semana.",
-        "example_zh": "我喜歡週末打網球。"
+        "word": "él",
+        "pos": "人稱代名詞",
+        "meaning": "他",
+        "detail": "注意：él（他）有重音符號，與 el（定冠詞）不同，使用時不可混淆。",
+        "example_es": "Él es mi amigo.",
+        "example_zh": "他是我的朋友。"
       },
       {
-        "word": "el piso",
-        "pos": "名詞",
-        "meaning": "公寓／樓層",
-        "detail": "陽性 el piso / los pisos；可指整層公寓，也可指建築的樓層",
-        "example_es": "Vivo en un piso pequeño en el centro.",
-        "example_zh": "我住在市中心一間小公寓。"
+        "word": "el mosquito",
+        "pos": "陽性名詞",
+        "meaning": "蚊子",
+        "detail": "陽性：el mosquito / los mosquitos",
+        "example_es": "Hay muchos mosquitos en el parque.",
+        "example_zh": "公園裡有很多蚊子。"
       },
       {
-        "word": "el ciervo",
-        "pos": "名詞",
-        "meaning": "鹿",
-        "detail": "陽性 el ciervo / los ciervos；母鹿為 la cierva",
-        "example_es": "Hay un ciervo en el bosque.",
-        "example_zh": "森林裡有一隻鹿。"
+        "word": "la arena",
+        "pos": "陰性名詞",
+        "meaning": "沙",
+        "detail": "陰性：la arena（通常為不可數，複數少用）；常見於海灘場景。",
+        "example_es": "La arena de la playa es muy fina.",
+        "example_zh": "海灘的沙非常細。"
       },
       {
-        "word": "la servilleta",
-        "pos": "名詞",
-        "meaning": "餐巾",
-        "detail": "陰性 la servilleta / las servilletas",
-        "example_es": "Por favor, dame una servilleta.",
-        "example_zh": "請給我一張餐巾。"
-      },
-      {
-        "word": "vas",
+        "word": "tengo",
         "pos": "動詞",
-        "meaning": "你去（ir 的第二人稱單數現在式）",
-        "detail": "ir 現在式變化：voy（我）/ vas（你）/ va（他／她）/ vamos（我們）/ vais（你們）/ van（他們）",
-        "example_es": "¿Adónde vas esta tarde?",
-        "example_zh": "你今天下午要去哪裡？"
+        "meaning": "我有",
+        "detail": "原形：tener（有）；現在式變化：tengo（我）/ tienes（你）/ tiene（他/她）/ tenemos（我們）/ tenéis（你們）/ tienen（他們）",
+        "example_es": "Tengo dos hermanos.",
+        "example_zh": "我有兩個兄弟。"
       },
       {
-        "word": "la jefa",
-        "pos": "名詞",
-        "meaning": "老闆（女）",
-        "detail": "陰性 la jefa / las jefas；男性為 el jefe",
-        "example_es": "Mi jefa es muy simpática.",
-        "example_zh": "我的女老闆非常親切。"
+        "word": "el móvil",
+        "pos": "陽性名詞",
+        "meaning": "手機（西班牙）",
+        "detail": "陽性：el móvil / los móviles；此為西班牙用法，拉丁美洲常用 el celular。",
+        "example_es": "¿Dónde está mi móvil?",
+        "example_zh": "我的手機在哪裡？"
       },
       {
-        "word": "el avión",
-        "pos": "名詞",
-        "meaning": "飛機",
-        "detail": "陽性 el avión / los aviones；注意複數去掉重音符號",
-        "example_es": "El avión sale a las ocho de la mañana.",
-        "example_zh": "飛機早上八點出發。"
+        "word": "la avenida",
+        "pos": "陰性名詞",
+        "meaning": "大道",
+        "detail": "陰性：la avenida / las avenidas；常用於地址或路名，縮寫為Av.或Avda.。",
+        "example_es": "Vivo en la avenida principal.",
+        "example_zh": "我住在主要大道上。"
       },
       {
-        "word": "la esquina",
-        "pos": "名詞",
-        "meaning": "街角",
-        "detail": "陰性 la esquina / las esquinas；常用於指路",
-        "example_es": "La farmacia está en la esquina.",
-        "example_zh": "藥局就在街角。"
+        "word": "bajo",
+        "pos": "形容詞",
+        "meaning": "矮的／低的",
+        "detail": "陽性：bajo；陰性：baja；複數：bajos / bajas。可形容人的身高或物體的高度。",
+        "example_es": "Mi hermano es bastante bajo.",
+        "example_zh": "我弟弟相當矮。"
+      },
+      {
+        "word": "el corazón",
+        "pos": "陽性名詞",
+        "meaning": "心臟",
+        "detail": "陽性：el corazón / los corazones；注意複數時重音位置改變。也可用於表達情感，如「de corazón」（由衷地）。",
+        "example_es": "El corazón bombea la sangre.",
+        "example_zh": "心臟負責泵送血液。"
       }
     ]
   }
