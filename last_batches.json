@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-03",
+    "date": "2026-11-04",
     "cards": [
       {
-        "word": "hacer",
-        "pos": "動詞",
-        "meaning": "做、製作",
-        "detail": "不規則動詞。現在式變化：hago（我）/ haces（你）/ hace（他／她）/ hacemos（我們）/ hacéis（你們）/ hacen（他們）",
-        "example_es": "Hago la tarea en casa.",
-        "example_zh": "我在家做作業。"
+        "word": "el queso",
+        "pos": "陽性名詞",
+        "meaning": "起司",
+        "detail": "陽性 el queso / los quesos",
+        "example_es": "Me gusta el queso con pan.",
+        "example_zh": "我喜歡起司配麵包。"
       },
       {
-        "word": "la película",
-        "pos": "名詞",
-        "meaning": "電影",
-        "detail": "陰性名詞：la película（單數）/ las películas（複數）",
-        "example_es": "Veo una película con mi familia.",
-        "example_zh": "我和家人一起看電影。"
+        "word": "porque",
+        "pos": "連接詞",
+        "meaning": "因為",
+        "detail": "用於說明原因，接在結果句後面。注意：「為什麼」是 ¿por qué?（分開寫且有重音）",
+        "example_es": "No como carne porque soy vegetariano.",
+        "example_zh": "我不吃肉，因為我是素食者。"
       },
       {
-        "word": "dieciséis",
+        "word": "diecinueve",
         "pos": "數詞",
-        "meaning": "16（十六）",
-        "detail": "基數詞，不變化。注意重音符號：dieciséis。用於數量、年齡、時間等。",
-        "example_es": "Tengo dieciséis años.",
-        "example_zh": "我十六歲。"
+        "meaning": "19",
+        "detail": "基數詞，由 diez（10）+ y + nueve（9）合併而來，寫成一個單字",
+        "example_es": "Tengo diecinueve años.",
+        "example_zh": "我十九歲。"
       },
       {
-        "word": "la medianoche",
-        "pos": "名詞",
-        "meaning": "午夜十二點",
-        "detail": "陰性名詞：la medianoche（單數，通常不用複數）。常與介系詞 a 連用，表示「在午夜」：a medianoche。",
-        "example_es": "La fiesta termina a medianoche.",
-        "example_zh": "派對在午夜結束。"
+        "word": "el cliente",
+        "pos": "陽性名詞",
+        "meaning": "客戶；顧客",
+        "detail": "陽性 el cliente / los clientes；陰性形式 la clienta / las clientas",
+        "example_es": "El cliente quiere hablar con el jefe.",
+        "example_zh": "那位客戶想和老闆說話。"
       },
       {
-        "word": "la pasta",
-        "pos": "名詞",
-        "meaning": "義大利麵",
-        "detail": "陰性名詞：la pasta（單數）/ las pastas（複數）。也可泛指麵食或糕點，視語境而定。",
-        "example_es": "Como pasta con tomate todos los viernes.",
-        "example_zh": "我每個星期五吃番茄義大利麵。"
+        "word": "el baloncesto",
+        "pos": "陽性名詞",
+        "meaning": "籃球（運動）",
+        "detail": "陽性 el baloncesto（通常只用單數）；在拉丁美洲也說 el básquetbol",
+        "example_es": "Juego al baloncesto los fines de semana.",
+        "example_zh": "我週末打籃球。"
       },
       {
-        "word": "el esposo",
-        "pos": "名詞",
-        "meaning": "丈夫",
-        "detail": "陽性名詞：el esposo（單數）/ los esposos（複數）。陰性形式：la esposa（妻子）。",
-        "example_es": "Mi esposo trabaja en una oficina.",
-        "example_zh": "我丈夫在辦公室工作。"
+        "word": "el hueso",
+        "pos": "陽性名詞",
+        "meaning": "骨頭",
+        "detail": "陽性 el hueso / los huesos；也可指水果的果核",
+        "example_es": "El perro tiene un hueso en la boca.",
+        "example_zh": "那隻狗嘴裡有一根骨頭。"
       },
       {
-        "word": "el microondas",
-        "pos": "名詞",
-        "meaning": "微波爐",
-        "detail": "陽性名詞：el microondas（單數）/ los microondas（複數，形式相同）。",
-        "example_es": "Caliento la sopa en el microondas.",
-        "example_zh": "我用微波爐加熱湯。"
+        "word": "propio",
+        "pos": "形容詞",
+        "meaning": "自己的；本身的",
+        "detail": "陽性 propio / propios；陰性 propia / propias；通常放在名詞前，強調所屬",
+        "example_es": "Tengo mi propio cuarto.",
+        "example_zh": "我有自己的房間。"
       },
       {
-        "word": "la cereza",
-        "pos": "名詞",
-        "meaning": "櫻桃",
-        "detail": "陰性名詞：la cereza（單數）/ las cerezas（複數）。樹木說法為 el cerezo（櫻桃樹）。",
-        "example_es": "Las cerezas están muy dulces hoy.",
-        "example_zh": "今天的櫻桃非常甜。"
+        "word": "la ensalada",
+        "pos": "陰性名詞",
+        "meaning": "沙拉",
+        "detail": "陰性 la ensalada / las ensaladas",
+        "example_es": "Como una ensalada de tomate todos los días.",
+        "example_zh": "我每天吃一份番茄沙拉。"
       },
       {
-        "word": "la tos",
-        "pos": "名詞",
-        "meaning": "咳嗽",
-        "detail": "陰性名詞：la tos（單數）/ las toses（複數，較少用）。常用搭配：tener tos（有咳嗽／在咳嗽）。",
-        "example_es": "Tengo tos y me duele la garganta.",
-        "example_zh": "我在咳嗽，而且喉嚨痛。"
+        "word": "contigo",
+        "pos": "介係詞短語（人稱代詞）",
+        "meaning": "跟你一起；和你",
+        "detail": "con（和）+ tigo（你），是 con + tú 的合併形式，專用於第二人稱單數；第一人稱為 conmigo，第三人稱為 consigo",
+        "example_es": "Quiero ir al cine contigo.",
+        "example_zh": "我想和你去看電影。"
       },
       {
-        "word": "el cocodrilo",
-        "pos": "名詞",
-        "meaning": "鱷魚",
-        "detail": "陽性名詞：el cocodrilo（單數）/ los cocodrilos（複數）。",
-        "example_es": "El cocodrilo vive cerca del río.",
-        "example_zh": "鱷魚住在河邊附近。"
+        "word": "soleado",
+        "pos": "形容詞",
+        "meaning": "晴朗的；陽光充足的",
+        "detail": "陽性 soleado / soleados；陰性 soleada / soleadas；常用於描述天氣",
+        "example_es": "Hoy es un día soleado y hace calor.",
+        "example_zh": "今天是個晴朗的日子，天氣很熱。"
       }
     ]
   },
