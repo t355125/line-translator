@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-04",
+    "date": "2026-11-05",
     "cards": [
       {
-        "word": "el queso",
+        "word": "el jengibre",
         "pos": "陽性名詞",
-        "meaning": "起司",
-        "detail": "陽性 el queso / los quesos",
-        "example_es": "Me gusta el queso con pan.",
-        "example_zh": "我喜歡起司配麵包。"
+        "meaning": "薑",
+        "detail": "陽性 el jengibre / los jengibre；常用於料理與飲品中的香料",
+        "example_es": "El té con jengibre es muy rico.",
+        "example_zh": "薑茶非常好喝。"
       },
       {
-        "word": "porque",
-        "pos": "連接詞",
-        "meaning": "因為",
-        "detail": "用於說明原因，接在結果句後面。注意：「為什麼」是 ¿por qué?（分開寫且有重音）",
-        "example_es": "No como carne porque soy vegetariano.",
-        "example_zh": "我不吃肉，因為我是素食者。"
-      },
-      {
-        "word": "diecinueve",
-        "pos": "數詞",
-        "meaning": "19",
-        "detail": "基數詞，由 diez（10）+ y + nueve（9）合併而來，寫成一個單字",
-        "example_es": "Tengo diecinueve años.",
-        "example_zh": "我十九歲。"
-      },
-      {
-        "word": "el cliente",
-        "pos": "陽性名詞",
-        "meaning": "客戶；顧客",
-        "detail": "陽性 el cliente / los clientes；陰性形式 la clienta / las clientas",
-        "example_es": "El cliente quiere hablar con el jefe.",
-        "example_zh": "那位客戶想和老闆說話。"
-      },
-      {
-        "word": "el baloncesto",
-        "pos": "陽性名詞",
-        "meaning": "籃球（運動）",
-        "detail": "陽性 el baloncesto（通常只用單數）；在拉丁美洲也說 el básquetbol",
-        "example_es": "Juego al baloncesto los fines de semana.",
-        "example_zh": "我週末打籃球。"
-      },
-      {
-        "word": "el hueso",
-        "pos": "陽性名詞",
-        "meaning": "骨頭",
-        "detail": "陽性 el hueso / los huesos；也可指水果的果核",
-        "example_es": "El perro tiene un hueso en la boca.",
-        "example_zh": "那隻狗嘴裡有一根骨頭。"
-      },
-      {
-        "word": "propio",
-        "pos": "形容詞",
-        "meaning": "自己的；本身的",
-        "detail": "陽性 propio / propios；陰性 propia / propias；通常放在名詞前，強調所屬",
-        "example_es": "Tengo mi propio cuarto.",
-        "example_zh": "我有自己的房間。"
-      },
-      {
-        "word": "la ensalada",
+        "word": "la escoba",
         "pos": "陰性名詞",
-        "meaning": "沙拉",
-        "detail": "陰性 la ensalada / las ensaladas",
-        "example_es": "Como una ensalada de tomate todos los días.",
-        "example_zh": "我每天吃一份番茄沙拉。"
+        "meaning": "掃把",
+        "detail": "陰性 la escoba / las escobas；打掃地板用的工具",
+        "example_es": "Necesito la escoba para limpiar el suelo.",
+        "example_zh": "我需要掃把來清潔地板。"
       },
       {
-        "word": "contigo",
-        "pos": "介係詞短語（人稱代詞）",
-        "meaning": "跟你一起；和你",
-        "detail": "con（和）+ tigo（你），是 con + tú 的合併形式，專用於第二人稱單數；第一人稱為 conmigo，第三人稱為 consigo",
-        "example_es": "Quiero ir al cine contigo.",
-        "example_zh": "我想和你去看電影。"
+        "word": "mil",
+        "pos": "數詞",
+        "meaning": "1000；一千",
+        "detail": "mil 不加不定冠詞，直接使用；複數 miles 表示「數千、許多」",
+        "example_es": "Este libro cuesta mil pesos.",
+        "example_zh": "這本書要一千披索。"
       },
       {
-        "word": "soleado",
-        "pos": "形容詞",
-        "meaning": "晴朗的；陽光充足的",
-        "detail": "陽性 soleado / soleados；陰性 soleada / soleadas；常用於描述天氣",
-        "example_es": "Hoy es un día soleado y hace calor.",
-        "example_zh": "今天是個晴朗的日子，天氣很熱。"
+        "word": "la reunión",
+        "pos": "陰性名詞",
+        "meaning": "會議",
+        "detail": "陰性 la reunión / las reuniones；注意重音符號 ó 不可省略",
+        "example_es": "Tengo una reunión importante a las diez.",
+        "example_zh": "我十點有一個重要會議。"
+      },
+      {
+        "word": "los padres",
+        "pos": "陽性名詞（複數）",
+        "meaning": "父母",
+        "detail": "陽性複數 los padres；單數 el padre（父親）；los padres 指父母雙方",
+        "example_es": "Mis padres viven en Taipéi.",
+        "example_zh": "我的父母住在台北。"
+      },
+      {
+        "word": "de la mañana",
+        "pos": "介詞片語",
+        "meaning": "上午（約6點到12點）",
+        "detail": "用於具體時刻之後，如 las ocho de la mañana（早上八點）；與 por la mañana（泛指上午）區分",
+        "example_es": "La clase empieza a las nueve de la mañana.",
+        "example_zh": "課在早上九點開始。"
+      },
+      {
+        "word": "ellos",
+        "pos": "人稱代名詞",
+        "meaning": "他們（全男或男女混合）",
+        "detail": "ellos 指全為男性或男女混合的群體；全為女性則用 ellas；動詞搭配第三人稱複數變化",
+        "example_es": "Ellos son mis amigos del trabajo.",
+        "example_zh": "他們是我的工作朋友。"
+      },
+      {
+        "word": "el vino tinto",
+        "pos": "陽性名詞（詞組）",
+        "meaning": "紅酒",
+        "detail": "陽性 el vino tinto / los vinos tintos；tinto 為形容詞，修飾 vino；白酒為 el vino blanco",
+        "example_es": "Me gusta el vino tinto con la cena.",
+        "example_zh": "我喜歡晚餐配紅酒。"
+      },
+      {
+        "word": "mezclar",
+        "pos": "動詞",
+        "meaning": "混合",
+        "detail": "現在式變化：mezclo（我）/ mezclas（你）/ mezcla（他／她）/ mezclamos（我們）/ mezcláis（你們）/ mezclan（他們）",
+        "example_es": "Mezcla el azúcar con la harina.",
+        "example_zh": "把糖和麵粉混合在一起。"
+      },
+      {
+        "word": "la ambulancia",
+        "pos": "陰性名詞",
+        "meaning": "救護車",
+        "detail": "陰性 la ambulancia / las ambulancias；緊急狀況常用詞彙",
+        "example_es": "Llama a una ambulancia, por favor.",
+        "example_zh": "請叫一輛救護車。"
       }
     ]
   },
