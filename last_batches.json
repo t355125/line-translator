@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-05",
+    "date": "2026-11-06",
     "cards": [
       {
-        "word": "el jengibre",
+        "word": "el melocotón",
         "pos": "陽性名詞",
-        "meaning": "薑",
-        "detail": "陽性 el jengibre / los jengibre；常用於料理與飲品中的香料",
-        "example_es": "El té con jengibre es muy rico.",
-        "example_zh": "薑茶非常好喝。"
+        "meaning": "桃子",
+        "detail": "陽性 el melocotón / los melocotones",
+        "example_es": "Me gusta mucho el melocotón en verano.",
+        "example_zh": "我非常喜歡夏天的桃子。"
       },
       {
-        "word": "la escoba",
+        "word": "la cortina",
         "pos": "陰性名詞",
-        "meaning": "掃把",
-        "detail": "陰性 la escoba / las escobas；打掃地板用的工具",
-        "example_es": "Necesito la escoba para limpiar el suelo.",
-        "example_zh": "我需要掃把來清潔地板。"
+        "meaning": "窗簾",
+        "detail": "陰性 la cortina / las cortinas",
+        "example_es": "Las cortinas del salón son azules.",
+        "example_zh": "客廳的窗簾是藍色的。"
       },
       {
-        "word": "mil",
-        "pos": "數詞",
-        "meaning": "1000；一千",
-        "detail": "mil 不加不定冠詞，直接使用；複數 miles 表示「數千、許多」",
-        "example_es": "Este libro cuesta mil pesos.",
-        "example_zh": "這本書要一千披索。"
+        "word": "nunca",
+        "pos": "副詞",
+        "meaning": "從不",
+        "detail": "用於否定句，放在動詞前或後。放在動詞後時需加 no：No como nunca carne. / Nunca como carne.",
+        "example_es": "Nunca llego tarde al trabajo.",
+        "example_zh": "我上班從不遲到。"
       },
       {
-        "word": "la reunión",
+        "word": "la sartén",
         "pos": "陰性名詞",
-        "meaning": "會議",
-        "detail": "陰性 la reunión / las reuniones；注意重音符號 ó 不可省略",
-        "example_es": "Tengo una reunión importante a las diez.",
-        "example_zh": "我十點有一個重要會議。"
+        "meaning": "平底鍋",
+        "detail": "陰性 la sartén / las sartenes",
+        "example_es": "Caliento el aceite en la sartén.",
+        "example_zh": "我在平底鍋裡加熱油。"
       },
       {
-        "word": "los padres",
-        "pos": "陽性名詞（複數）",
-        "meaning": "父母",
-        "detail": "陽性複數 los padres；單數 el padre（父親）；los padres 指父母雙方",
-        "example_es": "Mis padres viven en Taipéi.",
-        "example_zh": "我的父母住在台北。"
+        "word": "te",
+        "pos": "代詞",
+        "meaning": "你（受詞）／你自己",
+        "detail": "作直接受詞（te veo＝我看見你）或反身代詞（te lavas＝你洗自己），放在動詞前。",
+        "example_es": "Te llamo mañana.",
+        "example_zh": "我明天打電話給你。"
       },
       {
-        "word": "de la mañana",
-        "pos": "介詞片語",
-        "meaning": "上午（約6點到12點）",
-        "detail": "用於具體時刻之後，如 las ocho de la mañana（早上八點）；與 por la mañana（泛指上午）區分",
-        "example_es": "La clase empieza a las nueve de la mañana.",
-        "example_zh": "課在早上九點開始。"
+        "word": "sorprendido",
+        "pos": "形容詞",
+        "meaning": "驚訝的",
+        "detail": "陽性單數 sorprendido / 陰性單數 sorprendida / 陽性複數 sorprendidos / 陰性複數 sorprendidas",
+        "example_es": "Estoy muy sorprendido por tu regalo.",
+        "example_zh": "我對你的禮物感到非常驚訝。"
       },
       {
-        "word": "ellos",
-        "pos": "人稱代名詞",
-        "meaning": "他們（全男或男女混合）",
-        "detail": "ellos 指全為男性或男女混合的群體；全為女性則用 ellas；動詞搭配第三人稱複數變化",
-        "example_es": "Ellos son mis amigos del trabajo.",
-        "example_zh": "他們是我的工作朋友。"
+        "word": "la empresa",
+        "pos": "陰性名詞",
+        "meaning": "公司",
+        "detail": "陰性 la empresa / las empresas",
+        "example_es": "Trabajo en una empresa pequeña.",
+        "example_zh": "我在一家小公司工作。"
       },
       {
-        "word": "el vino tinto",
-        "pos": "陽性名詞（詞組）",
-        "meaning": "紅酒",
-        "detail": "陽性 el vino tinto / los vinos tintos；tinto 為形容詞，修飾 vino；白酒為 el vino blanco",
-        "example_es": "Me gusta el vino tinto con la cena.",
-        "example_zh": "我喜歡晚餐配紅酒。"
+        "word": "la bufanda",
+        "pos": "陰性名詞",
+        "meaning": "圍巾",
+        "detail": "陰性 la bufanda / las bufandas",
+        "example_es": "En invierno siempre llevo una bufanda.",
+        "example_zh": "冬天我總是戴圍巾。"
       },
       {
-        "word": "mezclar",
+        "word": "estás",
         "pos": "動詞",
-        "meaning": "混合",
-        "detail": "現在式變化：mezclo（我）/ mezclas（你）/ mezcla（他／她）/ mezclamos（我們）/ mezcláis（你們）/ mezclan（他們）",
-        "example_es": "Mezcla el azúcar con la harina.",
-        "example_zh": "把糖和麵粉混合在一起。"
+        "meaning": "你在／你（狀態）是",
+        "detail": "estar 的現在式第二人稱單數變化：estoy（我）/ estás（你）/ está（他／她）/ estamos（我們）/ estáis（你們）/ están（他們）",
+        "example_es": "¿Estás en casa ahora?",
+        "example_zh": "你現在在家嗎？"
       },
       {
-        "word": "la ambulancia",
-        "pos": "陰性名詞",
-        "meaning": "救護車",
-        "detail": "陰性 la ambulancia / las ambulancias；緊急狀況常用詞彙",
-        "example_es": "Llama a una ambulancia, por favor.",
-        "example_zh": "請叫一輛救護車。"
+        "word": "el trueno",
+        "pos": "陽性名詞",
+        "meaning": "雷",
+        "detail": "陽性 el trueno / los truenos",
+        "example_es": "Escucho un trueno muy fuerte.",
+        "example_zh": "我聽到一聲很響的雷。"
       }
     ]
   },
