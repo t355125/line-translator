@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-06",
+    "date": "2026-11-07",
     "cards": [
       {
-        "word": "el melocotón",
+        "word": "el estante",
         "pos": "陽性名詞",
-        "meaning": "桃子",
-        "detail": "陽性 el melocotón / los melocotones",
-        "example_es": "Me gusta mucho el melocotón en verano.",
-        "example_zh": "我非常喜歡夏天的桃子。"
+        "meaning": "架子、書架",
+        "detail": "陽性 el estante / los estantes",
+        "example_es": "Los libros están en el estante.",
+        "example_zh": "書在架子上。"
       },
       {
-        "word": "la cortina",
-        "pos": "陰性名詞",
-        "meaning": "窗簾",
-        "detail": "陰性 la cortina / las cortinas",
-        "example_es": "Las cortinas del salón son azules.",
-        "example_zh": "客廳的窗簾是藍色的。"
-      },
-      {
-        "word": "nunca",
-        "pos": "副詞",
-        "meaning": "從不",
-        "detail": "用於否定句，放在動詞前或後。放在動詞後時需加 no：No como nunca carne. / Nunca como carne.",
-        "example_es": "Nunca llego tarde al trabajo.",
-        "example_zh": "我上班從不遲到。"
-      },
-      {
-        "word": "la sartén",
-        "pos": "陰性名詞",
-        "meaning": "平底鍋",
-        "detail": "陰性 la sartén / las sartenes",
-        "example_es": "Caliento el aceite en la sartén.",
-        "example_zh": "我在平底鍋裡加熱油。"
-      },
-      {
-        "word": "te",
-        "pos": "代詞",
-        "meaning": "你（受詞）／你自己",
-        "detail": "作直接受詞（te veo＝我看見你）或反身代詞（te lavas＝你洗自己），放在動詞前。",
-        "example_es": "Te llamo mañana.",
-        "example_zh": "我明天打電話給你。"
-      },
-      {
-        "word": "sorprendido",
+        "word": "ligero",
         "pos": "形容詞",
-        "meaning": "驚訝的",
-        "detail": "陽性單數 sorprendido / 陰性單數 sorprendida / 陽性複數 sorprendidos / 陰性複數 sorprendidas",
-        "example_es": "Estoy muy sorprendido por tu regalo.",
-        "example_zh": "我對你的禮物感到非常驚訝。"
+        "meaning": "輕的",
+        "detail": "陽性 ligero / 陰性 ligera；複數 ligeros / ligeras",
+        "example_es": "Esta mochila es muy ligera.",
+        "example_zh": "這個背包非常輕。"
       },
       {
-        "word": "la empresa",
+        "word": "marzo",
+        "pos": "名詞（月份）",
+        "meaning": "三月",
+        "detail": "西班牙文月份不大寫；說「在三月」用 en marzo",
+        "example_es": "Mi cumpleaños es en marzo.",
+        "example_zh": "我的生日在三月。"
+      },
+      {
+        "word": "entonces",
+        "pos": "副詞／連接詞",
+        "meaning": "那麼／然後",
+        "detail": "用於承接前文，表示結果或順序，相當於「所以」或「接著」",
+        "example_es": "No hay pan, entonces compro arroz.",
+        "example_zh": "沒有麵包，那麼我買米飯。"
+      },
+      {
+        "word": "la contraseña",
         "pos": "陰性名詞",
-        "meaning": "公司",
-        "detail": "陰性 la empresa / las empresas",
-        "example_es": "Trabajo en una empresa pequeña.",
-        "example_zh": "我在一家小公司工作。"
+        "meaning": "密碼",
+        "detail": "陰性 la contraseña / las contraseñas",
+        "example_es": "No recuerdo mi contraseña.",
+        "example_zh": "我不記得我的密碼。"
       },
       {
-        "word": "la bufanda",
-        "pos": "陰性名詞",
-        "meaning": "圍巾",
-        "detail": "陰性 la bufanda / las bufandas",
-        "example_es": "En invierno siempre llevo una bufanda.",
-        "example_zh": "冬天我總是戴圍巾。"
-      },
-      {
-        "word": "estás",
-        "pos": "動詞",
-        "meaning": "你在／你（狀態）是",
-        "detail": "estar 的現在式第二人稱單數變化：estoy（我）/ estás（你）/ está（他／她）/ estamos（我們）/ estáis（你們）/ están（他們）",
-        "example_es": "¿Estás en casa ahora?",
-        "example_zh": "你現在在家嗎？"
-      },
-      {
-        "word": "el trueno",
+        "word": "el restaurante",
         "pos": "陽性名詞",
-        "meaning": "雷",
-        "detail": "陽性 el trueno / los truenos",
-        "example_es": "Escucho un trueno muy fuerte.",
-        "example_zh": "我聽到一聲很響的雷。"
+        "meaning": "餐廳",
+        "detail": "陽性 el restaurante / los restaurantes",
+        "example_es": "Vamos a comer a un restaurante italiano.",
+        "example_zh": "我們去一家義大利餐廳吃飯。"
+      },
+      {
+        "word": "la biblioteca",
+        "pos": "陰性名詞",
+        "meaning": "圖書館",
+        "detail": "陰性 la biblioteca / las bibliotecas",
+        "example_es": "Estudio en la biblioteca todos los días.",
+        "example_zh": "我每天在圖書館讀書。"
+      },
+      {
+        "word": "enfrente de",
+        "pos": "介系詞片語",
+        "meaning": "在……對面",
+        "detail": "後面直接接名詞，例如 enfrente de la escuela（在學校對面）",
+        "example_es": "La farmacia está enfrente de mi casa.",
+        "example_zh": "藥局在我家對面。"
+      },
+      {
+        "word": "la isla",
+        "pos": "陰性名詞",
+        "meaning": "島",
+        "detail": "陰性 la isla / las islas；注意雖以母音 i 開頭，冠詞仍用 la",
+        "example_es": "Quiero visitar una isla tropical.",
+        "example_zh": "我想去參觀一座熱帶島嶼。"
+      },
+      {
+        "word": "el chile",
+        "pos": "陽性名詞",
+        "meaning": "辣椒",
+        "detail": "陽性 el chile / los chiles；在西班牙也常說 el pimiento 或 la guindilla",
+        "example_es": "Este plato tiene mucho chile, ¡está muy picante!",
+        "example_zh": "這道菜有很多辣椒，好辣！"
       }
     ]
   },
