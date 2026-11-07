@@ -88,84 +88,84 @@
     "date": "2026-11-07",
     "cards": [
       {
-        "word": "el rábano",
-        "pos": "陽性名詞",
-        "meaning": "蘿蔔",
-        "detail": "陽性 el rábano / los rábanos",
-        "example_es": "Me gusta el rábano en la ensalada.",
-        "example_zh": "我喜歡沙拉裡的蘿蔔。"
-      },
-      {
-        "word": "cuál",
-        "pos": "疑問詞",
-        "meaning": "哪一個",
-        "detail": "用於疑問句，複數形為 cuáles；置於動詞 ser 前常用 cuál 而非 qué",
-        "example_es": "¿Cuál es tu color favorito?",
-        "example_zh": "你最喜歡的顏色是哪一個？"
-      },
-      {
-        "word": "también",
-        "pos": "副詞",
-        "meaning": "也、同樣",
-        "detail": "用於肯定句表示「也」，否定句中「也不」則用 tampoco",
-        "example_es": "Yo también quiero un café.",
-        "example_zh": "我也想要一杯咖啡。"
-      },
-      {
-        "word": "freír",
-        "pos": "動詞",
-        "meaning": "炸／煎",
-        "detail": "變化：frío（我）/ fríes（你）/ fríe（他／她）／freímos（我們）；不規則動詞，e→í",
-        "example_es": "Voy a freír un huevo para el desayuno.",
-        "example_zh": "我要煎一顆蛋當早餐。"
-      },
-      {
-        "word": "lejos",
-        "pos": "副詞",
-        "meaning": "遠、在遠處",
-        "detail": "反義詞為 cerca（近）；常與介系詞 de 搭配，如 lejos de casa（離家很遠）",
-        "example_es": "La escuela está lejos de mi casa.",
-        "example_zh": "學校離我家很遠。"
-      },
-      {
-        "word": "el zorro",
-        "pos": "陽性名詞",
-        "meaning": "狐狸",
-        "detail": "陽性 el zorro / los zorros；陰性 la zorra / las zorras",
-        "example_es": "El zorro es un animal muy inteligente.",
-        "example_zh": "狐狸是一種非常聰明的動物。"
-      },
-      {
-        "word": "el primo",
-        "pos": "陽性名詞",
-        "meaning": "堂表兄弟（男性）",
-        "detail": "陽性 el primo / los primos；陰性（堂表姊妹）la prima / las primas",
-        "example_es": "Mi primo vive en Barcelona.",
-        "example_zh": "我的堂表兄弟住在巴塞隆納。"
-      },
-      {
-        "word": "la voz",
+        "word": "la medicina",
         "pos": "陰性名詞",
-        "meaning": "聲音（人的嗓音）",
-        "detail": "陰性 la voz / las voces；複數字尾 z 改為 c 再加 es",
-        "example_es": "Ella tiene una voz muy bonita.",
-        "example_zh": "她有一把非常好聽的聲音。"
+        "meaning": "藥／醫學",
+        "detail": "陰性 la medicina / las medicinas；可指「藥物」也可指「醫學」這門學科",
+        "example_es": "Tomo la medicina después de comer.",
+        "example_zh": "我飯後吃藥。"
       },
       {
-        "word": "necesario",
-        "pos": "形容詞",
-        "meaning": "必要的、必需的",
-        "detail": "陽性 necesario / necesarios；陰性 necesaria / necesarias",
-        "example_es": "Es necesario beber agua todos los días.",
-        "example_zh": "每天喝水是必要的。"
+        "word": "la oreja",
+        "pos": "陰性名詞",
+        "meaning": "耳朵（外耳）",
+        "detail": "陰性 la oreja / las orejas；專指看得到的外耳，內耳器官用 el oído",
+        "example_es": "Me duele la oreja derecha.",
+        "example_zh": "我右耳很痛。"
       },
       {
-        "word": "el ingeniero",
+        "word": "el lobo",
         "pos": "陽性名詞",
-        "meaning": "工程師（男性）",
-        "detail": "陽性 el ingeniero / los ingenieros；陰性（女工程師）la ingeniera / las ingenieras",
-        "example_es": "Mi padre es ingeniero y trabaja en una empresa grande.",
-        "example_zh": "我爸爸是工程師，在一家大公司工作。"
+        "meaning": "狼",
+        "detail": "陽性 el lobo / los lobos；母狼為 la loba",
+        "example_es": "El lobo vive en el bosque.",
+        "example_zh": "狼住在森林裡。"
+      },
+      {
+        "word": "la cerveza",
+        "pos": "陰性名詞",
+        "meaning": "啤酒",
+        "detail": "陰性 la cerveza / las cervezas；點飲料時常說 una cerveza, por favor",
+        "example_es": "¿Quieres una cerveza fría?",
+        "example_zh": "你想要一杯冰啤酒嗎？"
+      },
+      {
+        "word": "el profesor",
+        "pos": "陽性名詞",
+        "meaning": "老師／教授（男）",
+        "detail": "陽性 el profesor / los profesores；女老師為 la profesora / las profesoras",
+        "example_es": "El profesor explica la lección muy bien.",
+        "example_zh": "這位老師把課解釋得很清楚。"
+      },
+      {
+        "word": "el hombre",
+        "pos": "陽性名詞",
+        "meaning": "男人",
+        "detail": "陽性 el hombre / los hombres；也可泛指「人類」，女人為 la mujer",
+        "example_es": "Hay un hombre alto en la puerta.",
+        "example_zh": "門口有一個高個子男人。"
+      },
+      {
+        "word": "la fresa",
+        "pos": "陰性名詞",
+        "meaning": "草莓",
+        "detail": "陰性 la fresa / las fresas；在墨西哥等拉美地區也常用 la frutilla",
+        "example_es": "Me gustan mucho las fresas con nata.",
+        "example_zh": "我非常喜歡草莓配鮮奶油。"
+      },
+      {
+        "word": "noviembre",
+        "pos": "名詞（月份）",
+        "meaning": "十一月",
+        "detail": "月份名詞在西班牙文中為陽性且通常小寫；說「在十一月」用 en noviembre",
+        "example_es": "Mi cumpleaños es en noviembre.",
+        "example_zh": "我的生日在十一月。"
+      },
+      {
+        "word": "el centro",
+        "pos": "陽性名詞",
+        "meaning": "市中心",
+        "detail": "陽性 el centro / los centros；常見搭配：el centro de la ciudad（市區中心）、ir al centro（去市中心）",
+        "example_es": "Vamos al centro a comprar ropa.",
+        "example_zh": "我們去市中心買衣服。"
+      },
+      {
+        "word": "la corbata",
+        "pos": "陰性名詞",
+        "meaning": "領帶",
+        "detail": "陰性 la corbata / las corbatas；常見搭配：llevar corbata（打領帶）、ponerse la corbata（繫上領帶）",
+        "example_es": "Mi padre lleva corbata en el trabajo.",
+        "example_zh": "我父親上班時打領帶。"
       }
     ]
   }
