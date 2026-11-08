@@ -4588,5 +4588,65 @@
     "pos": "陰性名詞",
     "meaning": "山",
     "date": "2026-11-08"
+  },
+  {
+    "word": "la ingeniera",
+    "pos": "陰性名詞",
+    "meaning": "工程師（女）",
+    "date": "2026-11-09"
+  },
+  {
+    "word": "pero",
+    "pos": "連接詞",
+    "meaning": "但是",
+    "date": "2026-11-09"
+  },
+  {
+    "word": "nos",
+    "pos": "代名詞",
+    "meaning": "我們（受詞）／我們自己",
+    "date": "2026-11-09"
+  },
+  {
+    "word": "la emergencia",
+    "pos": "陰性名詞",
+    "meaning": "緊急狀況",
+    "date": "2026-11-09"
+  },
+  {
+    "word": "el mar",
+    "pos": "陽性名詞",
+    "meaning": "海",
+    "date": "2026-11-09"
+  },
+  {
+    "word": "la falda",
+    "pos": "陰性名詞",
+    "meaning": "裙子",
+    "date": "2026-11-09"
+  },
+  {
+    "word": "el bebé",
+    "pos": "陽性名詞",
+    "meaning": "嬰兒",
+    "date": "2026-11-09"
+  },
+  {
+    "word": "estamos",
+    "pos": "動詞",
+    "meaning": "我們在",
+    "date": "2026-11-09"
+  },
+  {
+    "word": "débil",
+    "pos": "形容詞",
+    "meaning": "虛弱的",
+    "date": "2026-11-09"
+  },
+  {
+    "word": "la uva",
+    "pos": "陰性名詞",
+    "meaning": "葡萄",
+    "date": "2026-11-09"
   }
 ]

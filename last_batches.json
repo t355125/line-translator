@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-11-07",
+    "date": "2026-11-09",
     "cards": [
       {
-        "word": "la medicina",
+        "word": "la ingeniera",
         "pos": "陰性名詞",
-        "meaning": "藥／醫學",
-        "detail": "陰性 la medicina / las medicinas；可指「藥物」也可指「醫學」這門學科",
-        "example_es": "Tomo la medicina después de comer.",
-        "example_zh": "我飯後吃藥。"
+        "meaning": "工程師（女）",
+        "detail": "陰性 la ingeniera / las ingenieras；男性形式為 el ingeniero / los ingenieros",
+        "example_es": "Mi hermana es ingeniera.",
+        "example_zh": "我姐姐是工程師。"
       },
       {
-        "word": "la oreja",
-        "pos": "陰性名詞",
-        "meaning": "耳朵（外耳）",
-        "detail": "陰性 la oreja / las orejas；專指看得到的外耳，內耳器官用 el oído",
-        "example_es": "Me duele la oreja derecha.",
-        "example_zh": "我右耳很痛。"
+        "word": "pero",
+        "pos": "連接詞",
+        "meaning": "但是",
+        "detail": "用來連接兩個對比或轉折的句子，相當於中文「但是／可是」",
+        "example_es": "Me gusta el café, pero no tomo azúcar.",
+        "example_zh": "我喜歡咖啡，但是我不加糖。"
       },
       {
-        "word": "el lobo",
+        "word": "nos",
+        "pos": "代名詞",
+        "meaning": "我們（受詞）／我們自己",
+        "detail": "作為直接受詞或間接受詞，也用於反身動詞（如 levantarse → nos levantamos）",
+        "example_es": "Nos llaman a las ocho.",
+        "example_zh": "他們八點打電話給我們。"
+      },
+      {
+        "word": "la emergencia",
+        "pos": "陰性名詞",
+        "meaning": "緊急狀況",
+        "detail": "陰性 la emergencia / las emergencias；常見用語：en caso de emergencia（緊急情況時）",
+        "example_es": "Llama al médico, es una emergencia.",
+        "example_zh": "打電話給醫生，這是緊急狀況。"
+      },
+      {
+        "word": "el mar",
         "pos": "陽性名詞",
-        "meaning": "狼",
-        "detail": "陽性 el lobo / los lobos；母狼為 la loba",
-        "example_es": "El lobo vive en el bosque.",
-        "example_zh": "狼住在森林裡。"
+        "meaning": "海",
+        "detail": "陽性 el mar / los mares；文學或詩意用法有時作陰性 la mar",
+        "example_es": "El mar está muy azul hoy.",
+        "example_zh": "今天海很藍。"
       },
       {
-        "word": "la cerveza",
+        "word": "la falda",
         "pos": "陰性名詞",
-        "meaning": "啤酒",
-        "detail": "陰性 la cerveza / las cervezas；點飲料時常說 una cerveza, por favor",
-        "example_es": "¿Quieres una cerveza fría?",
-        "example_zh": "你想要一杯冰啤酒嗎？"
+        "meaning": "裙子",
+        "detail": "陰性 la falda / las faldas",
+        "example_es": "Ella lleva una falda roja.",
+        "example_zh": "她穿著一條紅色裙子。"
       },
       {
-        "word": "el profesor",
+        "word": "el bebé",
         "pos": "陽性名詞",
-        "meaning": "老師／教授（男）",
-        "detail": "陽性 el profesor / los profesores；女老師為 la profesora / las profesoras",
-        "example_es": "El profesor explica la lección muy bien.",
-        "example_zh": "這位老師把課解釋得很清楚。"
+        "meaning": "嬰兒",
+        "detail": "陽性 el bebé / los bebés；女嬰也可說 la bebé",
+        "example_es": "El bebé duerme en su cama.",
+        "example_zh": "嬰兒在他的床上睡覺。"
       },
       {
-        "word": "el hombre",
-        "pos": "陽性名詞",
-        "meaning": "男人",
-        "detail": "陽性 el hombre / los hombres；也可泛指「人類」，女人為 la mujer",
-        "example_es": "Hay un hombre alto en la puerta.",
-        "example_zh": "門口有一個高個子男人。"
+        "word": "estamos",
+        "pos": "動詞",
+        "meaning": "我們在",
+        "detail": "estar 的現在式第一人稱複數；常用變化：estoy / estás / está / estamos / estáis / están；用於表達位置或狀態",
+        "example_es": "Estamos en la escuela ahora.",
+        "example_zh": "我們現在在學校。"
       },
       {
-        "word": "la fresa",
+        "word": "débil",
+        "pos": "形容詞",
+        "meaning": "虛弱的",
+        "detail": "陰陽性同形 débil；複數加 -es：débiles；反義詞為 fuerte（強壯的）",
+        "example_es": "Me siento muy débil hoy.",
+        "example_zh": "我今天感覺很虛弱。"
+      },
+      {
+        "word": "la uva",
         "pos": "陰性名詞",
-        "meaning": "草莓",
-        "detail": "陰性 la fresa / las fresas；在墨西哥等拉美地區也常用 la frutilla",
-        "example_es": "Me gustan mucho las fresas con nata.",
-        "example_zh": "我非常喜歡草莓配鮮奶油。"
-      },
-      {
-        "word": "noviembre",
-        "pos": "名詞（月份）",
-        "meaning": "十一月",
-        "detail": "月份名詞在西班牙文中為陽性且通常小寫；說「在十一月」用 en noviembre",
-        "example_es": "Mi cumpleaños es en noviembre.",
-        "example_zh": "我的生日在十一月。"
-      },
-      {
-        "word": "el centro",
-        "pos": "陽性名詞",
-        "meaning": "市中心",
-        "detail": "陽性 el centro / los centros；常見搭配：el centro de la ciudad（市區中心）、ir al centro（去市中心）",
-        "example_es": "Vamos al centro a comprar ropa.",
-        "example_zh": "我們去市中心買衣服。"
-      },
-      {
-        "word": "la corbata",
-        "pos": "陰性名詞",
-        "meaning": "領帶",
-        "detail": "陰性 la corbata / las corbatas；常見搭配：llevar corbata（打領帶）、ponerse la corbata（繫上領帶）",
-        "example_es": "Mi padre lleva corbata en el trabajo.",
-        "example_zh": "我父親上班時打領帶。"
+        "meaning": "葡萄",
+        "detail": "陰性 la uva / las uvas；西班牙跨年習俗：在新年倒數時吃十二顆葡萄（las doce uvas de la suerte）",
+        "example_es": "Me gustan mucho las uvas verdes.",
+        "example_zh": "我非常喜歡綠葡萄。"
       }
     ]
   }
