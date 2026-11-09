@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "cards": [
       {
-        "word": "la ingeniera",
-        "pos": "陰性名詞",
-        "meaning": "工程師（女）",
-        "detail": "陰性 la ingeniera / las ingenieras；男性形式為 el ingeniero / los ingenieros",
-        "example_es": "Mi hermana es ingeniera.",
-        "example_zh": "我姐姐是工程師。"
-      },
-      {
-        "word": "pero",
-        "pos": "連接詞",
-        "meaning": "但是",
-        "detail": "用來連接兩個對比或轉折的句子，相當於中文「但是／可是」",
-        "example_es": "Me gusta el café, pero no tomo azúcar.",
-        "example_zh": "我喜歡咖啡，但是我不加糖。"
-      },
-      {
-        "word": "nos",
-        "pos": "代名詞",
-        "meaning": "我們（受詞）／我們自己",
-        "detail": "作為直接受詞或間接受詞，也用於反身動詞（如 levantarse → nos levantamos）",
-        "example_es": "Nos llaman a las ocho.",
-        "example_zh": "他們八點打電話給我們。"
-      },
-      {
-        "word": "la emergencia",
-        "pos": "陰性名詞",
-        "meaning": "緊急狀況",
-        "detail": "陰性 la emergencia / las emergencias；常見用語：en caso de emergencia（緊急情況時）",
-        "example_es": "Llama al médico, es una emergencia.",
-        "example_zh": "打電話給醫生，這是緊急狀況。"
-      },
-      {
-        "word": "el mar",
+        "word": "el delfín",
         "pos": "陽性名詞",
-        "meaning": "海",
-        "detail": "陽性 el mar / los mares；文學或詩意用法有時作陰性 la mar",
-        "example_es": "El mar está muy azul hoy.",
-        "example_zh": "今天海很藍。"
+        "meaning": "海豚",
+        "detail": "陽性 el delfín / los delfines",
+        "example_es": "El delfín nada muy rápido en el mar.",
+        "example_zh": "海豚在海裡游得很快。"
       },
       {
-        "word": "la falda",
-        "pos": "陰性名詞",
-        "meaning": "裙子",
-        "detail": "陰性 la falda / las faldas",
-        "example_es": "Ella lleva una falda roja.",
-        "example_zh": "她穿著一條紅色裙子。"
-      },
-      {
-        "word": "el bebé",
-        "pos": "陽性名詞",
-        "meaning": "嬰兒",
-        "detail": "陽性 el bebé / los bebés；女嬰也可說 la bebé",
-        "example_es": "El bebé duerme en su cama.",
-        "example_zh": "嬰兒在他的床上睡覺。"
-      },
-      {
-        "word": "estamos",
+        "word": "probarse",
         "pos": "動詞",
-        "meaning": "我們在",
-        "detail": "estar 的現在式第一人稱複數；常用變化：estoy / estás / está / estamos / estáis / están；用於表達位置或狀態",
-        "example_es": "Estamos en la escuela ahora.",
-        "example_zh": "我們現在在學校。"
+        "meaning": "試穿",
+        "detail": "反身動詞，變化：me pruebo(我)/ te pruebas(你)/ se prueba(他／她)；o→ue 不規則變化",
+        "example_es": "Me quiero probar esta camisa azul.",
+        "example_zh": "我想試穿這件藍色襯衫。"
       },
       {
-        "word": "débil",
-        "pos": "形容詞",
-        "meaning": "虛弱的",
-        "detail": "陰陽性同形 débil；複數加 -es：débiles；反義詞為 fuerte（強壯的）",
-        "example_es": "Me siento muy débil hoy.",
-        "example_zh": "我今天感覺很虛弱。"
-      },
-      {
-        "word": "la uva",
+        "word": "la cebolla",
         "pos": "陰性名詞",
-        "meaning": "葡萄",
-        "detail": "陰性 la uva / las uvas；西班牙跨年習俗：在新年倒數時吃十二顆葡萄（las doce uvas de la suerte）",
-        "example_es": "Me gustan mucho las uvas verdes.",
-        "example_zh": "我非常喜歡綠葡萄。"
+        "meaning": "洋蔥",
+        "detail": "陰性 la cebolla / las cebollas",
+        "example_es": "La cebolla está en la cocina.",
+        "example_zh": "洋蔥在廚房裡。"
+      },
+      {
+        "word": "asustado",
+        "pos": "形容詞",
+        "meaning": "害怕的",
+        "detail": "陽性 asustado / 陰性 asustada；複數 asustados / asustadas",
+        "example_es": "El niño está asustado por el perro grande.",
+        "example_zh": "那個小男孩被大狗嚇到了。"
+      },
+      {
+        "word": "el aire",
+        "pos": "陽性名詞",
+        "meaning": "空氣",
+        "detail": "陽性 el aire / los aires；常見搭配：aire fresco（新鮮空氣）、aire acondicionado（冷氣）",
+        "example_es": "El aire en el parque es muy fresco.",
+        "example_zh": "公園裡的空氣很清新。"
+      },
+      {
+        "word": "el celular",
+        "pos": "陽性名詞",
+        "meaning": "手機（拉丁美洲用法，西班牙說 el móvil）",
+        "detail": "陽性 el celular / los celulares",
+        "example_es": "Olvidé mi celular en casa.",
+        "example_zh": "我把手機忘在家裡了。"
+      },
+      {
+        "word": "el novio",
+        "pos": "陽性名詞",
+        "meaning": "男友／新郎",
+        "detail": "陽性 el novio / los novios；陰性對應 la novia（女友／新娘）；novios 也可指「一對情侶」",
+        "example_es": "Mi novio me llama todas las noches.",
+        "example_zh": "我男友每晚都打電話給我。"
+      },
+      {
+        "word": "la sal",
+        "pos": "陰性名詞",
+        "meaning": "鹽",
+        "detail": "陰性 la sal / las sales；通常用單數，複數較少見",
+        "example_es": "¿Puedes pasarme la sal, por favor?",
+        "example_zh": "可以請你把鹽遞給我嗎？"
+      },
+      {
+        "word": "izquierda",
+        "pos": "名詞／形容詞",
+        "meaning": "左；左邊",
+        "detail": "常用片語：a la izquierda（在左邊／向左轉）；反義詞：derecha（右）",
+        "example_es": "Gira a la izquierda en el semáforo.",
+        "example_zh": "在紅綠燈那裡向左轉。"
+      },
+      {
+        "word": "quince",
+        "pos": "數詞",
+        "meaning": "十五（15）",
+        "detail": "不變化，陰陽性相同；quinceañera 指女孩十五歲生日慶典",
+        "example_es": "Tengo quince años.",
+        "example_zh": "我十五歲。"
       }
     ]
   }
