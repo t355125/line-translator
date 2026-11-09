@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-08",
+    "date": "2026-11-09",
     "cards": [
       {
-        "word": "el pantalón",
-        "pos": "陽性名詞",
-        "meaning": "褲子",
-        "detail": "陽性 el pantalón / los pantalones（複數常用，指一條褲子也多用複數 los pantalones）",
-        "example_es": "Me gustan mucho los pantalones azules.",
-        "example_zh": "我非常喜歡那條藍色褲子。"
-      },
-      {
-        "word": "el suelo",
-        "pos": "陽性名詞",
-        "meaning": "地板；地面",
-        "detail": "陽性 el suelo / los suelos；可指室內地板或室外地面",
-        "example_es": "El suelo de mi habitación es de madera.",
-        "example_zh": "我房間的地板是木頭做的。"
-      },
-      {
-        "word": "inteligente",
-        "pos": "形容詞",
-        "meaning": "聰明的",
-        "detail": "陰陽性同形：inteligente（男/女）；複數：inteligentes；修飾名詞時放名詞後",
-        "example_es": "Mi hermana es muy inteligente.",
-        "example_zh": "我姊姊非常聰明。"
-      },
-      {
-        "word": "constipado",
-        "pos": "形容詞",
-        "meaning": "感冒的；著涼的",
-        "detail": "陽性：constipado；陰性：constipada；複數：constipados / constipadas；注意：西班牙語中 constipado 指感冒，不是英語 constipated（便秘）的意思",
-        "example_es": "Estoy constipado y tengo fiebre.",
-        "example_zh": "我感冒了，而且發燒。"
-      },
-      {
-        "word": "todo",
-        "pos": "形容詞",
-        "meaning": "全部的；所有的；整個",
-        "detail": "陽性：todo / todos；陰性：toda / todas；常與冠詞連用，如 todo el día（整天）、todas las personas（所有人）",
-        "example_es": "Estudio todo el día en casa.",
-        "example_zh": "我整天在家讀書。"
-      },
-      {
-        "word": "el agricultor",
-        "pos": "陽性名詞",
-        "meaning": "農夫；農民",
-        "detail": "陽性 el agricultor / los agricultores；陰性 la agricultora / las agricultoras",
-        "example_es": "El agricultor trabaja en el campo todos los días.",
-        "example_zh": "農夫每天在田裡工作。"
-      },
-      {
-        "word": "la ciruela",
+        "word": "la tía",
         "pos": "陰性名詞",
-        "meaning": "李子",
-        "detail": "陰性 la ciruela / las ciruelas；ciruela pasa 指梅乾（prune）",
-        "example_es": "Me como una ciruela después de comer.",
-        "example_zh": "我飯後吃了一顆李子。"
+        "meaning": "阿姨；姑姑（泛指父母的姊妹）",
+        "detail": "陰性 la tía / las tías；對應陽性 el tío（叔叔／舅舅）",
+        "example_es": "Mi tía vive en Taipéi.",
+        "example_zh": "我的阿姨住在台北。"
       },
       {
-        "word": "tenéis",
-        "pos": "動詞",
-        "meaning": "你們有（西班牙口語第二人稱複數）",
-        "detail": "tener 的現在式變化：tengo（我）/ tienes（你）/ tiene（他/她）/ tenemos（我們）/ tenéis（你們，西班牙用法）/ tienen（他們）；注意重音符號 é 不可省略",
-        "example_es": "¿Tenéis hambre? Hay pizza en la cocina.",
-        "example_zh": "你們餓嗎？廚房裡有披薩。"
-      },
-      {
-        "word": "el ajo",
+        "word": "el secretario",
         "pos": "陽性名詞",
-        "meaning": "大蒜",
-        "detail": "陽性 el ajo / los ajos；西班牙料理中非常常見的食材",
-        "example_es": "Añado dos dientes de ajo a la salsa.",
-        "example_zh": "我在醬汁裡加了兩瓣大蒜。"
+        "meaning": "秘書（男）",
+        "detail": "陽性 el secretario / los secretarios；陰性 la secretaria / las secretarias",
+        "example_es": "El secretario habla con el director.",
+        "example_zh": "那位秘書和主任說話。"
       },
       {
-        "word": "la montaña",
+        "word": "el coco",
+        "pos": "陽性名詞",
+        "meaning": "椰子",
+        "detail": "陽性 el coco / los cocos；椰子樹為 el cocotero",
+        "example_es": "Me gusta el agua de coco.",
+        "example_zh": "我喜歡椰子水。"
+      },
+      {
+        "word": "egoísta",
+        "pos": "形容詞",
+        "meaning": "自私的",
+        "detail": "陰陽同形：egoísta（男／女單數）/ egoístas（男／女複數）；注意重音符號 í",
+        "example_es": "No seas egoísta, comparte tu comida.",
+        "example_zh": "不要自私，分享你的食物吧。"
+      },
+      {
+        "word": "la nube",
         "pos": "陰性名詞",
-        "meaning": "山",
-        "detail": "陰性 la montaña / las montañas；注意 ñ 的寫法；ir a la montaña 表示「去爬山／去山上」",
-        "example_es": "En verano, me gusta ir a la montaña con mi familia.",
-        "example_zh": "夏天我喜歡和家人去爬山。"
+        "meaning": "雲",
+        "detail": "陰性 la nube / las nubes；形容詞 nublado/a 表示「多雲的」",
+        "example_es": "Hay muchas nubes hoy. Va a llover.",
+        "example_zh": "今天雲很多，要下雨了。"
+      },
+      {
+        "word": "a veces",
+        "pos": "副詞",
+        "meaning": "有時候",
+        "detail": "固定片語，不可分開使用；常與現在式或現在進行式搭配",
+        "example_es": "A veces como arroz por la mañana.",
+        "example_zh": "我有時候早上吃飯。"
+      },
+      {
+        "word": "las zapatillas",
+        "pos": "陰性名詞",
+        "meaning": "運動鞋；拖鞋",
+        "detail": "陰性複數 las zapatillas；單數 la zapatilla；zapatillas de deporte 指運動鞋，zapatillas de casa 指室內拖鞋",
+        "example_es": "Necesito unas zapatillas nuevas para correr.",
+        "example_zh": "我需要一雙新的運動鞋來跑步。"
+      },
+      {
+        "word": "el pie",
+        "pos": "陽性名詞",
+        "meaning": "腳",
+        "detail": "陽性 el pie / los pies；注意不要與 la pierna（腿）混淆",
+        "example_es": "Me duele el pie derecho.",
+        "example_zh": "我的右腳很痛。"
+      },
+      {
+        "word": "el azúcar",
+        "pos": "陽性名詞",
+        "meaning": "糖",
+        "detail": "陽性 el azúcar；注意重音符號 ú；口語中有時也見陰性用法，但正式語法為陽性",
+        "example_es": "¿Quieres azúcar en el café?",
+        "example_zh": "你要在咖啡裡加糖嗎？"
+      },
+      {
+        "word": "el sur",
+        "pos": "陽性名詞",
+        "meaning": "南；南方",
+        "detail": "陽性 el sur；無複數用法；相關方位：el norte（北）、el este（東）、el oeste（西）",
+        "example_es": "Taiwán está al sur de Japón.",
+        "example_zh": "台灣在日本的南方。"
       }
     ]
   },
