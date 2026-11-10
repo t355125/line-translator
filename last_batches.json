@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-09",
+    "date": "2026-11-10",
     "cards": [
       {
-        "word": "la tía",
+        "word": "la lavadora",
         "pos": "陰性名詞",
-        "meaning": "阿姨；姑姑（泛指父母的姊妹）",
-        "detail": "陰性 la tía / las tías；對應陽性 el tío（叔叔／舅舅）",
-        "example_es": "Mi tía vive en Taipéi.",
-        "example_zh": "我的阿姨住在台北。"
+        "meaning": "洗衣機",
+        "detail": "陰性 la lavadora / las lavadoras",
+        "example_es": "La lavadora está en el baño.",
+        "example_zh": "洗衣機在浴室裡。"
       },
       {
-        "word": "el secretario",
-        "pos": "陽性名詞",
-        "meaning": "秘書（男）",
-        "detail": "陽性 el secretario / los secretarios；陰性 la secretaria / las secretarias",
-        "example_es": "El secretario habla con el director.",
-        "example_zh": "那位秘書和主任說話。"
+        "word": "le",
+        "pos": "代名詞（間接受詞）",
+        "meaning": "給他／給她／給您（間接受詞代名詞）",
+        "detail": "用於替換間接受詞，放在動詞前；複數形為 les。常見於 le doy（我給他/她）、le digo（我告訴他/她）等結構。",
+        "example_es": "Le doy el libro a mi madre.",
+        "example_zh": "我把書給我媽媽。"
       },
       {
-        "word": "el coco",
-        "pos": "陽性名詞",
-        "meaning": "椰子",
-        "detail": "陽性 el coco / los cocos；椰子樹為 el cocotero",
-        "example_es": "Me gusta el agua de coco.",
-        "example_zh": "我喜歡椰子水。"
-      },
-      {
-        "word": "egoísta",
-        "pos": "形容詞",
-        "meaning": "自私的",
-        "detail": "陰陽同形：egoísta（男／女單數）/ egoístas（男／女複數）；注意重音符號 í",
-        "example_es": "No seas egoísta, comparte tu comida.",
-        "example_zh": "不要自私，分享你的食物吧。"
-      },
-      {
-        "word": "la nube",
+        "word": "la boca",
         "pos": "陰性名詞",
-        "meaning": "雲",
-        "detail": "陰性 la nube / las nubes；形容詞 nublado/a 表示「多雲的」",
-        "example_es": "Hay muchas nubes hoy. Va a llover.",
-        "example_zh": "今天雲很多，要下雨了。"
+        "meaning": "嘴巴",
+        "detail": "陰性 la boca / las bocas",
+        "example_es": "Abre la boca, por favor.",
+        "example_zh": "請張開嘴巴。"
       },
       {
-        "word": "a veces",
-        "pos": "副詞",
-        "meaning": "有時候",
-        "detail": "固定片語，不可分開使用；常與現在式或現在進行式搭配",
-        "example_es": "A veces como arroz por la mañana.",
-        "example_zh": "我有時候早上吃飯。"
-      },
-      {
-        "word": "las zapatillas",
+        "word": "la abuela",
         "pos": "陰性名詞",
-        "meaning": "運動鞋；拖鞋",
-        "detail": "陰性複數 las zapatillas；單數 la zapatilla；zapatillas de deporte 指運動鞋，zapatillas de casa 指室內拖鞋",
-        "example_es": "Necesito unas zapatillas nuevas para correr.",
-        "example_zh": "我需要一雙新的運動鞋來跑步。"
+        "meaning": "祖母；外祖母",
+        "detail": "陰性 la abuela / las abuelas；男性對應詞為 el abuelo",
+        "example_es": "Mi abuela cocina muy bien.",
+        "example_zh": "我奶奶煮飯煮得很好。"
       },
       {
-        "word": "el pie",
+        "word": "el caballo",
         "pos": "陽性名詞",
-        "meaning": "腳",
-        "detail": "陽性 el pie / los pies；注意不要與 la pierna（腿）混淆",
-        "example_es": "Me duele el pie derecho.",
-        "example_zh": "我的右腳很痛。"
+        "meaning": "馬",
+        "detail": "陽性 el caballo / los caballos；母馬為 la yegua",
+        "example_es": "El caballo corre muy rápido.",
+        "example_zh": "這匹馬跑得很快。"
       },
       {
-        "word": "el azúcar",
-        "pos": "陽性名詞",
-        "meaning": "糖",
-        "detail": "陽性 el azúcar；注意重音符號 ú；口語中有時也見陰性用法，但正式語法為陽性",
-        "example_es": "¿Quieres azúcar en el café?",
-        "example_zh": "你要在咖啡裡加糖嗎？"
+        "word": "dieciocho",
+        "pos": "數詞",
+        "meaning": "十八（18）",
+        "detail": "基數詞，不隨性數變化；dieciocho = diez y ocho 的合寫形式",
+        "example_es": "Tengo dieciocho años.",
+        "example_zh": "我十八歲。"
       },
       {
-        "word": "el sur",
+        "word": "sois",
+        "pos": "動詞",
+        "meaning": "你們是（ser 的第二人稱複數現在式，西班牙用法）",
+        "detail": "ser 現在式變化：soy / eres / es / somos / sois / son；sois 僅用於西班牙，拉丁美洲用 son 代替",
+        "example_es": "Vosotros sois muy simpáticos.",
+        "example_zh": "你們非常親切友善。"
+      },
+      {
+        "word": "el tomate",
         "pos": "陽性名詞",
-        "meaning": "南；南方",
-        "detail": "陽性 el sur；無複數用法；相關方位：el norte（北）、el este（東）、el oeste（西）",
-        "example_es": "Taiwán está al sur de Japón.",
-        "example_zh": "台灣在日本的南方。"
+        "meaning": "番茄",
+        "detail": "陽性 el tomate / los tomates",
+        "example_es": "Me gusta la ensalada con tomate.",
+        "example_zh": "我喜歡加番茄的沙拉。"
+      },
+      {
+        "word": "el empresario",
+        "pos": "陽性名詞",
+        "meaning": "企業家；老闆",
+        "detail": "陽性 el empresario / los empresarios；陰性為 la empresaria / las empresarias",
+        "example_es": "Mi padre es un empresario exitoso.",
+        "example_zh": "我爸爸是一位成功的企業家。"
+      },
+      {
+        "word": "el anillo",
+        "pos": "陽性名詞",
+        "meaning": "戒指；環狀物",
+        "detail": "陽性 el anillo / los anillos",
+        "example_es": "Ella lleva un anillo de oro en el dedo.",
+        "example_zh": "她手指上戴著一枚金戒指。"
       }
     ]
   },
