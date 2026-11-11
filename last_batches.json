@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "cards": [
       {
-        "word": "trabajador",
+        "word": "simpático",
         "pos": "形容詞",
-        "meaning": "努力的；勤奮的",
-        "detail": "陽性：trabajador / trabajadores；陰性：trabajadora / trabajadoras",
-        "example_es": "Mi hermano es muy trabajador.",
-        "example_zh": "我哥哥非常努力。"
+        "meaning": "友善的、和藹可親的",
+        "detail": "陽性 simpático / 陰性 simpática；複數 simpáticos / simpáticas",
+        "example_es": "Mi profesor es muy simpático.",
+        "example_zh": "我的老師非常友善。"
       },
       {
-        "word": "el cuerpo",
+        "word": "la carpeta",
         "pos": "名詞",
-        "meaning": "身體",
-        "detail": "陽性 el cuerpo / los cuerpos",
-        "example_es": "El ejercicio es bueno para el cuerpo.",
-        "example_zh": "運動對身體很好。"
+        "meaning": "資料夾",
+        "detail": "陰性 la carpeta / las carpetas",
+        "example_es": "Tengo una carpeta azul en mi mochila.",
+        "example_zh": "我的書包裡有一個藍色資料夾。"
       },
       {
-        "word": "o",
-        "pos": "連接詞",
-        "meaning": "或；或者",
-        "detail": "用於連接兩個選項；若後接 o 或 ho 開頭的字，改寫成 u，如：mujer u hombre",
-        "example_es": "¿Quieres té o café?",
-        "example_zh": "你想要茶還是咖啡？"
+        "word": "dulce",
+        "pos": "形容詞",
+        "meaning": "甜的",
+        "detail": "陰陽性同形 dulce；複數 dulces",
+        "example_es": "Este pastel está muy dulce.",
+        "example_zh": "這個蛋糕非常甜。"
       },
       {
-        "word": "once",
+        "word": "el nieto",
+        "pos": "名詞",
+        "meaning": "孫子",
+        "detail": "陽性 el nieto / los nietos；陰性（孫女）la nieta / las nietas",
+        "example_es": "El abuelo juega con su nieto en el parque.",
+        "example_zh": "爺爺在公園裡和他的孫子玩耍。"
+      },
+      {
+        "word": "ochenta",
         "pos": "數詞",
-        "meaning": "十一（11）",
-        "detail": "基數詞，不隨性別變化；once años＝十一歲",
-        "example_es": "Tengo once años.",
-        "example_zh": "我十一歲。"
+        "meaning": "八十（80）",
+        "detail": "不變化，陰陽性相同；ochenta y uno（81）、ochenta y dos（82）以此類推",
+        "example_es": "Mi abuela tiene ochenta años.",
+        "example_zh": "我奶奶八十歲。"
       },
       {
-        "word": "el hielo",
-        "pos": "名詞",
-        "meaning": "冰塊；冰",
-        "detail": "陽性 el hielo / los hielos",
-        "example_es": "Quiero agua con hielo, por favor.",
-        "example_zh": "請給我加冰塊的水。"
-      },
-      {
-        "word": "el salario",
-        "pos": "名詞",
-        "meaning": "薪水；薪資",
-        "detail": "陽性 el salario / los salarios",
-        "example_es": "Su salario es muy bueno.",
-        "example_zh": "他的薪水很好。"
-      },
-      {
-        "word": "feo",
-        "pos": "形容詞",
-        "meaning": "醜的；難看的",
-        "detail": "陽性：feo / feos；陰性：fea / feas",
-        "example_es": "Ese edificio es muy feo.",
-        "example_zh": "那棟建築物非常醜。"
-      },
-      {
-        "word": "yo",
+        "word": "nosotros",
         "pos": "代名詞",
-        "meaning": "我（主格人稱代名詞）",
-        "detail": "第一人稱單數主格；西班牙文動詞變化已含主詞，yo 通常省略，強調時才使用",
-        "example_es": "Yo soy de Taiwán.",
-        "example_zh": "我來自台灣。"
+        "meaning": "我們（全男性或男女混合）",
+        "detail": "全女性時用 nosotras；動詞搭配第一人稱複數變化，如 nosotros hablamos",
+        "example_es": "Nosotros comemos en casa todos los días.",
+        "example_zh": "我們每天在家吃飯。"
       },
       {
-        "word": "la salida",
-        "pos": "名詞",
-        "meaning": "出口；離開；出發",
-        "detail": "陰性 la salida / las salidas",
-        "example_es": "¿Dónde está la salida del metro?",
-        "example_zh": "地鐵出口在哪裡？"
+        "word": "ya",
+        "pos": "副詞",
+        "meaning": "已經",
+        "detail": "放在動詞前後皆可；也可表示「好了、馬上」等語氣，依語境判斷",
+        "example_es": "Ya terminé mis deberes.",
+        "example_zh": "我已經做完作業了。"
       },
       {
-        "word": "la gente",
+        "word": "la vaca",
         "pos": "名詞",
-        "meaning": "人們（單數形但指多數人）",
-        "detail": "陰性，恆用單數形 la gente，動詞用第三人稱單數；複數概念已包含在字義中",
-        "example_es": "Hay mucha gente en el mercado.",
-        "example_zh": "市場裡有很多人。"
+        "meaning": "母牛",
+        "detail": "陰性 la vaca / las vacas；公牛為 el toro",
+        "example_es": "La vaca come hierba en el campo.",
+        "example_zh": "母牛在田野裡吃草。"
+      },
+      {
+        "word": "las gafas",
+        "pos": "名詞",
+        "meaning": "眼鏡",
+        "detail": "通常以複數使用 las gafas；單數 la gafa 較少見；也可說 los lentes（拉美用法）",
+        "example_es": "No encuentro mis gafas. ¿Dónde están?",
+        "example_zh": "我找不到我的眼鏡，它們在哪裡？"
+      },
+      {
+        "word": "poco",
+        "pos": "形容詞／副詞",
+        "meaning": "很少、一點點",
+        "detail": "形容詞時陰陽性變化：poco / poca / pocos / pocas；作副詞時不變化，如 habla poco（他說話很少）",
+        "example_es": "Tengo poco tiempo hoy.",
+        "example_zh": "我今天時間很少。"
       }
     ]
   }
