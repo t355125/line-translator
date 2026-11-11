@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-10",
+    "date": "2026-11-11",
     "cards": [
       {
-        "word": "la lavadora",
+        "word": "además",
+        "pos": "副詞",
+        "meaning": "此外、而且、還有",
+        "detail": "用於補充說明，放在句首或句中，相當於中文的「此外」或「而且」。",
+        "example_es": "Me gusta el café. Además, como pan por la mañana.",
+        "example_zh": "我喜歡咖啡。此外，我早上吃麵包。"
+      },
+      {
+        "word": "importante",
+        "pos": "形容詞",
+        "meaning": "重要的",
+        "detail": "陰陽性同形：importante（男／女）；複數：importantes（男複／女複）。",
+        "example_es": "Es importante estudiar español todos los días.",
+        "example_zh": "每天學西班牙文很重要。"
+      },
+      {
+        "word": "la computadora",
         "pos": "陰性名詞",
-        "meaning": "洗衣機",
-        "detail": "陰性 la lavadora / las lavadoras",
-        "example_es": "La lavadora está en el baño.",
-        "example_zh": "洗衣機在浴室裡。"
+        "meaning": "電腦（拉丁美洲用法）",
+        "detail": "陰性：la computadora / las computadoras。西班牙本地常用 el ordenador。",
+        "example_es": "Uso la computadora para trabajar en casa.",
+        "example_zh": "我在家用電腦工作。"
       },
       {
-        "word": "le",
-        "pos": "代名詞（間接受詞）",
-        "meaning": "給他／給她／給您（間接受詞代名詞）",
-        "detail": "用於替換間接受詞，放在動詞前；複數形為 les。常見於 le doy（我給他/她）、le digo（我告訴他/她）等結構。",
-        "example_es": "Le doy el libro a mi madre.",
-        "example_zh": "我把書給我媽媽。"
-      },
-      {
-        "word": "la boca",
-        "pos": "陰性名詞",
-        "meaning": "嘴巴",
-        "detail": "陰性 la boca / las bocas",
-        "example_es": "Abre la boca, por favor.",
-        "example_zh": "請張開嘴巴。"
-      },
-      {
-        "word": "la abuela",
-        "pos": "陰性名詞",
-        "meaning": "祖母；外祖母",
-        "detail": "陰性 la abuela / las abuelas；男性對應詞為 el abuelo",
-        "example_es": "Mi abuela cocina muy bien.",
-        "example_zh": "我奶奶煮飯煮得很好。"
-      },
-      {
-        "word": "el caballo",
+        "word": "el insecto",
         "pos": "陽性名詞",
-        "meaning": "馬",
-        "detail": "陽性 el caballo / los caballos；母馬為 la yegua",
-        "example_es": "El caballo corre muy rápido.",
-        "example_zh": "這匹馬跑得很快。"
+        "meaning": "昆蟲",
+        "detail": "陽性：el insecto / los insectos。",
+        "example_es": "Hay muchos insectos en el jardín.",
+        "example_zh": "花園裡有很多昆蟲。"
       },
       {
-        "word": "dieciocho",
+        "word": "las gafas de sol",
+        "pos": "陰性名詞（複數）",
+        "meaning": "太陽眼鏡",
+        "detail": "通常以複數形式使用：las gafas de sol。單數 la gafa de sol 幾乎不用。拉美也說 los lentes de sol。",
+        "example_es": "Necesito las gafas de sol porque hace mucho sol hoy.",
+        "example_zh": "我需要太陽眼鏡，因為今天陽光很強。"
+      },
+      {
+        "word": "noventa",
         "pos": "數詞",
-        "meaning": "十八（18）",
-        "detail": "基數詞，不隨性數變化；dieciocho = diez y ocho 的合寫形式",
-        "example_es": "Tengo dieciocho años.",
-        "example_zh": "我十八歲。"
+        "meaning": "九十（90）",
+        "detail": "基數詞，不隨性別變化。noventa y uno（91）、noventa y dos（92）以此類推。",
+        "example_es": "Mi abuelo tiene noventa años.",
+        "example_zh": "我的祖父九十歲了。"
       },
       {
-        "word": "sois",
+        "word": "entre",
+        "pos": "介系詞",
+        "meaning": "在……之間、在……當中",
+        "detail": "可表示位置（兩者之間）或範圍（在某群體當中）。後接名詞或代名詞受格。",
+        "example_es": "La tienda está entre el banco y la farmacia.",
+        "example_zh": "那家店在銀行和藥局之間。"
+      },
+      {
+        "word": "tiene",
         "pos": "動詞",
-        "meaning": "你們是（ser 的第二人稱複數現在式，西班牙用法）",
-        "detail": "ser 現在式變化：soy / eres / es / somos / sois / son；sois 僅用於西班牙，拉丁美洲用 son 代替",
-        "example_es": "Vosotros sois muy simpáticos.",
-        "example_zh": "你們非常親切友善。"
+        "meaning": "他／她／您有（tener 的現在式第三人稱單數）",
+        "detail": "tener 現在式變化：tengo（我）/ tienes（你）/ tiene（他・她・您）/ tenemos（我們）/ tenéis（你們）/ tienen（他們・您們）。",
+        "example_es": "Ella tiene un gato muy bonito.",
+        "example_zh": "她有一隻非常漂亮的貓。"
       },
       {
-        "word": "el tomate",
-        "pos": "陽性名詞",
-        "meaning": "番茄",
-        "detail": "陽性 el tomate / los tomates",
-        "example_es": "Me gusta la ensalada con tomate.",
-        "example_zh": "我喜歡加番茄的沙拉。"
+        "word": "la calabaza",
+        "pos": "陰性名詞",
+        "meaning": "南瓜",
+        "detail": "陰性：la calabaza / las calabazas。",
+        "example_es": "En otoño comemos sopa de calabaza.",
+        "example_zh": "秋天我們喝南瓜湯。"
       },
       {
-        "word": "el empresario",
+        "word": "el helado",
         "pos": "陽性名詞",
-        "meaning": "企業家；老闆",
-        "detail": "陽性 el empresario / los empresarios；陰性為 la empresaria / las empresarias",
-        "example_es": "Mi padre es un empresario exitoso.",
-        "example_zh": "我爸爸是一位成功的企業家。"
-      },
-      {
-        "word": "el anillo",
-        "pos": "陽性名詞",
-        "meaning": "戒指；環狀物",
-        "detail": "陽性 el anillo / los anillos",
-        "example_es": "Ella lleva un anillo de oro en el dedo.",
-        "example_zh": "她手指上戴著一枚金戒指。"
+        "meaning": "冰淇淋",
+        "detail": "陽性：el helado / los helados。helado 也可作形容詞，意為「冰冷的」。",
+        "example_es": "Quiero un helado de chocolate, por favor.",
+        "example_zh": "我想要一個巧克力冰淇淋，謝謝。"
       }
     ]
   },
