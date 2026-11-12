@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-11",
+    "date": "2026-11-12",
     "cards": [
       {
-        "word": "además",
+        "word": "el informe",
+        "pos": "陽性名詞",
+        "meaning": "報告（書面或口頭的正式報告）",
+        "detail": "陽性 el informe / los informes",
+        "example_es": "El estudiante entrega el informe hoy.",
+        "example_zh": "那位學生今天交報告。"
+      },
+      {
+        "word": "la remolacha",
+        "pos": "陰性名詞",
+        "meaning": "甜菜根",
+        "detail": "陰性 la remolacha / las remolachas",
+        "example_es": "La remolacha es roja y muy nutritiva.",
+        "example_zh": "甜菜根是紅色的，而且非常有營養。"
+      },
+      {
+        "word": "dentro",
         "pos": "副詞",
-        "meaning": "此外、而且、還有",
-        "detail": "用於補充說明，放在句首或句中，相當於中文的「此外」或「而且」。",
-        "example_es": "Me gusta el café. Además, como pan por la mañana.",
-        "example_zh": "我喜歡咖啡。此外，我早上吃麵包。"
+        "meaning": "裡面、在內部",
+        "detail": "常與介系詞 de 連用：dentro de（在……裡面）",
+        "example_es": "Las llaves están dentro de la bolsa.",
+        "example_zh": "鑰匙在袋子裡面。"
       },
       {
-        "word": "importante",
+        "word": "celoso",
         "pos": "形容詞",
-        "meaning": "重要的",
-        "detail": "陰陽性同形：importante（男／女）；複數：importantes（男複／女複）。",
-        "example_es": "Es importante estudiar español todos los días.",
-        "example_zh": "每天學西班牙文很重要。"
+        "meaning": "嫉妒的",
+        "detail": "陽性 celoso / 陰性 celosa；複數 celosos / celosas",
+        "example_es": "Él está celoso porque su amigo tiene un coche nuevo.",
+        "example_zh": "他很嫉妒，因為他朋友有一輛新車。"
       },
       {
-        "word": "la computadora",
-        "pos": "陰性名詞",
-        "meaning": "電腦（拉丁美洲用法）",
-        "detail": "陰性：la computadora / las computadoras。西班牙本地常用 el ordenador。",
-        "example_es": "Uso la computadora para trabajar en casa.",
-        "example_zh": "我在家用電腦工作。"
-      },
-      {
-        "word": "el insecto",
-        "pos": "陽性名詞",
-        "meaning": "昆蟲",
-        "detail": "陽性：el insecto / los insectos。",
-        "example_es": "Hay muchos insectos en el jardín.",
-        "example_zh": "花園裡有很多昆蟲。"
-      },
-      {
-        "word": "las gafas de sol",
-        "pos": "陰性名詞（複數）",
-        "meaning": "太陽眼鏡",
-        "detail": "通常以複數形式使用：las gafas de sol。單數 la gafa de sol 幾乎不用。拉美也說 los lentes de sol。",
-        "example_es": "Necesito las gafas de sol porque hace mucho sol hoy.",
-        "example_zh": "我需要太陽眼鏡，因為今天陽光很強。"
-      },
-      {
-        "word": "noventa",
+        "word": "doscientos",
         "pos": "數詞",
-        "meaning": "九十（90）",
-        "detail": "基數詞，不隨性別變化。noventa y uno（91）、noventa y dos（92）以此類推。",
-        "example_es": "Mi abuelo tiene noventa años.",
-        "example_zh": "我的祖父九十歲了。"
+        "meaning": "兩百（200）",
+        "detail": "陽性 doscientos / 陰性 doscientas，依所修飾名詞的性別變化",
+        "example_es": "Hay doscientos estudiantes en la escuela.",
+        "example_zh": "學校裡有兩百名學生。"
       },
       {
-        "word": "entre",
-        "pos": "介系詞",
-        "meaning": "在……之間、在……當中",
-        "detail": "可表示位置（兩者之間）或範圍（在某群體當中）。後接名詞或代名詞受格。",
-        "example_es": "La tienda está entre el banco y la farmacia.",
-        "example_zh": "那家店在銀行和藥局之間。"
-      },
-      {
-        "word": "tiene",
-        "pos": "動詞",
-        "meaning": "他／她／您有（tener 的現在式第三人稱單數）",
-        "detail": "tener 現在式變化：tengo（我）/ tienes（你）/ tiene（他・她・您）/ tenemos（我們）/ tenéis（你們）/ tienen（他們・您們）。",
-        "example_es": "Ella tiene un gato muy bonito.",
-        "example_zh": "她有一隻非常漂亮的貓。"
-      },
-      {
-        "word": "la calabaza",
+        "word": "la papaya",
         "pos": "陰性名詞",
-        "meaning": "南瓜",
-        "detail": "陰性：la calabaza / las calabazas。",
-        "example_es": "En otoño comemos sopa de calabaza.",
-        "example_zh": "秋天我們喝南瓜湯。"
+        "meaning": "木瓜",
+        "detail": "陰性 la papaya / las papayas",
+        "example_es": "Me gusta comer la papaya en el desayuno.",
+        "example_zh": "我喜歡在早餐時吃木瓜。"
       },
       {
-        "word": "el helado",
+        "word": "el refrigerador",
         "pos": "陽性名詞",
-        "meaning": "冰淇淋",
-        "detail": "陽性：el helado / los helados。helado 也可作形容詞，意為「冰冷的」。",
-        "example_es": "Quiero un helado de chocolate, por favor.",
-        "example_zh": "我想要一個巧克力冰淇淋，謝謝。"
+        "meaning": "冰箱（拉丁美洲用語）",
+        "detail": "陽性 el refrigerador / los refrigeradores；西班牙常用 el frigorífico",
+        "example_es": "Pongo la leche en el refrigerador.",
+        "example_zh": "我把牛奶放進冰箱。"
+      },
+      {
+        "word": "el enfermero",
+        "pos": "陽性名詞",
+        "meaning": "護理師（男性）",
+        "detail": "陽性 el enfermero / los enfermeros；陰性 la enfermera / las enfermeras",
+        "example_es": "El enfermero ayuda a los pacientes en el hospital.",
+        "example_zh": "那位男護理師在醫院裡幫助病患。"
+      },
+      {
+        "word": "el tigre",
+        "pos": "陽性名詞",
+        "meaning": "老虎",
+        "detail": "陽性 el tigre / los tigres；陰性 la tigresa",
+        "example_es": "El tigre es un animal muy grande y rápido.",
+        "example_zh": "老虎是一種非常大而且快速的動物。"
+      },
+      {
+        "word": "el hijo",
+        "pos": "陽性名詞",
+        "meaning": "兒子",
+        "detail": "陽性 el hijo / los hijos；陰性 la hija / las hijas；los hijos 也可泛指「子女」",
+        "example_es": "Mi hijo tiene ocho años.",
+        "example_zh": "我的兒子八歲。"
       }
     ]
   },
