@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "cards": [
       {
-        "word": "simpático",
-        "pos": "形容詞",
-        "meaning": "友善的、和藹可親的",
-        "detail": "陽性 simpático / 陰性 simpática；複數 simpáticos / simpáticas",
-        "example_es": "Mi profesor es muy simpático.",
-        "example_zh": "我的老師非常友善。"
+        "word": "y cuarto",
+        "pos": "片語",
+        "meaning": "過15分（用於報時）",
+        "detail": "固定片語，接在整點後表示「幾點一刻」，例如 las tres y cuarto = 三點一刻",
+        "example_es": "Son las nueve y cuarto de la mañana.",
+        "example_zh": "現在是早上九點一刻。"
       },
       {
-        "word": "la carpeta",
-        "pos": "名詞",
-        "meaning": "資料夾",
-        "detail": "陰性 la carpeta / las carpetas",
-        "example_es": "Tengo una carpeta azul en mi mochila.",
-        "example_zh": "我的書包裡有一個藍色資料夾。"
+        "word": "están",
+        "pos": "動詞",
+        "meaning": "他們／她們／您們在（某處或某狀態）",
+        "detail": "estar 的第三人稱複數現在式；常用變化：estoy(我)/ estás(你)/ está(他)/ estamos(我們)/ están(他們)",
+        "example_es": "Mis amigos están en el parque.",
+        "example_zh": "我的朋友們在公園裡。"
       },
       {
-        "word": "dulce",
-        "pos": "形容詞",
-        "meaning": "甜的",
-        "detail": "陰陽性同形 dulce；複數 dulces",
-        "example_es": "Este pastel está muy dulce.",
-        "example_zh": "這個蛋糕非常甜。"
-      },
-      {
-        "word": "el nieto",
-        "pos": "名詞",
-        "meaning": "孫子",
-        "detail": "陽性 el nieto / los nietos；陰性（孫女）la nieta / las nietas",
-        "example_es": "El abuelo juega con su nieto en el parque.",
-        "example_zh": "爺爺在公園裡和他的孫子玩耍。"
-      },
-      {
-        "word": "ochenta",
-        "pos": "數詞",
-        "meaning": "八十（80）",
-        "detail": "不變化，陰陽性相同；ochenta y uno（81）、ochenta y dos（82）以此類推",
-        "example_es": "Mi abuela tiene ochenta años.",
-        "example_zh": "我奶奶八十歲。"
-      },
-      {
-        "word": "nosotros",
+        "word": "vosotros",
         "pos": "代名詞",
-        "meaning": "我們（全男性或男女混合）",
-        "detail": "全女性時用 nosotras；動詞搭配第一人稱複數變化，如 nosotros hablamos",
-        "example_es": "Nosotros comemos en casa todos los días.",
-        "example_zh": "我們每天在家吃飯。"
+        "meaning": "你們（西班牙用法，對熟人）",
+        "detail": "僅在西班牙使用；拉丁美洲用 ustedes 代替；陰性形式為 vosotras",
+        "example_es": "¿Vosotros coméis arroz todos los días?",
+        "example_zh": "你們每天都吃米飯嗎？"
       },
       {
-        "word": "ya",
-        "pos": "副詞",
-        "meaning": "已經",
-        "detail": "放在動詞前後皆可；也可表示「好了、馬上」等語氣，依語境判斷",
-        "example_es": "Ya terminé mis deberes.",
-        "example_zh": "我已經做完作業了。"
+        "word": "sin embargo",
+        "pos": "連接詞片語",
+        "meaning": "然而、但是",
+        "detail": "用於連接兩個對比的句子，語氣比 pero 正式，常置於句首並加逗號",
+        "example_es": "Tengo hambre. Sin embargo, no hay comida en casa.",
+        "example_zh": "我很餓。然而，家裡沒有食物。"
       },
       {
-        "word": "la vaca",
-        "pos": "名詞",
-        "meaning": "母牛",
-        "detail": "陰性 la vaca / las vacas；公牛為 el toro",
-        "example_es": "La vaca come hierba en el campo.",
-        "example_zh": "母牛在田野裡吃草。"
+        "word": "la banana",
+        "pos": "陰性名詞",
+        "meaning": "香蕉（拉丁美洲用法）",
+        "detail": "陰性：la banana / las bananas；西班牙常用 el plátano 表示香蕉",
+        "example_es": "Me gusta comer una banana por la mañana.",
+        "example_zh": "我喜歡早上吃一根香蕉。"
       },
       {
-        "word": "las gafas",
-        "pos": "名詞",
-        "meaning": "眼鏡",
-        "detail": "通常以複數使用 las gafas；單數 la gafa 較少見；也可說 los lentes（拉美用法）",
-        "example_es": "No encuentro mis gafas. ¿Dónde están?",
-        "example_zh": "我找不到我的眼鏡，它們在哪裡？"
+        "word": "la piel",
+        "pos": "陰性名詞",
+        "meaning": "皮膚；也可指皮革、果皮",
+        "detail": "陰性：la piel / las pieles；依語境可指人的皮膚、動物的皮或水果的外皮",
+        "example_es": "Ella tiene la piel muy suave.",
+        "example_zh": "她的皮膚非常光滑。"
       },
       {
-        "word": "poco",
-        "pos": "形容詞／副詞",
-        "meaning": "很少、一點點",
-        "detail": "形容詞時陰陽性變化：poco / poca / pocos / pocas；作副詞時不變化，如 habla poco（他說話很少）",
-        "example_es": "Tengo poco tiempo hoy.",
-        "example_zh": "我今天時間很少。"
+        "word": "seis",
+        "pos": "數詞",
+        "meaning": "六（數字6）",
+        "detail": "基數詞，不隨性別變化；用於計數及報時，例如 las seis = 六點",
+        "example_es": "Tengo seis clases esta semana.",
+        "example_zh": "我這週有六堂課。"
+      },
+      {
+        "word": "el arroz",
+        "pos": "陽性名詞",
+        "meaning": "米飯；米",
+        "detail": "陽性：el arroz；複數 los arroces 較少用；通常以單數表示米飯這種食物",
+        "example_es": "Como el arroz con verduras cada día.",
+        "example_zh": "我每天吃米飯配蔬菜。"
+      },
+      {
+        "word": "el toro",
+        "pos": "陽性名詞",
+        "meaning": "公牛",
+        "detail": "陽性：el toro / los toros；陰性為 la vaca（母牛）；與西班牙鬥牛文化密切相關",
+        "example_es": "El toro es un animal muy fuerte.",
+        "example_zh": "公牛是一種非常強壯的動物。"
+      },
+      {
+        "word": "el electricista",
+        "pos": "陰陽同形名詞",
+        "meaning": "水電工；電工",
+        "detail": "陰陽同形：el electricista（男）/ la electricista（女）；複數 los electricistas / las electricistas；冠詞隨性別變化",
+        "example_es": "El electricista repara la luz de mi casa.",
+        "example_zh": "水電工修理我家的電燈。"
       }
     ]
   }
