@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "cards": [
       {
-        "word": "y cuarto",
-        "pos": "片語",
-        "meaning": "過15分（用於報時）",
-        "detail": "固定片語，接在整點後表示「幾點一刻」，例如 las tres y cuarto = 三點一刻",
-        "example_es": "Son las nueve y cuarto de la mañana.",
-        "example_zh": "現在是早上九點一刻。"
-      },
-      {
-        "word": "están",
+        "word": "eres",
         "pos": "動詞",
-        "meaning": "他們／她們／您們在（某處或某狀態）",
-        "detail": "estar 的第三人稱複數現在式；常用變化：estoy(我)/ estás(你)/ está(他)/ estamos(我們)/ están(他們)",
-        "example_es": "Mis amigos están en el parque.",
-        "example_zh": "我的朋友們在公園裡。"
+        "meaning": "你是（ser 動詞的第二人稱單數現在式）",
+        "detail": "ser 現在式變化：soy（我）/ eres（你）/ es（他／她）",
+        "example_es": "¿Eres estudiante?",
+        "example_zh": "你是學生嗎？"
       },
       {
-        "word": "vosotros",
+        "word": "la cabeza",
+        "pos": "名詞",
+        "meaning": "頭",
+        "detail": "陰性名詞：la cabeza（單數）/ las cabezas（複數）",
+        "example_es": "Me duele la cabeza.",
+        "example_zh": "我頭痛。"
+      },
+      {
+        "word": "el mapa",
+        "pos": "名詞",
+        "meaning": "地圖",
+        "detail": "陽性名詞（注意：雖然 -a 結尾，但為陽性）：el mapa（單數）/ los mapas（複數）",
+        "example_es": "Necesito un mapa de la ciudad.",
+        "example_zh": "我需要一張城市地圖。"
+      },
+      {
+        "word": "vosotras",
         "pos": "代名詞",
-        "meaning": "你們（西班牙用法，對熟人）",
-        "detail": "僅在西班牙使用；拉丁美洲用 ustedes 代替；陰性形式為 vosotras",
-        "example_es": "¿Vosotros coméis arroz todos los días?",
-        "example_zh": "你們每天都吃米飯嗎？"
+        "meaning": "你們（西班牙用法，指全部為女性的群體）",
+        "detail": "陰性複數第二人稱主格代名詞；若群體中有男性則用 vosotros；拉丁美洲通常用 ustedes 代替",
+        "example_es": "¿Vosotras sois amigas?",
+        "example_zh": "你們是朋友嗎？"
       },
       {
-        "word": "sin embargo",
-        "pos": "連接詞片語",
-        "meaning": "然而、但是",
-        "detail": "用於連接兩個對比的句子，語氣比 pero 正式，常置於句首並加逗號",
-        "example_es": "Tengo hambre. Sin embargo, no hay comida en casa.",
-        "example_zh": "我很餓。然而，家裡沒有食物。"
+        "word": "por eso",
+        "pos": "片語（連接詞性）",
+        "meaning": "所以、因此",
+        "detail": "用於表示因果關係，放在句首或句中，前一句說原因，por eso 引出結果",
+        "example_es": "Tengo hambre, por eso voy a comer.",
+        "example_zh": "我肚子餓，所以我要去吃東西。"
       },
       {
-        "word": "la banana",
-        "pos": "陰性名詞",
-        "meaning": "香蕉（拉丁美洲用法）",
-        "detail": "陰性：la banana / las bananas；西班牙常用 el plátano 表示香蕉",
-        "example_es": "Me gusta comer una banana por la mañana.",
-        "example_zh": "我喜歡早上吃一根香蕉。"
+        "word": "caliente",
+        "pos": "形容詞",
+        "meaning": "熱的、燙的",
+        "detail": "陰陽同形：caliente（陽性／陰性單數）/ calientes（複數）；描述溫度高，不用於天氣（天氣熱用 hace calor）",
+        "example_es": "El café está muy caliente.",
+        "example_zh": "這杯咖啡非常燙。"
       },
       {
-        "word": "la piel",
-        "pos": "陰性名詞",
-        "meaning": "皮膚；也可指皮革、果皮",
-        "detail": "陰性：la piel / las pieles；依語境可指人的皮膚、動物的皮或水果的外皮",
-        "example_es": "Ella tiene la piel muy suave.",
-        "example_zh": "她的皮膚非常光滑。"
+        "word": "febrero",
+        "pos": "名詞（月份）",
+        "meaning": "二月",
+        "detail": "陽性名詞，月份在西班牙文中不大寫；搭配介系詞 en 表示「在二月」：en febrero",
+        "example_es": "Mi cumpleaños es en febrero.",
+        "example_zh": "我的生日在二月。"
       },
       {
-        "word": "seis",
-        "pos": "數詞",
-        "meaning": "六（數字6）",
-        "detail": "基數詞，不隨性別變化；用於計數及報時，例如 las seis = 六點",
-        "example_es": "Tengo seis clases esta semana.",
-        "example_zh": "我這週有六堂課。"
+        "word": "el dormitorio",
+        "pos": "名詞",
+        "meaning": "臥室",
+        "detail": "陽性名詞：el dormitorio（單數）/ los dormitorios（複數）",
+        "example_es": "Mi dormitorio es pequeño pero cómodo.",
+        "example_zh": "我的臥室很小但很舒適。"
       },
       {
-        "word": "el arroz",
-        "pos": "陽性名詞",
-        "meaning": "米飯；米",
-        "detail": "陽性：el arroz；複數 los arroces 較少用；通常以單數表示米飯這種食物",
-        "example_es": "Como el arroz con verduras cada día.",
-        "example_zh": "我每天吃米飯配蔬菜。"
+        "word": "el aguacate",
+        "pos": "名詞",
+        "meaning": "酪梨",
+        "detail": "陽性名詞：el aguacate（單數）/ los aguacates（複數）",
+        "example_es": "Me gusta comer pan con aguacate.",
+        "example_zh": "我喜歡吃酪梨吐司。"
       },
       {
-        "word": "el toro",
-        "pos": "陽性名詞",
-        "meaning": "公牛",
-        "detail": "陽性：el toro / los toros；陰性為 la vaca（母牛）；與西班牙鬥牛文化密切相關",
-        "example_es": "El toro es un animal muy fuerte.",
-        "example_zh": "公牛是一種非常強壯的動物。"
-      },
-      {
-        "word": "el electricista",
-        "pos": "陰陽同形名詞",
-        "meaning": "水電工；電工",
-        "detail": "陰陽同形：el electricista（男）/ la electricista（女）；複數 los electricistas / las electricistas；冠詞隨性別變化",
-        "example_es": "El electricista repara la luz de mi casa.",
-        "example_zh": "水電工修理我家的電燈。"
+        "word": "último",
+        "pos": "形容詞",
+        "meaning": "最後的、最近的",
+        "detail": "陽性：último / 陰性：última / 複數：últimos（陽）、últimas（陰）；放在名詞前後皆可，通常置於名詞前",
+        "example_es": "Este es el último autobús de la noche.",
+        "example_zh": "這是今晚最後一班公車。"
       }
     ]
   }
