@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-12",
+    "date": "2026-11-13",
     "cards": [
       {
-        "word": "el informe",
-        "pos": "陽性名詞",
-        "meaning": "報告（書面或口頭的正式報告）",
-        "detail": "陽性 el informe / los informes",
-        "example_es": "El estudiante entrega el informe hoy.",
-        "example_zh": "那位學生今天交報告。"
+        "word": "sesenta",
+        "pos": "數詞／其他詞類",
+        "meaning": "60（六十）",
+        "detail": "基數詞，不隨性別或數量變化，直接放在名詞前使用。",
+        "example_es": "Mi abuela tiene sesenta años.",
+        "example_zh": "我奶奶六十歲。"
       },
       {
-        "word": "la remolacha",
+        "word": "ellas",
+        "pos": "代名詞",
+        "meaning": "她們（指全部都是女生的群體）",
+        "detail": "第三人稱複數陰性主格人稱代名詞；若群體中有任何一位男性則改用 ellos。",
+        "example_es": "Ellas son mis amigas del colegio.",
+        "example_zh": "她們是我的學校朋友。"
+      },
+      {
+        "word": "la factura",
         "pos": "陰性名詞",
-        "meaning": "甜菜根",
-        "detail": "陰性 la remolacha / las remolachas",
-        "example_es": "La remolacha es roja y muy nutritiva.",
-        "example_zh": "甜菜根是紅色的，而且非常有營養。"
+        "meaning": "發票／帳單",
+        "detail": "陰性：la factura／las facturas；在餐廳可說「la cuenta」，正式商業場合多用「la factura」。",
+        "example_es": "¿Me puede dar la factura, por favor?",
+        "example_zh": "請問可以給我帳單嗎？"
       },
       {
-        "word": "dentro",
-        "pos": "副詞",
-        "meaning": "裡面、在內部",
-        "detail": "常與介系詞 de 連用：dentro de（在……裡面）",
-        "example_es": "Las llaves están dentro de la bolsa.",
-        "example_zh": "鑰匙在袋子裡面。"
+        "word": "la araña",
+        "pos": "陰性名詞",
+        "meaning": "蜘蛛",
+        "detail": "陰性：la araña／las arañas；注意 ñ 的寫法，不可寫成 n。",
+        "example_es": "Hay una araña grande en el baño.",
+        "example_zh": "浴室裡有一隻大蜘蛛。"
       },
       {
-        "word": "celoso",
+        "word": "de la madrugada",
+        "pos": "片語／時間表達",
+        "meaning": "凌晨（約凌晨1點到5點）",
+        "detail": "固定片語，接在具體時刻後面，例如：las tres de la madrugada（凌晨三點）；白天用 de la mañana／de la tarde／de la noche 區分。",
+        "example_es": "El bebé lloró a las dos de la madrugada.",
+        "example_zh": "寶寶在凌晨兩點哭了。"
+      },
+      {
+        "word": "estáis",
+        "pos": "動詞",
+        "meaning": "你們在／你們是（狀態）——西班牙用法",
+        "detail": "動詞 estar 的現在式第二人稱複數（vosotros），僅西班牙使用；拉丁美洲用 están（ustedes）代替。變化參考：estoy／estás／está／estamos／estáis／están。",
+        "example_es": "¿Dónde estáis ahora?",
+        "example_zh": "你們現在在哪裡？"
+      },
+      {
+        "word": "enojado",
         "pos": "形容詞",
-        "meaning": "嫉妒的",
-        "detail": "陽性 celoso / 陰性 celosa；複數 celosos / celosas",
-        "example_es": "Él está celoso porque su amigo tiene un coche nuevo.",
-        "example_zh": "他很嫉妒，因為他朋友有一輛新車。"
+        "meaning": "生氣的（拉丁美洲用法）",
+        "detail": "陽性單數：enojado；陰性單數：enojada；陽性複數：enojados；陰性複數：enojadas。西班牙多說 enfadado／enfadada。",
+        "example_es": "Mi papá está muy enojado hoy.",
+        "example_zh": "我爸爸今天非常生氣。"
       },
       {
-        "word": "doscientos",
-        "pos": "數詞",
-        "meaning": "兩百（200）",
-        "detail": "陽性 doscientos / 陰性 doscientas，依所修飾名詞的性別變化",
-        "example_es": "Hay doscientos estudiantes en la escuela.",
-        "example_zh": "學校裡有兩百名學生。"
-      },
-      {
-        "word": "la papaya",
-        "pos": "陰性名詞",
-        "meaning": "木瓜",
-        "detail": "陰性 la papaya / las papayas",
-        "example_es": "Me gusta comer la papaya en el desayuno.",
-        "example_zh": "我喜歡在早餐時吃木瓜。"
-      },
-      {
-        "word": "el refrigerador",
+        "word": "el norte",
         "pos": "陽性名詞",
-        "meaning": "冰箱（拉丁美洲用語）",
-        "detail": "陽性 el refrigerador / los refrigeradores；西班牙常用 el frigorífico",
-        "example_es": "Pongo la leche en el refrigerador.",
-        "example_zh": "我把牛奶放進冰箱。"
+        "meaning": "北／北方",
+        "detail": "陽性：el norte（無複數常用形）；其他方向：el sur（南）、el este（東）、el oeste（西）。",
+        "example_es": "Vivo en el norte de Taiwán.",
+        "example_zh": "我住在台灣北部。"
       },
       {
-        "word": "el enfermero",
-        "pos": "陽性名詞",
-        "meaning": "護理師（男性）",
-        "detail": "陽性 el enfermero / los enfermeros；陰性 la enfermera / las enfermeras",
-        "example_es": "El enfermero ayuda a los pacientes en el hospital.",
-        "example_zh": "那位男護理師在醫院裡幫助病患。"
+        "word": "casado",
+        "pos": "形容詞",
+        "meaning": "已婚的",
+        "detail": "陽性單數：casado；陰性單數：casada；陽性複數：casados；陰性複數：casadas。常與動詞 estar 搭配：estar casado／casada。",
+        "example_es": "Él está casado y tiene dos hijos.",
+        "example_zh": "他已婚，有兩個孩子。"
       },
       {
-        "word": "el tigre",
+        "word": "el cocinero",
         "pos": "陽性名詞",
-        "meaning": "老虎",
-        "detail": "陽性 el tigre / los tigres；陰性 la tigresa",
-        "example_es": "El tigre es un animal muy grande y rápido.",
-        "example_zh": "老虎是一種非常大而且快速的動物。"
-      },
-      {
-        "word": "el hijo",
-        "pos": "陽性名詞",
-        "meaning": "兒子",
-        "detail": "陽性 el hijo / los hijos；陰性 la hija / las hijas；los hijos 也可泛指「子女」",
-        "example_es": "Mi hijo tiene ocho años.",
-        "example_zh": "我的兒子八歲。"
+        "meaning": "廚師（男）",
+        "detail": "陽性單數：el cocinero／陽性複數：los cocineros；女性廚師：la cocinera／las cocineras。",
+        "example_es": "El cocinero prepara la comida en la cocina.",
+        "example_zh": "廚師在廚房裡準備食物。"
       }
     ]
   },
