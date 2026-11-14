@@ -88,84 +88,84 @@
     "date": "2026-11-14",
     "cards": [
       {
-        "word": "eres",
+        "word": "el abuelo",
+        "pos": "陽性名詞",
+        "meaning": "祖父；外祖父（泛指男性祖父輩）",
+        "detail": "陽性 el abuelo / los abuelos；陰性對應 la abuela；複數 los abuelos 也可指「祖父母（們）」",
+        "example_es": "Mi abuelo tiene setenta años.",
+        "example_zh": "我的祖父七十歲。"
+      },
+      {
+        "word": "el oso",
+        "pos": "陽性名詞",
+        "meaning": "熊",
+        "detail": "陽性 el oso / los osos；陰性對應 la osa；常見搭配：el oso polar（北極熊）、el oso panda（熊貓）",
+        "example_es": "El oso come mucha fruta.",
+        "example_zh": "熊吃很多水果。"
+      },
+      {
+        "word": "va",
         "pos": "動詞",
-        "meaning": "你是（ser 動詞的第二人稱單數現在式）",
-        "detail": "ser 現在式變化：soy（我）/ eres（你）/ es（他／她）",
-        "example_es": "¿Eres estudiante?",
-        "example_zh": "你是學生嗎？"
+        "meaning": "他／她／您去（動詞 ir 的第三人稱單數現在式）",
+        "detail": "ir 現在式變化：voy（我）/ vas（你）/ va（他／她／您）/ vamos（我們）/ vais（你們）/ van（他們／您們）",
+        "example_es": "Ella va al supermercado todos los días.",
+        "example_zh": "她每天去超市。"
       },
       {
-        "word": "la cabeza",
-        "pos": "名詞",
-        "meaning": "頭",
-        "detail": "陰性名詞：la cabeza（單數）/ las cabezas（複數）",
-        "example_es": "Me duele la cabeza.",
-        "example_zh": "我頭痛。"
+        "word": "tan",
+        "pos": "副詞",
+        "meaning": "如此、這麼、那麼",
+        "detail": "常用於比較句型：tan + 形容詞／副詞 + como（與……一樣……）；也可單獨修飾形容詞表示強調程度",
+        "example_es": "Este café no es tan dulce como el mío.",
+        "example_zh": "這杯咖啡不像我的那麼甜。"
       },
       {
-        "word": "el mapa",
-        "pos": "名詞",
-        "meaning": "地圖",
-        "detail": "陽性名詞（注意：雖然 -a 結尾，但為陽性）：el mapa（單數）/ los mapas（複數）",
-        "example_es": "Necesito un mapa de la ciudad.",
-        "example_zh": "我需要一張城市地圖。"
+        "word": "el salón",
+        "pos": "陽性名詞",
+        "meaning": "客廳；大廳",
+        "detail": "陽性 el salón / los salones；注意複數去掉重音符號：salones；在西班牙常指家中客廳，也可指會議廳或展覽廳",
+        "example_es": "Mi familia ve la televisión en el salón.",
+        "example_zh": "我的家人在客廳看電視。"
       },
       {
-        "word": "vosotras",
-        "pos": "代名詞",
-        "meaning": "你們（西班牙用法，指全部為女性的群體）",
-        "detail": "陰性複數第二人稱主格代名詞；若群體中有男性則用 vosotros；拉丁美洲通常用 ustedes 代替",
-        "example_es": "¿Vosotras sois amigas?",
-        "example_zh": "你們是朋友嗎？"
+        "word": "delante",
+        "pos": "副詞",
+        "meaning": "在前面、前方",
+        "detail": "常與介系詞 de 連用：delante de + 名詞，表示「在……的前面」；反義詞為 detrás（在後面）",
+        "example_es": "El gato está delante de la puerta.",
+        "example_zh": "貓在門的前面。"
       },
       {
-        "word": "por eso",
-        "pos": "片語（連接詞性）",
-        "meaning": "所以、因此",
-        "detail": "用於表示因果關係，放在句首或句中，前一句說原因，por eso 引出結果",
-        "example_es": "Tengo hambre, por eso voy a comer.",
-        "example_zh": "我肚子餓，所以我要去吃東西。"
-      },
-      {
-        "word": "caliente",
+        "word": "ancho",
         "pos": "形容詞",
-        "meaning": "熱的、燙的",
-        "detail": "陰陽同形：caliente（陽性／陰性單數）/ calientes（複數）；描述溫度高，不用於天氣（天氣熱用 hace calor）",
-        "example_es": "El café está muy caliente.",
-        "example_zh": "這杯咖啡非常燙。"
+        "meaning": "寬的、寬廣的",
+        "detail": "陽性 ancho / anchos；陰性 ancha / anchas；反義詞為 estrecho／estrecha（窄的）",
+        "example_es": "La calle es muy ancha.",
+        "example_zh": "這條街非常寬。"
       },
       {
-        "word": "febrero",
-        "pos": "名詞（月份）",
-        "meaning": "二月",
-        "detail": "陽性名詞，月份在西班牙文中不大寫；搭配介系詞 en 表示「在二月」：en febrero",
-        "example_es": "Mi cumpleaños es en febrero.",
-        "example_zh": "我的生日在二月。"
+        "word": "el tobillo",
+        "pos": "陽性名詞",
+        "meaning": "腳踝",
+        "detail": "陽性 el tobillo / los tobillos；常見搭配：torcerse el tobillo（扭傷腳踝）、dolor de tobillo（腳踝疼痛）",
+        "example_es": "Me duele el tobillo después de correr.",
+        "example_zh": "跑步之後我的腳踝很痛。"
       },
       {
-        "word": "el dormitorio",
-        "pos": "名詞",
-        "meaning": "臥室",
-        "detail": "陽性名詞：el dormitorio（單數）/ los dormitorios（複數）",
-        "example_es": "Mi dormitorio es pequeño pero cómodo.",
-        "example_zh": "我的臥室很小但很舒適。"
+        "word": "diez",
+        "pos": "數詞",
+        "meaning": "十（數字 10）",
+        "detail": "基數詞，不隨性別變化；用於計數、時間、年齡等；序數對應 décimo／décima（第十）",
+        "example_es": "Tengo diez minutos para llegar.",
+        "example_zh": "我有十分鐘可以到達。"
       },
       {
-        "word": "el aguacate",
-        "pos": "名詞",
-        "meaning": "酪梨",
-        "detail": "陽性名詞：el aguacate（單數）/ los aguacates（複數）",
-        "example_es": "Me gusta comer pan con aguacate.",
-        "example_zh": "我喜歡吃酪梨吐司。"
-      },
-      {
-        "word": "último",
-        "pos": "形容詞",
-        "meaning": "最後的、最近的",
-        "detail": "陽性：último / 陰性：última / 複數：últimos（陽）、últimas（陰）；放在名詞前後皆可，通常置於名詞前",
-        "example_es": "Este es el último autobús de la noche.",
-        "example_zh": "這是今晚最後一班公車。"
+        "word": "el artista",
+        "pos": "陰陽同形名詞",
+        "meaning": "藝術家；表演者",
+        "detail": "陰陽同形：el artista（男藝術家）/ la artista（女藝術家）；複數 los artistas／las artistas；以 -ista 結尾的名詞多屬陰陽同形",
+        "example_es": "Mi hermana es una artista muy famosa.",
+        "example_zh": "我姊姊是一位非常有名的藝術家。"
       }
     ]
   }
