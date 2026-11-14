@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-13",
+    "date": "2026-11-14",
     "cards": [
       {
-        "word": "sesenta",
-        "pos": "數詞／其他詞類",
-        "meaning": "60（六十）",
-        "detail": "基數詞，不隨性別或數量變化，直接放在名詞前使用。",
-        "example_es": "Mi abuela tiene sesenta años.",
-        "example_zh": "我奶奶六十歲。"
-      },
-      {
-        "word": "ellas",
-        "pos": "代名詞",
-        "meaning": "她們（指全部都是女生的群體）",
-        "detail": "第三人稱複數陰性主格人稱代名詞；若群體中有任何一位男性則改用 ellos。",
-        "example_es": "Ellas son mis amigas del colegio.",
-        "example_zh": "她們是我的學校朋友。"
-      },
-      {
-        "word": "la factura",
-        "pos": "陰性名詞",
-        "meaning": "發票／帳單",
-        "detail": "陰性：la factura／las facturas；在餐廳可說「la cuenta」，正式商業場合多用「la factura」。",
-        "example_es": "¿Me puede dar la factura, por favor?",
-        "example_zh": "請問可以給我帳單嗎？"
-      },
-      {
-        "word": "la araña",
-        "pos": "陰性名詞",
-        "meaning": "蜘蛛",
-        "detail": "陰性：la araña／las arañas；注意 ñ 的寫法，不可寫成 n。",
-        "example_es": "Hay una araña grande en el baño.",
-        "example_zh": "浴室裡有一隻大蜘蛛。"
-      },
-      {
-        "word": "de la madrugada",
-        "pos": "片語／時間表達",
-        "meaning": "凌晨（約凌晨1點到5點）",
-        "detail": "固定片語，接在具體時刻後面，例如：las tres de la madrugada（凌晨三點）；白天用 de la mañana／de la tarde／de la noche 區分。",
-        "example_es": "El bebé lloró a las dos de la madrugada.",
-        "example_zh": "寶寶在凌晨兩點哭了。"
-      },
-      {
-        "word": "estáis",
-        "pos": "動詞",
-        "meaning": "你們在／你們是（狀態）——西班牙用法",
-        "detail": "動詞 estar 的現在式第二人稱複數（vosotros），僅西班牙使用；拉丁美洲用 están（ustedes）代替。變化參考：estoy／estás／está／estamos／estáis／están。",
-        "example_es": "¿Dónde estáis ahora?",
-        "example_zh": "你們現在在哪裡？"
-      },
-      {
-        "word": "enojado",
+        "word": "avergonzado",
         "pos": "形容詞",
-        "meaning": "生氣的（拉丁美洲用法）",
-        "detail": "陽性單數：enojado；陰性單數：enojada；陽性複數：enojados；陰性複數：enojadas。西班牙多說 enfadado／enfadada。",
-        "example_es": "Mi papá está muy enojado hoy.",
-        "example_zh": "我爸爸今天非常生氣。"
+        "meaning": "尷尬的、感到羞恥的",
+        "detail": "陽性單數：avergonzado / 陰性單數：avergonzada / 陽性複數：avergonzados / 陰性複數：avergonzadas",
+        "example_es": "Estoy avergonzado porque llegué tarde.",
+        "example_zh": "我因為遲到而感到很尷尬。"
       },
       {
-        "word": "el norte",
-        "pos": "陽性名詞",
-        "meaning": "北／北方",
-        "detail": "陽性：el norte（無複數常用形）；其他方向：el sur（南）、el este（東）、el oeste（西）。",
-        "example_es": "Vivo en el norte de Taiwán.",
-        "example_zh": "我住在台灣北部。"
+        "word": "la sopa",
+        "pos": "陰性名詞",
+        "meaning": "湯",
+        "detail": "陰性 la sopa / las sopas",
+        "example_es": "La sopa está muy caliente.",
+        "example_zh": "這湯非常燙。"
       },
       {
-        "word": "casado",
+        "word": "segundo",
         "pos": "形容詞",
-        "meaning": "已婚的",
-        "detail": "陽性單數：casado；陰性單數：casada；陽性複數：casados；陰性複數：casadas。常與動詞 estar 搭配：estar casado／casada。",
-        "example_es": "Él está casado y tiene dos hijos.",
-        "example_zh": "他已婚，有兩個孩子。"
+        "meaning": "第二（的）",
+        "detail": "陽性單數：segundo / 陰性單數：segunda / 陽性複數：segundos / 陰性複數：segundas；放在名詞前使用",
+        "example_es": "Vivo en el segundo piso.",
+        "example_zh": "我住在二樓。"
       },
       {
-        "word": "el cocinero",
+        "word": "derecha",
+        "pos": "片語或其他詞類",
+        "meaning": "右、右邊",
+        "detail": "常用片語：a la derecha（在右邊）/ gira a la derecha（向右轉）；與介系詞 a 搭配使用",
+        "example_es": "El baño está a la derecha.",
+        "example_zh": "廁所在右邊。"
+      },
+      {
+        "word": "soltero",
+        "pos": "形容詞",
+        "meaning": "單身的、未婚的",
+        "detail": "陽性單數：soltero / 陰性單數：soltera / 陽性複數：solteros / 陰性複數：solteras；也可作名詞使用，指「單身漢／單身女性」",
+        "example_es": "Mi hermano todavía está soltero.",
+        "example_zh": "我哥哥還是單身。"
+      },
+      {
+        "word": "el músculo",
         "pos": "陽性名詞",
-        "meaning": "廚師（男）",
-        "detail": "陽性單數：el cocinero／陽性複數：los cocineros；女性廚師：la cocinera／las cocineras。",
-        "example_es": "El cocinero prepara la comida en la cocina.",
-        "example_zh": "廚師在廚房裡準備食物。"
+        "meaning": "肌肉",
+        "detail": "陽性 el músculo / los músculos；注意重音在第一個音節 mús-",
+        "example_es": "Hago ejercicio para tener más músculo.",
+        "example_zh": "我運動是為了增加更多肌肉。"
+      },
+      {
+        "word": "la sábana",
+        "pos": "陰性名詞",
+        "meaning": "床單",
+        "detail": "陰性 la sábana / las sábanas；注意重音在第一個音節 sá-",
+        "example_es": "Cambio las sábanas todos los domingos.",
+        "example_zh": "我每個星期天換床單。"
+      },
+      {
+        "word": "el león",
+        "pos": "陽性名詞",
+        "meaning": "獅子",
+        "detail": "陽性 el león / los leones；陰性（母獅）：la leona / las leonas",
+        "example_es": "El león es un animal muy fuerte.",
+        "example_zh": "獅子是一種非常強壯的動物。"
+      },
+      {
+        "word": "si",
+        "pos": "片語或其他詞類",
+        "meaning": "如果",
+        "detail": "連接詞，引導條件子句；注意：si（如果）不加重音，與 sí（是）不同",
+        "example_es": "Si tienes hambre, come una fruta.",
+        "example_zh": "如果你餓了，就吃一個水果。"
+      },
+      {
+        "word": "la sandía",
+        "pos": "陰性名詞",
+        "meaning": "西瓜",
+        "detail": "陰性 la sandía / las sandías；注意重音在最後音節 dí-",
+        "example_es": "En verano me gusta comer sandía.",
+        "example_zh": "夏天我喜歡吃西瓜。"
       }
     ]
   },
