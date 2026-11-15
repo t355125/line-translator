@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-14",
+    "date": "2026-11-15",
     "cards": [
       {
-        "word": "avergonzado",
-        "pos": "形容詞",
-        "meaning": "尷尬的、感到羞恥的",
-        "detail": "陽性單數：avergonzado / 陰性單數：avergonzada / 陽性複數：avergonzados / 陰性複數：avergonzadas",
-        "example_es": "Estoy avergonzado porque llegué tarde.",
-        "example_zh": "我因為遲到而感到很尷尬。"
-      },
-      {
-        "word": "la sopa",
-        "pos": "陰性名詞",
-        "meaning": "湯",
-        "detail": "陰性 la sopa / las sopas",
-        "example_es": "La sopa está muy caliente.",
-        "example_zh": "這湯非常燙。"
-      },
-      {
-        "word": "segundo",
-        "pos": "形容詞",
-        "meaning": "第二（的）",
-        "detail": "陽性單數：segundo / 陰性單數：segunda / 陽性複數：segundos / 陰性複數：segundas；放在名詞前使用",
-        "example_es": "Vivo en el segundo piso.",
-        "example_zh": "我住在二樓。"
-      },
-      {
-        "word": "derecha",
-        "pos": "片語或其他詞類",
-        "meaning": "右、右邊",
-        "detail": "常用片語：a la derecha（在右邊）/ gira a la derecha（向右轉）；與介系詞 a 搭配使用",
-        "example_es": "El baño está a la derecha.",
-        "example_zh": "廁所在右邊。"
-      },
-      {
-        "word": "soltero",
-        "pos": "形容詞",
-        "meaning": "單身的、未婚的",
-        "detail": "陽性單數：soltero / 陰性單數：soltera / 陽性複數：solteros / 陰性複數：solteras；也可作名詞使用，指「單身漢／單身女性」",
-        "example_es": "Mi hermano todavía está soltero.",
-        "example_zh": "我哥哥還是單身。"
-      },
-      {
-        "word": "el músculo",
+        "word": "el menú",
         "pos": "陽性名詞",
-        "meaning": "肌肉",
-        "detail": "陽性 el músculo / los músculos；注意重音在第一個音節 mús-",
-        "example_es": "Hago ejercicio para tener más músculo.",
-        "example_zh": "我運動是為了增加更多肌肉。"
+        "meaning": "菜單",
+        "detail": "陽性 el menú / los menús",
+        "example_es": "¿Me puede traer el menú, por favor?",
+        "example_zh": "請問可以把菜單給我嗎？"
       },
       {
-        "word": "la sábana",
-        "pos": "陰性名詞",
-        "meaning": "床單",
-        "detail": "陰性 la sábana / las sábanas；注意重音在第一個音節 sá-",
-        "example_es": "Cambio las sábanas todos los domingos.",
-        "example_zh": "我每個星期天換床單。"
-      },
-      {
-        "word": "el león",
+        "word": "el miércoles",
         "pos": "陽性名詞",
-        "meaning": "獅子",
-        "detail": "陽性 el león / los leones；陰性（母獅）：la leona / las leonas",
-        "example_es": "El león es un animal muy fuerte.",
-        "example_zh": "獅子是一種非常強壯的動物。"
+        "meaning": "星期三",
+        "detail": "陽性 el miércoles / los miércoles（單複數同形）",
+        "example_es": "El miércoles tengo clase de español.",
+        "example_zh": "星期三我有西班牙文課。"
       },
       {
-        "word": "si",
-        "pos": "片語或其他詞類",
-        "meaning": "如果",
-        "detail": "連接詞，引導條件子句；注意：si（如果）不加重音，與 sí（是）不同",
-        "example_es": "Si tienes hambre, come una fruta.",
-        "example_zh": "如果你餓了，就吃一個水果。"
-      },
-      {
-        "word": "la sandía",
+        "word": "la basura",
         "pos": "陰性名詞",
-        "meaning": "西瓜",
-        "detail": "陰性 la sandía / las sandías；注意重音在最後音節 dí-",
-        "example_es": "En verano me gusta comer sandía.",
-        "example_zh": "夏天我喜歡吃西瓜。"
+        "meaning": "垃圾",
+        "detail": "陰性 la basura / las basuras",
+        "example_es": "Voy a tirar la basura ahora.",
+        "example_zh": "我現在要去丟垃圾。"
+      },
+      {
+        "word": "el fontanero",
+        "pos": "陽性名詞",
+        "meaning": "水管工",
+        "detail": "陽性 el fontanero / los fontaneros；陰性 la fontanera / las fontaneras",
+        "example_es": "El fontanero viene el martes a arreglar la tubería.",
+        "example_zh": "水管工星期二來修水管。"
+      },
+      {
+        "word": "el cuello",
+        "pos": "陽性名詞",
+        "meaning": "脖子",
+        "detail": "陽性 el cuello / los cuellos；也可指衣領",
+        "example_es": "Me duele el cuello porque dormí mal.",
+        "example_zh": "我脖子痛，因為睡得不好。"
+      },
+      {
+        "word": "estoy",
+        "pos": "動詞",
+        "meaning": "我在／我（現在）是",
+        "detail": "estar 的第一人稱單數現在式：estoy(我)／estás(你)／está(他／她)／estamos(我們)／estáis(你們)／están(他們)",
+        "example_es": "Estoy en casa todo el día.",
+        "example_zh": "我整天都在家。"
+      },
+      {
+        "word": "ahí",
+        "pos": "副詞",
+        "meaning": "那裡",
+        "detail": "指距離說話者稍遠、距離聽話者較近的地方；比 aquí（這裡）遠，比 allí（那裡，更遠）近",
+        "example_es": "El baño está ahí, a la derecha.",
+        "example_zh": "廁所在那裡，右邊。"
+      },
+      {
+        "word": "más",
+        "pos": "副詞",
+        "meaning": "更多；更",
+        "detail": "用於比較級（más + 形容詞／副詞）或表示數量增加；注意重音符號區別於連接詞 mas",
+        "example_es": "Quiero más agua, por favor.",
+        "example_zh": "請再給我多一點水。"
+      },
+      {
+        "word": "la lima",
+        "pos": "陰性名詞",
+        "meaning": "萊姆",
+        "detail": "陰性 la lima / las limas；也可指指甲銼刀，依語境判斷",
+        "example_es": "Pongo lima en mi agua para darle sabor.",
+        "example_zh": "我在水裡加萊姆增添風味。"
+      },
+      {
+        "word": "la hormiga",
+        "pos": "陰性名詞",
+        "meaning": "螞蟻",
+        "detail": "陰性 la hormiga / las hormigas",
+        "example_es": "Hay muchas hormigas en la cocina.",
+        "example_zh": "廚房裡有很多螞蟻。"
       }
     ]
   },
