@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "cards": [
       {
-        "word": "el vino",
+        "word": "el arquitecto",
         "pos": "陽性名詞",
-        "meaning": "酒（尤指葡萄酒）",
-        "detail": "陽性 el vino / los vinos",
-        "example_es": "Me gusta el vino tinto.",
-        "example_zh": "我喜歡紅酒。"
+        "meaning": "建築師（男）；女性說 la arquitecta",
+        "detail": "陽性 el arquitecto / los arquitectos；陰性 la arquitecta / las arquitectas",
+        "example_es": "Mi padre es arquitecto.",
+        "example_zh": "我爸爸是建築師。"
       },
       {
-        "word": "la nariz",
+        "word": "largo",
+        "pos": "形容詞",
+        "meaning": "長的",
+        "detail": "陽性 largo / largos；陰性 larga / largas",
+        "example_es": "El río es muy largo.",
+        "example_zh": "這條河很長。"
+      },
+      {
+        "word": "el pez",
+        "pos": "陽性名詞",
+        "meaning": "魚（活的，在水裡）；煮熟或切好的魚說 el pescado",
+        "detail": "陽性 el pez / los peces（注意複數 z → c）",
+        "example_es": "Hay un pez rojo en la pecera.",
+        "example_zh": "魚缸裡有一條紅魚。"
+      },
+      {
+        "word": "la cara",
         "pos": "陰性名詞",
-        "meaning": "鼻子",
-        "detail": "陰性 la nariz / las narices（複數字尾變化 z → c）",
-        "example_es": "Tengo la nariz fría.",
-        "example_zh": "我的鼻子很冷。"
+        "meaning": "臉",
+        "detail": "陰性 la cara / las caras",
+        "example_es": "Ella tiene la cara bonita.",
+        "example_zh": "她的臉很漂亮。"
       },
       {
-        "word": "quizás",
-        "pos": "副詞",
-        "meaning": "也許、可能",
-        "detail": "後面可接直述式或虛擬式，語氣越不確定則用虛擬式",
-        "example_es": "Quizás mañana llueve.",
-        "example_zh": "也許明天會下雨。"
-      },
-      {
-        "word": "la ballena",
-        "pos": "陰性名詞",
-        "meaning": "鯨魚",
-        "detail": "陰性 la ballena / las ballenas",
-        "example_es": "La ballena es muy grande.",
-        "example_zh": "鯨魚非常大。"
-      },
-      {
-        "word": "vais",
+        "word": "somos",
         "pos": "動詞",
-        "meaning": "你們去（ir 的現在式，西班牙用法）",
-        "detail": "ir 現在式：voy / vas / va / vamos / vais / van；vais 為西班牙第二人稱複數（vosotros）",
-        "example_es": "¿Vais al colegio hoy?",
-        "example_zh": "你們今天去學校嗎？"
+        "meaning": "我們是（ser 的第一人稱複數現在式）",
+        "detail": "ser 現在式變化：soy(我) / eres(你) / es(他她) / somos(我們) / sois(你們) / son(他們)",
+        "example_es": "Somos estudiantes de español.",
+        "example_zh": "我們是西班牙文學生。"
       },
       {
-        "word": "alto",
-        "pos": "形容詞",
-        "meaning": "高的",
-        "detail": "陽性 alto / 陰性 alta；複數 altos / altas",
-        "example_es": "Mi hermano es muy alto.",
-        "example_zh": "我哥哥非常高。"
-      },
-      {
-        "word": "primero",
-        "pos": "形容詞",
-        "meaning": "第一（的）",
-        "detail": "陽性 primero（陽性名詞前縮短為 primer）/ 陰性 primera；複數 primeros / primeras",
-        "example_es": "Hoy es el primer día de clase.",
-        "example_zh": "今天是上課的第一天。"
-      },
-      {
-        "word": "el horno",
+        "word": "el vinagre",
         "pos": "陽性名詞",
-        "meaning": "烤箱、烤爐",
-        "detail": "陽性 el horno / los hornos；常見搭配：meter en el horno（放進烤箱）",
-        "example_es": "Pongo el pollo en el horno.",
-        "example_zh": "我把雞肉放進烤箱。"
+        "meaning": "醋",
+        "detail": "陽性 el vinagre / los vinagres",
+        "example_es": "Pongo vinagre en la ensalada.",
+        "example_zh": "我在沙拉上加醋。"
       },
       {
-        "word": "el martes",
+        "word": "diciembre",
+        "pos": "名詞（月份）",
+        "meaning": "十二月",
+        "detail": "月份在西班牙文中不大寫；常與介系詞 en 搭配：en diciembre（在十二月）",
+        "example_es": "Mi cumpleaños es en diciembre.",
+        "example_zh": "我的生日在十二月。"
+      },
+      {
+        "word": "cien",
+        "pos": "數詞",
+        "meaning": "一百（100）；剛好一百用 cien，一百多用 ciento",
+        "detail": "cien 用於剛好 100（cien euros）；101 以上說 ciento uno、ciento dos…",
+        "example_es": "Este libro cuesta cien pesos.",
+        "example_zh": "這本書要一百披索。"
+      },
+      {
+        "word": "de",
+        "pos": "介系詞",
+        "meaning": "的／來自；表示所屬、來源、材質等",
+        "detail": "de + el 縮寫為 del（例：el libro del profesor）；常見用法：soy de Taiwán（我來自台灣）、la bolsa de cuero（皮製的包包）",
+        "example_es": "Soy de Taiwán.",
+        "example_zh": "我來自台灣。"
+      },
+      {
+        "word": "el armario",
         "pos": "陽性名詞",
-        "meaning": "星期二",
-        "detail": "陽性 el martes / los martes（單複數同形）；星期名詞前通常加冠詞表示「每週…」",
-        "example_es": "Los martes tengo clase de español.",
-        "example_zh": "每週二我有西班牙文課。"
-      },
-      {
-        "word": "la granada",
-        "pos": "陰性名詞",
-        "meaning": "石榴",
-        "detail": "陰性 la granada / las granadas；Granada 也是西班牙城市名，注意語境區分",
-        "example_es": "La granada tiene muchas semillas.",
-        "example_zh": "石榴有很多籽。"
+        "meaning": "衣櫃；也可泛指櫃子",
+        "detail": "陽性 el armario / los armarios",
+        "example_es": "Mi ropa está en el armario.",
+        "example_zh": "我的衣服在衣櫃裡。"
       }
     ]
   }
