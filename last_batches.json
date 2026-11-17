@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-16",
+    "date": "2026-11-17",
     "cards": [
       {
-        "word": "mientras",
-        "pos": "連接詞／副詞",
-        "meaning": "同時／當……的時候",
-        "detail": "用來連接兩個同時發生的動作，相當於中文「當……時」或「一邊……一邊……」",
-        "example_es": "Escucho música mientras como.",
-        "example_zh": "我一邊吃飯一邊聽音樂。"
-      },
-      {
-        "word": "el apartamento",
+        "word": "el grifo",
         "pos": "陽性名詞",
-        "meaning": "公寓",
-        "detail": "陽性 el apartamento / los apartamentos",
-        "example_es": "Mi apartamento es pequeño pero cómodo.",
-        "example_zh": "我的公寓小但很舒適。"
+        "meaning": "水龍頭",
+        "detail": "陽性 el grifo / los grifos",
+        "example_es": "Cierra el grifo, por favor.",
+        "example_zh": "請把水龍頭關掉。"
       },
       {
-        "word": "el obrero",
-        "pos": "陽性名詞",
-        "meaning": "工人",
-        "detail": "陽性 el obrero / los obreros；陰性為 la obrera / las obreras",
-        "example_es": "El obrero trabaja mucho todos los días.",
-        "example_zh": "這位工人每天工作很努力。"
-      },
-      {
-        "word": "la mano",
-        "pos": "陰性名詞",
-        "meaning": "手",
-        "detail": "陰性 la mano / las manos；注意：雖然以 -o 結尾，仍是陰性名詞",
-        "example_es": "Lávate las manos antes de comer.",
-        "example_zh": "吃飯前請洗手。"
-      },
-      {
-        "word": "la propina",
-        "pos": "陰性名詞",
-        "meaning": "小費",
-        "detail": "陰性 la propina / las propinas",
-        "example_es": "Dejamos una propina para el camarero.",
-        "example_zh": "我們給服務生留了小費。"
-      },
-      {
-        "word": "el higo",
-        "pos": "陽性名詞",
-        "meaning": "無花果",
-        "detail": "陽性 el higo / los higos",
-        "example_es": "Me gustan mucho los higos frescos.",
-        "example_zh": "我非常喜歡新鮮的無花果。"
-      },
-      {
-        "word": "el gallo",
-        "pos": "陽性名詞",
-        "meaning": "公雞",
-        "detail": "陽性 el gallo / los gallos；母雞為 la gallina",
-        "example_es": "El gallo canta por la mañana.",
-        "example_zh": "公雞在早上啼叫。"
-      },
-      {
-        "word": "voy",
-        "pos": "動詞",
-        "meaning": "我去（ir 的第一人稱單數現在式）",
-        "detail": "ir 現在式變化：voy(yo) / vas(tú) / va(él/ella) / vamos(nosotros) / vais(vosotros) / van(ellos)",
-        "example_es": "Voy al supermercado ahora.",
-        "example_zh": "我現在去超市。"
-      },
-      {
-        "word": "junio",
-        "pos": "名詞（月份）",
-        "meaning": "六月",
-        "detail": "西班牙文月份不大寫；用法：en junio（在六月）",
-        "example_es": "Mi cumpleaños es en junio.",
-        "example_zh": "我的生日在六月。"
-      },
-      {
-        "word": "veinte",
+        "word": "siete",
         "pos": "數詞",
-        "meaning": "二十（20）",
-        "detail": "基數詞，不隨性別變化；21 為 veintiuno，22 為 veintidós，以此類推",
-        "example_es": "Tengo veinte años.",
-        "example_zh": "我二十歲。"
+        "meaning": "7（七）",
+        "detail": "基數詞，不隨性數變化，用於計數與時刻表達",
+        "example_es": "Son las siete de la mañana.",
+        "example_zh": "現在是早上七點。"
+      },
+      {
+        "word": "amargo",
+        "pos": "形容詞",
+        "meaning": "苦的",
+        "detail": "陽性 amargo / 陰性 amarga；複數 amargos / amargas",
+        "example_es": "Este café está muy amargo.",
+        "example_zh": "這杯咖啡非常苦。"
+      },
+      {
+        "word": "de la noche",
+        "pos": "介系詞片語",
+        "meaning": "晚上（約8點到半夜），用於時刻表達",
+        "detail": "搭配時刻使用，如「las diez de la noche」表示晚上十點；對應 de la mañana（早上）、de la tarde（下午）",
+        "example_es": "Llega a las nueve de la noche.",
+        "example_zh": "他/她晚上九點到。"
+      },
+      {
+        "word": "vamos",
+        "pos": "動詞",
+        "meaning": "我們去；走吧（ir 的現在式第一人稱複數）",
+        "detail": "ir 現在式變化：voy（我）/ vas（你）/ va（他）/ vamos（我們）/ vais（你們）/ van（他們）；也常用於口語感嘆「¡Vamos!」表示「走吧！加油！」",
+        "example_es": "¡Vamos al supermercado ahora!",
+        "example_zh": "我們現在去超市吧！"
+      },
+      {
+        "word": "caro",
+        "pos": "形容詞",
+        "meaning": "貴的；昂貴的",
+        "detail": "陽性 caro / 陰性 cara；複數 caros / caras；反義詞為 barato（便宜的）",
+        "example_es": "Este abrigo es muy caro.",
+        "example_zh": "這件外套非常貴。"
+      },
+      {
+        "word": "el periodista",
+        "pos": "陰陽同形名詞",
+        "meaning": "記者",
+        "detail": "陰陽同形：el periodista（男記者）/ la periodista（女記者）；複數 los periodistas / las periodistas",
+        "example_es": "Mi hermana es periodista.",
+        "example_zh": "我姊姊是記者。"
+      },
+      {
+        "word": "el tiburón",
+        "pos": "陽性名詞",
+        "meaning": "鯊魚",
+        "detail": "陽性 el tiburón / los tiburones；注意重音符號 ó",
+        "example_es": "Hay un tiburón grande en el mar.",
+        "example_zh": "海裡有一條大鯊魚。"
+      },
+      {
+        "word": "para",
+        "pos": "介系詞",
+        "meaning": "為了／給／對…來說",
+        "detail": "常見用法：para + 人（給某人）、para + 動詞原形（為了做某事）、para + 名詞（用途目的）；注意與 por 的區別",
+        "example_es": "Este regalo es para ti.",
+        "example_zh": "這個禮物是給你的。"
+      },
+      {
+        "word": "la escalera",
+        "pos": "陰性名詞",
+        "meaning": "樓梯；梯子",
+        "detail": "陰性 la escalera / las escaleras；也可指梯子（單一物件）；escalera mecánica 表示手扶梯",
+        "example_es": "Subo por la escalera todos los días.",
+        "example_zh": "我每天走樓梯上去。"
       }
     ]
   },
