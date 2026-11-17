@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "cards": [
       {
-        "word": "el arquitecto",
+        "word": "el domingo",
         "pos": "陽性名詞",
-        "meaning": "建築師（男）；女性說 la arquitecta",
-        "detail": "陽性 el arquitecto / los arquitectos；陰性 la arquitecta / las arquitectas",
-        "example_es": "Mi padre es arquitecto.",
-        "example_zh": "我爸爸是建築師。"
+        "meaning": "星期日",
+        "detail": "陽性 el domingo / los domingos；一週的第七天，西班牙語星期不大寫",
+        "example_es": "El domingo voy al parque con mi familia.",
+        "example_zh": "星期日我和家人去公園。"
       },
       {
-        "word": "largo",
-        "pos": "形容詞",
-        "meaning": "長的",
-        "detail": "陽性 largo / largos；陰性 larga / largas",
-        "example_es": "El río es muy largo.",
-        "example_zh": "這條河很長。"
-      },
-      {
-        "word": "el pez",
-        "pos": "陽性名詞",
-        "meaning": "魚（活的，在水裡）；煮熟或切好的魚說 el pescado",
-        "detail": "陽性 el pez / los peces（注意複數 z → c）",
-        "example_es": "Hay un pez rojo en la pecera.",
-        "example_zh": "魚缸裡有一條紅魚。"
-      },
-      {
-        "word": "la cara",
-        "pos": "陰性名詞",
-        "meaning": "臉",
-        "detail": "陰性 la cara / las caras",
-        "example_es": "Ella tiene la cara bonita.",
-        "example_zh": "她的臉很漂亮。"
-      },
-      {
-        "word": "somos",
+        "word": "hace",
         "pos": "動詞",
-        "meaning": "我們是（ser 的第一人稱複數現在式）",
-        "detail": "ser 現在式變化：soy(我) / eres(你) / es(他她) / somos(我們) / sois(你們) / son(他們)",
-        "example_es": "Somos estudiantes de español.",
-        "example_zh": "我們是西班牙文學生。"
+        "meaning": "他／她／您做；天氣如何",
+        "detail": "hacer 的第三人稱單數現在式：yo hago / tú haces / él hace；用於天氣：hace frío／hace calor",
+        "example_es": "Hoy hace mucho calor.",
+        "example_zh": "今天天氣非常熱。"
       },
       {
-        "word": "el vinagre",
+        "word": "el gerente",
         "pos": "陽性名詞",
-        "meaning": "醋",
-        "detail": "陽性 el vinagre / los vinagres",
-        "example_es": "Pongo vinagre en la ensalada.",
-        "example_zh": "我在沙拉上加醋。"
+        "meaning": "經理",
+        "detail": "陽性 el gerente / los gerentes；女性經理可說 la gerente",
+        "example_es": "El gerente llega a la oficina a las nueve.",
+        "example_zh": "經理九點到辦公室。"
       },
       {
-        "word": "diciembre",
-        "pos": "名詞（月份）",
-        "meaning": "十二月",
-        "detail": "月份在西班牙文中不大寫；常與介系詞 en 搭配：en diciembre（在十二月）",
-        "example_es": "Mi cumpleaños es en diciembre.",
-        "example_zh": "我的生日在十二月。"
+        "word": "duro",
+        "pos": "形容詞",
+        "meaning": "硬的／辛苦的",
+        "detail": "陽性 duro / duros；陰性 dura / duras",
+        "example_es": "Este trabajo es muy duro.",
+        "example_zh": "這份工作非常辛苦。"
       },
       {
-        "word": "cien",
+        "word": "la mariposa",
+        "pos": "陰性名詞",
+        "meaning": "蝴蝶",
+        "detail": "陰性 la mariposa / las mariposas",
+        "example_es": "Hay una mariposa amarilla en el jardín.",
+        "example_zh": "花園裡有一隻黃色的蝴蝶。"
+      },
+      {
+        "word": "la pared",
+        "pos": "陰性名詞",
+        "meaning": "牆壁",
+        "detail": "陰性 la pared / las paredes",
+        "example_es": "Hay una foto en la pared de mi cuarto.",
+        "example_zh": "我房間的牆壁上有一張照片。"
+      },
+      {
+        "word": "cuarenta",
         "pos": "數詞",
-        "meaning": "一百（100）；剛好一百用 cien，一百多用 ciento",
-        "detail": "cien 用於剛好 100（cien euros）；101 以上說 ciento uno、ciento dos…",
-        "example_es": "Este libro cuesta cien pesos.",
-        "example_zh": "這本書要一百披索。"
+        "meaning": "40",
+        "detail": "基數詞，不隨性別變化；cuarenta y uno（41）、cuarenta y dos（42）依此類推",
+        "example_es": "Mi padre tiene cuarenta años.",
+        "example_zh": "我爸爸四十歲。"
       },
       {
-        "word": "de",
-        "pos": "介系詞",
-        "meaning": "的／來自；表示所屬、來源、材質等",
-        "detail": "de + el 縮寫為 del（例：el libro del profesor）；常見用法：soy de Taiwán（我來自台灣）、la bolsa de cuero（皮製的包包）",
-        "example_es": "Soy de Taiwán.",
-        "example_zh": "我來自台灣。"
+        "word": "octubre",
+        "pos": "名詞",
+        "meaning": "十月",
+        "detail": "陽性 el octubre；月份名稱在西班牙語中不大寫；常與 en 連用：en octubre",
+        "example_es": "Mi cumpleaños es en octubre.",
+        "example_zh": "我的生日在十月。"
       },
       {
-        "word": "el armario",
-        "pos": "陽性名詞",
-        "meaning": "衣櫃；也可泛指櫃子",
-        "detail": "陽性 el armario / los armarios",
-        "example_es": "Mi ropa está en el armario.",
-        "example_zh": "我的衣服在衣櫃裡。"
+        "word": "van",
+        "pos": "動詞",
+        "meaning": "他們去",
+        "detail": "ir 的第三人稱複數現在式：yo voy / tú vas / él va / nosotros vamos / vosotros vais / ellos van",
+        "example_es": "Mis amigos van al cine esta noche.",
+        "example_zh": "我的朋友們今晚去看電影。"
+      },
+      {
+        "word": "la médica",
+        "pos": "陰性名詞",
+        "meaning": "醫生（女）",
+        "detail": "陰性 la médica / las médicas；男性醫生為 el médico / los médicos",
+        "example_es": "La médica me dice que debo descansar más.",
+        "example_zh": "女醫生告訴我應該多休息。"
       }
     ]
   }
