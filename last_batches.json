@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-17",
+    "date": "2026-11-18",
     "cards": [
       {
-        "word": "el grifo",
-        "pos": "陽性名詞",
-        "meaning": "水龍頭",
-        "detail": "陽性 el grifo / los grifos",
-        "example_es": "Cierra el grifo, por favor.",
-        "example_zh": "請把水龍頭關掉。"
-      },
-      {
-        "word": "siete",
-        "pos": "數詞",
-        "meaning": "7（七）",
-        "detail": "基數詞，不隨性數變化，用於計數與時刻表達",
-        "example_es": "Son las siete de la mañana.",
-        "example_zh": "現在是早上七點。"
-      },
-      {
-        "word": "amargo",
-        "pos": "形容詞",
-        "meaning": "苦的",
-        "detail": "陽性 amargo / 陰性 amarga；複數 amargos / amargas",
-        "example_es": "Este café está muy amargo.",
-        "example_zh": "這杯咖啡非常苦。"
-      },
-      {
-        "word": "de la noche",
-        "pos": "介系詞片語",
-        "meaning": "晚上（約8點到半夜），用於時刻表達",
-        "detail": "搭配時刻使用，如「las diez de la noche」表示晚上十點；對應 de la mañana（早上）、de la tarde（下午）",
-        "example_es": "Llega a las nueve de la noche.",
-        "example_zh": "他/她晚上九點到。"
-      },
-      {
-        "word": "vamos",
+        "word": "haces",
         "pos": "動詞",
-        "meaning": "我們去；走吧（ir 的現在式第一人稱複數）",
-        "detail": "ir 現在式變化：voy（我）/ vas（你）/ va（他）/ vamos（我們）/ vais（你們）/ van（他們）；也常用於口語感嘆「¡Vamos!」表示「走吧！加油！」",
-        "example_es": "¡Vamos al supermercado ahora!",
-        "example_zh": "我們現在去超市吧！"
+        "meaning": "你做（hacer 的第二人稱單數現在式）",
+        "detail": "hacer 現在式變化：hago（我）/ haces（你）/ hace（他／她）/ hacemos（我們）/ hacéis（你們）/ hacen（他們）",
+        "example_es": "¿Qué haces los fines de semana?",
+        "example_zh": "你週末都做什麼？"
       },
       {
-        "word": "caro",
+        "word": "vacío",
         "pos": "形容詞",
-        "meaning": "貴的；昂貴的",
-        "detail": "陽性 caro / 陰性 cara；複數 caros / caras；反義詞為 barato（便宜的）",
-        "example_es": "Este abrigo es muy caro.",
-        "example_zh": "這件外套非常貴。"
+        "meaning": "空的",
+        "detail": "陽性 vacío / 陰性 vacía；複數 vacíos / vacías",
+        "example_es": "El vaso está vacío.",
+        "example_zh": "杯子是空的。"
       },
       {
-        "word": "el periodista",
-        "pos": "陰陽同形名詞",
-        "meaning": "記者",
-        "detail": "陰陽同形：el periodista（男記者）/ la periodista（女記者）；複數 los periodistas / las periodistas",
-        "example_es": "Mi hermana es periodista.",
-        "example_zh": "我姊姊是記者。"
+        "word": "el conductor",
+        "pos": "名詞",
+        "meaning": "司機",
+        "detail": "陽性 el conductor / los conductores；陰性 la conductora / las conductoras",
+        "example_es": "El conductor del autobús es muy simpático.",
+        "example_zh": "公車司機非常親切。"
       },
       {
-        "word": "el tiburón",
-        "pos": "陽性名詞",
-        "meaning": "鯊魚",
-        "detail": "陽性 el tiburón / los tiburones；注意重音符號 ó",
-        "example_es": "Hay un tiburón grande en el mar.",
-        "example_zh": "海裡有一條大鯊魚。"
+        "word": "el elefante",
+        "pos": "名詞",
+        "meaning": "大象",
+        "detail": "陽性 el elefante / los elefantes；陰性也可用 la elefanta",
+        "example_es": "El elefante es muy grande.",
+        "example_zh": "大象非常巨大。"
       },
       {
-        "word": "para",
-        "pos": "介系詞",
-        "meaning": "為了／給／對…來說",
-        "detail": "常見用法：para + 人（給某人）、para + 動詞原形（為了做某事）、para + 名詞（用途目的）；注意與 por 的區別",
-        "example_es": "Este regalo es para ti.",
-        "example_zh": "這個禮物是給你的。"
+        "word": "diecisiete",
+        "pos": "數詞",
+        "meaning": "十七（17）",
+        "detail": "基數詞，不隨性別變化；dieciséis（16）、diecisiete（17）、dieciocho（18）",
+        "example_es": "Tengo diecisiete años.",
+        "example_zh": "我十七歲。"
       },
       {
-        "word": "la escalera",
-        "pos": "陰性名詞",
-        "meaning": "樓梯；梯子",
-        "detail": "陰性 la escalera / las escaleras；也可指梯子（單一物件）；escalera mecánica 表示手扶梯",
-        "example_es": "Subo por la escalera todos los días.",
-        "example_zh": "我每天走樓梯上去。"
+        "word": "luego",
+        "pos": "副詞",
+        "meaning": "稍後、之後、然後",
+        "detail": "常用於時間順序，也可用於道別語 ¡Hasta luego!（再見）",
+        "example_es": "Primero como y luego salgo.",
+        "example_zh": "我先吃飯，然後出門。"
+      },
+      {
+        "word": "el cepillo",
+        "pos": "名詞",
+        "meaning": "刷子",
+        "detail": "陽性 el cepillo / los cepillos；常見搭配：el cepillo de dientes（牙刷）、el cepillo de pelo（髮刷）",
+        "example_es": "Necesito un cepillo de dientes nuevo.",
+        "example_zh": "我需要一支新牙刷。"
+      },
+      {
+        "word": "delgado",
+        "pos": "形容詞",
+        "meaning": "瘦的、纖細的",
+        "detail": "陽性 delgado / 陰性 delgada；複數 delgados / delgadas",
+        "example_es": "Mi hermana es muy delgada.",
+        "example_zh": "我姊姊非常纖細。"
+      },
+      {
+        "word": "el albañil",
+        "pos": "名詞",
+        "meaning": "泥作工人、砌磚工",
+        "detail": "陽性 el albañil / los albañiles；陰性 la albañil / las albañiles",
+        "example_es": "El albañil construye una pared nueva.",
+        "example_zh": "泥作工人正在砌一道新牆。"
+      },
+      {
+        "word": "el pájaro",
+        "pos": "名詞",
+        "meaning": "鳥",
+        "detail": "陽性 el pájaro / los pájaros；注意重音在第一音節 pá-ja-ro",
+        "example_es": "Hay un pájaro azul en el árbol.",
+        "example_zh": "樹上有一隻藍色的鳥。"
       }
     ]
   },
