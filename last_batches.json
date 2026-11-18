@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "cards": [
       {
-        "word": "el domingo",
+        "word": "el vendedor",
         "pos": "陽性名詞",
-        "meaning": "星期日",
-        "detail": "陽性 el domingo / los domingos；一週的第七天，西班牙語星期不大寫",
-        "example_es": "El domingo voy al parque con mi familia.",
-        "example_zh": "星期日我和家人去公園。"
+        "meaning": "業務員；銷售員",
+        "detail": "陽性 el vendedor / los vendedores；陰性 la vendedora / las vendedoras",
+        "example_es": "El vendedor trabaja en una tienda de ropa.",
+        "example_zh": "這位業務員在一家服裝店工作。"
       },
       {
-        "word": "hace",
-        "pos": "動詞",
-        "meaning": "他／她／您做；天氣如何",
-        "detail": "hacer 的第三人稱單數現在式：yo hago / tú haces / él hace；用於天氣：hace frío／hace calor",
-        "example_es": "Hoy hace mucho calor.",
-        "example_zh": "今天天氣非常熱。"
-      },
-      {
-        "word": "el gerente",
-        "pos": "陽性名詞",
-        "meaning": "經理",
-        "detail": "陽性 el gerente / los gerentes；女性經理可說 la gerente",
-        "example_es": "El gerente llega a la oficina a las nueve.",
-        "example_zh": "經理九點到辦公室。"
-      },
-      {
-        "word": "duro",
-        "pos": "形容詞",
-        "meaning": "硬的／辛苦的",
-        "detail": "陽性 duro / duros；陰性 dura / duras",
-        "example_es": "Este trabajo es muy duro.",
-        "example_zh": "這份工作非常辛苦。"
-      },
-      {
-        "word": "la mariposa",
-        "pos": "陰性名詞",
-        "meaning": "蝴蝶",
-        "detail": "陰性 la mariposa / las mariposas",
-        "example_es": "Hay una mariposa amarilla en el jardín.",
-        "example_zh": "花園裡有一隻黃色的蝴蝶。"
-      },
-      {
-        "word": "la pared",
-        "pos": "陰性名詞",
-        "meaning": "牆壁",
-        "detail": "陰性 la pared / las paredes",
-        "example_es": "Hay una foto en la pared de mi cuarto.",
-        "example_zh": "我房間的牆壁上有一張照片。"
-      },
-      {
-        "word": "cuarenta",
+        "word": "nueve",
         "pos": "數詞",
-        "meaning": "40",
-        "detail": "基數詞，不隨性別變化；cuarenta y uno（41）、cuarenta y dos（42）依此類推",
-        "example_es": "Mi padre tiene cuarenta años.",
-        "example_zh": "我爸爸四十歲。"
+        "meaning": "9；九",
+        "detail": "基數詞，不隨性數變化；nueve 在名詞前直接使用",
+        "example_es": "Tengo nueve lápices en mi mochila.",
+        "example_zh": "我的書包裡有九支鉛筆。"
       },
       {
-        "word": "octubre",
-        "pos": "名詞",
-        "meaning": "十月",
-        "detail": "陽性 el octubre；月份名稱在西班牙語中不大寫；常與 en 連用：en octubre",
-        "example_es": "Mi cumpleaños es en octubre.",
-        "example_zh": "我的生日在十月。"
+        "word": "bonito",
+        "pos": "形容詞",
+        "meaning": "漂亮的；好看的",
+        "detail": "陽性 bonito / bonitos；陰性 bonita / bonitas",
+        "example_es": "Ella tiene un vestido muy bonito.",
+        "example_zh": "她有一件非常漂亮的洋裝。"
       },
       {
-        "word": "van",
-        "pos": "動詞",
-        "meaning": "他們去",
-        "detail": "ir 的第三人稱複數現在式：yo voy / tú vas / él va / nosotros vamos / vosotros vais / ellos van",
-        "example_es": "Mis amigos van al cine esta noche.",
-        "example_zh": "我的朋友們今晚去看電影。"
+        "word": "el fin de semana",
+        "pos": "陽性名詞",
+        "meaning": "週末",
+        "detail": "陽性 el fin de semana / los fines de semana；複數注意 fin → fines",
+        "example_es": "El fin de semana voy al parque con mi familia.",
+        "example_zh": "週末我和家人去公園。"
       },
       {
-        "word": "la médica",
+        "word": "limpio",
+        "pos": "形容詞",
+        "meaning": "乾淨的；清潔的",
+        "detail": "陽性 limpio / limpios；陰性 limpia / limpias",
+        "example_es": "El baño está muy limpio.",
+        "example_zh": "浴室非常乾淨。"
+      },
+      {
+        "word": "el piloto",
+        "pos": "陽性名詞",
+        "meaning": "機師；飛行員",
+        "detail": "陽性 el piloto / los pilotos；陰性也可用 la piloto / las pilotos（同形）",
+        "example_es": "El piloto vuela a París todos los lunes.",
+        "example_zh": "這位機師每週一飛往巴黎。"
+      },
+      {
+        "word": "treinta",
+        "pos": "數詞",
+        "meaning": "30；三十",
+        "detail": "基數詞，不隨性數變化；treinta y uno（31）、treinta y dos（32）以此類推",
+        "example_es": "Mi madre tiene treinta años.",
+        "example_zh": "我媽媽三十歲。"
+      },
+      {
+        "word": "fuerte",
+        "pos": "形容詞",
+        "meaning": "強壯的；大聲的；猛烈的",
+        "detail": "陽性與陰性同形 fuerte / fuertes；用於人指強壯，用於聲音指大聲",
+        "example_es": "Habla muy fuerte en clase.",
+        "example_zh": "他在課堂上說話非常大聲。"
+      },
+      {
+        "word": "ordenado",
+        "pos": "形容詞",
+        "meaning": "整齊的；有條理的",
+        "detail": "陽性 ordenado / ordenados；陰性 ordenada / ordenadas",
+        "example_es": "Mi hermano es muy ordenado y limpia su cuarto cada día.",
+        "example_zh": "我哥哥非常整齊，每天打掃自己的房間。"
+      },
+      {
+        "word": "la profesión",
         "pos": "陰性名詞",
-        "meaning": "醫生（女）",
-        "detail": "陰性 la médica / las médicas；男性醫生為 el médico / los médicos",
-        "example_es": "La médica me dice que debo descansar más.",
-        "example_zh": "女醫生告訴我應該多休息。"
+        "meaning": "職業",
+        "detail": "陰性 la profesión / las profesiones；重音在最後一音節 -ión",
+        "example_es": "¿Cuál es tu profesión?",
+        "example_zh": "你的職業是什麼？"
       }
     ]
   }
