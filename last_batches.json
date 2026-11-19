@@ -85,87 +85,87 @@
     ]
   },
   "evening": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cards": [
       {
-        "word": "el vendedor",
-        "pos": "陽性名詞",
-        "meaning": "業務員；銷售員",
-        "detail": "陽性 el vendedor / los vendedores；陰性 la vendedora / las vendedoras",
-        "example_es": "El vendedor trabaja en una tienda de ropa.",
-        "example_zh": "這位業務員在一家服裝店工作。"
-      },
-      {
-        "word": "nueve",
-        "pos": "數詞",
-        "meaning": "9；九",
-        "detail": "基數詞，不隨性數變化；nueve 在名詞前直接使用",
-        "example_es": "Tengo nueve lápices en mi mochila.",
-        "example_zh": "我的書包裡有九支鉛筆。"
-      },
-      {
-        "word": "bonito",
+        "word": "peligroso",
         "pos": "形容詞",
-        "meaning": "漂亮的；好看的",
-        "detail": "陽性 bonito / bonitos；陰性 bonita / bonitas",
-        "example_es": "Ella tiene un vestido muy bonito.",
-        "example_zh": "她有一件非常漂亮的洋裝。"
+        "meaning": "危險的",
+        "detail": "陽性單數 peligroso / 陰性單數 peligrosa / 陽性複數 peligrosos / 陰性複數 peligrosas",
+        "example_es": "Este camino es muy peligroso.",
+        "example_zh": "這條路非常危險。"
       },
       {
-        "word": "el fin de semana",
-        "pos": "陽性名詞",
-        "meaning": "週末",
-        "detail": "陽性 el fin de semana / los fines de semana；複數注意 fin → fines",
-        "example_es": "El fin de semana voy al parque con mi familia.",
-        "example_zh": "週末我和家人去公園。"
-      },
-      {
-        "word": "limpio",
+        "word": "estrecho",
         "pos": "形容詞",
-        "meaning": "乾淨的；清潔的",
-        "detail": "陽性 limpio / limpios；陰性 limpia / limpias",
-        "example_es": "El baño está muy limpio.",
-        "example_zh": "浴室非常乾淨。"
+        "meaning": "窄的",
+        "detail": "陽性單數 estrecho / 陰性單數 estrecha / 陽性複數 estrechos / 陰性複數 estrechas",
+        "example_es": "La calle es muy estrecha.",
+        "example_zh": "這條街非常窄。"
       },
       {
-        "word": "el piloto",
-        "pos": "陽性名詞",
-        "meaning": "機師；飛行員",
-        "detail": "陽性 el piloto / los pilotos；陰性也可用 la piloto / las pilotos（同形）",
-        "example_es": "El piloto vuela a París todos los lunes.",
-        "example_zh": "這位機師每週一飛往巴黎。"
-      },
-      {
-        "word": "treinta",
-        "pos": "數詞",
-        "meaning": "30；三十",
-        "detail": "基數詞，不隨性數變化；treinta y uno（31）、treinta y dos（32）以此類推",
-        "example_es": "Mi madre tiene treinta años.",
-        "example_zh": "我媽媽三十歲。"
-      },
-      {
-        "word": "fuerte",
+        "word": "mucho",
         "pos": "形容詞",
-        "meaning": "強壯的；大聲的；猛烈的",
-        "detail": "陽性與陰性同形 fuerte / fuertes；用於人指強壯，用於聲音指大聲",
-        "example_es": "Habla muy fuerte en clase.",
-        "example_zh": "他在課堂上說話非常大聲。"
+        "meaning": "很多（的）",
+        "detail": "陽性單數 mucho / 陰性單數 mucha / 陽性複數 muchos / 陰性複數 muchas；修飾名詞時需與名詞的性數一致",
+        "example_es": "Tengo muchos amigos en la escuela.",
+        "example_zh": "我在學校有很多朋友。"
       },
       {
-        "word": "ordenado",
+        "word": "difícil",
         "pos": "形容詞",
-        "meaning": "整齊的；有條理的",
-        "detail": "陽性 ordenado / ordenados；陰性 ordenada / ordenadas",
-        "example_es": "Mi hermano es muy ordenado y limpia su cuarto cada día.",
-        "example_zh": "我哥哥非常整齊，每天打掃自己的房間。"
+        "meaning": "困難的",
+        "detail": "陰陽性同形：difícil（單數）/ difíciles（複數）；注意重音符號在 í",
+        "example_es": "Este examen es muy difícil.",
+        "example_zh": "這個考試非常困難。"
       },
       {
-        "word": "la profesión",
-        "pos": "陰性名詞",
-        "meaning": "職業",
-        "detail": "陰性 la profesión / las profesiones；重音在最後一音節 -ión",
-        "example_es": "¿Cuál es tu profesión?",
-        "example_zh": "你的職業是什麼？"
+        "word": "lento",
+        "pos": "形容詞",
+        "meaning": "慢的",
+        "detail": "陽性單數 lento / 陰性單數 lenta / 陽性複數 lentos / 陰性複數 lentas",
+        "example_es": "El autobús es muy lento hoy.",
+        "example_zh": "公車今天非常慢。"
+      },
+      {
+        "word": "corto",
+        "pos": "形容詞",
+        "meaning": "短的",
+        "detail": "陽性單數 corto / 陰性單數 corta / 陽性複數 cortos / 陰性複數 cortas；可用於描述時間、距離、頭髮等",
+        "example_es": "Ella tiene el pelo corto.",
+        "example_zh": "她留短髮。"
+      },
+      {
+        "word": "mismo",
+        "pos": "形容詞",
+        "meaning": "相同的",
+        "detail": "陽性單數 mismo / 陰性單數 misma / 陽性複數 mismos / 陰性複數 mismas；常用於比較兩件事物相同",
+        "example_es": "Tenemos la misma clase.",
+        "example_zh": "我們上同一堂課。"
+      },
+      {
+        "word": "bueno",
+        "pos": "形容詞",
+        "meaning": "好的",
+        "detail": "陽性單數 bueno（置於名詞前縮短為 buen）/ 陰性單數 buena / 陽性複數 buenos / 陰性複數 buenas",
+        "example_es": "Este restaurante tiene buena comida.",
+        "example_zh": "這家餐廳的食物很好吃。"
+      },
+      {
+        "word": "grande",
+        "pos": "形容詞",
+        "meaning": "大的",
+        "detail": "陰陽性同形：grande（單數）/ grandes（複數）；置於名詞前可縮短為 gran，表示「偉大的」",
+        "example_es": "Vivo en una ciudad grande.",
+        "example_zh": "我住在一個大城市。"
+      },
+      {
+        "word": "llamar",
+        "pos": "動詞",
+        "meaning": "打電話、呼叫",
+        "detail": "變化：llamo（我）/ llamas（你）/ llama（他/她）",
+        "example_es": "Llamo a mi mamá todos los domingos.",
+        "example_zh": "我每個星期天打電話給我媽媽。"
       }
     ]
   }
