@@ -1,86 +1,86 @@
 {
   "morning": {
-    "date": "2026-11-18",
+    "date": "2026-11-19",
     "cards": [
       {
-        "word": "haces",
-        "pos": "動詞",
-        "meaning": "你做（hacer 的第二人稱單數現在式）",
-        "detail": "hacer 現在式變化：hago（我）/ haces（你）/ hace（他／她）/ hacemos（我們）/ hacéis（你們）/ hacen（他們）",
-        "example_es": "¿Qué haces los fines de semana?",
-        "example_zh": "你週末都做什麼？"
+        "word": "el televisor",
+        "pos": "陽性名詞",
+        "meaning": "電視機",
+        "detail": "陽性 el televisor / los televisores",
+        "example_es": "El televisor está en el salón.",
+        "example_zh": "電視機在客廳裡。"
       },
       {
-        "word": "vacío",
+        "word": "barato",
         "pos": "形容詞",
-        "meaning": "空的",
-        "detail": "陽性 vacío / 陰性 vacía；複數 vacíos / vacías",
-        "example_es": "El vaso está vacío.",
-        "example_zh": "杯子是空的。"
+        "meaning": "便宜的",
+        "detail": "陽性 barato / 陰性 barata；複數 baratos / baratas",
+        "example_es": "Este café es muy barato.",
+        "example_zh": "這家咖啡廳很便宜。"
       },
       {
-        "word": "el conductor",
-        "pos": "名詞",
-        "meaning": "司機",
-        "detail": "陽性 el conductor / los conductores；陰性 la conductora / las conductoras",
-        "example_es": "El conductor del autobús es muy simpático.",
-        "example_zh": "公車司機非常親切。"
+        "word": "el farmacéutico",
+        "pos": "陽性名詞",
+        "meaning": "藥師（男）",
+        "detail": "陽性 el farmacéutico / los farmacéuticos",
+        "example_es": "El farmacéutico me da la medicina.",
+        "example_zh": "藥師給我藥。"
       },
       {
-        "word": "el elefante",
-        "pos": "名詞",
-        "meaning": "大象",
-        "detail": "陽性 el elefante / los elefantes；陰性也可用 la elefanta",
-        "example_es": "El elefante es muy grande.",
-        "example_zh": "大象非常巨大。"
-      },
-      {
-        "word": "diecisiete",
-        "pos": "數詞",
-        "meaning": "十七（17）",
-        "detail": "基數詞，不隨性別變化；dieciséis（16）、diecisiete（17）、dieciocho（18）",
-        "example_es": "Tengo diecisiete años.",
-        "example_zh": "我十七歲。"
-      },
-      {
-        "word": "luego",
-        "pos": "副詞",
-        "meaning": "稍後、之後、然後",
-        "detail": "常用於時間順序，也可用於道別語 ¡Hasta luego!（再見）",
-        "example_es": "Primero como y luego salgo.",
-        "example_zh": "我先吃飯，然後出門。"
-      },
-      {
-        "word": "el cepillo",
-        "pos": "名詞",
-        "meaning": "刷子",
-        "detail": "陽性 el cepillo / los cepillos；常見搭配：el cepillo de dientes（牙刷）、el cepillo de pelo（髮刷）",
-        "example_es": "Necesito un cepillo de dientes nuevo.",
-        "example_zh": "我需要一支新牙刷。"
-      },
-      {
-        "word": "delgado",
+        "word": "cerrado",
         "pos": "形容詞",
-        "meaning": "瘦的、纖細的",
-        "detail": "陽性 delgado / 陰性 delgada；複數 delgados / delgadas",
-        "example_es": "Mi hermana es muy delgada.",
-        "example_zh": "我姊姊非常纖細。"
+        "meaning": "關的、關閉的",
+        "detail": "陽性 cerrado / 陰性 cerrada；複數 cerrados / cerradas",
+        "example_es": "La tienda está cerrada hoy.",
+        "example_zh": "這家店今天關著。"
       },
       {
-        "word": "el albañil",
-        "pos": "名詞",
-        "meaning": "泥作工人、砌磚工",
-        "detail": "陽性 el albañil / los albañiles；陰性 la albañil / las albañiles",
-        "example_es": "El albañil construye una pared nueva.",
-        "example_zh": "泥作工人正在砌一道新牆。"
+        "word": "la farmacéutica",
+        "pos": "陰性名詞",
+        "meaning": "藥師（女）",
+        "detail": "陰性 la farmacéutica / las farmacéuticas",
+        "example_es": "La farmacéutica es muy simpática.",
+        "example_zh": "那位女藥師非常親切。"
       },
       {
-        "word": "el pájaro",
-        "pos": "名詞",
-        "meaning": "鳥",
-        "detail": "陽性 el pájaro / los pájaros；注意重音在第一音節 pá-ja-ro",
-        "example_es": "Hay un pájaro azul en el árbol.",
-        "example_zh": "樹上有一隻藍色的鳥。"
+        "word": "pesado",
+        "pos": "形容詞",
+        "meaning": "重的／煩人的",
+        "detail": "陽性 pesado / 陰性 pesada；複數 pesados / pesadas；可指物體「很重」，也可形容人「很煩、很無聊」",
+        "example_es": "Esta maleta es muy pesada.",
+        "example_zh": "這個行李箱非常重。"
+      },
+      {
+        "word": "diferente",
+        "pos": "形容詞",
+        "meaning": "不同的",
+        "detail": "陰陽性同形 diferente；複數 diferentes",
+        "example_es": "Tenemos opiniones diferentes.",
+        "example_zh": "我們有不同的意見。"
+      },
+      {
+        "word": "famoso",
+        "pos": "形容詞",
+        "meaning": "有名的、著名的",
+        "detail": "陽性 famoso / 陰性 famosa；複數 famosos / famosas",
+        "example_es": "Este restaurante es muy famoso.",
+        "example_zh": "這家餐廳非常有名。"
+      },
+      {
+        "word": "pequeño",
+        "pos": "形容詞",
+        "meaning": "小的",
+        "detail": "陽性 pequeño / 陰性 pequeña；複數 pequeños / pequeñas",
+        "example_es": "Mi apartamento es pequeño pero bonito.",
+        "example_zh": "我的公寓很小但很漂亮。"
+      },
+      {
+        "word": "libre",
+        "pos": "形容詞",
+        "meaning": "自由的／空閒的",
+        "detail": "陰陽性同形 libre；複數 libres；指人「有空」時常用 estar libre，指「自由」時也用 ser/estar libre",
+        "example_es": "¿Estás libre esta tarde?",
+        "example_zh": "你今天下午有空嗎？"
       }
     ]
   },
