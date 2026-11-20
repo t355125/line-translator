@@ -13,87 +13,15 @@
     ]
   },
   "evening": {
-    "date": "2026-11-20",
+    "date": "2026-11-21",
     "cards": [
       {
-        "word": "peligroso",
-        "pos": "形容詞",
-        "meaning": "危險的",
-        "detail": "陽性單數 peligroso / 陰性單數 peligrosa / 陽性複數 peligrosos / 陰性複數 peligrosas",
-        "example_es": "Este camino es muy peligroso.",
-        "example_zh": "這條路非常危險。"
-      },
-      {
-        "word": "estrecho",
-        "pos": "形容詞",
-        "meaning": "窄的",
-        "detail": "陽性單數 estrecho / 陰性單數 estrecha / 陽性複數 estrechos / 陰性複數 estrechas",
-        "example_es": "La calle es muy estrecha.",
-        "example_zh": "這條街非常窄。"
-      },
-      {
-        "word": "mucho",
-        "pos": "形容詞",
-        "meaning": "很多（的）",
-        "detail": "陽性單數 mucho / 陰性單數 mucha / 陽性複數 muchos / 陰性複數 muchas；修飾名詞時需與名詞的性數一致",
-        "example_es": "Tengo muchos amigos en la escuela.",
-        "example_zh": "我在學校有很多朋友。"
-      },
-      {
-        "word": "difícil",
-        "pos": "形容詞",
-        "meaning": "困難的",
-        "detail": "陰陽性同形：difícil（單數）/ difíciles（複數）；注意重音符號在 í",
-        "example_es": "Este examen es muy difícil.",
-        "example_zh": "這個考試非常困難。"
-      },
-      {
-        "word": "lento",
-        "pos": "形容詞",
-        "meaning": "慢的",
-        "detail": "陽性單數 lento / 陰性單數 lenta / 陽性複數 lentos / 陰性複數 lentas",
-        "example_es": "El autobús es muy lento hoy.",
-        "example_zh": "公車今天非常慢。"
-      },
-      {
-        "word": "corto",
-        "pos": "形容詞",
-        "meaning": "短的",
-        "detail": "陽性單數 corto / 陰性單數 corta / 陽性複數 cortos / 陰性複數 cortas；可用於描述時間、距離、頭髮等",
-        "example_es": "Ella tiene el pelo corto.",
-        "example_zh": "她留短髮。"
-      },
-      {
-        "word": "mismo",
-        "pos": "形容詞",
-        "meaning": "相同的",
-        "detail": "陽性單數 mismo / 陰性單數 misma / 陽性複數 mismos / 陰性複數 mismas；常用於比較兩件事物相同",
-        "example_es": "Tenemos la misma clase.",
-        "example_zh": "我們上同一堂課。"
-      },
-      {
-        "word": "bueno",
-        "pos": "形容詞",
-        "meaning": "好的",
-        "detail": "陽性單數 bueno（置於名詞前縮短為 buen）/ 陰性單數 buena / 陽性複數 buenos / 陰性複數 buenas",
-        "example_es": "Este restaurante tiene buena comida.",
-        "example_zh": "這家餐廳的食物很好吃。"
-      },
-      {
-        "word": "grande",
-        "pos": "形容詞",
-        "meaning": "大的",
-        "detail": "陰陽性同形：grande（單數）/ grandes（複數）；置於名詞前可縮短為 gran，表示「偉大的」",
-        "example_es": "Vivo en una ciudad grande.",
-        "example_zh": "我住在一個大城市。"
-      },
-      {
-        "word": "llamar",
-        "pos": "動詞",
-        "meaning": "打電話、呼叫",
-        "detail": "變化：llamo（我）/ llamas（你）/ llama（他/她）",
-        "example_es": "Llamo a mi mamá todos los domingos.",
-        "example_zh": "我每個星期天打電話給我媽媽。"
+        "word": "el bolígrafo",
+        "pos": "名詞",
+        "meaning": "原子筆",
+        "detail": "陽性 el bolígrafo / los bolígrafos",
+        "example_es": "¿Tienes un bolígrafo? Quiero escribir.",
+        "example_zh": "你有原子筆嗎？我想寫字。"
       }
     ]
   }
