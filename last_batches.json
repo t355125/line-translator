@@ -1,86 +1,14 @@
 {
   "morning": {
-    "date": "2026-11-19",
+    "date": "2026-11-20",
     "cards": [
       {
-        "word": "el televisor",
-        "pos": "陽性名詞",
-        "meaning": "電視機",
-        "detail": "陽性 el televisor / los televisores",
-        "example_es": "El televisor está en el salón.",
-        "example_zh": "電視機在客廳裡。"
-      },
-      {
-        "word": "barato",
-        "pos": "形容詞",
-        "meaning": "便宜的",
-        "detail": "陽性 barato / 陰性 barata；複數 baratos / baratas",
-        "example_es": "Este café es muy barato.",
-        "example_zh": "這家咖啡廳很便宜。"
-      },
-      {
-        "word": "el farmacéutico",
-        "pos": "陽性名詞",
-        "meaning": "藥師（男）",
-        "detail": "陽性 el farmacéutico / los farmacéuticos",
-        "example_es": "El farmacéutico me da la medicina.",
-        "example_zh": "藥師給我藥。"
-      },
-      {
-        "word": "cerrado",
-        "pos": "形容詞",
-        "meaning": "關的、關閉的",
-        "detail": "陽性 cerrado / 陰性 cerrada；複數 cerrados / cerradas",
-        "example_es": "La tienda está cerrada hoy.",
-        "example_zh": "這家店今天關著。"
-      },
-      {
-        "word": "la farmacéutica",
-        "pos": "陰性名詞",
-        "meaning": "藥師（女）",
-        "detail": "陰性 la farmacéutica / las farmacéuticas",
-        "example_es": "La farmacéutica es muy simpática.",
-        "example_zh": "那位女藥師非常親切。"
-      },
-      {
-        "word": "pesado",
-        "pos": "形容詞",
-        "meaning": "重的／煩人的",
-        "detail": "陽性 pesado / 陰性 pesada；複數 pesados / pesadas；可指物體「很重」，也可形容人「很煩、很無聊」",
-        "example_es": "Esta maleta es muy pesada.",
-        "example_zh": "這個行李箱非常重。"
-      },
-      {
-        "word": "diferente",
-        "pos": "形容詞",
-        "meaning": "不同的",
-        "detail": "陰陽性同形 diferente；複數 diferentes",
-        "example_es": "Tenemos opiniones diferentes.",
-        "example_zh": "我們有不同的意見。"
-      },
-      {
-        "word": "famoso",
-        "pos": "形容詞",
-        "meaning": "有名的、著名的",
-        "detail": "陽性 famoso / 陰性 famosa；複數 famosos / famosas",
-        "example_es": "Este restaurante es muy famoso.",
-        "example_zh": "這家餐廳非常有名。"
-      },
-      {
-        "word": "pequeño",
-        "pos": "形容詞",
-        "meaning": "小的",
-        "detail": "陽性 pequeño / 陰性 pequeña；複數 pequeños / pequeñas",
-        "example_es": "Mi apartamento es pequeño pero bonito.",
-        "example_zh": "我的公寓很小但很漂亮。"
-      },
-      {
-        "word": "libre",
-        "pos": "形容詞",
-        "meaning": "自由的／空閒的",
-        "detail": "陰陽性同形 libre；複數 libres；指人「有空」時常用 estar libre，指「自由」時也用 ser/estar libre",
-        "example_es": "¿Estás libre esta tarde?",
-        "example_zh": "你今天下午有空嗎？"
+        "word": "compartir",
+        "pos": "動詞",
+        "meaning": "分享、共用",
+        "detail": "變化：comparto（我）/ compartes（你）/ comparte（他／她）",
+        "example_es": "Comparto el apartamento con dos amigos.",
+        "example_zh": "我和兩個朋友合租公寓。"
       }
     ]
   },
