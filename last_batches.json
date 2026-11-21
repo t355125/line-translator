@@ -1,16 +1,7 @@
 {
   "morning": {
-    "date": "2026-11-20",
-    "cards": [
-      {
-        "word": "compartir",
-        "pos": "動詞",
-        "meaning": "分享、共用",
-        "detail": "變化：comparto（我）/ compartes（你）/ comparte（他／她）",
-        "example_es": "Comparto el apartamento con dos amigos.",
-        "example_zh": "我和兩個朋友合租公寓。"
-      }
-    ]
+    "date": "2026-11-21",
+    "cards": []
   },
   "evening": {
     "date": "2026-11-21",
