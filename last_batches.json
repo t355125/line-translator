@@ -4,16 +4,7 @@
     "cards": []
   },
   "evening": {
-    "date": "2026-11-21",
-    "cards": [
-      {
-        "word": "el bolígrafo",
-        "pos": "名詞",
-        "meaning": "原子筆",
-        "detail": "陽性 el bolígrafo / los bolígrafos",
-        "example_es": "¿Tienes un bolígrafo? Quiero escribir.",
-        "example_zh": "你有原子筆嗎？我想寫字。"
-      }
-    ]
+    "date": "2026-11-22",
+    "cards": []
   }
 }
